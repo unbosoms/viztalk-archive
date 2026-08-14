@@ -873,8 +873,8 @@ function setView(mode) {{
   try {{ localStorage.setItem("epListView", mode); }} catch (e) {{}}
 }}
 (function() {{
-  let saved = "compact";
-  try {{ saved = localStorage.getItem("epListView") || "compact"; }} catch (e) {{}}
+  let saved = "card";
+  try {{ saved = localStorage.getItem("epListView") || "card"; }} catch (e) {{}}
   setView(saved);
 }})();
 </script>
