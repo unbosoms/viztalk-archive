@@ -976,3 +976,131 @@ a:hover { text-decoration: underline; }
 /* ===== Utility ===== */
 .text-muted { color: var(--text-muted); }
 .mt { margin-top: 16px; }
+
+/* ===== Responsive (Mobile / Tablet) ===== */
+@media (max-width: 768px) {
+  html, body { font-size: 14px; padding-bottom: 100px; }
+
+  .container { padding: 12px; }
+
+  /* Header */
+  .header {
+    padding: 8px 12px;
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+  .header .brand { font-size: 15px; }
+  .header nav { gap: 12px; font-size: 13px; order: 3; width: 100%; }
+  .header nav a { padding: 2px 0; }
+  .header .search { min-width: 0; flex: 1; order: 2; }
+  .header .search input { font-size: 13px; padding: 6px 10px 6px 30px; }
+  .header .search::before { left: 8px; font-size: 12px; }
+
+  /* Hero */
+  .hero { padding: 20px 16px; margin-bottom: 16px; }
+  .hero h1 { font-size: 22px; }
+  .hero .stats { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .hero .stat .num { font-size: 20px; }
+
+  /* Episode cards */
+  .ep-card { grid-template-columns: 60px 1fr auto; padding: 12px; gap: 10px; }
+  .ep-card .ep-num { font-size: 18px; }
+  .ep-card .ep-title { font-size: 14px; }
+  .ep-card .ep-meta { font-size: 12px; }
+  .ep-card .ep-tags { margin-top: 4px; }
+  .ep-card .ep-play-btn { width: 36px; height: 36px; font-size: 15px; }
+
+  /* Episode header on detail */
+  .ep-header { padding: 16px; }
+  .ep-header h1 { font-size: 20px; line-height: 1.4; }
+  .ep-header .ep-meta-row { font-size: 12px; gap: 8px; }
+  .ep-header .speakers { margin: 10px 0; }
+  .ep-header .speaker-chip { font-size: 12px; padding: 2px 8px; }
+
+  /* Section titles */
+  .section-title { font-size: 16px; }
+
+  /* Timeline / chapters */
+  .chapters .chapter {
+    grid-template-columns: 36px 62px 1fr;
+    padding: 10px 12px;
+    gap: 8px;
+  }
+  .chapters .chapter .play-btn { width: 36px; height: 28px; font-size: 14px; }
+  .chapters .chapter .ts { font-size: 11px; }
+  .chapters .chapter .body h3 { font-size: 14px; }
+  .chapters .chapter .body p { font-size: 12px; }
+  .chapters .chapter.chapter-in-tag { grid-template-columns: 36px 1fr; }
+
+  .timeline-chapter { grid-template-columns: 32px 1fr; padding: 10px 12px; }
+  .timeline-chapter .timeline-marker { font-size: 16px; }
+  .timeline-chapter .chapter-title-line { font-size: 13px; }
+  .timeline-tweet { padding-left: 20px; }
+
+  /* Tweets */
+  .tweet-item { padding: 10px 12px; }
+  .tweet-header { gap: 8px; margin-bottom: 6px; }
+  .tweet-avatar-img, .avatar-wrap.avatar-36 { width: 32px; height: 32px; }
+  .tweet-name { font-size: 13px; }
+  .tweet-metaline { font-size: 11px; }
+  .tweet-audio-time { font-size: 11px; padding: 2px 8px; }
+  .tweet-text { font-size: 13.5px; padding-left: 40px; }
+  .tweet-footer { padding-left: 40px; font-size: 11px; }
+
+  /* Tabs */
+  .tabs { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+  .tab-btn { padding: 10px 12px; font-size: 13px; }
+
+  /* Episodes list controls */
+  .ep-list-controls { flex-direction: column; align-items: stretch; padding: 10px 12px; }
+  .ep-list-controls .year-nav { justify-content: flex-start; }
+  .view-toggle { margin-left: 0; }
+
+  /* Year header */
+  .year-header { padding: 6px 8px; font-size: 16px; }
+
+  /* Filter bar */
+  .filter-bar { padding: 10px 12px; font-size: 12px; }
+
+  /* Speaker cards */
+  .ep-card.speaker-card { grid-template-columns: 64px 1fr auto; gap: 10px; }
+  .avatar-wrap.avatar-52 { width: 56px; height: 56px; }
+
+  .speaker-hero { flex-direction: row; gap: 12px; align-items: center; padding: 16px !important; }
+  .avatar-wrap.avatar-96 { width: 56px; height: 56px; }
+  .speaker-hero-info h1 { font-size: 18px; }
+
+  /* Tag cloud */
+  .tag-cloud { line-height: 2; }
+  .tag-cloud .tag.big { font-size: 12px; padding: 3px 10px; }
+  .tag { font-size: 11px; padding: 2px 8px; }
+
+  /* Transcript full text */
+  .transcript-content { max-height: 400px; font-size: 12.5px; }
+  .transcript-full { padding: 10px 12px; }
+
+  /* Player bar */
+  .player { padding: 8px 10px; gap: 8px; flex-wrap: wrap; }
+  .player .now-playing { min-width: 0; max-width: 40%; }
+  .player .now-playing .title { font-size: 12px; }
+  .player .now-playing .sub { font-size: 10px; }
+  .player .controls button { width: 30px; height: 30px; font-size: 13px; }
+  .player .controls button.skip { padding: 0 6px; font-size: 10px; }
+  .player .seek { flex: 1 1 100%; order: 3; font-size: 10px; }
+  .player .speed { padding: 3px 5px; font-size: 10px; }
+
+  /* Search page */
+  #search-input { font-size: 14px; padding: 10px 12px; }
+  .search-tabs button { font-size: 11px; padding: 4px 8px; }
+  .search-result-item { padding: 10px 12px; }
+  .sri-title { font-size: 13px; }
+  .sri-body { font-size: 12px; }
+}
+
+/* さらに小さい画面 (iPhone SE等) */
+@media (max-width: 380px) {
+  .hero .stats { grid-template-columns: repeat(2, 1fr); }
+  .ep-card .ep-num { font-size: 16px; }
+  .header .brand { font-size: 14px; }
+  .header nav { gap: 8px; }
+}
