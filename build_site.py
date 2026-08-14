@@ -142,8 +142,12 @@ def load_episodes():
                     transcript_segments = None
 
             audio_path = AUDIO_DIR / f"{fname_stem}.m4a" if fname_stem else None
-            audio_exists = audio_path and audio_path.exists()
-            audio_filename = f"{fname_stem}.m4a" if audio_exists else None
+            # AUDIO_BASE_URL 設定時 (本番) は R2にアップロード済みと信頼し、ローカル存在確認スキップ
+            # 未設定時 (ローカル開発) は実ファイルの有無をチェック
+            if fname_stem and (AUDIO_BASE_URL or (audio_path and audio_path.exists())):
+                audio_filename = f"{fname_stem}.m4a"
+            else:
+                audio_filename = None
 
             tweets_data = load_tweets(ep_num, date)
 
