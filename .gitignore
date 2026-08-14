@@ -1,0 +1,61 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 音源 (R2に別途アップロード、Gitには含めない)
+audio/*.m4a
+audio/*.part
+audio/*.faststart.m4a
+audio/_download.log
+audio/_stdout.log
+# ルート直下の試作 m4a (古い)
+/*.m4a
+
+# Claude Code のセッション設定
+.claude/
+
+# 文字起こし: .clean.json と .chapters.json のみコミット。
+# 生の .json はハルシネーション残りなので除外。
+transcripts/*.json
+!transcripts/*.clean.json
+!transcripts/*.chapters.json
+transcripts/_*.log
+
+# Playwright profile (X 認証情報が入る、絶対に公開しない)
+.x_scrape_profile/
+
+# Pagefind バイナリ (Linuxで再インストールされる)
+bin/pagefind_bin/
+bin/pagefind
+bin/x-tweet-bookmarklet.txt
+
+# 生成物 (CI/CDでビルドするので Git には含めない)
+mockup/index.html
+mockup/episodes.html
+mockup/tags.html
+mockup/speakers.html
+mockup/search.html
+mockup/search-index.json
+mockup/collect-tweets.html
+mockup/episode/
+mockup/tag/
+mockup/speaker/
+mockup/pagefind/
+
+# ダウンロード関連の一時ファイル
+tweets_old/
+
+# macOS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# その他一時
+*.tmp
+_tmp/

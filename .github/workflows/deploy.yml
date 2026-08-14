@@ -1,0 +1,48 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "space_list.csv"
+      - "transcripts/**"
+      - "tweets/**"
+      - "audio/_durations.json"
+      - "build_site.py"
+      - "mockup/style.css"
+      - ".github/workflows/deploy.yml"
+  workflow_dispatch:  # 手動トリガー可
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Pagefind (extended, for CJK)
+        run: |
+          VERSION="v1.4.0"
+          TARGET="x86_64-unknown-linux-musl"
+          curl -fsSL "https://github.com/CloudCannon/pagefind/releases/download/${VERSION}/pagefind_extended-${VERSION}-${TARGET}.tar.gz" | tar -xz
+          chmod +x pagefind_extended
+          sudo mv pagefind_extended /usr/local/bin/pagefind
+          pagefind --version
+
+      - name: Build site
+        env:
+          AUDIO_BASE_URL: ${{ secrets.AUDIO_BASE_URL }}
+        run: |
+          python3 build_site.py
+          pagefind --site mockup
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy mockup --project-name=viztalk-archive --branch=main

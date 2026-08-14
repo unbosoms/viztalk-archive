@@ -1,0 +1,6 @@
+# build_site.py は Python標準ライブラリのみで動作します。
+# ここは CI / ローカル開発の追加パッケージ用 (現状は空、拡張時に追記)。
+
+# 参考: ローカル開発用の追加パッケージ (別途 .venv に入れている):
+#   mlx-whisper    # 文字起こし (Apple Silicon Mac のみ)
+#   playwright     # X tweet 自動収集 (未使用ならスキップ)
