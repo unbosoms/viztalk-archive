@@ -1,0 +1,362 @@
+{
+  "episode": 144,
+  "date": "2026-08-06",
+  "collected_at": "2026-08-14T02:05:40.352Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 22,
+  "tweets": [
+    {
+      "id": "2085357338375143672",
+      "url": "https://x.com/YusukeNakanish3/status/2085357338375143672",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T13:28:28.000Z",
+      "text": "#Vizトーク 今日は23時ごろからやります！\n\n@yoshi_datavizjp\n さんとTableau MCPなど語る予定です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2085368753156743197",
+      "url": "https://x.com/YusukeNakanish3/status/2085368753156743197",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:13:49.000Z",
+      "text": "#Vizトーク こちら参加します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085369074809499814",
+      "url": "https://x.com/YusukeNakanish3/status/2085369074809499814",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:15:06.000Z",
+      "text": "#Vizトーク Osaka Dreamin'の資料も上がってます。参加できなかった方も見れますのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2085369739690602976",
+      "url": "https://x.com/YusukeNakanish3/status/2085369739690602976",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:17:44.000Z",
+      "text": "#Vizトーク 「データに聞く」のUI/UXはいいと思ってます。\n何かの形で復活しないかな。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2085369821991170202",
+      "url": "https://x.com/yoshi_datavizjp/status/2085369821991170202",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:18:04.000Z",
+      "text": "https://\ntechplay.jp/event/998636\n9月2日に自分も中西さんも参加します\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2085370884819460546",
+      "url": "https://x.com/YusukeNakanish3/status/2085370884819460546",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:22:17.000Z",
+      "text": "#Vizトーク Tableau Cloudの容量ベース価格モデルの制限値。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2085373713403543689",
+      "url": "https://x.com/yoshi_datavizjp/status/2085373713403543689",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:33:32.000Z",
+      "text": "https://\ntableau.com/ja-jp/products\n/tableau-agent\n…\nTableau Agent面白そうなものの向き合い方と強みの解釈に悩む問題\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085373972305363288",
+      "url": "https://x.com/YusukeNakanish3/status/2085373972305363288",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:34:34.000Z",
+      "text": "#Vizトーク Tableau Cloudは最新機能をすぐ使えるのがいいですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085375244123164739",
+      "url": "https://x.com/yoshi_datavizjp/status/2085375244123164739",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:39:37.000Z",
+      "text": "https://\ndocs.slack.dev/ai/slackbot-mc\np-client/\n…\nSlackbotにMCPサーバー繋げます系の話も、ワークフローをSlackで完結させるWorkOS系の話で好きです\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2085377032607977942",
+      "url": "https://x.com/YusukeNakanish3/status/2085377032607977942",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T14:46:43.000Z",
+      "text": "#Vizトーク SnowflakeやDatabricksのほうがビジネスユーザがAI使う環境としてはセキュアかつ使いやすい。面白い。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085379103700762627",
+      "url": "https://x.com/yoshi_datavizjp/status/2085379103700762627",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:54:57.000Z",
+      "text": "https://\nanond.hatelabo.jp/20260803162719\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2085379453589614777",
+      "url": "https://x.com/yoshi_datavizjp/status/2085379453589614777",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:56:20.000Z",
+      "text": "https://\nyarakawa.com/single-post/jo\ny-in-ai-agents-2026-06\n…\n個人レベルでのAI活用の合理性はあるのか問題\n（自分は合理性を100％諦めている←）\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2085382534456901974",
+      "url": "https://x.com/YusukeNakanish3/status/2085382534456901974",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:08:35.000Z",
+      "text": "#Vizトーク BI Is Deadの話。\n個人や小規模のアドホックな分析はもうAIで十分ですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085383060577738824",
+      "url": "https://x.com/yoshi_datavizjp/status/2085383060577738824",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T15:10:40.000Z",
+      "text": "ダッシュボードの価値考察\n・浅いところでのUI操作でのクイック分析\n・正確な集計値と指標の提供\n深掘りはアドホック分析はAI側に流すとして、ダッシュボード操作とAI対話的分析のワークフローを統合できたら、結構面白い体験になるんじゃないか説\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2085383558009622808",
+      "url": "https://x.com/yoshi_datavizjp/status/2085383558009622808",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T15:12:39.000Z",
+      "text": "最近のTableau MCP Appsの話は、このダッシュボード価値とAIインターフェースでの対話的分析の統合みたいな意図がありました\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085384414348140721",
+      "url": "https://x.com/YusukeNakanish3/status/2085384414348140721",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:16:03.000Z",
+      "text": "#Vizトーク 最近は作成を補佐するほうにいってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2085385561016303874",
+      "url": "https://x.com/yoshi_datavizjp/status/2085385561016303874",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T15:20:36.000Z",
+      "text": "これからのBI/Tableauの価値は、Task起点としてのダッシュボートとかPulseと、それとその先の深掘り分析を支えるデータ整備とかセマンティック/コンテキスト整備になるのでは考\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2085386630375039339",
+      "url": "https://x.com/yoshi_datavizjp/status/2085386630375039339",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T15:24:51.000Z",
+      "text": "https://\namazon.co.jp/dp/B0H7FLMYNY\n思いを馳せるべき領域が増えましたよねという話で思い出した書籍\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2085386689305027062",
+      "url": "https://x.com/YusukeNakanish3/status/2085386689305027062",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:25:05.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2085387131250454635",
+      "url": "https://x.com/YusukeNakanish3/status/2085387131250454635",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:26:51.000Z",
+      "text": "#Vizトーク Tableau MCP、より気軽に試せるようになりました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2085387759687221668",
+      "url": "https://x.com/YusukeNakanish3/status/2085387759687221668",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:29:21.000Z",
+      "text": "#Vizトーク #オープンデータスゴイ 募集中です！\n改善されたオープンデータをぜひ使ってみてください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2085388505321201886",
+      "url": "https://x.com/YusukeNakanish3/status/2085388505321201886",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-08-06T15:32:18.000Z",
+      "text": "#Vizトーク #VizSpace も募集中です。\n応募期限：2026/8/11(火) 23:59",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 12
+      }
+    }
+  ]
+}

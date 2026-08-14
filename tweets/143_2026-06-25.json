@@ -1,0 +1,522 @@
+{
+  "episode": 143,
+  "date": "2026-06-25",
+  "collected_at": "2026-08-14T02:06:34.445Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 32,
+  "tweets": [
+    {
+      "id": "2070058298448212011",
+      "url": "https://x.com/YusukeNakanish3/status/2070058298448212011",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T08:15:32.000Z",
+      "text": "#Vizトーク 今日は\n22:30ごろからやります！ \n@_Chasoso\n\n さん \n@yoshi_datavizjp\n さんとTableau MCP中心に語る予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2070073904799031747",
+      "url": "https://x.com/yoshi_datavizjp/status/2070073904799031747",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T09:17:33.000Z",
+      "text": "https://\ncyberagent.connpass.com/event/393631/\n本日はこちらのイベント参加→ #Vizトーク でTableau MCPを語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2070139605140341115",
+      "url": "https://x.com/YusukeNakanish3/status/2070139605140341115",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T13:38:37.000Z",
+      "text": "#Vizトーク ChasosoさんのTableau MCP記事はこちら。\nこっちのほうが詳細に載ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070140237435830272",
+      "url": "https://x.com/YusukeNakanish3/status/2070140237435830272",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T13:41:08.000Z",
+      "text": "#Vizトーク 知ってるようで知らないVizQL。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2070140276170236031",
+      "url": "https://x.com/_Chasoso/status/2070140276170236031",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T13:41:17.000Z",
+      "text": "#Vizトーク\nVizQLとは？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2070140597198098939",
+      "url": "https://x.com/yoshi_datavizjp/status/2070140597198098939",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T13:42:34.000Z",
+      "text": "https://\nnote.com/_chasoso/n/n6c\n0828bb582b\n… \n資料の前半が、そもそもAgentやMCPの価値の入門資料としてとても良いなぁと\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2070141129102909656",
+      "url": "https://x.com/yoshi_datavizjp/status/2070141129102909656",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T13:44:41.000Z",
+      "text": "「MCP」ではなく「MCPプリミティブ」の理解の方が大事なんじゃないか説\n\nhttps://\nqiita.com/ekity1002/item\ns/db1403f6b43be3cf8147#mcp%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%97%E3%83%AA%E3%83%9F%E3%83%86%E3%82%A3%E3%83%96primitive\n…\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070142443690062025",
+      "url": "https://x.com/yoshi_datavizjp/status/2070142443690062025",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T13:49:54.000Z",
+      "text": "Extensions x 複数MCPのユースケース\n\nhttps://\nqiita.com/HideakiYamamot\no-Chasoso/items/df8f323846692b1f658b#3%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE\n…\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2070143380039057620",
+      "url": "https://x.com/yoshi_datavizjp/status/2070143380039057620",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T13:53:37.000Z",
+      "text": "「5. なぜTableauダッシュボード拡張機能にしたのか」\n\nhttps://\nqiita.com/HideakiYamamot\no-Chasoso/items/df8f323846692b1f658b#3%E4%BD%9C%E6%88%90%E3%81%97%E3%81%9F%E3%82%82%E3%81%AE\n…\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2070146768197894510",
+      "url": "https://x.com/YusukeNakanish3/status/2070146768197894510",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:07:05.000Z",
+      "text": "#Vizトーク Tableau Serverのパーミッション管理はよりややこしく。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2070147296105517489",
+      "url": "https://x.com/yoshi_datavizjp/status/2070147296105517489",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T14:09:11.000Z",
+      "text": "本当にこの話は、気になる方はぜひTableauの中の方に聞いてみて頂きたいです。\n\nhttps://\nyarakawa.com/single-post/ta\nbleau-mcp-rollout-concerns\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 15
+      }
+    },
+    {
+      "id": "2070148344610222324",
+      "url": "https://x.com/yoshi_datavizjp/status/2070148344610222324",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T14:13:21.000Z",
+      "text": "Tableau MCPにDelete系のツールが増えました\n\nhttps://\ntableau.github.io/tableau-mcp/do\ncs/tools/workbooks/delete-workbook\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2070148623980253532",
+      "url": "https://x.com/_Chasoso/status/2070148623980253532",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:14:28.000Z",
+      "text": "#Vizトーク\nAdmin-onlyですね\n\nhttps://\ntableau.github.io/tableau-mcp/do\ncs/intro\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2070149130052391250",
+      "url": "https://x.com/_Chasoso/status/2070149130052391250",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:16:28.000Z",
+      "text": "#Vizトーク\n果たして強制力はちゃんとあるのだろうか…\n\nhttps://\ntableau.github.io/tableau-mcp/do\ncs/tools/data-qna/delete-datasource\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070151688988786724",
+      "url": "https://x.com/YusukeNakanish3/status/2070151688988786724",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:26:38.000Z",
+      "text": "#Vizトーク 北陸Tableauユーザ会での資料をアップロードしました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2070152640131154096",
+      "url": "https://x.com/YusukeNakanish3/status/2070152640131154096",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:30:25.000Z",
+      "text": "#Vizトーク \nたぶん世界初。Tableau/Salesforce/CRM Analyticsの連携機能15個一挙紹介！｜maes_data(マエス) \n@maes_data",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 19
+      }
+    },
+    {
+      "id": "2070152654362448209",
+      "url": "https://x.com/yoshi_datavizjp/status/2070152654362448209",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T14:30:29.000Z",
+      "text": "TableauダッシュボードからSalesforceフローを使えるようにしようという、ダッシュボードをある種の業務OSっぽくやろうとしていた系譜の話\n\nhttps://\nhelp.tableau.com/current/pro/de\nsktop/ja-jp/external_actions.htm\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2070153106990698903",
+      "url": "https://x.com/_Chasoso/status/2070153106990698903",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:32:16.000Z",
+      "text": "#Vizトーク\n完全オフラインの拡張機能ユーザー会は面白そうですね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2070153760459137355",
+      "url": "https://x.com/YusukeNakanish3/status/2070153760459137355",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:34:52.000Z",
+      "text": "#Vizトーク 夏頃までにやりましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070155489061773671",
+      "url": "https://x.com/YusukeNakanish3/status/2070155489061773671",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:41:44.000Z",
+      "text": "#Vizトーク\nWorkout Wednesdayトレリスチャート過去問集付きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2070156737597014344",
+      "url": "https://x.com/_Chasoso/status/2070156737597014344",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:46:42.000Z",
+      "text": "#Vizトーク\nそういえば #HokuTUG のブログで紹介できていませんでしたが、Tableau MCPデモで使ったデータソース、詳細にめちゃくちゃ仕込みがあります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2070157066292105287",
+      "url": "https://x.com/YusukeNakanish3/status/2070157066292105287",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:48:00.000Z",
+      "text": "#Vizトーク アスペクト比で印象が違う。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2070157230457102352",
+      "url": "https://x.com/fujitakuya/status/2070157230457102352",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2026-06-25T14:48:40.000Z",
+      "text": "#Vizトーク \n緻密な角度、45度\n\n正三角形が美しいのかな、、",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2070157509386801332",
+      "url": "https://x.com/YusukeNakanish3/status/2070157509386801332",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T14:49:46.000Z",
+      "text": "#Vizトーク 元記事はこちら。\nAspect Ratio and Banking to 45 Degrees",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070157647618384089",
+      "url": "https://x.com/yoshi_datavizjp/status/2070157647618384089",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-06-25T14:50:19.000Z",
+      "text": "この辺りの情報を省エネかつAgenticに入れたいので、さっさとこのAgentを実験して詰めたいところ（最近はブログばかり／今週はWOW問題作成）\n\nhttps://\ngithub.com/YoshitakaAraka\nwa/tableau-datasource-steward\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2070157911784144928",
+      "url": "https://x.com/_Chasoso/status/2070157911784144928",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:51:22.000Z",
+      "text": "#Vizトーク\n4,000文字も使える！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070158503772360894",
+      "url": "https://x.com/_Chasoso/status/2070158503772360894",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-06-25T14:53:43.000Z",
+      "text": "#Vizトーク\nフローだとココに書けます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070159188408647808",
+      "url": "https://x.com/hskfwy/status/2070159188408647808",
+      "author_name": "葉っぱの葉(Yoh)",
+      "author_handle": "hskfwy",
+      "posted_at": "2026-06-25T14:56:26.000Z",
+      "text": "去年のJTUG総会でテラスカイさんがTableauのボタンからフロー起動のデモ作ってた記憶ある\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2070160830830957026",
+      "url": "https://x.com/fujitakuya/status/2070160830830957026",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2026-06-25T15:02:58.000Z",
+      "text": "#Vizトーク\nAutoknowledgegraph は、初見 Qlik の連想技術やObsidianを思い浮かべてしまった...",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2070161322873156071",
+      "url": "https://x.com/YusukeNakanish3/status/2070161322873156071",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T15:04:55.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2070161715732598895",
+      "url": "https://x.com/YusukeNakanish3/status/2070161715732598895",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T15:06:29.000Z",
+      "text": "#Vizトーク\n[ダッシュボードの時代は終わるのか？ — Tableau 本社開発責任者が語る最新AIロードマップ](\nhttps://\nsalesforce.com/jp/events/webi\nnars/tableau-roadmap/\n…)",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 18
+      }
+    },
+    {
+      "id": "2070162352105001154",
+      "url": "https://x.com/YusukeNakanish3/status/2070162352105001154",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-06-25T15:09:01.000Z",
+      "text": "#Vizトーク Tableau Ambassdaorの募集は日本時間の7/17 16時〆切です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 13
+      }
+    }
+  ]
+}
