@@ -1148,6 +1148,7 @@ def build_tag_detail(tag, chapters_list, tag_episodes):
         js_title = html.escape(f"第{ep['ep']}回: {ch.get('title','')}", quote=True)
         js_sub = html.escape(f"{ep['date']} ({start})", quote=True)
         ep_url = f"../episode/{ep_slug(ep)}.html"
+        ep_url_at_chapter = f"{ep_url}#tl-ch-{ts_to_sec(start)}"
         other_tags = "".join(
             f'<a class="tag" href="{slug_tag(t)}.html">{html.escape(t)}</a>'
             for t in ch.get("tags", []) or [] if t != tag
@@ -1160,7 +1161,7 @@ def build_tag_detail(tag, chapters_list, tag_episodes):
           <span class="ep-badge"><a href="{ep_url}" onclick="event.stopPropagation();">第{ep["ep"]}回</a></span>
           <span class="date-badge">{ep["date"]}</span>
           <span class="ts-badge">@ {start}</span>
-          <a href="{ep_url}" class="to-ep-link" onclick="event.stopPropagation();">回詳細 →</a>
+          <a href="{ep_url_at_chapter}" class="to-ep-link" onclick="event.stopPropagation();">回詳細 →</a>
         </div>
         <h3>{title}</h3>
         <p>{summary}</p>
