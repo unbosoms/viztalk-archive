@@ -1716,7 +1716,6 @@ def build_search_page():
     <select id="search-sort" onchange="onSortChange(this.value)">
       <option value="date-desc">新しい順</option>
       <option value="date-asc">古い順</option>
-      <option value="likes-desc">いいね順 (ツイートのみ)</option>
     </select>
   </div>
 
@@ -1731,9 +1730,7 @@ let SORT = "date-desc";  // date-desc | date-asc | likes-desc
 
 function sortResults(items, kind) {
   const arr = items.slice();
-  if (SORT === "likes-desc" && kind === "tweet") {
-    arr.sort((a, b) => (b.likes || 0) - (a.likes || 0));
-  } else if (SORT === "date-desc") {
+  if (SORT === "date-desc") {
     // ツイートは posted_at で厳密に、chapter/episode は date で
     if (kind === "tweet") {
       arr.sort((a, b) => (b.posted_at || "").localeCompare(a.posted_at || ""));
