@@ -33,6 +33,8 @@ bin/pagefind
 bin/x-tweet-bookmarklet.txt
 
 # 生成物 (CI/CDでビルドするので Git には含めない)
+# mockup 生成物は除外するが assets/ (logo画像等) は含める
+!mockup/assets/
 mockup/index.html
 mockup/episodes.html
 mockup/tags.html

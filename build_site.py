@@ -483,7 +483,10 @@ LAYOUT = """<!doctype html>
 </head><body>
 
 <header class="header">
-  <a href="{home}" class="brand">🎙 Vizトーク Archive</a>
+  <a href="{home}" class="brand">
+    <img src="{logo_url}" alt="Vizトーク">
+    <span>Vizトーク Archive</span>
+  </a>
   <nav>
     <a href="{episodes_link}"{nav_ep_class}>トーク一覧</a>
     <a href="{tags_link}"{nav_tag_class}>トピック</a>
@@ -706,6 +709,7 @@ def render_layout(*, title, body, level=0, active_nav=""):
         title=html.escape(title),
         css=prefix + "style.css",
         home=prefix + "index.html",
+        logo_url=prefix + "assets/logo.png",
         episodes_link=prefix + "episodes.html",
         tags_link=prefix + "tags.html",
         speakers_link=prefix + "speakers.html",
@@ -806,9 +810,16 @@ def build_index(episodes, tag_stats, speaker_stats):
     total_h = sum(1.5 for ep in episodes if ep["recording"])  # rough
     recent = [ep for ep in reversed(episodes) if ep["ep"]][:5]
     body = f'''
-  <div class="hero">
-    <h1>Vizトーク アーカイブ</h1>
-    <p class="text-muted">Xで週1開催されているデータ活用トーク番組。全放送を検索・チャプター単位で再生できます。</p>
+  <div class="hero hero-branded">
+    <div class="hero-content">
+      <img src="assets/logo.png" alt="Vizトーク" class="hero-logo">
+      <div>
+        <h1>Vizトーク アーカイブ</h1>
+        <p>X (旧Twitter) のスペースで毎週木曜 22:30 頃から開催されている、
+          Tableauやデータ可視化について語り合うトーク番組の非公式アーカイブ。</p>
+        <p class="text-muted" style="font-size:13px;">全放送を検索・チャプター単位で再生できます。</p>
+      </div>
+    </div>
     <div class="stats">
       <div class="stat"><div class="num">{len(episodes)}</div><div class="label">回</div></div>
       <div class="stat"><div class="num">{int(total_h)}h+</div><div class="label">総時間(推定)</div></div>

@@ -1,16 +1,19 @@
 /* ===== Reset & base ===== */
 * { box-sizing: border-box; margin: 0; padding: 0; }
 :root {
-  --bg: #fafbfc;
+  /* Vizトーク チラシから抽出したカラーパレット */
+  --bg: #faf3e7;              /* 温かいクリーム背景 */
   --surface: #ffffff;
-  --border: #e4e7eb;
-  --text: #1a1d21;
-  --text-muted: #64707c;
-  --accent: #2563eb;
-  --accent-hover: #1d4ed8;
-  --tag-bg: #eef2ff;
-  --tag-text: #3730a3;
-  --player-bg: #1a1d21;
+  --border: #e5dcc9;          /* 温かいボーダー */
+  --text: #2c2c2c;
+  --text-muted: #8a7f6f;      /* 温かいミュート */
+  --accent: #3b8a99;          /* ロゴのティール色 (アクセシビリティ配慮で少し濃いめ) */
+  --accent-hover: #2c6b7a;    /* 濃いティール */
+  --accent2: #e8823b;         /* ロゴの棒グラフオレンジ */
+  --accent2-hover: #c66822;
+  --tag-bg: #f9e5dc;          /* ソフトピーチ */
+  --tag-text: #c0552b;        /* 濃いオレンジ */
+  --player-bg: #2c3e50;       /* 深いブルーグレー (ティールと調和) */
   --player-text: #ffffff;
 }
 html, body {
@@ -40,6 +43,15 @@ a:hover { text-decoration: underline; }
   font-weight: 700;
   font-size: 18px;
   color: var(--text);
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.header .brand img {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 .header .brand:hover { text-decoration: none; }
 .header nav { display: flex; gap: 20px; font-size: 14px; }
@@ -1041,13 +1053,39 @@ a:hover { text-decoration: underline; }
 
 /* ===== Statistics / hero ===== */
 .hero {
-  background: linear-gradient(135deg, #eef2ff, #ffffff);
+  background: linear-gradient(135deg, #fdf7ec, #ffffff);
   border: 1px solid var(--border);
   border-radius: 12px;
   padding: 32px;
   margin-bottom: 24px;
 }
 .hero h1 { font-size: 28px; margin-bottom: 8px; }
+
+/* Home page: hero with branded logo & description */
+.hero-branded { padding: 28px 32px; }
+.hero-branded .hero-content {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+  margin-bottom: 16px;
+}
+.hero-branded .hero-logo {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  flex-shrink: 0;
+  border: 3px solid #ffffff;
+  box-shadow: 0 2px 8px rgba(0,0,0,.1);
+}
+.hero-branded h1 { margin-bottom: 6px; color: var(--text); font-size: 26px; }
+.hero-branded p { margin: 4px 0; line-height: 1.6; }
+
+@media (max-width: 768px) {
+  .hero-branded { padding: 20px 16px; }
+  .hero-branded .hero-content { flex-direction: column; text-align: center; gap: 12px; }
+  .hero-branded .hero-logo { width: 72px; height: 72px; }
+  .hero-branded h1 { font-size: 20px; }
+}
 .hero .stats {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
