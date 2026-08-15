@@ -1,0 +1,378 @@
+{
+  "episode": 104,
+  "date": "2025-05-22",
+  "collected_at": "2026-08-15T07:18:39.870Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 23,
+  "tweets": [
+    {
+      "id": "1925478632899903705",
+      "url": "https://x.com/YusukeNakanish3/status/1925478632899903705",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T09:07:34.000Z",
+      "text": "#Vizトーク 本日も2230ごろからやります！\nWOWや来週のdatafam Tokyoの話などする予定です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1925552015939391499",
+      "url": "https://x.com/YusukeNakanish3/status/1925552015939391499",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T13:59:10.000Z",
+      "text": "#Vizトーク 星の出し方はTCのこちらのTips動画で紹介されてます。\n\nhttps://\nsalesforce.com/plus/experienc\ne/tableau_conference_2025/series/learning_at_tableau_conference_2025/episode/episode-s1e8\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1925552087913685398",
+      "url": "https://x.com/tesshin_tableau/status/1925552087913685398",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-05-22T13:59:27.000Z",
+      "text": "wow2025 w19の★出すやつの類題を過去作ってました\nこれはCASEだと大変なやつです\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1925552613610987821",
+      "url": "https://x.com/Dandee_House/status/1925552613610987821",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-05-22T14:01:32.000Z",
+      "text": "#vizトーク\nいろんなやり方がありそうですね。MIDでもいけそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1925553261349879903",
+      "url": "https://x.com/Dandee_House/status/1925553261349879903",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-05-22T14:04:07.000Z",
+      "text": "#vizトーク\nTips動画、最近Youtubeにもあがりました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1925554304158769393",
+      "url": "https://x.com/YusukeNakanish3/status/1925554304158769393",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T14:08:15.000Z",
+      "text": "#Vizトーク\nMOM2019ｗ17、懐かしい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1925554693025272177",
+      "url": "https://x.com/Dandee_House/status/1925554693025272177",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-05-22T14:09:48.000Z",
+      "text": "#vizトーク\nポップコーンの評価（５点満点）を星にして表現。\n（当時のお弟子さんのVizを紹介）\nこういうので使うとわかりやすいですよね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1925554980096028914",
+      "url": "https://x.com/YusukeNakanish3/status/1925554980096028914",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T14:10:56.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1925557447433003375",
+      "url": "https://x.com/YusukeNakanish3/status/1925557447433003375",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T14:20:45.000Z",
+      "text": "#Vizトーク 機能改善投票(Ideas)はSalesforceのほうに移行しているのでご注意ください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1925561504138764644",
+      "url": "https://x.com/Dandee_House/status/1925561504138764644",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-05-22T14:36:52.000Z",
+      "text": "#vizトーク\n最初で1時間つかっちゃいましたが次はWeek20のはなし。\n\n@yoshi_datavizjp\n さんからのマルチファクトリレーションシップの出題です。\n\nhttps://\nworkout-wednesday.com/2025w20tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1925561836759654689",
+      "url": "https://x.com/tesshin_tableau/status/1925561836759654689",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-05-22T14:38:11.000Z",
+      "text": "#vizトーク\nbookstoreデータホント知りませんでした\nリレーションが出た時のデータなんですね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1925562582947307886",
+      "url": "https://x.com/YusukeNakanish3/status/1925562582947307886",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T14:41:09.000Z",
+      "text": "#Vizトーク マルチファクトリレーションシップって何？という方はこちらもどうぞ。\nTableau Conference 2024で発表されたデータソース回りの進化３選｜たくまん \nhttps://\nzenn.dev/churadata/arti\ncles/70cabec35abea6\n… #zenn",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1925562994609762332",
+      "url": "https://x.com/tesshin_tableau/status/1925562994609762332",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-05-22T14:42:47.000Z",
+      "text": "#vizトーク\nこの記事見ると、Composable Data Sources…となってしまう自分がいます(2025.2の新機能リストにもなかった",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1925565893582672217",
+      "url": "https://x.com/YusukeNakanish3/status/1925565893582672217",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T14:54:18.000Z",
+      "text": "#Vizトーク\n2025.2のFlow Ownership Changes、待望の機能。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1925567909478404429",
+      "url": "https://x.com/YusukeNakanish3/status/1925567909478404429",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T15:02:19.000Z",
+      "text": "#Vizトーク\nリリースページはこちら。\n\nhttps://\ntableau.com/products/comin\ng-soon#item-104522\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1925568666797744129",
+      "url": "https://x.com/Dandee_House/status/1925568666797744129",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-05-22T15:05:20.000Z",
+      "text": "#vizトーク\n\n@YusukeNakanish3\n からのWeek21。\n#1シート教 。。。\n\nhttps://\nworkout-wednesday.com/2025w21tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1925570575717867697",
+      "url": "https://x.com/YusukeNakanish3/status/1925570575717867697",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T15:12:55.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "1925570984561738117",
+      "url": "https://x.com/YusukeNakanish3/status/1925570984561738117",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T15:14:32.000Z",
+      "text": "#Vizトーク\nDatafam Tokyoは5/27です！私も参加します。\n\nhttps://\ndatafam-tokyo.salesforce-event.jp/public/applica\ntion/add/32?d=701ed00000N92qcAAB\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1925571072138833979",
+      "url": "https://x.com/tesshin_tableau/status/1925571072138833979",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-05-22T15:14:53.000Z",
+      "text": "#Vizトーク　\nTableau Doctor 診察実習会、是非。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1925571328645669145",
+      "url": "https://x.com/tesshin_tableau/status/1925571328645669145",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-05-22T15:15:54.000Z",
+      "text": "DataFam Tokyo、途中参加したり抜けたり参加したりの予定です。。。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1925571778195362096",
+      "url": "https://x.com/YusukeNakanish3/status/1925571778195362096",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-05-22T15:17:41.000Z",
+      "text": "#Vizトーク \nData＋Moviesの投票締切は：5/28(水)13:00まで！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1925716294629826566",
+      "url": "https://x.com/antipop1/status/1925716294629826566",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-05-23T00:51:57.000Z",
+      "text": "#Vizトーク\n現行の仕様は、「次に所有者になる人が、奪い取るしかない」だと認識してます。もしオフラインでファイル管理されてる場合は、一度お試しください！\n\n昔はできたはずで、でも権限ない人に変えたらConductorで動かしてるの止まったりするから、自己責任にするため止むなく変えたのではと…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1926073751671623847",
+      "url": "https://x.com/O_Syringa_Z/status/1926073751671623847",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-05-24T00:32:21.000Z",
+      "text": "#DATAVader リリース後 2人目の認定者は \n@wxmintab\n さんです！\n\n#1シート教 の試練突破、100Viz突破、エントリーいただいたVizも渾身の出来でした！！\n\nダークサイドへようこそ\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 4,
+        "likes": 31
+      }
+    }
+  ]
+}

@@ -1,0 +1,426 @@
+{
+  "episode": 109,
+  "date": "2025-07-10",
+  "collected_at": "2026-08-15T07:12:16.947Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 26,
+  "tweets": [
+    {
+      "id": "1943135915121291436",
+      "url": "https://x.com/YusukeNakanish3/status/1943135915121291436",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T02:31:18.000Z",
+      "text": "#Vizトーク 今日は少し早めの2200ごろからやります！ \n@yoshi_datavizjp\n さんお招きして、先週の生成AIをテーマにしたWOWのお題について語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1943296543114826039",
+      "url": "https://x.com/YusukeNakanish3/status/1943296543114826039",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:09:35.000Z",
+      "text": "#Vizトーク\nWeek26はかなり難しい。\n\nhttps://\nworkout-wednesday.com/2025w26tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1943296704352260456",
+      "url": "https://x.com/YusukeNakanish3/status/1943296704352260456",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:10:13.000Z",
+      "text": "#Vizトーク\nW12と似てるんですが難易度が跳ね上がってます。\n\nhttps://\nworkout-wednesday.com/2025w12tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1943297733416346001",
+      "url": "https://x.com/YusukeNakanish3/status/1943297733416346001",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:14:19.000Z",
+      "text": "#Vizトーク\nWOW、シンプルな見た目のほうが難しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1943298181271540156",
+      "url": "https://x.com/yoshi_datavizjp/status/1943298181271540156",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-10T13:16:05.000Z",
+      "text": "ヒートマップ作るにはマークの積み上げが必要（役に立たないTips） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1943299820392951837",
+      "url": "https://x.com/YusukeNakanish3/status/1943299820392951837",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:22:36.000Z",
+      "text": "#Vizトーク\nDoctorするときはとりあえず分析メニュー見るといいという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1943300092326506973",
+      "url": "https://x.com/YusukeNakanish3/status/1943300092326506973",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:23:41.000Z",
+      "text": "#Vizトーク 宣言通りのAI*Tableau回。\n\nhttps://\nworkout-wednesday.com/2025w27tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1943300787796582715",
+      "url": "https://x.com/YusukeNakanish3/status/1943300787796582715",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:26:27.000Z",
+      "text": "#Vizトーク\n7/8に中部Tableauユーザー会で \n@unbosoms\n さんがLangchainテーマでLTされてましたねー\n\nhttps://\ntechplay.jp/event/981080",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1943300787368792127",
+      "url": "https://x.com/yoshi_datavizjp/status/1943300787368792127",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-10T13:26:27.000Z",
+      "text": "https://\nzenn.dev/cavernaria/art\nicles/ef88238ff090e4\n…\nTableau x AIで最近よく調べている話題\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1943302204548616632",
+      "url": "https://x.com/YusukeNakanish3/status/1943302204548616632",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:32:05.000Z",
+      "text": "#Vizトーク Tableau Ambassador募集は7/25まで！\n他薦もいいですが自薦すると自身の活動の振り返りになってとてもいいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1943303381738754294",
+      "url": "https://x.com/YusukeNakanish3/status/1943303381738754294",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:36:45.000Z",
+      "text": "#Vizトーク\nなるべく胡乱な聞き方を心がけました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1943304054555447502",
+      "url": "https://x.com/yoshi_datavizjp/status/1943304054555447502",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-10T13:39:26.000Z",
+      "text": "Tableauのこと何でも聞けるカスタムGPT\n\nhttps://\nadammico.medium.com/introducing-my\n-upgraded-tableau-virtuoso-gpt-ebda75d02272\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1943305828565684278",
+      "url": "https://x.com/YusukeNakanish3/status/1943305828565684278",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:46:29.000Z",
+      "text": "#Vizトーク\n生成AI時代の仕事との向き合い方。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1943306490443632802",
+      "url": "https://x.com/YusukeNakanish3/status/1943306490443632802",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:49:06.000Z",
+      "text": "#Vizトーク\n上流というかコミュニケーション力というかが大事な印象。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1943308916198449393",
+      "url": "https://x.com/YusukeNakanish3/status/1943308916198449393",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T13:58:45.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1943309669671538895",
+      "url": "https://x.com/YusukeNakanish3/status/1943309669671538895",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:01:44.000Z",
+      "text": "#Vizトーク\nTableau Serverでの生成AI利用の芽が出てきたのでやる気出てきましたね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1943310150732767641",
+      "url": "https://x.com/YusukeNakanish3/status/1943310150732767641",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:03:39.000Z",
+      "text": "#Vizトーク\n向学心というか好奇心がより大事に。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1943312877039030660",
+      "url": "https://x.com/mfujita2023/status/1943312877039030660",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-07-10T14:14:29.000Z",
+      "text": "生成AIのためのデータ準備が大事ってことはほんとそう！ #Vizトーク\n結局AIに答えてもらえるためのデータ整備、BIの時も同じ話をしていたような",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1943313440753496301",
+      "url": "https://x.com/fujitakuya/status/1943313440753496301",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2025-07-10T14:16:43.000Z",
+      "text": "#Vizトーク\nデータにまつわる intelligence\nAI  done\nBI  done\nCI  Catalog intelligence\nDI  Data intelligence\nEI   ...\nFI   ...\nGI  ...\n\nTo be continue...",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1943317508620194045",
+      "url": "https://x.com/YusukeNakanish3/status/1943317508620194045",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:32:53.000Z",
+      "text": "#Vizトーク \n今週のWOWは私の出題回です！\n新機能を触れる易しめの回ですのでぜひ！\n\nhttps://\nworkout-wednesday.com/2025w28tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1943318778055659948",
+      "url": "https://x.com/YusukeNakanish3/status/1943318778055659948",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:37:56.000Z",
+      "text": "#Vizトーク\n見るのと触るのとでは経験値が違いますね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1943318956074512850",
+      "url": "https://x.com/YusukeNakanish3/status/1943318956074512850",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:38:38.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1943320016201617735",
+      "url": "https://x.com/YusukeNakanish3/status/1943320016201617735",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:42:51.000Z",
+      "text": "#Vizトーク Prepの書籍が出てます。\nPrep中心の日本語の書籍は初だと思います。ぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1943321563849244793",
+      "url": "https://x.com/YusukeNakanish3/status/1943321563849244793",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:49:00.000Z",
+      "text": "#Vizトーク Data+Moviesは7/14まで！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1943322199697543170",
+      "url": "https://x.com/YusukeNakanish3/status/1943322199697543170",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-10T14:51:32.000Z",
+      "text": "#Vizトーク DATA Saber 中部コネクトは8/8〆切です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1943448728406511677",
+      "url": "https://x.com/sora_in_blue/status/1943448728406511677",
+      "author_name": "mitamuu | Yoshie Mitamura",
+      "author_handle": "sora_in_blue",
+      "posted_at": "2025-07-10T23:14:19.000Z",
+      "text": "#Vizトーク\n書籍を取り上げていただきありがとうございます！\nみんなで、初めて使い始めた時を思い出して、最初の第１歩に少しでもなれる本が欲しいね―からスタートしました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "episode": 112,
+  "date": "2025-08-14",
+  "collected_at": "2026-08-15T07:09:09.535Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 17,
+  "tweets": [
+    {
+      "id": "1955926133016567874",
+      "url": "https://x.com/YusukeNakanish3/status/1955926133016567874",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T09:35:04.000Z",
+      "text": "#Vizトーク 今日は2300からやります！\n先月の #vizts の話などする予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1955994485344887269",
+      "url": "https://x.com/YusukeNakanish3/status/1955994485344887269",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:06:40.000Z",
+      "text": "#Vizトーク #Vizts たくさんの方ご参加いただきありがとうございました！\n#VizTS出題 でお題は見れますので未挑戦の方はぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1955995272783520022",
+      "url": "https://x.com/YusukeNakanish3/status/1955995272783520022",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:09:48.000Z",
+      "text": "#Vizトーク \nつくりまShowはライブで解くので特に問題の難易度調整が大変かつおもしろいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1955996377508618667",
+      "url": "https://x.com/YusukeNakanish3/status/1955996377508618667",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:14:11.000Z",
+      "text": "#Vizts 海外コラボ第3弾は9/28(日)になった瞬間00:00からです！英語わからなくても楽しめるようにしますので、ぜひご参加ください！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1955999258915865003",
+      "url": "https://x.com/YusukeNakanish3/status/1955999258915865003",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:25:38.000Z",
+      "text": "#Vizトーク \nSalesforce World Tour Tokyoの事前登録&セッション応募はこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1956001131534147945",
+      "url": "https://x.com/YusukeNakanish3/status/1956001131534147945",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:33:05.000Z",
+      "text": "#Vizトーク Iron Viz、今年は徹夜にならないようにしっかりやりたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1956001721768911236",
+      "url": "https://x.com/Dandee_House/status/1956001721768911236",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-08-14T14:35:25.000Z",
+      "text": "#Vizトーク\nIronVizの準備は卒業論文と同じ？\n（付け焼き刃ではなく長期戦略が大事、定期的な他者とのディスカッション・レビューが推奨）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1956002382778917242",
+      "url": "https://x.com/YusukeNakanish3/status/1956002382778917242",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:38:03.000Z",
+      "text": "#Vizトーク ビューポートをテーマにした回。\nかなりアツい機能なのでぜひ試してみてください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1956002868861002123",
+      "url": "https://x.com/YusukeNakanish3/status/1956002868861002123",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:39:59.000Z",
+      "text": "#Vizトーク ビューポートがPublicで動いた記念にお蔵入りにしてた問題をいじって投稿したもの。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1956005866492051726",
+      "url": "https://x.com/Dandee_House/status/1956005866492051726",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-08-14T14:51:54.000Z",
+      "text": "#Vizトーク\nWOW Week31\n\nhttps://\nworkout-wednesday.com/2025w31tab/\n出題VizをPublicで見に行くとニヤっとするパターンのやつ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1956006024021991825",
+      "url": "https://x.com/YusukeNakanish3/status/1956006024021991825",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T14:52:31.000Z",
+      "text": "#Vizトーク Week31は難易度を語るのが難しい。。\n\nhttps://\nworkout-wednesday.com/2025w31tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1956007765085696223",
+      "url": "https://x.com/mfujita2023/status/1956007765085696223",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-08-14T14:59:26.000Z",
+      "text": "PODBだったら生成AI Readyかもしれません・・・！(そういう話じゃなくて？) #Vizトーク \nTableau MCPも勉強しないとなぁ・・・。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1956009173449073013",
+      "url": "https://x.com/YusukeNakanish3/status/1956009173449073013",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T15:05:02.000Z",
+      "text": "#Vizトーク \nTableau data_dictionaryを使って夏休みの自由研究をやってます。\n\nhttps://\ntableau.github.io/tableau-data-d\nictionary/2025.1/data_dictionary.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1956011576701673957",
+      "url": "https://x.com/YusukeNakanish3/status/1956011576701673957",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T15:14:35.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1956011619349074306",
+      "url": "https://x.com/Dandee_House/status/1956011619349074306",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-08-14T15:14:45.000Z",
+      "text": "#Vizトーク\n24時回ったのでイベント紹介のコーナー",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1956012462316417416",
+      "url": "https://x.com/YusukeNakanish3/status/1956012462316417416",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-14T15:18:06.000Z",
+      "text": "#Vizトーク よりみちLT会もあります！\n\nhttps://\ntechplay.jp/event/984554",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1956349104696733888",
+      "url": "https://x.com/michi_TaToTsu/status/1956349104696733888",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-08-15T13:35:48.000Z",
+      "text": "#Vizトーク 第112回\n\n@YusukeNakanish3\nさん、\n@Dandee_House\nさんお二人のトーク拝聴しました。\n空間データの新機能 Map Viewport Parameters、Tableauらしい見る人の理解を進める素敵な機能ですよね。業務のVizにもぜひ取り入れていきたいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

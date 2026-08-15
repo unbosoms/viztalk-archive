@@ -1,0 +1,298 @@
+{
+  "episode": 113,
+  "date": "2025-08-21",
+  "collected_at": "2026-08-15T07:08:29.798Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 18,
+  "tweets": [
+    {
+      "id": "1958497235844382753",
+      "url": "https://x.com/YusukeNakanish3/status/1958497235844382753",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T11:51:42.000Z",
+      "text": "#Vizトーク 今日は2200ごろからやります！\n\n@yoshi_datavizjp\n さんとWOWや生成AI時代のBIの話（n回目）をする予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1958516618491023536",
+      "url": "https://x.com/YusukeNakanish3/status/1958516618491023536",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:08:43.000Z",
+      "text": "#Vizトーク\nMeasure Values とMeasure Namesが計算フィールドで使えたらいいのに。。という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1958518817686253956",
+      "url": "https://x.com/YusukeNakanish3/status/1958518817686253956",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:17:28.000Z",
+      "text": "#Vizトーク \n生成AI時代のTableauユーザーの仕事を考える - 2025年8月版",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958520114153951323",
+      "url": "https://x.com/YusukeNakanish3/status/1958520114153951323",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:22:37.000Z",
+      "text": "#Vizトーク Tableau Data Dictionaryを使った自由研究。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958522119140343898",
+      "url": "https://x.com/YusukeNakanish3/status/1958522119140343898",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:30:35.000Z",
+      "text": "#Vizトーク \nTableau Server repositoryのサンプルデータソースを作ろうという取り組みをしてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1958523279322607883",
+      "url": "https://x.com/YusukeNakanish3/status/1958523279322607883",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:35:12.000Z",
+      "text": "#Vizトーク \nHacking Tableau 101 めちゃくちゃおもしろいのでぜひ。\n\nhttps://\ntableau.com/learn/webinars\n/2024-june-datadev-day-hacking-tableau-101#video\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958524185099075896",
+      "url": "https://x.com/YusukeNakanish3/status/1958524185099075896",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:38:48.000Z",
+      "text": "#Vizトーク \nYour New Data Sidekick: Tableau Agent in Tableau Cloud & Prep by \n@AdamMico1\n \nhttps://\nmedium.com/design-bootcam\np/your-new-data-sidekick-tableau-agent-in-tableau-cloud-prep-13a76f31e31b?source=social.tw\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958525564073230555",
+      "url": "https://x.com/yoshi_datavizjp/status/1958525564073230555",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-08-21T13:44:16.000Z",
+      "text": "#Vizトーク\nTableau 新時代@大阪",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1958526224508256736",
+      "url": "https://x.com/YusukeNakanish3/status/1958526224508256736",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T13:46:54.000Z",
+      "text": "#Vizトーク \n\n@unbosoms\n さんの記事。\nTableauLangchainとは何か？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958530930043449502",
+      "url": "https://x.com/YusukeNakanish3/status/1958530930043449502",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:05:36.000Z",
+      "text": "#Vizトーク 仕事がなくなった人の話が聞きたいな～という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1958532382900060433",
+      "url": "https://x.com/YusukeNakanish3/status/1958532382900060433",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:11:22.000Z",
+      "text": "#Vizトーク サンキーはこれでいいのではという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1958532875516875120",
+      "url": "https://x.com/YusukeNakanish3/status/1958532875516875120",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:13:19.000Z",
+      "text": "#Vizトーク Arakawaさんのサンキーの記事。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1958534417950834786",
+      "url": "https://x.com/YusukeNakanish3/status/1958534417950834786",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:19:27.000Z",
+      "text": "#Vizトーク \n初級者ハンズオンすることで教えられることがめちゃくちゃありますという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1958535104076353593",
+      "url": "https://x.com/YusukeNakanish3/status/1958535104076353593",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:22:11.000Z",
+      "text": "#Vizトーク オフラインのハンズオンの良さを痛感しています。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1958536022167621681",
+      "url": "https://x.com/YusukeNakanish3/status/1958536022167621681",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:25:50.000Z",
+      "text": "#Vizトーク #VizGames 予選始まってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1958538665925419194",
+      "url": "https://x.com/YusukeNakanish3/status/1958538665925419194",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:36:20.000Z",
+      "text": "#Vizトーク Agentforce World Tour Tokyoの事前登録とセッション応募も始まってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1958538931982803060",
+      "url": "https://x.com/YusukeNakanish3/status/1958538931982803060",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:37:23.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1958540498181796030",
+      "url": "https://x.com/YusukeNakanish3/status/1958540498181796030",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-08-21T14:43:37.000Z",
+      "text": "#Vizトーク デジタル庁さんの政策データ可視化についてのイベントもありますのでぜひ。\n8/26火 19時～です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    }
+  ]
+}

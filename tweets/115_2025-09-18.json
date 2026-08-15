@@ -1,0 +1,746 @@
+{
+  "episode": 115,
+  "date": "2025-09-18",
+  "collected_at": "2026-08-15T07:06:56.741Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 46,
+  "tweets": [
+    {
+      "id": "1968617646217121980",
+      "url": "https://x.com/YusukeNakanish3/status/1968617646217121980",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T10:06:36.000Z",
+      "text": "#Vizトーク 今日は22:00ごろから \n@yoshi_datavizjp\n さんをお招きして開催します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1968663618464915718",
+      "url": "https://x.com/YusukeNakanish3/status/1968663618464915718",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:09:17.000Z",
+      "text": "#Vizトーク はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968664390850281540",
+      "url": "https://x.com/YusukeNakanish3/status/1968664390850281540",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:12:21.000Z",
+      "text": "#Vizトーク WOWのネタ被り怖いという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968665361244360829",
+      "url": "https://x.com/YusukeNakanish3/status/1968665361244360829",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:16:12.000Z",
+      "text": "#Vizトーク Week37は基本的な表計算がテーマでとっつきやすいです。\n\nhttps://\nworkout-wednesday.com/2025w37tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1968665779416506871",
+      "url": "https://x.com/YusukeNakanish3/status/1968665779416506871",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:17:52.000Z",
+      "text": "#Vizトーク \n@tesshin_tableau\n さんがLiveで解いている時間が難易度のバロメーターになっていると言う話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1968666200503681172",
+      "url": "https://x.com/unbosoms/status/1968666200503681172",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:19:32.000Z",
+      "text": "長くかかったと言っても1時間40分というのがすごい.... #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1968666499960152378",
+      "url": "https://x.com/unbosoms/status/1968666499960152378",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:20:44.000Z",
+      "text": "過去のAndyの会を4人がかりで3:00amくらいまでやったの思い出しますね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1968666759663124797",
+      "url": "https://x.com/YusukeNakanish3/status/1968666759663124797",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:21:46.000Z",
+      "text": "#Vizトーク 参加者のアンケートで最高難易度を記録しているのは2020年のWeek18．\n\nhttps://\nworkout-wednesday.com/2020w18/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1968667355300479409",
+      "url": "https://x.com/unbosoms/status/1968667355300479409",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:24:08.000Z",
+      "text": "引き出しを増やすためにWoWをやろうと思い立った一番最初の勉強会でAndyの災難会に出会うなんて素敵な話ですね笑 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968667770301628653",
+      "url": "https://x.com/YusukeNakanish3/status/1968667770301628653",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:25:47.000Z",
+      "text": "#Vizトーク\n\n@unbosoms\n \n@O_Syringa_Z\n \n@Dandee_House\n さんと4人がかりで3時間ぐらいかかった回。 2020 Week 42\n\nhttp://\nworkout-wednesday.com/2020w42/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1968667785774432379",
+      "url": "https://x.com/unbosoms/status/1968667785774432379",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:25:50.000Z",
+      "text": "Vizトークメンバー総がかりで5時間かかった難問だった気がします...笑 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968668175454671019",
+      "url": "https://x.com/unbosoms/status/1968668175454671019",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:27:23.000Z",
+      "text": "Nullの扱いとかかなり難しかった思い出です #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968668752775385169",
+      "url": "https://x.com/unbosoms/status/1968668752775385169",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:29:41.000Z",
+      "text": "あの岡本さんもWoWでスキルアップしたという話。DATA Saber挑戦中に毎週WoWやるのはかなり凄い。難易度高いですからね... #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968668869486149777",
+      "url": "https://x.com/YusukeNakanish3/status/1968668869486149777",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:30:09.000Z",
+      "text": "#Vizトーク \n@pyonpyon_tab\n さんはDATA Saber挑戦中からWOW完走しはじめてすごかったです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1968668941397397750",
+      "url": "https://x.com/unbosoms/status/1968668941397397750",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:30:26.000Z",
+      "text": "あなたには無理かもと言われた方が燃える人は強いすね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1968669557414879299",
+      "url": "https://x.com/unbosoms/status/1968669557414879299",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:32:53.000Z",
+      "text": "あえて高い壁に挑めるマインドが成長速度に効いてくるのは確かに...もしやってみてダメでも自分の位置がわかりますしね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968669686679130236",
+      "url": "https://x.com/pyonpyon_tab/status/1968669686679130236",
+      "author_name": "Akane Okamoto",
+      "author_handle": "pyonpyon_tab",
+      "posted_at": "2025-09-18T13:33:24.000Z",
+      "text": "それは師匠に「パブリックポイントって何がおススメですか？」と聞いたら「WOWとかがいいと思います」と言われたからです\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1968670115995484226",
+      "url": "https://x.com/unbosoms/status/1968670115995484226",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:35:06.000Z",
+      "text": "WoW、個人的には半年間毎週やるのがおすすめです！ 自分がそれでかなり自信ついたので。#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1968671132401181071",
+      "url": "https://x.com/unbosoms/status/1968671132401181071",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:39:08.000Z",
+      "text": "Tableauのtwbファイルは実はXMLなので生成AIと相性がよいのでは？という話。実験したいですね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1968671294406246588",
+      "url": "https://x.com/unbosoms/status/1968671294406246588",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:39:47.000Z",
+      "text": "計算フィールドの一覧出してくれるツールとかたしかありましたよね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1968671298600530158",
+      "url": "https://x.com/YusukeNakanish3/status/1968671298600530158",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:39:48.000Z",
+      "text": "#Vizトーク\nIntroducing the Tableau Workbook Calculation Extractor",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968671569640603912",
+      "url": "https://x.com/ksnjr24/status/1968671569640603912",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-09-18T13:40:53.000Z",
+      "text": "例えばなんですかねぇ？\nこのVizを1sheetでやってみて！\nとか…？\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968671750046003241",
+      "url": "https://x.com/yoshi_datavizjp/status/1968671750046003241",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-09-18T13:41:36.000Z",
+      "text": "https://\ntableau.com/ja-jp/develope\nr/tools/document-api\n…\n書き換えの話で、こんなAPIあるのかと最近驚いてました\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1968672253618393228",
+      "url": "https://x.com/YusukeNakanish3/status/1968672253618393228",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:43:36.000Z",
+      "text": "#Vizトーク\nxmlを編集するのが要件に入っているWOWの回。\n\nhttps://\nworkout-wednesday.com/2022w40tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1968672417774981369",
+      "url": "https://x.com/unbosoms/status/1968672417774981369",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:44:15.000Z",
+      "text": "こんなSDKがあるんですね...!!! #vIzトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1968672473940996453",
+      "url": "https://x.com/yoshi_datavizjp/status/1968672473940996453",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-09-18T13:44:28.000Z",
+      "text": "https://\ntableau.com/ja-jp/blog/pro\nduct-innovation-devs-on-stage-tc25\n…\n「拡張機能 API の作成」が気になってます。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968672797997101312",
+      "url": "https://x.com/unbosoms/status/1968672797997101312",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:45:45.000Z",
+      "text": "これは現地でもかなりオーってなってましたね！#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968673057498612073",
+      "url": "https://x.com/YusukeNakanish3/status/1968673057498612073",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T13:46:47.000Z",
+      "text": "#Vizトーク\nFigma to Tableau\n\nhttps://\nladataviz.com/tools/figma-to\n-tableau\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1968673116319576448",
+      "url": "https://x.com/unbosoms/status/1968673116319576448",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:47:01.000Z",
+      "text": "まさにそんなデモだったと思います。ワークシートをたくさんバンバン作ったりしてた記憶です。#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968673722421698561",
+      "url": "https://x.com/unbosoms/status/1968673722421698561",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:49:26.000Z",
+      "text": "温かみある手作りのViz #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968674006371864737",
+      "url": "https://x.com/unbosoms/status/1968674006371864737",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:50:33.000Z",
+      "text": "グラフの量産はTableauの弱いところなのでAI系に期待しちゃいます。同じ形式でメジャー違いのシートを沢山作る時はしんどい。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968674218079359370",
+      "url": "https://x.com/antipop1/status/1968674218079359370",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-09-18T13:51:24.000Z",
+      "text": "生成AIでフォントサイズとか色とか指定できると、それだけでも楽になりそう…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968674509692530811",
+      "url": "https://x.com/unbosoms/status/1968674509692530811",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T13:52:33.000Z",
+      "text": "クリエイター目線ではその辺ほしいですよね。#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1968677274560925732",
+      "url": "https://x.com/unbosoms/status/1968677274560925732",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:03:33.000Z",
+      "text": "今のTableau MCPはtext to VDS queryなので、クエリは残りますね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1968678554649903388",
+      "url": "https://x.com/unbosoms/status/1968678554649903388",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:08:38.000Z",
+      "text": "生成AIにやらせるためにAPIが拡充されて、APIを使ったツールも拡充されるみたいな未来もあるかも。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968679086051545509",
+      "url": "https://x.com/unbosoms/status/1968679086051545509",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:10:45.000Z",
+      "text": "生成AI×Tableauを触ってるとダッシュボードいらなくなるのでは？と言われることもあるし自分で思うこともあるので、その答えは持っておきたい。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1968679357204910105",
+      "url": "https://x.com/unbosoms/status/1968679357204910105",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:11:49.000Z",
+      "text": "定点観測してみんなで同じ数字をみるべきものも生成AIに毎回聞くってのは違う気はしている。聞き方でぶれる可能性があるし、決まってるならダッシュボードにしておく方がわかりやすいはず。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1968680082190283214",
+      "url": "https://x.com/unbosoms/status/1968680082190283214",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:14:42.000Z",
+      "text": "Tableauのコア価値はVizQLでの深掘り分析のしやすさだと思うので、その用途がどれくらい生成AIに代替されるかが肝な気はします。タイピング vs. 音声入力みたいな構図も似てる気がする。ちょっと読めない...\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968680637277126701",
+      "url": "https://x.com/unbosoms/status/1968680637277126701",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:16:54.000Z",
+      "text": "分析業務が生成AIに代替された結果、生成AIではできないことを出来る人材がいなくなり、出来ることが狭まる未来は確かにあるかもですね。カーナビのおかげで地図が読めなくても目的地につけるようになりましたが、分析もそうなるのか。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1968682661116826052",
+      "url": "https://x.com/unbosoms/status/1968682661116826052",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:24:57.000Z",
+      "text": "Excelが強い理由は誰でも使えるし社内でなくなる心配もほぼないというところ。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1968684439304654931",
+      "url": "https://x.com/unbosoms/status/1968684439304654931",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-09-18T14:32:01.000Z",
+      "text": "Snowflake World Tour Tokyo自分も行けなかったのでキャッチアップしないと #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1968686923179762122",
+      "url": "https://x.com/YusukeNakanish3/status/1968686923179762122",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T14:41:53.000Z",
+      "text": "#Vizトーク\nEven G1、めっちゃいいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1968688890253812077",
+      "url": "https://x.com/YusukeNakanish3/status/1968688890253812077",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T14:49:42.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1968690010892169654",
+      "url": "https://x.com/YusukeNakanish3/status/1968690010892169654",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T14:54:09.000Z",
+      "text": "#Vizトーク #RetailTUG は9/27土 23:59から！途中参加途中退出okですのでお気軽に登録を！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1968691244155998229",
+      "url": "https://x.com/YusukeNakanish3/status/1968691244155998229",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-09-18T14:59:03.000Z",
+      "text": "#Vizトーク\nAgentforce World Tour Tokyoの事前登録はこちら。\nWorkout Wednesday Liveも11/21金 14:00-やります！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1968692186628677955",
+      "url": "https://x.com/ksnjr24/status/1968692186628677955",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-09-18T15:02:48.000Z",
+      "text": "秋はイベントもりだくさんですね…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    }
+  ]
+}

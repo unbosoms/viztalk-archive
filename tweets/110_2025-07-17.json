@@ -1,0 +1,650 @@
+{
+  "episode": 110,
+  "date": "2025-07-17",
+  "collected_at": "2026-08-15T07:10:58.904Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 40,
+  "tweets": [
+    {
+      "id": "1945764369830473827",
+      "url": "https://x.com/YusukeNakanish3/status/1945764369830473827",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T08:35:50.000Z",
+      "text": "#Vizトーク 今日も少し早めの2200ごろからやります！ \n@yoshi_datavizjp\n さんお招きして、いつもの話題に加えて Tableau MCP Server他生成AIについても語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945832525579903025",
+      "url": "https://x.com/ksnjr24/status/1945832525579903025",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-07-17T13:06:40.000Z",
+      "text": "始まったけど電車の中だ\n今日は、TableauHRユーザー会 ワークショップ楽しすぎました\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945833210619080735",
+      "url": "https://x.com/YusukeNakanish3/status/1945833210619080735",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:09:23.000Z",
+      "text": "#Vizトーク \n\n@yoshi_datavizjp\n さんお招きしてTableau MCPの話をはじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1945833511694565863",
+      "url": "https://x.com/YusukeNakanish3/status/1945833511694565863",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:10:35.000Z",
+      "text": "#Vizトーク \nカジュアルVizつくりまShow！ は2025/07/31(木) 20:00〜です！ぜひご参加ください！\n\nhttps://\ntechplay.jp/event/983284?u\ntm_source=event_983284&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #Tableau #初心者 #Meetup #データ分析",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1945833820424700364",
+      "url": "https://x.com/yoshi_datavizjp/status/1945833820424700364",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-17T13:11:49.000Z",
+      "text": "#Vizトーク \nTableau LangchainなのかTableau LangChainなのか分からん問題",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1945834207768629467",
+      "url": "https://x.com/YusukeNakanish3/status/1945834207768629467",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:13:21.000Z",
+      "text": "#Vizトーク \n\n@unbosoms\n さんの記事はこちら。\nTableauLangchainとは何か？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1945835471709560904",
+      "url": "https://x.com/michi_TaToTsu/status/1945835471709560904",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T13:18:22.000Z",
+      "text": "#Vizトーク\nとにかく触ってみないと、まさにそれですよね。\n今朝、始業前に荒川さんのブログの熱に押されて、4番の呪文まで進みました。週末、最後まで行けたらと思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945835757253578839",
+      "url": "https://x.com/ksnjr24/status/1945835757253578839",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-07-17T13:19:31.000Z",
+      "text": "荒川さんだ！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945838931322503558",
+      "url": "https://x.com/yoshi_datavizjp/status/1945838931322503558",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-17T13:32:07.000Z",
+      "text": "#vizトーク Tableau MCPがWebで使えるようになるといいですよね、あたりの話は以下書籍の8章を見ると見通しが見えてきます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1945838959881515278",
+      "url": "https://x.com/michi_TaToTsu/status/1945838959881515278",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T13:32:14.000Z",
+      "text": "#Vizトーク\nあとちょっと！がんばります！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1945839925347471603",
+      "url": "https://x.com/YusukeNakanish3/status/1945839925347471603",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:36:04.000Z",
+      "text": "#Vizトーク \n\n@tableau_nisan\n さんのTableau Developer Programのつかいかたはこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1945841094622884081",
+      "url": "https://x.com/michi_TaToTsu/status/1945841094622884081",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T13:40:43.000Z",
+      "text": "#Vizトーク\n心強いです！！ありがとうございます。その楽しみを早く味わいたいです",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1945841317285916977",
+      "url": "https://x.com/YusukeNakanish3/status/1945841317285916977",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:41:36.000Z",
+      "text": "#Vizトーク \nTableau Developer Programはもっとしられてほしい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945842423986618785",
+      "url": "https://x.com/YusukeNakanish3/status/1945842423986618785",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:46:00.000Z",
+      "text": "#Vizトーク\nTableau Communityの日本チャンネルはこちら。\n\nhttps://\ntableau-datafam.slack.com/archives/C08RV\nDDHLQY\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1945843493643190554",
+      "url": "https://x.com/michi_TaToTsu/status/1945843493643190554",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T13:50:15.000Z",
+      "text": "#Vizトーク\n#community-japan に入れました！北陸ユーザー会、Prep極めるなどなど、めちゃめちゃ情報豊富ですね。ありがとうございます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1945844008233902295",
+      "url": "https://x.com/YusukeNakanish3/status/1945844008233902295",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:52:18.000Z",
+      "text": "#Vizトーク\n先週の私出題のWOWはこちら。\n動的カラーレンジを触ってみようというテーマです。\n\nhttps://\nworkout-wednesday.com/2025w28tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945845406887526839",
+      "url": "https://x.com/YusukeNakanish3/status/1945845406887526839",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T13:57:51.000Z",
+      "text": "#Vizトーク\nプロト版。盛りすぎ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1945846050121777576",
+      "url": "https://x.com/YusukeNakanish3/status/1945846050121777576",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:00:25.000Z",
+      "text": "#Vizトーク\n問題作ってると一人で盛り上がってしまいがち。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1945847103240147143",
+      "url": "https://x.com/michi_TaToTsu/status/1945847103240147143",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T14:04:36.000Z",
+      "text": "#Vizトーク\nこ、これは\n\n@YusukeNakanish3\n さんと\n@yoshi_datavizjp\n さんの問題は特にUIについて、とても考えられた問題ばかりなので、たくさん参考にさせていただいてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1945847216083779980",
+      "url": "https://x.com/yoshi_datavizjp/status/1945847216083779980",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2025-07-17T14:05:03.000Z",
+      "text": "#Vizトーク\nこの線グラフだけで1週分の問題できますね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1945847397411889507",
+      "url": "https://x.com/YusukeNakanish3/status/1945847397411889507",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:05:46.000Z",
+      "text": "#Vizトーク\n\n@BMooreWasTaken\n さんの Totally Useless Charts。\nとても楽しいのでぜひ触ってみてください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945847840951206127",
+      "url": "https://x.com/YusukeNakanish3/status/1945847840951206127",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:07:32.000Z",
+      "text": "#Vizトーク\nTotally Useless Chartsのテクニックを使った私のMOM。\nMOM2023W28:The Henley Passport Index 2023 \nhttps://\npublic.tableau.com/views/MOM2023W\n28TheHenleyPassportIndex2023/Dashboard1?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link\n… \n@tableaupublic\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945848728675618849",
+      "url": "https://x.com/yo_mon/status/1945848728675618849",
+      "author_name": "yo_mon(「もんさん」でいいです)",
+      "author_handle": "yo_mon",
+      "posted_at": "2025-07-17T14:11:03.000Z",
+      "text": "#Vizトーク\nこのVizいいですね。自分はこれを作れる発想がないな・・・",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1945848862159343898",
+      "url": "https://x.com/YusukeNakanish3/status/1945848862159343898",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:11:35.000Z",
+      "text": "#Vizトーク \nTableau AgentのPrep使ってみました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1945852966382219454",
+      "url": "https://x.com/YusukeNakanish3/status/1945852966382219454",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:27:54.000Z",
+      "text": "#Vizトーク 自分が好きで詳しい領域でも使ったほうがいいなと実感します。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1945854527690981753",
+      "url": "https://x.com/YusukeNakanish3/status/1945854527690981753",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:34:06.000Z",
+      "text": "#Vizトーク 投票は7/24(木) 13:00までです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1945855182446961042",
+      "url": "https://x.com/YusukeNakanish3/status/1945855182446961042",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:36:42.000Z",
+      "text": "#Vizトーク \nフォントはこちらを使ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1945856038651252975",
+      "url": "https://x.com/YusukeNakanish3/status/1945856038651252975",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:40:06.000Z",
+      "text": "#Vizトーク このテーマだけで一晩語れそう、という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945856781697315135",
+      "url": "https://x.com/dx_yusei/status/1945856781697315135",
+      "author_name": "ゆうせい / Yusei Sakai",
+      "author_handle": "dx_yusei",
+      "posted_at": "2025-07-17T14:43:03.000Z",
+      "text": "今日のVizトーク有料級か？\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1945857569211457580",
+      "url": "https://x.com/YusukeNakanish3/status/1945857569211457580",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:46:11.000Z",
+      "text": "#Vizトーク 〆切駆動の例。\n\nTableau デフォルトカラーパレットを変更する｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945858253524779078",
+      "url": "https://x.com/YusukeNakanish3/status/1945858253524779078",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:48:54.000Z",
+      "text": "#Vizトーク \n\n持続可能な成長を実現する「ラストマン」という自分戦略: 八百屋になりたい人が肉屋に入ってしまったらどうするか?",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1945858984004772003",
+      "url": "https://x.com/YusukeNakanish3/status/1945858984004772003",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:51:48.000Z",
+      "text": "#Vizトーク Ambassador募集は7/25まで。自薦他薦どんどんやりましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 7,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1945860214433132614",
+      "url": "https://x.com/YusukeNakanish3/status/1945860214433132614",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:56:42.000Z",
+      "text": "#Vizトーク 手を動かす系の試験は楽しいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1945860426933338487",
+      "url": "https://x.com/YusukeNakanish3/status/1945860426933338487",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-17T14:57:32.000Z",
+      "text": "#Vizトーク \n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1945861145597980848",
+      "url": "https://x.com/michi_TaToTsu/status/1945861145597980848",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-17T15:00:24.000Z",
+      "text": "#Vizトーク\n今日も楽しかったです。ありがとうございました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1946141384110490057",
+      "url": "https://x.com/unbosoms/status/1946141384110490057",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-07-18T09:33:58.000Z",
+      "text": "ラストマン戦略面白いですね。「あいつで分からないなら分からないね」のポジション。自分の得意で価値がでそうでポジションとれそうな分野を見極めるのは難しいけど。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1946141861552271665",
+      "url": "https://x.com/unbosoms/status/1946141861552271665",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-07-18T09:35:52.000Z",
+      "text": "シェアありがとうございます！荒川さんと話したかった...!!!\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1946142263043641468",
+      "url": "https://x.com/unbosoms/status/1946142263043641468",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-07-18T09:37:27.000Z",
+      "text": "7月の最終日はみんなでタブったしましょう！ご参加お待ちしてます！#Vizトーク #vizts",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1946395225301401919",
+      "url": "https://x.com/michi_TaToTsu/status/1946395225301401919",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-19T02:22:38.000Z",
+      "text": "@YusukeNakanish3\nさん、\n@yoshi_datavizjp\nさん\n#Vizトーク\nおかげでまた新しい世界に踏み出せました。感謝です\nClaudeと会話してみて、他のAIとの違いを感じました。はっとする気づきあり。\n複数の情報ソースで検証することの重要性と同様、複数のAIに聞く、という世界も広がっていきそうですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1946395223229399069",
+      "url": "https://x.com/michi_TaToTsu/status/1946395223229399069",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-19T02:22:38.000Z",
+      "text": "@YusukeNakanish3\nさん、\n@yoshi_datavizjp\nさん\n#Vizトーク\n荒川さんのわかりやすいブログとともにTableau MCPトライ\n設定はすべて完了、Claudeさんと会話、と、Claudeは無料版ではだめなことに気づき\n解約方法追加っておっしゃってましたもんね。近いうちに目いっぱい試せる時間を作って体験します",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    }
+  ]
+}

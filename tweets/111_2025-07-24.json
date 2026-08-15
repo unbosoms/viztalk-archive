@@ -1,0 +1,474 @@
+{
+  "episode": 111,
+  "date": "2025-07-24",
+  "collected_at": "2026-08-15T07:09:53.514Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 29,
+  "tweets": [
+    {
+      "id": "1948353848722030888",
+      "url": "https://x.com/YusukeNakanish3/status/1948353848722030888",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T12:05:30.000Z",
+      "text": "今日も2230ごろからやります！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1948378288491303191",
+      "url": "https://x.com/YusukeNakanish3/status/1948378288491303191",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:42:37.000Z",
+      "text": "#Vizトーク\n今週のWOWは2017のリバイバル回。\nですがページがうまく更新されてなさそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1948378709590942179",
+      "url": "https://x.com/YusukeNakanish3/status/1948378709590942179",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:44:18.000Z",
+      "text": "#Vizトーク Week29は組み合わせを考えるのが楽しかったです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948379494877667462",
+      "url": "https://x.com/YusukeNakanish3/status/1948379494877667462",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:47:25.000Z",
+      "text": "#Vizトーク\nLod派と表計算派の話。\nPublicだと表計算派ですが業務だとLOD派です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948379579875561722",
+      "url": "https://x.com/Dandee_House/status/1948379579875561722",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T13:47:45.000Z",
+      "text": "#Vizトーク\n表計算は設計書に残しづらいという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948380067740242167",
+      "url": "https://x.com/YusukeNakanish3/status/1948380067740242167",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:49:41.000Z",
+      "text": "#Vizトーク わりとよくあると思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1948381599659340126",
+      "url": "https://x.com/YusukeNakanish3/status/1948381599659340126",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:55:47.000Z",
+      "text": "#Vizトーク 私の出題回。\n動的カラーレンジを触ってみよう回です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948382053809930305",
+      "url": "https://x.com/YusukeNakanish3/status/1948382053809930305",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T13:57:35.000Z",
+      "text": "#Vizトーク 10位入賞できました！いいねいただいた方ありがとうございました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1948382916959936726",
+      "url": "https://x.com/YusukeNakanish3/status/1948382916959936726",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:01:01.000Z",
+      "text": "#Vizトーク\nフォントはこちら使ってます(再)",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948385011205611903",
+      "url": "https://x.com/TIkeda93820944/status/1948385011205611903",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2025-07-24T14:09:20.000Z",
+      "text": "#Vizトーク　\n#DataPlusMoviesJP　第1回〜第3回まですべて大阪の方が1位を取ってるということに今気づきました。\n関西強し。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1948385796228370813",
+      "url": "https://x.com/YusukeNakanish3/status/1948385796228370813",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:12:27.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1948385894664474742",
+      "url": "https://x.com/tesshin_tableau/status/1948385894664474742",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-07-24T14:12:51.000Z",
+      "text": "WOW生配信を早めに終わらせ #Vizトーク へ合流",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1948386441802752421",
+      "url": "https://x.com/ksnjr24/status/1948386441802752421",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-07-24T14:15:01.000Z",
+      "text": "Alexanderさん枠\ntableau2050.1を使っている説\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1948386453853024706",
+      "url": "https://x.com/tesshin_tableau/status/1948386453853024706",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-07-24T14:15:04.000Z",
+      "text": "初回Santasさんです　#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1948386957509238805",
+      "url": "https://x.com/ksnjr24/status/1948386957509238805",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-07-24T14:17:04.000Z",
+      "text": "大阪で生まれたvizやさかい…♪\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948387734416154644",
+      "url": "https://x.com/Dandee_House/status/1948387734416154644",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:20:09.000Z",
+      "text": "#Vizトーク\n改めて Figma to Tableau",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1948388604889161762",
+      "url": "https://x.com/TIkeda93820944/status/1948388604889161762",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2025-07-24T14:23:37.000Z",
+      "text": "#Vizトーク\nみんなCanvaでデザインしていたのか、、、（自分パワポ派）\nCanva使わなきゃ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1948389443813167177",
+      "url": "https://x.com/Dandee_House/status/1948389443813167177",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:26:57.000Z",
+      "text": "#Vizトーク\nもりたさんがTabjoのアドベントカレンダーに投稿されていたネタ。パワポ使って文字を（Tableauの標準で選択できる以上に）大きくできるよーというネタ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1948389681588040037",
+      "url": "https://x.com/Dandee_House/status/1948389681588040037",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:27:54.000Z",
+      "text": "#Vizトーク\n小さくな〜れ！もあります",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1948389992050417996",
+      "url": "https://x.com/YusukeNakanish3/status/1948389992050417996",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:29:08.000Z",
+      "text": "#Vizトーク\n\nTableau デフォルトカラーパレットを変更する｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1948390912536822090",
+      "url": "https://x.com/michi_TaToTsu/status/1948390912536822090",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-07-24T14:32:47.000Z",
+      "text": "#Vizトーク\nカラーパレットのデフォルト表示、先日やってみました！ほんと、これを発見されたのすごいです！そして共有ありがとうございます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1948391876740161554",
+      "url": "https://x.com/Dandee_House/status/1948391876740161554",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:36:37.000Z",
+      "text": "#Vizトーク\nなぜか（TS基礎を除いて）一番見られていた記事はこちら\n\nURLパラメータによるダッシュボードのフィルタ仕様を理解する",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1948393039954899273",
+      "url": "https://x.com/Dandee_House/status/1948393039954899273",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:41:14.000Z",
+      "text": "#Vizトーク\nいま、この話をしています",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1948393155755393089",
+      "url": "https://x.com/YusukeNakanish3/status/1948393155755393089",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:41:42.000Z",
+      "text": "#Vizトーク \nこんな感じで覚えようとしてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1948394039046447445",
+      "url": "https://x.com/YusukeNakanish3/status/1948394039046447445",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:45:12.000Z",
+      "text": "#Vizトーク \n色彩検定UC級はほんとにおすすめです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1948394745044029662",
+      "url": "https://x.com/Dandee_House/status/1948394745044029662",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-07-24T14:48:01.000Z",
+      "text": "#Vizトーク UCって宇宙世紀じゃないですからね。一応",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1948395294711783750",
+      "url": "https://x.com/YusukeNakanish3/status/1948395294711783750",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:50:12.000Z",
+      "text": "#Vizトーク \n週末、来週のイベントはこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1948396025300877571",
+      "url": "https://x.com/YusukeNakanish3/status/1948396025300877571",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:53:06.000Z",
+      "text": "#Vizトーク #Vizts \nカジュアルVizつくりまShow!は来週7/31(木) 20:00～です！\n参加登録まだの方はぜひ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1948396401253343522",
+      "url": "https://x.com/YusukeNakanish3/status/1948396401253343522",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-07-24T14:54:36.000Z",
+      "text": "#Vizトーク 8/2土のがやがや回も若干空きがでたようなのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    }
+  ]
+}
