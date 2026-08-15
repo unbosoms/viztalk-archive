@@ -915,11 +915,6 @@ def build_episodes_list(episodes):
 
     # フラット化: 年グループは廃止して全カードを1リストに
     all_cards_html = "".join(render_ep_card(ep) for ep in valid)
-    years_desc = sorted({ep["date"][:4] for ep in valid}, reverse=True)
-    year_nav = " ".join(
-        f'<a href="#" onclick="jumpToYear(\'{y}\');return false;">{y}</a>'
-        for y in years_desc
-    )
 
     # スピーカー・タグ フィルタ選択肢UI
     speakers_ui = ""
@@ -986,8 +981,6 @@ def build_episodes_list(episodes):
   </div>
 
   <div class="year-nav-row">
-    <span class="text-muted" style="font-size:12px;">ジャンプ:</span>
-    {year_nav}
     <span class="ep-list-summary" id="ep-list-summary"></span>
   </div>
 
@@ -1006,17 +999,6 @@ const state = {{
   sort: "date-desc",
 }};
 
-function jumpToYear(year) {{
-  const cards = document.querySelectorAll(`.ep-card[data-year="${{year}}"]`);
-  for (const c of cards) {{
-    if (c.style.display !== "none") {{
-      c.scrollIntoView({{behavior: "smooth", block: "start"}});
-      c.classList.add("scroll-target-flash");
-      setTimeout(() => c.classList.remove("scroll-target-flash"), 2400);
-      return;
-    }}
-  }}
-}}
 function setView(mode) {{
   const list = document.getElementById("ep-list");
   list.classList.toggle("view-compact", mode === "compact");
