@@ -1,0 +1,314 @@
+{
+  "episode": 128,
+  "date": "2026-01-29",
+  "collected_at": "2026-08-15T06:19:00.512Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 19,
+  "tweets": [
+    {
+      "id": "2016829988906160586",
+      "url": "https://x.com/YusukeNakanish3/status/2016829988906160586",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T11:05:14.000Z",
+      "text": "#Vizトーク 今日は23時ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2016876662898774342",
+      "url": "https://x.com/YusukeNakanish3/status/2016876662898774342",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:10:42.000Z",
+      "text": "#Vizトーク\nWOWの去年の私の作成回について。\nDynamic Dimension Coloring\n\nhttps://\nworkout-wednesday.com/2025w42tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2016877091984412938",
+      "url": "https://x.com/_Chasoso/status/2016877091984412938",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-29T14:12:25.000Z",
+      "text": "#Vizトーク\nこの部分が押せます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2016877650703503655",
+      "url": "https://x.com/_Chasoso/status/2016877650703503655",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-29T14:14:38.000Z",
+      "text": "#Vizトーク\n2026.1がやってくるぞ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2016877988818899241",
+      "url": "https://x.com/YusukeNakanish3/status/2016877988818899241",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:15:58.000Z",
+      "text": "#Vizトーク Tableauの新機能紹介ウェビナー、どなたでも聞けますのでぜひ。\n\nhttps://\nusergroups.tableau.com/events/details\n/tableau-datafam-discovery-presents-inside-track-on-20261-apac-friendly/\n…\nI'm attending Tableau DataFam Discovery w/ Inside Track on 2026.1  (APAC friendly) on Feb 2. #DataFam #TableauUserGroups",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2016879010064847270",
+      "url": "https://x.com/YusukeNakanish3/status/2016879010064847270",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:20:02.000Z",
+      "text": "#Vizトーク Tableau2026.2の新機能はRintaroさんポストのリンクから見れます。今回はPrepも新機能が！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2016883518576742769",
+      "url": "https://x.com/_Chasoso/status/2016883518576742769",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-29T14:37:57.000Z",
+      "text": "#Vizトーク\n大人気イベントです。\n\nhttps://\ntechplay.jp/event/990675",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2016883848337117533",
+      "url": "https://x.com/YusukeNakanish3/status/2016883848337117533",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:39:15.000Z",
+      "text": "#Vizトーク Tableau Now!　〜 BI × AI の現在地と未来 〜\n2026/02/26(木) 18:00〜21:00からです。現地参加予定。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2016884238029902100",
+      "url": "https://x.com/YusukeNakanish3/status/2016884238029902100",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:40:48.000Z",
+      "text": "#Vizトーク Tableau Public MCP触ってみました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2016885095605686362",
+      "url": "https://x.com/YusukeNakanish3/status/2016885095605686362",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:44:13.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2016885882016715107",
+      "url": "https://x.com/_Chasoso/status/2016885882016715107",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-29T14:47:20.000Z",
+      "text": "#Vizトーク\nそういえば、今度のTableau Public TUGでお話しします。\nその中で、WillさんにTableau Public MCPのデモをしていただける予定。\n\nhttps://\nusergroups.tableau.com/events/details\n/tableau-tableau-public-user-group-presents-february-tableau-public-tug-back2viz-basics-tug-collaboration-event/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 23
+      }
+    },
+    {
+      "id": "2016885946621583705",
+      "url": "https://x.com/YusukeNakanish3/status/2016885946621583705",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:47:36.000Z",
+      "text": "#Vizトーク こんな感じで雑な指示でいけます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2016886853685944574",
+      "url": "https://x.com/YusukeNakanish3/status/2016886853685944574",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T14:51:12.000Z",
+      "text": "#Vizトーク\n錚々たる面子。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2016890216045559926",
+      "url": "https://x.com/YusukeNakanish3/status/2016890216045559926",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T15:04:34.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2016890719626285180",
+      "url": "https://x.com/YusukeNakanish3/status/2016890719626285180",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T15:06:34.000Z",
+      "text": "#Vizトーク 2/07(土)14:00〜17:00で関西がやがや会あります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2016891024770290021",
+      "url": "https://x.com/YusukeNakanish3/status/2016891024770290021",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T15:07:46.000Z",
+      "text": "#Vizトーク カジュアルVizつくりまShowもあります！\n2026/02/16(月) 20:00〜21:30\n\nhttps://\ntechplay.jp/event/991349 #VizTS",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2016891469848862822",
+      "url": "https://x.com/YusukeNakanish3/status/2016891469848862822",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T15:09:33.000Z",
+      "text": "#Vizトーク #Ironviz 2026のファイナリスト発表もあります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2016891848774869341",
+      "url": "https://x.com/YusukeNakanish3/status/2016891848774869341",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-29T15:11:03.000Z",
+      "text": "#Vizトーク 丁度いいので来週は #Ironviz のTop10Vizについて語ろうと思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2016892054551613874",
+      "url": "https://x.com/yamacho1111/status/2016892054551613874",
+      "author_name": "やまちょ【公式】",
+      "author_handle": "yamacho1111",
+      "posted_at": "2026-01-29T15:11:52.000Z",
+      "text": "ここに #Tableau山手線一周ウォーキング会 は載らない #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

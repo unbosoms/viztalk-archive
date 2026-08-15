@@ -1,0 +1,314 @@
+{
+  "episode": 126,
+  "date": "2026-01-08",
+  "collected_at": "2026-08-15T06:21:08.493Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 19,
+  "tweets": [
+    {
+      "id": "2009259143056478240",
+      "url": "https://x.com/YusukeNakanish3/status/2009259143056478240",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T13:41:24.000Z",
+      "text": "#Vizトーク 今日は23時ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2009266871111913584",
+      "url": "https://x.com/_Chasoso/status/2009266871111913584",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:12:07.000Z",
+      "text": "#Vizトーク\nMakeover MondayやBack to Viz Basicsの話\n年の初めくらいはやりたいね、という話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2009266935238955164",
+      "url": "https://x.com/YusukeNakanish3/status/2009266935238955164",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:12:22.000Z",
+      "text": "#Vizトーク はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2009267168794337525",
+      "url": "https://x.com/_Chasoso/status/2009267168794337525",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:13:18.000Z",
+      "text": "#Vizトーク\nBack to Viz Basicsは公式アカウントができていますね\n\n@back2vizbasics",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2009267314835767330",
+      "url": "https://x.com/YusukeNakanish3/status/2009267314835767330",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:13:52.000Z",
+      "text": "#Vizトーク #MakeoverMonday Week01\nThe 10 Tallest Roller Coasters in the World",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2009268881492418907",
+      "url": "https://x.com/YusukeNakanish3/status/2009268881492418907",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:20:06.000Z",
+      "text": "#Vizトーク\nTableau Public Api使ってView数の振り返り。\nWOWの出題回が伸びるのは当然として、Viz操作して要件確認する系が上位に。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2009269149793394799",
+      "url": "https://x.com/YusukeNakanish3/status/2009269149793394799",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:21:10.000Z",
+      "text": "#Vizトーク 酒井さんの振り返りViz。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2009269961181508073",
+      "url": "https://x.com/YusukeNakanish3/status/2009269961181508073",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:24:23.000Z",
+      "text": "#Vizトーク \n@pyonpyon_tab\n さんのTipsを元に枠を点線にしてみたViz。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2009270108581998775",
+      "url": "https://x.com/_Chasoso/status/2009270108581998775",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:24:58.000Z",
+      "text": "#Vizトーク\n私もAWS個人環境のDynamoDBに、Tableau Publicのビュー数のデータを毎日ためてます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2009270454301888794",
+      "url": "https://x.com/YusukeNakanish3/status/2009270454301888794",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:26:21.000Z",
+      "text": "#Vizトーク 機能改善投票について。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2009271693366202787",
+      "url": "https://x.com/YusukeNakanish3/status/2009271693366202787",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:31:16.000Z",
+      "text": "#Vizトーク Trailheadでこんな感じでTableau資格の更新ができるようになってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2009274901081768227",
+      "url": "https://x.com/_Chasoso/status/2009274901081768227",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:44:01.000Z",
+      "text": "#Vizトーク\n最近昼休みに1時間ずつ見てます\nおすすめです",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2009276486520299699",
+      "url": "https://x.com/YusukeNakanish3/status/2009276486520299699",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T14:50:19.000Z",
+      "text": "#Vizトーク 翻訳はこちら契約してます。良すぎて頼ってしまうので英語の勉強時は封印してます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2009277158099693897",
+      "url": "https://x.com/_Chasoso/status/2009277158099693897",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:52:59.000Z",
+      "text": "#Vizトーク\nサブスクは定期的に見直そう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2009277891486306488",
+      "url": "https://x.com/_Chasoso/status/2009277891486306488",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T14:55:54.000Z",
+      "text": "#Vizトーク\nいつ見てもイカれているTableau Serverの要求スペック\n\nhttps://\nhelp.tableau.com/current/server\n/ja-jp/server_hardware_min.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2009279529794044054",
+      "url": "https://x.com/YusukeNakanish3/status/2009279529794044054",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T15:02:25.000Z",
+      "text": "#Vizトーク Tableau Desktopもログ定期的に消さないといけない。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2009280032309498264",
+      "url": "https://x.com/_Chasoso/status/2009280032309498264",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-01-08T15:04:24.000Z",
+      "text": "#Vizトーク\nマシンの余裕は心の余裕",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2009280069110305193",
+      "url": "https://x.com/YusukeNakanish3/status/2009280069110305193",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T15:04:33.000Z",
+      "text": "#Vizトーク \n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2009281047196741708",
+      "url": "https://x.com/YusukeNakanish3/status/2009281047196741708",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-08T15:08:26.000Z",
+      "text": "#Vizトーク DATA Saberの応募は1月末まで！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    }
+  ]
+}

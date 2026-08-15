@@ -1,0 +1,666 @@
+{
+  "episode": 123,
+  "date": "2025-12-04",
+  "collected_at": "2026-08-15T06:25:10.179Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 41,
+  "tweets": [
+    {
+      "id": "1996420657601802702",
+      "url": "https://x.com/YusukeNakanish3/status/1996420657601802702",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T03:25:51.000Z",
+      "text": "#Vizトーク 今日も22:30ごろからやります！\n昨日出たTableau2025.3の新機能について語る予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 5,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1996575906815529374",
+      "url": "https://x.com/YusukeNakanish3/status/1996575906815529374",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T13:42:45.000Z",
+      "text": "#Vizトーク はじめてます！今日リリースされたTableau2025.3の新機能について実際に触れながら語ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1996576175737716964",
+      "url": "https://x.com/YusukeNakanish3/status/1996576175737716964",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T13:43:49.000Z",
+      "text": "#Vizトーク\nViz拡張機能の強化。表の数値フィルターはまだ改善されてなさそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1996576946814361638",
+      "url": "https://x.com/_Chasoso/status/1996576946814361638",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T13:46:53.000Z",
+      "text": "#Vizトーク\n拡張機能、あんまり使っていなくて何が変わっているのか分からないよ…という話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1996577926608007529",
+      "url": "https://x.com/YusukeNakanish3/status/1996577926608007529",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T13:50:46.000Z",
+      "text": "#Vizトーク\nサンバーストも手軽にできるように。\nリングごとに色の割当変えられないのが惜しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1996578098901356557",
+      "url": "https://x.com/_Chasoso/status/1996578098901356557",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T13:51:28.000Z",
+      "text": "#Vizトーク\n内周と外周で色が変えられない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1996578766827737419",
+      "url": "https://x.com/_Chasoso/status/1996578766827737419",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T13:54:07.000Z",
+      "text": "#Vizトーク\nRadial Chartをスタートする角度を調整可能！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1996579037133840599",
+      "url": "https://x.com/YusukeNakanish3/status/1996579037133840599",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T13:55:11.000Z",
+      "text": "#Vizトーク\nスタートの角度変えられるのはアツい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1996579922387796154",
+      "url": "https://x.com/unbosoms/status/1996579922387796154",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T13:58:42.000Z",
+      "text": "MIN(1)を書かずにドーナツかけるのはありがたい。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1996580504532062259",
+      "url": "https://x.com/YusukeNakanish3/status/1996580504532062259",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:01:01.000Z",
+      "text": "#Vizトーク\nこういうのが簡単にできるように。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1996580986394673398",
+      "url": "https://x.com/_Chasoso/status/1996580986394673398",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:02:56.000Z",
+      "text": "#Vizトーク\n一応、数値は出ます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1996581198139990430",
+      "url": "https://x.com/unbosoms/status/1996581198139990430",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T14:03:46.000Z",
+      "text": "カスタムカラーパレットあった！ #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1996581648155238416",
+      "url": "https://x.com/unbosoms/status/1996581648155238416",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T14:05:34.000Z",
+      "text": "カスタムカラーパレットの画面。ふむふむ。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1996582049982058934",
+      "url": "https://x.com/_Chasoso/status/1996582049982058934",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:07:10.000Z",
+      "text": "#Vizトーク\n分化とシーケンシャルも設定できます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1996582098715701433",
+      "url": "https://x.com/YusukeNakanish3/status/1996582098715701433",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:07:21.000Z",
+      "text": "#Vizトーク\nデフォルトをいじる裏技やってるとエラーになりますね…\n自業自得…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1996582453071557107",
+      "url": "https://x.com/_Chasoso/status/1996582453071557107",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:08:46.000Z",
+      "text": "#Vizトーク\n分化、真ん中の色も設定できます。便利。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 32
+      }
+    },
+    {
+      "id": "1996582593899429922",
+      "url": "https://x.com/YusukeNakanish3/status/1996582593899429922",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:09:19.000Z",
+      "text": "#Vizトーク\nシーケンシャルいけるの熱い。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1996582608072069436",
+      "url": "https://x.com/unbosoms/status/1996582608072069436",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T14:09:23.000Z",
+      "text": "連続値を色に入れてカスタムパレットの作成をすればシーケンシャルなカラーパレットも作れる。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1996583293504847919",
+      "url": "https://x.com/unbosoms/status/1996583293504847919",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T14:12:06.000Z",
+      "text": "表示形式のViz作成がTableau Serverに対応したとのこと。この機能WEB編集でも使えたんですね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1996584915060527205",
+      "url": "https://x.com/YusukeNakanish3/status/1996584915060527205",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:18:33.000Z",
+      "text": "#Vizトーク\nワークブックにカラーテーマあてれるように。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1996585373745684540",
+      "url": "https://x.com/_Chasoso/status/1996585373745684540",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:20:22.000Z",
+      "text": "#Vizトーク\nついでにこの面白バグもDesktopで出るようになりました。ダブルバイト文字環境だと発生します。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1996586532392804812",
+      "url": "https://x.com/antipop1/status/1996586532392804812",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-12-04T14:24:58.000Z",
+      "text": "#Vizトーク\nなるほど、2バイト対応できてない系のバグなんですね…（数年前のPrep出力データソース名事故を思い出しながら遠い目をする人）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1996586799700103485",
+      "url": "https://x.com/YusukeNakanish3/status/1996586799700103485",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:26:02.000Z",
+      "text": "#Vizトーク\nおすすめ作成者、「すべて表示」を押すと各作成者のVizを並べて見れます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1996588007399289131",
+      "url": "https://x.com/antipop1/status/1996588007399289131",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-12-04T14:30:50.000Z",
+      "text": "#Vizトーク\n今年、Prepくんのバージョンアップするする詐欺が多発してるのが悲しいです…。In-DatabaseProcessingもですが、この辺りも凄い楽しみにしてたのに…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1996588023245684991",
+      "url": "https://x.com/YusukeNakanish3/status/1996588023245684991",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:30:54.000Z",
+      "text": "#Vizトーク\nTableau ServerでのTableau Agent。これは試してみたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1996590209505616222",
+      "url": "https://x.com/unbosoms/status/1996590209505616222",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T14:39:35.000Z",
+      "text": "Prepはコマンドライン実行してる方が安定しているとのこと。GUIだとこけることがちょくちょくある。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1996591203316637768",
+      "url": "https://x.com/antipop1/status/1996591203316637768",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-12-04T14:43:32.000Z",
+      "text": "#Vizトーク\nPrepくんはPrepBuilderのCLI実行が一番安定する説、めちゃわかります…。体感的には、CLI>>>>>>>>>>>>>>Cloud>=PrepBuilder手動実行、くらいの印象（たまにローカルの方がいいというケースにも遭遇しますが…）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1996591524763828292",
+      "url": "https://x.com/_Chasoso/status/1996591524763828292",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:44:49.000Z",
+      "text": "#Vizトーク\n\n@ladataviz\n さんの拡張機能。本当にすごい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1996594765509582916",
+      "url": "https://x.com/_Chasoso/status/1996594765509582916",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T14:57:41.000Z",
+      "text": "#Vizトーク\nJTUG総会、タイムテーブル出揃ってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1996595032074096715",
+      "url": "https://x.com/YusukeNakanish3/status/1996595032074096715",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T14:58:45.000Z",
+      "text": "#Vizトーク #JTUG 総会、まだまだ登録受付けてますのでぜひ。全セッション楽しみですが、山辺さんの基調講演を非常に楽しみにしてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1996595544517750908",
+      "url": "https://x.com/unbosoms/status/1996595544517750908",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T15:00:47.000Z",
+      "text": "#JTUG総会、データビジュアライゼーションのためのデザイン原則の日本語監修もされている山辺先生の講演がとても楽しみ！「可視化は対話を生み出すデザイン」\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 9,
+        "likes": 41
+      }
+    },
+    {
+      "id": "1996595800869323049",
+      "url": "https://x.com/YusukeNakanish3/status/1996595800869323049",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T15:01:48.000Z",
+      "text": "#Vizトーク こちらおすすめです。\nmochikoAsTech | 届ける工夫 ～欲しい誰かに見つけてもらえる60の方法～ #技術書典",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 23
+      }
+    },
+    {
+      "id": "1996596020466376974",
+      "url": "https://x.com/YusukeNakanish3/status/1996596020466376974",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T15:02:40.000Z",
+      "text": "#Vizトーク 同じ著者のこちらもおすすめです！\nmochikoAsTech | 読み手につたわる文章 - テクニカルライティング #技術書典",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1996596031644119257",
+      "url": "https://x.com/unbosoms/status/1996596031644119257",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T15:02:43.000Z",
+      "text": "#JTUG総会 のこのあたり、全然体が足りない...\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1996596568766750977",
+      "url": "https://x.com/ksnjr24/status/1996596568766750977",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-04T15:04:51.000Z",
+      "text": "さかぴーさん、森田さんが審査員\n緊張する…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1996597240656183755",
+      "url": "https://x.com/unbosoms/status/1996597240656183755",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T15:07:31.000Z",
+      "text": "VizつくりまShowも盛り上がり必至！\n#JTUG総会 #VizTS #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 28
+      }
+    },
+    {
+      "id": "1996597491786207440",
+      "url": "https://x.com/YusukeNakanish3/status/1996597491786207440",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-04T15:08:31.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1996598732620533984",
+      "url": "https://x.com/unbosoms/status/1996598732620533984",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T15:13:27.000Z",
+      "text": "Tableauマサラ部なんてあるのか！ユーザー会の多様性がひろがっている...!! #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1996599080806719731",
+      "url": "https://x.com/unbosoms/status/1996599080806719731",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-12-04T15:14:50.000Z",
+      "text": "わからないけど、もしTableau+じゃなくてもTableau Agentが使えるならかなりアツいのでは...??? #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1996599252840218654",
+      "url": "https://x.com/_Chasoso/status/1996599252840218654",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-04T15:15:31.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1996790827042116053",
+      "url": "https://x.com/michi_TaToTsu/status/1996790827042116053",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-12-05T03:56:46.000Z",
+      "text": "#Vizトーク　第123回　#Tableau\n2025.3今朝インストールして拝聴。新機能トーク、毎回私の新機能ことはじめになってます。\n今回の新機能、なんか楽しいの多いですね。拡張機能、こんなに？「俺のカラーパレット」作りますｗｗ\n\n@YusukeNakanish3\n さん、\n@unbosoms\n さん、\n@_Chasoso\n さん 感謝です",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 4
+      }
+    }
+  ]
+}

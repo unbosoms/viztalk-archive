@@ -1,0 +1,442 @@
+{
+  "episode": 125,
+  "date": "2025-12-25",
+  "collected_at": "2026-08-15T06:22:04.310Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 27,
+  "tweets": [
+    {
+      "id": "2004187976084132167",
+      "url": "https://x.com/YusukeNakanish3/status/2004187976084132167",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T13:50:24.000Z",
+      "text": "#Vizトーク 23時から1hだけやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2004193117113864442",
+      "url": "https://x.com/YusukeNakanish3/status/2004193117113864442",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:10:49.000Z",
+      "text": "#Vizトーク #JTUG総会 のレポート記事拝見しつつ振り返ります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2004193904653226071",
+      "url": "https://x.com/_Chasoso/status/2004193904653226071",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-25T14:13:57.000Z",
+      "text": "#Vizトーク\n#JTUG総会 の振り返りをしてます\nJTUGサポーターズなので、スピーカー2人ともあまりコンテンツは見れていない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2004193985674596501",
+      "url": "https://x.com/YusukeNakanish3/status/2004193985674596501",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:14:16.000Z",
+      "text": "#Vizトーク ちゃんと通して参加したのがTipsBattleとつくりまShowぐらいなので、まずはTipsBattleから。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2004194249714422121",
+      "url": "https://x.com/YusukeNakanish3/status/2004194249714422121",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:15:19.000Z",
+      "text": "#Vizトーク たばたさんもTipsBattleの記事あげられてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2004194600135860661",
+      "url": "https://x.com/YusukeNakanish3/status/2004194600135860661",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:16:43.000Z",
+      "text": "#Vizトーク mitamuuさんのTipsBattle記事。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2004197178693357859",
+      "url": "https://x.com/YusukeNakanish3/status/2004197178693357859",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:26:58.000Z",
+      "text": "#Vizトーク \nJTUG総会2025_Tips Battle \nhttps://\npublic.tableau.com/views/JTUG2025\n_TipsBattle/sheet0?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link\n… \n@tableaupublic\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2004197733490692461",
+      "url": "https://x.com/HideakiShiihara/status/2004197733490692461",
+      "author_name": "Hideaki Shiihara",
+      "author_handle": "HideakiShiihara",
+      "posted_at": "2025-12-25T14:29:10.000Z",
+      "text": "#Vizトーク\nグリッドのオプションしらなかったー",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2004197856874524777",
+      "url": "https://x.com/YusukeNakanish3/status/2004197856874524777",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:29:39.000Z",
+      "text": "#Vizトーク\nダッシュボードのグリッドサイズを変えるTips。\nダッシュボード→グリッドオプション から変更できます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2004198936941416748",
+      "url": "https://x.com/YusukeNakanish3/status/2004198936941416748",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:33:57.000Z",
+      "text": "#Vizトーク\n手動でのサイズ変更をクリアするTips。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2004199260074697188",
+      "url": "https://x.com/YusukeNakanish3/status/2004199260074697188",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:35:14.000Z",
+      "text": "#Vizトーク\nメジャー名を上にだすTips。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2004201294102462716",
+      "url": "https://x.com/YusukeNakanish3/status/2004201294102462716",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:43:19.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2004201709246304542",
+      "url": "https://x.com/YusukeNakanish3/status/2004201709246304542",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:44:58.000Z",
+      "text": "#Vizトーク 去年のわたしのTipsBattle紹介記事です。\n\nJTUG 総会Tips Battle おまけ｜Yusuke Nakanishi \n@YusukeNakanish3\n #今年学んだこと",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2004202322872959416",
+      "url": "https://x.com/_Chasoso/status/2004202322872959416",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-25T14:47:24.000Z",
+      "text": "#Vizトーク\n有用だけどイカれたNakanishiさんのTips",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 18
+      }
+    },
+    {
+      "id": "2004203655613108601",
+      "url": "https://x.com/ksnjr24/status/2004203655613108601",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-25T14:52:42.000Z",
+      "text": "#Vizトーク\nゲーミング用キーボード、マウス、安かったので買ってみた",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2004204569681854502",
+      "url": "https://x.com/YusukeNakanish3/status/2004204569681854502",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:56:20.000Z",
+      "text": "#Vizトーク Snowflakeすごい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2004204702905643099",
+      "url": "https://x.com/_Chasoso/status/2004204702905643099",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-25T14:56:52.000Z",
+      "text": "#Vizトーク\nJTUG総会当日はこんな感じでキーボード持ち歩いてました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2004204761290355085",
+      "url": "https://x.com/YusukeNakanish3/status/2004204761290355085",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T14:57:06.000Z",
+      "text": "#Vizトーク これすごい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2004206913349996724",
+      "url": "https://x.com/YusukeNakanish3/status/2004206913349996724",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:05:39.000Z",
+      "text": "#Vizトーク\n決勝問題。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2004208892730134811",
+      "url": "https://x.com/YusukeNakanish3/status/2004208892730134811",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:13:31.000Z",
+      "text": "#Vizトーク #JTUG総会 の基調講演ご登壇いただいた山辺さんが登壇される #datavizjp はオンラインもありますのでぜひ！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2004209403881517437",
+      "url": "https://x.com/_Chasoso/status/2004209403881517437",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-25T15:15:32.000Z",
+      "text": "#Vizトーク\n申し込みdone",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2004211170031624674",
+      "url": "https://x.com/YusukeNakanish3/status/2004211170031624674",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:22:34.000Z",
+      "text": "#Vizトーク 色彩検定UC級は本当におすすめです。\n教科書買って読むだけでもだいぶわかりやすいグラフ・資料が作れるようになるはず。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2004211247865385256",
+      "url": "https://x.com/_Chasoso/status/2004211247865385256",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-25T15:22:52.000Z",
+      "text": "#Vizトーク\n色覚異常の方が見やすいかどうか、Chrome等の開発者ツールでエミュレートできます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2004212454277190134",
+      "url": "https://x.com/ksnjr24/status/2004212454277190134",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-25T15:27:40.000Z",
+      "text": "クリスマスに集まる人たち\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 16
+      }
+    },
+    {
+      "id": "2004212543985013219",
+      "url": "https://x.com/YusukeNakanish3/status/2004212543985013219",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:28:01.000Z",
+      "text": "#Vizトーク 手書き論述辛かった記憶。\n【受験記】IoTシステム技術検定　上級に合格しました｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2004214176710119519",
+      "url": "https://x.com/YusukeNakanish3/status/2004214176710119519",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:34:30.000Z",
+      "text": "#Vizトーク \n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2004215294949314564",
+      "url": "https://x.com/YusukeNakanish3/status/2004215294949314564",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-25T15:38:57.000Z",
+      "text": "#Vizトーク #JTUG総会 参加された方はメールからアンケート回答おねがいします！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 7
+      }
+    }
+  ]
+}

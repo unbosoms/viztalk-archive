@@ -1,0 +1,378 @@
+{
+  "episode": 127,
+  "date": "2026-01-22",
+  "collected_at": "2026-08-15T06:20:19.807Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 23,
+  "tweets": [
+    {
+      "id": "2014270629542064177",
+      "url": "https://x.com/YusukeNakanish3/status/2014270629542064177",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T09:35:16.000Z",
+      "text": "#Vizトーク 今日は22時ごろからやります！\n\n@yoshi_datavizjp\n さんとWOW他AIの話などする予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2014324218297790633",
+      "url": "https://x.com/yoshi_datavizjp/status/2014324218297790633",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-01-22T13:08:12.000Z",
+      "text": "本日さかぴーさんはこちらのイベントにご登壇の様子\n\nhttps://\nwest-sec.connpass.com/event/376054/\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2014324439341785515",
+      "url": "https://x.com/YusukeNakanish3/status/2014324439341785515",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T13:09:05.000Z",
+      "text": "#Vizトーク はじめてます！ \n@yoshi_datavizjp\n さんとAI他語ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2014324781294952891",
+      "url": "https://x.com/YusukeNakanish3/status/2014324781294952891",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T13:10:26.000Z",
+      "text": "#Vizトーク こちらもぜひ御覧ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2014327206349291631",
+      "url": "https://x.com/yoshi_datavizjp/status/2014327206349291631",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-01-22T13:20:05.000Z",
+      "text": "Tableau Public MCPにすごいツールがある #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2014328057738535234",
+      "url": "https://x.com/YusukeNakanish3/status/2014328057738535234",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T13:23:28.000Z",
+      "text": "#Vizトーク \nTWBX Analysis Toolsがすごそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2014330539105513945",
+      "url": "https://x.com/yoshi_datavizjp/status/2014330539105513945",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-01-22T13:33:19.000Z",
+      "text": "公式Tableau MCPに追加してほしい（Prep Analysis Toolsも追加してほしい）\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2014331108427780475",
+      "url": "https://x.com/YusukeNakanish3/status/2014331108427780475",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T13:35:35.000Z",
+      "text": "#vizトーク TWBX Analysis Toolsでワークブックのマニュアルを逆に作ることもできるかも？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2014336162241126402",
+      "url": "https://x.com/YusukeNakanish3/status/2014336162241126402",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T13:55:40.000Z",
+      "text": "#Vizトーク \nTableau Now!　〜 BI × AI の現在地と未来 〜 \nhttps://\ntechplay.jp/event/990675?u\ntm_source=event_990675&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #Tableau #JTUG #Meetup #データ分析",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2014336651804508420",
+      "url": "https://x.com/yoshi_datavizjp/status/2014336651804508420",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-01-22T13:57:37.000Z",
+      "text": "Tableau Now!の告知が出て何を発表しようと考えている中で、更に発表候補ネタが増えました\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2014338808335282651",
+      "url": "https://x.com/YusukeNakanish3/status/2014338808335282651",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:06:11.000Z",
+      "text": "#Vizトーク #WOW2025 これから挑戦する方はぜひこちら見てからはじめてください！ Tab筋の鍛え方～WOW挑戦のススメ～ JTUG総会2025 Tabeau文化祭",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2014341467855368384",
+      "url": "https://x.com/YusukeNakanish3/status/2014341467855368384",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:16:45.000Z",
+      "text": "#Vizトーク LouisさんといろいろTableauについても意見交換できて楽しい夜でした！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2014341637812687333",
+      "url": "https://x.com/YusukeNakanish3/status/2014341637812687333",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:17:25.000Z",
+      "text": "#Vizトーク LouisさんのPublicはこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2014343354323284108",
+      "url": "https://x.com/YusukeNakanish3/status/2014343354323284108",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:24:15.000Z",
+      "text": "#Vizトーク \nBrittanyさんの 2026 Visionary Nominations Viz。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2014343989751865428",
+      "url": "https://x.com/YusukeNakanish3/status/2014343989751865428",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:26:46.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2014344464790442399",
+      "url": "https://x.com/yoshi_datavizjp/status/2014344464790442399",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-01-22T14:28:39.000Z",
+      "text": "シンプル面白そう...\n\nhttps://\ntechplay.jp/event/991013\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2014344552594002115",
+      "url": "https://x.com/YusukeNakanish3/status/2014344552594002115",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:29:00.000Z",
+      "text": "#Vizトーク 1/26（月）、梅田で第11回関西Tableauユーザー会あります！ぜひご参加ください。\n\n〜万博来場者データでワークショップ〜 \nhttps://\ntechplay.jp/event/991013?u\ntm_source=event_991013&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #Tableau #Meetup #初心者",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2014345427215393231",
+      "url": "https://x.com/YusukeNakanish3/status/2014345427215393231",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:32:29.000Z",
+      "text": "#Vizトーク 次回カジュアルVizつくりまShow！は2/16(月)です！ \nhttps://\ntechplay.jp/event/991349?u\ntm_source=event_991349&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #Tableau #初心者 #Meetup #データ分析",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2014345635919794451",
+      "url": "https://x.com/YusukeNakanish3/status/2014345635919794451",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:33:18.000Z",
+      "text": "#Vizトーク こちら社会人枠あり&オンラインありますのでぜひ！\n2026年 第1回 Tableau学生ユーザー会 \nhttps://\ntechplay.jp/event/990432?u\ntm_source=event_990432&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #Tableau #Tableau学生ユーザー会 #大学生 #LT（ライトニングトーク） #学生",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2014347042416660689",
+      "url": "https://x.com/YusukeNakanish3/status/2014347042416660689",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:38:54.000Z",
+      "text": "#Vizトーク \n統計グラフ全国コンクール\n\nhttps://\nsinfonica.or.jp/tokei/graph/g7\n3/list_0.html\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2014347424421335323",
+      "url": "https://x.com/YusukeNakanish3/status/2014347424421335323",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:40:25.000Z",
+      "text": "#Vizトーク こちらも楽しみです。Tableau界隈でもよく話題になるテーマですので気になった方はぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2014348749401883100",
+      "url": "https://x.com/YusukeNakanish3/status/2014348749401883100",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:45:41.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2014349892353933655",
+      "url": "https://x.com/YusukeNakanish3/status/2014349892353933655",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-01-22T14:50:13.000Z",
+      "text": "グラフ回とか統計データ活用回ありますね！\n\nhttps://\nedu.web.nhk/school/watch/b\nangumi/?das_id=D0005180236_00000\n…\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    }
+  ]
+}

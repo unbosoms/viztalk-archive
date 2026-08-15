@@ -1,0 +1,394 @@
+{
+  "episode": 124,
+  "date": "2025-12-18",
+  "collected_at": "2026-08-15T06:23:09.275Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 24,
+  "tweets": [
+    {
+      "id": "2001651065981477262",
+      "url": "https://x.com/YusukeNakanish3/status/2001651065981477262",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T13:49:37.000Z",
+      "text": "#Vizトーク 告知忘れてましたがこの後23:00-やります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2001656101847392659",
+      "url": "https://x.com/YusukeNakanish3/status/2001656101847392659",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T14:09:38.000Z",
+      "text": "#Vizトーク ゆるくはじめてます。\nTableau新機能について。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2001656339643375992",
+      "url": "https://x.com/_Chasoso/status/2001656339643375992",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:10:35.000Z",
+      "text": "#Vizトーク\nSankey、色がレベルごとに設定できるようになりました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2001656718439387146",
+      "url": "https://x.com/_Chasoso/status/2001656718439387146",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:12:05.000Z",
+      "text": "#Vizトーク\nラベルにも数値を出せるようになりました。\n地味にうれしいアプデ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2001657417558602027",
+      "url": "https://x.com/_Chasoso/status/2001657417558602027",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:14:51.000Z",
+      "text": "#Vizトーク\nこんなに新機能あったの？？？という感じ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2001658018816221383",
+      "url": "https://x.com/YusukeNakanish3/status/2001658018816221383",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T14:17:15.000Z",
+      "text": "#Vizトーク \n2025.3の新機能、SlackのTableau CommunityのJapanに非常に詳しい日本語解説PDFが上がってますのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2001658488616030237",
+      "url": "https://x.com/_Chasoso/status/2001658488616030237",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:19:07.000Z",
+      "text": "#Vizトーク\n空間ポリゴンバッファ、負の値を設定できるらしい…\nポリゴンを小さくできるんですね、画期的",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2001660264002072778",
+      "url": "https://x.com/_Chasoso/status/2001660264002072778",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:26:10.000Z",
+      "text": "#Vizトーク\nConposable Data Sources、2026年上半期にGAとのこと。楽しみ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2001660811979407422",
+      "url": "https://x.com/_Chasoso/status/2001660811979407422",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T14:28:21.000Z",
+      "text": "#Vizトーク\nInside Track: Roadmap Sessionはこちらから視聴可能です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2001661731576402074",
+      "url": "https://x.com/YusukeNakanish3/status/2001661731576402074",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T14:32:00.000Z",
+      "text": "#Vizトーク #Ironviz の全エントリーが公開されてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2001661986418102698",
+      "url": "https://x.com/YusukeNakanish3/status/2001661986418102698",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T14:33:01.000Z",
+      "text": "#Vizトーク #TC26 のセッション応募も始まってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2001663430902902872",
+      "url": "https://x.com/ksnjr24/status/2001663430902902872",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-18T14:38:45.000Z",
+      "text": "#Vizトーク\n連続、不連続",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2001663504043118819",
+      "url": "https://x.com/YusukeNakanish3/status/2001663504043118819",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T14:39:03.000Z",
+      "text": "#Vizトーク 今年は社内の実データで開催しました。\n運営側としてはデータマスクに非常に苦労しましたが、非常に盛り上がったので本望。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2001663670749925668",
+      "url": "https://x.com/ksnjr24/status/2001663670749925668",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-18T14:39:42.000Z",
+      "text": "#Vizトーク\n連続、不連続Saber",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2001663808100778458",
+      "url": "https://x.com/ksnjr24/status/2001663808100778458",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-18T14:40:15.000Z",
+      "text": "#Vizトーク\n連続、不連続シャツ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2001664490686099553",
+      "url": "https://x.com/ksnjr24/status/2001664490686099553",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-18T14:42:58.000Z",
+      "text": "#Vizトーク\n#Tableau野球部\n12/19金19:30-22:00神宮外苑バッティングドーム・室内球技場",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2001665228581584928",
+      "url": "https://x.com/ksnjr24/status/2001665228581584928",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2025-12-18T14:45:54.000Z",
+      "text": "北海道・三陸沖地震にて被害に遭われたみなさまに心よりお見舞い申し上げます。ふるさと釧路のPR、精一杯頑張ります！　#オープンデータバトル2025決勝\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2001668866532085867",
+      "url": "https://x.com/YusukeNakanish3/status/2001668866532085867",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T15:00:21.000Z",
+      "text": "#Vizトーク JTUG総会、まだ少しだけ空きあります！\nJapan Tableau User Group 2025 総会 Tableau Festival - つながる、うまれる、ひろがる - \nhttps://\ntechplay.jp/event/986053?u\ntm_source=event_986053&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #JTUG #TabFes #Tableau #JTUG総会 #LT（ライトニングトーク）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2001669651303153790",
+      "url": "https://x.com/_Chasoso/status/2001669651303153790",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-12-18T15:03:28.000Z",
+      "text": "#Vizトーク\n今使っているキーボードはコレ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2001669992371421491",
+      "url": "https://x.com/YusukeNakanish3/status/2001669992371421491",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T15:04:50.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。総会以外にもいろいろあってすごい。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2001670537983271352",
+      "url": "https://x.com/mfujita2023/status/2001670537983271352",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-12-18T15:07:00.000Z",
+      "text": "北陸Tableauユーザー会、今月開催されるなら金沢行きたかったー。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2001670716656377912",
+      "url": "https://x.com/YusukeNakanish3/status/2001670716656377912",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T15:07:42.000Z",
+      "text": "#Vizトーク 私が今使ってるキーボードはこれ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2001671603466514817",
+      "url": "https://x.com/YusukeNakanish3/status/2001671603466514817",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-12-18T15:11:14.000Z",
+      "text": "#Vizトーク \ntypesticks使ったんですが見た目が狂人なので新幹線では使いづらい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2001672903931355586",
+      "url": "https://x.com/m_yamag/status/2001672903931355586",
+      "author_name": "やまＧ",
+      "author_handle": "m_yamag",
+      "posted_at": "2025-12-18T15:16:24.000Z",
+      "text": "#Vizトーク \nことしも２月に東北Tableauユーザー会計画中。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    }
+  ]
+}
