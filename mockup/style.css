@@ -172,10 +172,11 @@ a:hover { text-decoration: underline; }
   margin-top: 2px;
 }
 .ep-date-block .ep-date-y {
-  font-size: 10px;
-  color: var(--text-muted);
-  margin-top: 2px;
+  font-size: 13px;
+  color: var(--text);
+  margin-top: 3px;
   font-family: "SF Mono", monospace;
+  font-weight: 600;
 }
 .ep-card .ep-title { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
 .ep-card .ep-title a { color: var(--text); }
@@ -1294,7 +1295,7 @@ a:hover { text-decoration: underline; }
   .ep-card .ep-num { font-size: 18px; }
   .ep-card .ep-date-block .ep-date-md { font-size: 16px; }
   .ep-card .ep-date-block .ep-date-wd { font-size: 11px; }
-  .ep-card .ep-date-block .ep-date-y { font-size: 9px; }
+  .ep-card .ep-date-block .ep-date-y { font-size: 12px; }
   .ep-card .ep-title { font-size: 14px; }
   .ep-card .ep-meta { font-size: 12px; }
   .ep-card .ep-tags { margin-top: 4px; }
