@@ -718,6 +718,22 @@ def render_layout(*, title, body, level=0, active_nav=""):
     )
 
 
+WEEKDAYS_JP = ["月", "火", "水", "木", "金", "土", "日"]
+
+
+def _fmt_ep_date_block(date_str):
+    """'2026-08-06' -> {y, md, wd} 表示用の分割"""
+    try:
+        d = date.fromisoformat(date_str)
+        return {
+            "y": str(d.year),
+            "md": f"{d.month}/{d.day}",
+            "wd": WEEKDAYS_JP[d.weekday()],
+        }
+    except Exception:
+        return {"y": "", "md": date_str, "wd": ""}
+
+
 def render_ep_card(ep, level=0):
     """回カード（一覧向け）"""
     prefix = "../" if level == 1 else ""
@@ -741,7 +757,8 @@ def render_ep_card(ep, level=0):
     js_date = html.escape(ep["date"], quote=True)
     duration_sec = get_audio_duration_sec(ep.get("audio_filename"))
     duration_str = fmt_duration_short(duration_sec)
-    meta_parts = [ep["date"]]
+    # date部分は左のブロックに移したので meta には出さない
+    meta_parts = [f"第{ep_num}回"]
     if duration_str:
         meta_parts.append(duration_str)
     if speakers_names:
@@ -753,9 +770,14 @@ def render_ep_card(ep, level=0):
     if ep.get("chapters_data"):
         summary = ep["chapters_data"].get("episode_summary", "").strip()
     summary_html = f'<div class="ep-summary">{html.escape(summary)}</div>' if summary else ''
+    dblock = _fmt_ep_date_block(ep["date"])
     return f'''
   <div class="ep-card clickable" data-href="{ep_link}">
-    <div class="ep-num">{ep_num}<small>回</small>{' (再)' if ep['has_rerun'] else ''}</div>
+    <div class="ep-date-block">
+      <div class="ep-date-md">{dblock["md"]}</div>
+      <div class="ep-date-wd">({dblock["wd"]})</div>
+      <div class="ep-date-y">{dblock["y"]}</div>
+    </div>
     <div>
       <div class="ep-title"><a href="{ep_link}">{html.escape(ep["title"] or "無題")}</a></div>
       <div class="ep-meta">{' · '.join(meta_parts)}</div>

@@ -98,6 +98,28 @@ a:hover { text-decoration: underline; }
   text-align: center;
 }
 .ep-card .ep-num small { display: block; font-size: 11px; font-weight: 400; color: var(--text-muted); }
+
+/* 日付ブロック (回番号の代わりに、開催日+曜日+年) */
+.ep-date-block {
+  text-align: center;
+  line-height: 1.2;
+  color: var(--accent);
+}
+.ep-date-block .ep-date-md {
+  font-size: 20px;
+  font-weight: 700;
+}
+.ep-date-block .ep-date-wd {
+  font-size: 12px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+.ep-date-block .ep-date-y {
+  font-size: 10px;
+  color: var(--text-muted);
+  margin-top: 2px;
+  font-family: "SF Mono", monospace;
+}
 .ep-card .ep-title { font-size: 16px; font-weight: 600; margin-bottom: 4px; }
 .ep-card .ep-title a { color: var(--text); }
 .ep-card .ep-meta { font-size: 13px; color: var(--text-muted); }
@@ -227,6 +249,10 @@ a:hover { text-decoration: underline; }
   font-weight: 600;
 }
 .ep-list.view-compact .ep-card .ep-num small { display: none; }
+/* 簡易ビューでは日付ブロックをコンパクトに (MM/DDだけ表示、他は隠す) */
+.ep-list.view-compact .ep-card .ep-date-block .ep-date-md { font-size: 13px; }
+.ep-list.view-compact .ep-card .ep-date-block .ep-date-wd { font-size: 11px; margin: 0; display: inline; margin-left: 2px; }
+.ep-list.view-compact .ep-card .ep-date-block .ep-date-y { display: none; }
 .ep-list.view-compact .ep-card .ep-title {
   font-size: 13px;
   font-weight: 500;
@@ -1018,6 +1044,9 @@ a:hover { text-decoration: underline; }
   /* Episode cards */
   .ep-card { grid-template-columns: 60px 1fr auto; padding: 12px; gap: 10px; }
   .ep-card .ep-num { font-size: 18px; }
+  .ep-card .ep-date-block .ep-date-md { font-size: 16px; }
+  .ep-card .ep-date-block .ep-date-wd { font-size: 11px; }
+  .ep-card .ep-date-block .ep-date-y { font-size: 9px; }
   .ep-card .ep-title { font-size: 14px; }
   .ep-card .ep-meta { font-size: 12px; }
   .ep-card .ep-tags { margin-top: 4px; }
