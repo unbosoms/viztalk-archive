@@ -184,6 +184,7 @@ def ep_slug(ep):
 
 
 AUDIO_BASE_URL = os.environ.get("AUDIO_BASE_URL", "").rstrip("/")
+GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "").strip()
 
 
 def audio_url(fname, level):
@@ -477,10 +478,10 @@ LAYOUT = """<!doctype html>
 <html lang="ja"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="theme-color" content="#2563eb">
+<meta name="theme-color" content="#3b8a99">
 <title>{title}</title>
 <link rel="stylesheet" href="{css}">
-</head><body>
+{ga_snippet}</head><body>
 
 <header class="header">
   <a href="{home}" class="brand">
@@ -499,6 +500,18 @@ LAYOUT = """<!doctype html>
 
 <div class="container{container_class}">
 {body}
+
+<footer class="site-footer">
+  <p><strong>Vizトーク アーカイブ</strong> — 非公式ファンサイト</p>
+  <p class="foot-note">音源・発言の著作権は各出演者に帰属します。文字起こしは AI (Whisper) 自動処理のため誤りを含みます。</p>
+  <p>
+    <a href="{privacy_link}">プライバシーポリシー</a>
+    ·
+    <a href="https://github.com/unbosoms/viztalk-archive/issues" target="_blank" rel="noopener">問題報告・削除依頼</a>
+    ·
+    <a href="https://github.com/unbosoms/viztalk-archive" target="_blank" rel="noopener">ソースコード</a>
+  </p>
+</footer>
 </div>
 
 <div class="player" id="player-bar">
@@ -702,9 +715,20 @@ audio.addEventListener("pause", () => {{ npPlay.textContent = "▶"; }});
 </body></html>"""
 
 
+GA_SNIPPET_TEMPLATE = """<script async src="https://www.googletagmanager.com/gtag/js?id={mid}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){{dataLayer.push(arguments);}}
+  gtag('js', new Date());
+  gtag('config', '{mid}', {{ anonymize_ip: true }});
+</script>
+"""
+
+
 def render_layout(*, title, body, level=0, active_nav=""):
     """level: 0=root, 1=under sub-dir like episode/, tag/, speaker/"""
     prefix = "../" if level == 1 else ""
+    ga_snippet = GA_SNIPPET_TEMPLATE.format(mid=GA_MEASUREMENT_ID) if GA_MEASUREMENT_ID else ""
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
@@ -714,10 +738,12 @@ def render_layout(*, title, body, level=0, active_nav=""):
         tags_link=prefix + "tags.html",
         speakers_link=prefix + "speakers.html",
         search_link=prefix + "search.html",
+        privacy_link=prefix + "privacy.html",
         nav_ep_class=' class="active"' if active_nav == "episodes" else "",
         nav_tag_class=' class="active"' if active_nav == "tags" else "",
         nav_sp_class=' class="active"' if active_nav == "speakers" else "",
         container_class=" narrow" if level == 1 else "",
+        ga_snippet=ga_snippet,
         body=body,
     )
 
@@ -1301,6 +1327,119 @@ def build_speaker_detail(sp):
 
 # ============ MAIN ============
 
+def build_privacy_page():
+    ga_section = ""
+    if GA_MEASUREMENT_ID:
+        ga_section = f'''
+  <h2>アクセス解析について</h2>
+  <p>本サイトでは、より良いコンテンツ提供のためのアクセス解析ツールとして
+     <strong>Google Analytics 4</strong> を使用しています。</p>
+
+  <h3>収集される情報</h3>
+  <ul>
+    <li>Cookie ID (ブラウザ識別子)</li>
+    <li>IP アドレス（Google の設定で匿名化済み）</li>
+    <li>閲覧したページの URL</li>
+    <li>リファラー（前に閲覧していたページ）</li>
+    <li>ブラウザ・OS・デバイス種別</li>
+    <li>訪問日時、滞在時間</li>
+  </ul>
+
+  <h3>送信先</h3>
+  <p>Google LLC（米国）</p>
+
+  <h3>利用目的</h3>
+  <ul>
+    <li>サイトの利用状況の把握</li>
+    <li>コンテンツの改善</li>
+    <li>人気の回・話題の分析</li>
+  </ul>
+
+  <h3>Google Analytics のトラッキング ID</h3>
+  <p><code>{html.escape(GA_MEASUREMENT_ID)}</code></p>
+
+  <h3>個人の特定について</h3>
+  <p>本サイトでは、収集した情報から特定の個人を識別することはできない設定
+     （IP アドレスの匿名化、Google シグナル無効）で運用しています。</p>
+
+  <h3>Google Analytics の無効化</h3>
+  <p>次のいずれかの方法で本サイトのアクセス解析を無効化できます:</p>
+  <ul>
+    <li>ブラウザで Cookie を無効化</li>
+    <li>
+      <a href="https://tools.google.com/dlpage/gaoptout" target="_blank" rel="noopener">
+        Google Analytics オプトアウト アドオン
+      </a>
+      をブラウザにインストール
+    </li>
+  </ul>
+
+  <p>Google Analytics のデータ取り扱いポリシーについては、
+     <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">
+       Google プライバシーポリシー
+     </a> をご確認ください。</p>
+'''
+
+    body = f'''
+  <h1>プライバシーポリシー・外部送信ポリシー</h1>
+
+  <p class="text-muted">最終更新: 2026年8月</p>
+
+  <h2>本サイトについて</h2>
+  <p>本サイト「Vizトーク アーカイブ」は、X (旧 Twitter) のスペースで開催されている
+     <strong>Vizトーク</strong>（ホスト:
+     <a href="https://x.com/YusukeNakanish3" target="_blank" rel="noopener">@YusukeNakanish3</a>）
+     の非公式ファンサイトです。個人により非営利で運営されています。</p>
+
+  {ga_section}
+
+  <h2>Cookie の使用</h2>
+  <p>本サイトは、上記アクセス解析の目的で Cookie を使用します。
+     Cookie の受け入れを拒否する設定にすることも可能ですが、その場合本サイトの一部機能が
+     ご利用いただけなくなることがあります（音源再生時の位置記憶など）。</p>
+
+  <h2>著作権・音源について</h2>
+  <ul>
+    <li>各回の音源、発言内容の著作権は、それぞれの出演者に帰属します。</li>
+    <li>本アーカイブは、番組の記録・共有を目的として、出演者陣の理解のもとに運営しています。</li>
+    <li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>
+    <li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>
+  </ul>
+
+  <h2>削除・訂正のご依頼</h2>
+  <p>掲載内容について削除・訂正のご要望がある場合は、以下のいずれかの方法でご連絡ください:</p>
+  <ul>
+    <li>
+      <a href="https://github.com/unbosoms/viztalk-archive/issues" target="_blank" rel="noopener">
+        GitHub Issues に投稿
+      </a>
+    </li>
+    <li>
+      X ダイレクトメッセージ:
+      <a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a>
+    </li>
+  </ul>
+  <p>原則として <strong>48時間以内に対応</strong> します。</p>
+
+  <h2>免責事項</h2>
+  <ul>
+    <li>掲載情報の正確性は保証されません（AI 自動処理を含むため）。</li>
+    <li>本サイトの利用により生じた損害について、運営者は責任を負いません。</li>
+    <li>予告なくサービスを停止することがあります。</li>
+  </ul>
+
+  <h2>ポリシーの改定</h2>
+  <p>本ポリシーは予告なく改定される場合があります。改定後の内容は本ページに掲載されます。</p>
+
+  <hr style="margin:2em 0;">
+  <p class="text-muted" style="font-size:12px;">
+    このポリシーは日本の改正電気通信事業法（外部送信規律、2023年6月施行）に基づき、
+    外部送信情報の内容を公表するものです。
+  </p>
+'''
+    return render_layout(title="プライバシーポリシー · Vizトーク Archive", body=body, level=0)
+
+
 def build_search_index(episodes):
     """クライアント検索用のインデックスJSON。chapters / tweets / episodesを収録。"""
     chapters = []
@@ -1586,6 +1725,9 @@ def main():
 
     # Episode list
     (SITE_DIR / "episodes.html").write_text(build_episodes_list(episodes))
+
+    # Privacy page
+    (SITE_DIR / "privacy.html").write_text(build_privacy_page())
 
     # Individual episodes (only those with ep number)
     n_ep = 0
