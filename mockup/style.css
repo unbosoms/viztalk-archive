@@ -99,6 +99,51 @@ a:hover { text-decoration: underline; }
 }
 .ep-card .ep-num small { display: block; font-size: 11px; font-weight: 400; color: var(--text-muted); }
 
+/* Episode card 内のスピーカー chip (アバター + 名前) */
+.ep-speakers {
+  margin-top: 6px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  align-items: center;
+}
+.ep-speaker-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  background: #f5f7fa;
+  padding: 2px 8px 2px 2px;
+  border-radius: 12px;
+  font-size: 12px;
+  color: var(--text);
+}
+.ep-speaker-chip .avatar-wrap { flex-shrink: 0; }
+.ep-speaker-more {
+  font-size: 11px;
+  color: var(--text-muted);
+}
+.avatar-wrap.avatar-20 { width: 20px; height: 20px; }
+
+/* Speaker一覧の出演回数バッジ */
+.speaker-ep-count {
+  text-align: center;
+  min-width: 60px;
+  padding: 4px 6px;
+}
+.speaker-ep-count .num {
+  display: block;
+  font-size: 22px;
+  color: var(--accent);
+  font-weight: 700;
+  line-height: 1.1;
+}
+.speaker-ep-count .label {
+  display: block;
+  font-size: 11px;
+  color: var(--text-muted);
+  margin-top: 2px;
+}
+
 /* 日付ブロック (回番号の代わりに、開催日+曜日+年) */
 .ep-date-block {
   text-align: center;
@@ -135,8 +180,9 @@ a:hover { text-decoration: underline; }
   overflow: hidden;
   text-overflow: ellipsis;
 }
-/* 簡易ビューでは summary 非表示 (行数節約) */
+/* 簡易ビューでは summary とスピーカー chip 非表示 (行数節約) */
 .ep-list.view-compact .ep-card .ep-summary { display: none; }
+.ep-list.view-compact .ep-card .ep-speakers { display: none; }
 .ep-card .ep-play-btn {
   background: var(--accent);
   color: white;

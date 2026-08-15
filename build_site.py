@@ -739,9 +739,20 @@ def render_ep_card(ep, level=0):
     prefix = "../" if level == 1 else ""
     ep_link = f"{prefix}episode/{ep_slug(ep)}.html" if ep["ep"] else "#"
     ep_num = ep["ep"] or "?"
-    speakers_names = ", ".join(sp["name"] for sp in ep["speakers"][:4])
+    # スピーカー chip (アバター + 名前)
+    speaker_chips = []
+    for sp in ep["speakers"][:4]:
+        speaker_chips.append(
+            f'<span class="ep-speaker-chip">'
+            f'{avatar_img(sp["handle"], size=20, css_class="avatar")}'
+            f'<span class="ep-speaker-name">{html.escape(sp["name"])}</span>'
+            f'</span>'
+        )
     if len(ep["speakers"]) > 4:
-        speakers_names += f" ほか{len(ep['speakers'])-4}名"
+        speaker_chips.append(
+            f'<span class="ep-speaker-more">ほか{len(ep["speakers"])-4}名</span>'
+        )
+    speakers_html = "".join(speaker_chips)
     tags_html = ""
     ep_tags = (ep["chapters_data"] or {}).get("episode_tags", []) if ep["chapters_data"] else []
     if ep_tags:
@@ -757,14 +768,13 @@ def render_ep_card(ep, level=0):
     js_date = html.escape(ep["date"], quote=True)
     duration_sec = get_audio_duration_sec(ep.get("audio_filename"))
     duration_str = fmt_duration_short(duration_sec)
-    # date部分は左のブロックに移したので meta には出さない
-    meta_parts = [f"第{ep_num}回"]
+    # meta 上段 = 第XX回・時間長・録音なし表示
+    meta_short_parts = [f"第{ep_num}回"]
     if duration_str:
-        meta_parts.append(duration_str)
-    if speakers_names:
-        meta_parts.append(speakers_names)
+        meta_short_parts.append(duration_str)
     if not ep['recording']:
-        meta_parts.append("録音なし")
+        meta_short_parts.append("録音なし")
+    meta_short = " · ".join(meta_short_parts)
     # この回の要約 (chapters_data から取得、簡易表示では隠す)
     summary = ""
     if ep.get("chapters_data"):
@@ -780,7 +790,8 @@ def render_ep_card(ep, level=0):
     </div>
     <div>
       <div class="ep-title"><a href="{ep_link}">{html.escape(ep["title"] or "無題")}</a></div>
-      <div class="ep-meta">{' · '.join(meta_parts)}</div>
+      <div class="ep-meta">{meta_short}</div>
+      <div class="ep-speakers">{speakers_html}</div>
       {summary_html}
       <div class="ep-tags">{tags_html}</div>
     </div>
@@ -1233,7 +1244,7 @@ def build_speakers_list(speakers):
       <div class="ep-meta">{top_role} · 出演 <strong>{len(sp["episodes"])}回</strong></div>
       {tags_html}
     </div>
-    <div style="text-align:right;font-size:24px;color:var(--accent);font-weight:700;">{len(sp["episodes"])}</div>
+    <div class="speaker-ep-count"><span class="num">{len(sp["episodes"])}</span><span class="label">出演回</span></div>
   </div>'''
     body += '</div>'
     return render_layout(title="スピーカー一覧 · Vizトーク Archive", body=body, level=0, active_nav="speakers")
