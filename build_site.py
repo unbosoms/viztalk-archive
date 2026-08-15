@@ -811,8 +811,27 @@ def render_ep_card(ep, level=0):
         summary = ep["chapters_data"].get("episode_summary", "").strip()
     summary_html = f'<div class="ep-summary">{html.escape(summary)}</div>' if summary else ''
     dblock = _fmt_ep_date_block(ep["date"])
+    # フィルタ/ソート用の data 属性
+    speaker_handles = ",".join(sp["handle"] for sp in ep["speakers"])
+    ep_tag_list = ep_tags if ep_tags else []
+    tag_names_attr = ",".join(ep_tag_list)
+    tweet_count = 0
+    if ep.get("tweets_data"):
+        tweet_count = len(ep["tweets_data"].get("tweets", []))
+    chapter_count = 0
+    if ep.get("chapters_data"):
+        chapter_count = len(ep["chapters_data"].get("chapters", []))
     return f'''
-  <div class="ep-card clickable" data-href="{ep_link}">
+  <div class="ep-card clickable" data-href="{ep_link}"
+       data-year="{ep["date"][:4]}"
+       data-date="{ep["date"]}"
+       data-ep="{ep_num}"
+       data-speakers="{html.escape(speaker_handles, quote=True)}"
+       data-tags="{html.escape(tag_names_attr, quote=True)}"
+       data-duration="{duration_sec or 0}"
+       data-tweet-count="{tweet_count}"
+       data-chapter-count="{chapter_count}"
+       data-recording="{1 if ep['recording'] else 0}">
     <div class="ep-date-block">
       <div class="ep-date-md">{dblock["md"]}</div>
       <div class="ep-date-wd">({dblock["wd"]})</div>
@@ -871,7 +890,26 @@ def build_episodes_list(episodes):
     # 新しい順に並べて年でグループ化
     valid = [ep for ep in episodes if ep["ep"]]
     valid.sort(key=lambda e: e["date"], reverse=True)
-    groups = {}  # year -> [episodes]
+
+    # フィルタUI用の集計
+    speaker_counts = Counter()
+    speaker_names = {}
+    for ep in valid:
+        for sp in ep["speakers"]:
+            speaker_counts[sp["handle"]] += 1
+            speaker_names[sp["handle"]] = sp["name"]
+    tag_counts = Counter()
+    for ep in valid:
+        ct = ep.get("chapters_data") or {}
+        for t in ct.get("episode_tags", []) or []:
+            tag_counts[t] += 1
+
+    speaker_json = json.dumps(
+        {h: speaker_names[h] for h in speaker_counts.keys()},
+        ensure_ascii=False,
+    )
+
+    groups = {}
     for ep in valid:
         year = ep["date"][:4]
         groups.setdefault(year, []).append(ep)
@@ -901,15 +939,42 @@ def build_episodes_list(episodes):
         for y in sorted(groups.keys(), reverse=True)
     )
 
+    # スピーカー・タグ フィルタ選択肢UI
+    speakers_ui = ""
+    for h, cnt in sorted(speaker_counts.items(), key=lambda x: -x[1]):
+        speakers_ui += (
+            f'<label class="filter-chk">'
+            f'<input type="checkbox" data-filter="speaker" value="{html.escape(h, quote=True)}">'
+            f'<span>{html.escape(speaker_names[h])} <span class="cnt">({cnt})</span></span>'
+            f'</label>'
+        )
+    tags_ui = ""
+    top_50_tags = tag_counts.most_common(50)
+    for t, cnt in top_50_tags:
+        tags_ui += (
+            f'<label class="filter-chk">'
+            f'<input type="checkbox" data-filter="tag" value="{html.escape(t, quote=True)}">'
+            f'<span>{html.escape(t)} <span class="cnt">({cnt})</span></span>'
+            f'</label>'
+        )
+
     body = f'''
   <h1 style="margin-bottom:8px;">トーク一覧 <span class="text-muted" style="font-size:.6em;font-weight:normal;">全{len(valid)}回</span></h1>
 
   <div class="ep-list-controls">
-    <div class="year-nav">
-      <span class="text-muted" style="font-size:12px;">ジャンプ:</span>
-      {year_nav}
-      <button onclick="expandAll(true)" class="mini-btn">全て展開</button>
-      <button onclick="expandAll(false)" class="mini-btn">全て折りたたむ</button>
+    <button class="filter-btn" onclick="toggleFilterPanel()">
+      🔍 フィルタ <span id="filter-count-badge"></span>
+    </button>
+    <div class="sort-group">
+      <label class="text-muted" style="font-size:12px;">並び順:</label>
+      <select id="ep-sort" onchange="onSortChange(this.value)">
+        <option value="date-desc">日付 (新→古)</option>
+        <option value="date-asc">日付 (古→新)</option>
+        <option value="duration-desc">再生時間 (長→短)</option>
+        <option value="duration-asc">再生時間 (短→長)</option>
+        <option value="tweetCount-desc">実況ツイート数 (多→少)</option>
+        <option value="chapterCount-desc">チャプター数 (多→少)</option>
+      </select>
     </div>
     <div class="view-toggle" role="group">
       <span class="text-muted" style="font-size:12px;">表示:</span>
@@ -918,11 +983,49 @@ def build_episodes_list(episodes):
     </div>
   </div>
 
+  <div class="filter-panel" id="filter-panel" style="display:none;">
+    <div class="filter-group">
+      <h4>スピーカー <span class="text-muted" style="font-size:11px;">(選択でその人が出た回)</span></h4>
+      <div class="filter-checkboxes">{speakers_ui}</div>
+    </div>
+    <div class="filter-group">
+      <h4>トピック <span class="text-muted" style="font-size:11px;">(Top 50、選択でそのトピックが含まれる回)</span></h4>
+      <div class="filter-checkboxes filter-tag-grid">{tags_ui}</div>
+    </div>
+    <div class="filter-group filter-radios">
+      <h4>録音</h4>
+      <label class="filter-radio"><input type="radio" name="rec-filter" value="all" checked> すべて</label>
+      <label class="filter-radio"><input type="radio" name="rec-filter" value="1"> 録音あり</label>
+      <label class="filter-radio"><input type="radio" name="rec-filter" value="0"> 録音なし</label>
+    </div>
+    <div class="filter-actions">
+      <button onclick="clearAllFilters()" class="mini-btn">すべてクリア</button>
+    </div>
+  </div>
+
+  <div class="year-nav-row">
+    <span class="text-muted" style="font-size:12px;">ジャンプ:</span>
+    {year_nav}
+    <button onclick="expandAll(true)" class="mini-btn">全て展開</button>
+    <button onclick="expandAll(false)" class="mini-btn">全て折りたたむ</button>
+    <span class="ep-list-summary" id="ep-list-summary"></span>
+  </div>
+
+  <div class="active-filters" id="active-filters" style="display:none;"></div>
+
   <div class="ep-list" id="ep-list">
     {sections_html}
   </div>
 
 <script>
+const SPEAKER_NAMES = {speaker_json};
+const state = {{
+  speakers: new Set(),
+  tags: new Set(),
+  recording: "all",
+  sort: "date-desc",
+}};
+
 function toggleYear(header) {{
   header.closest(".year-group").classList.toggle("collapsed");
   const arrow = header.querySelector(".year-toggle");
@@ -950,10 +1053,183 @@ function setView(mode) {{
   document.querySelectorAll(".view-btn").forEach(b => b.classList.toggle("active", b.dataset.view === mode));
   try {{ localStorage.setItem("epListView", mode); }} catch (e) {{}}
 }}
+function toggleFilterPanel() {{
+  const p = document.getElementById("filter-panel");
+  p.style.display = p.style.display === "none" ? "" : "none";
+}}
+
+function updateFilterBadge() {{
+  const n = state.speakers.size + state.tags.size + (state.recording !== "all" ? 1 : 0);
+  const b = document.getElementById("filter-count-badge");
+  b.textContent = n ? `(${{n}})` : "";
+  b.classList.toggle("has-filters", n > 0);
+}}
+
+function updateActiveChips() {{
+  const chips = document.getElementById("active-filters");
+  const parts = [];
+  state.speakers.forEach(h => {{
+    const name = SPEAKER_NAMES[h] || h;
+    parts.push(`<span class="active-chip">${{escapeHtml(name)}} <button data-clear="speaker" data-val="${{escapeHtml(h)}}">×</button></span>`);
+  }});
+  state.tags.forEach(t => {{
+    parts.push(`<span class="active-chip">${{escapeHtml(t)}} <button data-clear="tag" data-val="${{escapeHtml(t)}}">×</button></span>`);
+  }});
+  if (state.recording === "1") parts.push(`<span class="active-chip">録音あり <button data-clear="rec">×</button></span>`);
+  if (state.recording === "0") parts.push(`<span class="active-chip">録音なし <button data-clear="rec">×</button></span>`);
+  if (parts.length) {{
+    chips.innerHTML = "適用中: " + parts.join(" ") + ' <button class="mini-btn" onclick="clearAllFilters()">クリア</button>';
+    chips.style.display = "";
+  }} else {{
+    chips.innerHTML = "";
+    chips.style.display = "none";
+  }}
+}}
+
+function escapeHtml(s) {{
+  return String(s).replace(/[&<>"']/g, c => ({{"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}}[c]));
+}}
+
+function applyFilters() {{
+  const cards = document.querySelectorAll(".ep-card[data-year]");
+  let shown = 0;
+  const yearCounts = {{}};
+  cards.forEach(card => {{
+    const cardSpeakers = (card.dataset.speakers || "").split(",").filter(Boolean);
+    const cardTags = (card.dataset.tags || "").split(",").filter(Boolean);
+    const cardRec = card.dataset.recording;
+    const cardYear = card.dataset.year;
+    let ok = true;
+    if (state.speakers.size && !cardSpeakers.some(h => state.speakers.has(h))) ok = false;
+    if (state.tags.size && !cardTags.some(t => state.tags.has(t))) ok = false;
+    if (state.recording !== "all" && cardRec !== state.recording) ok = false;
+    card.style.display = ok ? "" : "none";
+    if (ok) {{
+      shown++;
+      yearCounts[cardYear] = (yearCounts[cardYear] || 0) + 1;
+    }}
+  }});
+  document.querySelectorAll(".year-group").forEach(g => {{
+    const y = g.dataset.year;
+    const total = g.querySelectorAll(".ep-card").length;
+    const shownCount = yearCounts[y] || 0;
+    const countEl = g.querySelector(".year-count");
+    const anyFilter = state.speakers.size || state.tags.size || state.recording !== "all";
+    if (countEl) countEl.textContent = anyFilter ? `(${{shownCount}}/${{total}}回)` : `(${{total}}回)`;
+    g.style.display = shownCount ? "" : "none";
+  }});
+  const total = cards.length;
+  const anyFilter = state.speakers.size || state.tags.size || state.recording !== "all";
+  document.getElementById("ep-list-summary").textContent = anyFilter ? `表示: ${{shown}} / ${{total}}回` : "";
+}}
+
+function applySort() {{
+  const [key, dir] = state.sort.split("-");
+  document.querySelectorAll(".year-group .year-body").forEach(body => {{
+    const cards = Array.from(body.querySelectorAll(".ep-card"));
+    cards.sort((a, b) => {{
+      let va = 0, vb = 0;
+      if (key === "date") {{ va = a.dataset.date; vb = b.dataset.date; }}
+      else if (key === "duration") {{ va = parseInt(a.dataset.duration) || 0; vb = parseInt(b.dataset.duration) || 0; }}
+      else if (key === "tweetCount") {{ va = parseInt(a.dataset.tweetCount) || 0; vb = parseInt(b.dataset.tweetCount) || 0; }}
+      else if (key === "chapterCount") {{ va = parseInt(a.dataset.chapterCount) || 0; vb = parseInt(b.dataset.chapterCount) || 0; }}
+      if (va === vb) return 0;
+      return dir === "asc" ? (va > vb ? 1 : -1) : (va < vb ? 1 : -1);
+    }});
+    cards.forEach(c => body.appendChild(c));
+  }});
+}}
+
+function updateUrl() {{
+  const p = new URLSearchParams();
+  if (state.speakers.size) p.set("speakers", [...state.speakers].join(","));
+  if (state.tags.size) p.set("tags", [...state.tags].join(","));
+  if (state.recording !== "all") p.set("rec", state.recording);
+  if (state.sort !== "date-desc") p.set("sort", state.sort);
+  const q = p.toString();
+  history.replaceState(null, "", location.pathname + (q ? "?" + q : ""));
+}}
+
+function apply() {{
+  updateFilterBadge();
+  updateActiveChips();
+  applyFilters();
+  applySort();
+  updateUrl();
+}}
+
+function onSortChange(v) {{ state.sort = v; apply(); }}
+
+function clearAllFilters() {{
+  state.speakers.clear();
+  state.tags.clear();
+  state.recording = "all";
+  document.querySelectorAll('input[data-filter="speaker"], input[data-filter="tag"]').forEach(el => el.checked = false);
+  document.querySelectorAll('input[name="rec-filter"]').forEach(el => el.checked = el.value === "all");
+  apply();
+}}
+
+// UI 変更ハンドラ
+document.addEventListener("change", (e) => {{
+  const el = e.target;
+  if (el.dataset && el.dataset.filter === "speaker") {{
+    if (el.checked) state.speakers.add(el.value); else state.speakers.delete(el.value);
+    apply();
+  }} else if (el.dataset && el.dataset.filter === "tag") {{
+    if (el.checked) state.tags.add(el.value); else state.tags.delete(el.value);
+    apply();
+  }} else if (el.name === "rec-filter") {{
+    state.recording = el.value;
+    apply();
+  }}
+}});
+
+// アクティブchipのXボタン
+document.addEventListener("click", (e) => {{
+  const btn = e.target.closest("button[data-clear]");
+  if (!btn) return;
+  const kind = btn.dataset.clear;
+  const val = btn.dataset.val;
+  if (kind === "speaker") {{
+    state.speakers.delete(val);
+    const inp = document.querySelector(`input[data-filter="speaker"][value="${{CSS.escape(val)}}"]`);
+    if (inp) inp.checked = false;
+  }} else if (kind === "tag") {{
+    state.tags.delete(val);
+    const inp = document.querySelector(`input[data-filter="tag"][value="${{CSS.escape(val)}}"]`);
+    if (inp) inp.checked = false;
+  }} else if (kind === "rec") {{
+    state.recording = "all";
+    document.querySelectorAll('input[name="rec-filter"]').forEach(el => el.checked = el.value === "all");
+  }}
+  apply();
+}});
+
+// URLからの初期状態復元
 (function() {{
+  const p = new URLSearchParams(location.search);
+  const sp = p.get("speakers");
+  if (sp) sp.split(",").filter(Boolean).forEach(h => state.speakers.add(h));
+  const tg = p.get("tags");
+  if (tg) tg.split(",").filter(Boolean).forEach(t => state.tags.add(t));
+  const rec = p.get("rec");
+  if (rec) state.recording = rec;
+  const sort = p.get("sort");
+  if (sort) state.sort = sort;
+  // UI に反映
+  document.querySelectorAll('input[data-filter="speaker"]').forEach(el => el.checked = state.speakers.has(el.value));
+  document.querySelectorAll('input[data-filter="tag"]').forEach(el => el.checked = state.tags.has(el.value));
+  document.querySelectorAll('input[name="rec-filter"]').forEach(el => el.checked = el.value === state.recording);
+  document.getElementById("ep-sort").value = state.sort;
+  // 表示モード
   let saved = "card";
   try {{ saved = localStorage.getItem("epListView") || "card"; }} catch (e) {{}}
   setView(saved);
+  // フィルタがアクティブならパネル開いておく
+  if (state.speakers.size || state.tags.size || state.recording !== "all") {{
+    document.getElementById("filter-panel").style.display = "";
+  }}
+  apply();
 }})();
 </script>
 '''
