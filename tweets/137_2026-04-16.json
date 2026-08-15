@@ -1,0 +1,346 @@
+{
+  "episode": 137,
+  "date": "2026-04-16",
+  "collected_at": "2026-08-14T09:15:38.459Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 21,
+  "tweets": [
+    {
+      "id": "2044768929944625606",
+      "url": "https://x.com/YusukeNakanish3/status/2044768929944625606",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T13:24:37.000Z",
+      "text": "#Vizトーク 今日も23時からやります！ \n@antipop1\n\n さんと #TC26 のセッションなど語ります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2044780999159275914",
+      "url": "https://x.com/YusukeNakanish3/status/2044780999159275914",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:12:35.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044781593466900558",
+      "url": "https://x.com/antipop1/status/2044781593466900558",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T14:14:56.000Z",
+      "text": "#Vizトーク\nTC26、全セッションを並べると最初にclaudeのセッションが来ます。アルファベット順で意図的に最初に来るようにしてるかも…？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2044781945851379873",
+      "url": "https://x.com/YusukeNakanish3/status/2044781945851379873",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:16:20.000Z",
+      "text": "#Vizトーク 気になるセッションシリーズ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2044783114476732566",
+      "url": "https://x.com/YusukeNakanish3/status/2044783114476732566",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:20:59.000Z",
+      "text": "#Vizトーク \n\n@yoshi_datavizjp\n さん登壇のセッション。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2044783932877750360",
+      "url": "https://x.com/YusukeNakanish3/status/2044783932877750360",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:24:14.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044784793553097124",
+      "url": "https://x.com/antipop1/status/2044784793553097124",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T14:27:39.000Z",
+      "text": "#Vizトーク\nComposableDatasourceによってPrepでリレーションの概念が出てくる？Hyperをリレーションして出力したりもできるようになるのかな…？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2044784792760434861",
+      "url": "https://x.com/YusukeNakanish3/status/2044784792760434861",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:27:39.000Z",
+      "text": "#Vizトーク \n@HipsterVizNinja\n さんのセッション。オンデマンドもあるっぽいです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2044785607994749365",
+      "url": "https://x.com/YusukeNakanish3/status/2044785607994749365",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:30:53.000Z",
+      "text": "#Vizトーク 私と \n@yoshi_datavizjp\n さんと \n@YetterDataViz\n さん中心に今年もWorkout Wedenesday Liveやります！お題の日本語訳も用意しますのでお気軽にご参加ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2044787395955224905",
+      "url": "https://x.com/antipop1/status/2044787395955224905",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T14:38:00.000Z",
+      "text": "#Vizトーク\nCSVの扱い大変だよねという話。\n1回excelで開いてから閉じたら先頭0始まりが欠けちゃったり、テキスト修飾子が変なことになっちゃったり…。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2044787977730330841",
+      "url": "https://x.com/antipop1/status/2044787977730330841",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T14:40:18.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2044788210950402388",
+      "url": "https://x.com/YusukeNakanish3/status/2044788210950402388",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:41:14.000Z",
+      "text": "#Vizトーク \n@ladataviz\n さんのセッションもオンデマンドあるっぽいのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2044789065946673228",
+      "url": "https://x.com/YusukeNakanish3/status/2044789065946673228",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:44:38.000Z",
+      "text": "#Vizトーク 去年は角丸とゴミ箱で盛り上がってた記憶。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044789494998876669",
+      "url": "https://x.com/YusukeNakanish3/status/2044789494998876669",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:46:20.000Z",
+      "text": "#Vizトーク Color 'Hack' とあるので気になるセッション。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044791175643811856",
+      "url": "https://x.com/antipop1/status/2044791175643811856",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T14:53:01.000Z",
+      "text": "#Vizトーク\nPDS = Published Data Sourceの略だということが、どこまで浸透してるのか…。まだ社内で気軽には使えない気がする…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2044791321001640439",
+      "url": "https://x.com/YusukeNakanish3/status/2044791321001640439",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T14:53:35.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044793842910875858",
+      "url": "https://x.com/YusukeNakanish3/status/2044793842910875858",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T15:03:37.000Z",
+      "text": "#Vizトーク \n@FraserGallop\n さんのセッション。これも聞きたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2044798011747004461",
+      "url": "https://x.com/antipop1/status/2044798011747004461",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T15:20:11.000Z",
+      "text": "#Vizトーク\n責任分解がキッチリしていくと、老いた組織になりやすくなるのでは？と思ったりもします。難しいなぁと思います",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2044799989038428182",
+      "url": "https://x.com/YusukeNakanish3/status/2044799989038428182",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T15:28:02.000Z",
+      "text": "#Vizトーク \n第14回. 〜AI時代の\"データ設計力\"～実務で磨き、AIで拡張するPrep活用～",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2044800662412947738",
+      "url": "https://x.com/YusukeNakanish3/status/2044800662412947738",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-16T15:30:43.000Z",
+      "text": "#Vizトーク #VizSpace の募集も始まってます。4/30まで！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 7,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2044801791452414130",
+      "url": "https://x.com/antipop1/status/2044801791452414130",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-16T15:35:12.000Z",
+      "text": "#Vizトーク\nTC26のセッションを眺めて、やっぱりAI関連が目につくなと思ったのと、そこに満を持してComposableDatasourceが現れることによって、Tableauの使い方が大きく変わっていくのかも…？と感じました。たのしみです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    }
+  ]
+}

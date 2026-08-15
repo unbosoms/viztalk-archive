@@ -1,0 +1,330 @@
+{
+  "episode": 132,
+  "date": "2026-03-12",
+  "collected_at": "2026-08-15T06:02:46.498Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 20,
+  "tweets": [
+    {
+      "id": "2032045890752692268",
+      "url": "https://x.com/YusukeNakanish3/status/2032045890752692268",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T10:47:48.000Z",
+      "text": "#Vizトーク 今日は22:00ごろからやります！ \n@_Chasoso\n とBack 2 Viz Basicsイベントの話などする予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2032081696301170753",
+      "url": "https://x.com/_Chasoso/status/2032081696301170753",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T13:10:05.000Z",
+      "text": "#Vizトーク\nTableau Public TUGで登壇しました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2032082524625891406",
+      "url": "https://x.com/YusukeNakanish3/status/2032082524625891406",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:13:22.000Z",
+      "text": "#Vizトーク \n@_Chasoso\n  登壇時の模様。Slideも共有されるそうです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2032082980701978960",
+      "url": "https://x.com/_Chasoso/status/2032082980701978960",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T13:15:11.000Z",
+      "text": "#Vizトーク\n資料公開忘れていたので、後で公開します",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2032083554096857111",
+      "url": "https://x.com/_Chasoso/status/2032083554096857111",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T13:17:28.000Z",
+      "text": "#Vizトーク\nYouTubeなら翻訳付きで見れます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2032083970398334985",
+      "url": "https://x.com/YusukeNakanish3/status/2032083970398334985",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:19:07.000Z",
+      "text": "#Vizトーク #TC26 のセッションリストが出てます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2032084361462640920",
+      "url": "https://x.com/YusukeNakanish3/status/2032084361462640920",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:20:40.000Z",
+      "text": "#Vizトーク TC26でWorkout Wednesday関連ではSeanさんのセッションがあります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2032084763696353675",
+      "url": "https://x.com/YusukeNakanish3/status/2032084763696353675",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:22:16.000Z",
+      "text": "#Vizトーク #DATASaber セッションもあります！！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2032087587259867195",
+      "url": "https://x.com/mfujita2023/status/2032087587259867195",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2026-03-12T13:33:29.000Z",
+      "text": "確かにしゅくやさんがいるだけでTCはすごく心強かったですね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2032088753645457720",
+      "url": "https://x.com/YusukeNakanish3/status/2032088753645457720",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:38:07.000Z",
+      "text": "#Vizトーク How to do Cool Stuff in Tableau、去年も大人気でした。今年も楽しみです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2032089076086817029",
+      "url": "https://x.com/mfujita2023/status/2032089076086817029",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2026-03-12T13:39:24.000Z",
+      "text": "flerlage twinsは私のなかで世界のコミュニティリーダーであり、おもろいこと（Tips）を言う人って言うイメージです。サイコーの思い出！やっぱり彼らがいるからTC！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2032091171712090615",
+      "url": "https://x.com/YusukeNakanish3/status/2032091171712090615",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:47:44.000Z",
+      "text": "#Vizトーク 角丸についてはChasosoさんのこちらをぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2032091585857597711",
+      "url": "https://x.com/_Chasoso/status/2032091585857597711",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T13:49:23.000Z",
+      "text": "#Vizトーク\nほぼすべて角丸オブジェクトで作ってます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2032091714056495541",
+      "url": "https://x.com/YusukeNakanish3/status/2032091714056495541",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T13:49:53.000Z",
+      "text": "#Vizトーク トレリスで角丸にした私の過去Viz。\nMOM2024W27_THE HISTORY OF GLOBAL NATURAL GAS PRODUCTION \nhttps://\npublic.tableau.com/views/MOM2024W\n27_THEHISTORYOFGLOBALNATURALGASPRODUCTION/goal?:language=ja-JP&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link\n… \n@tableaupublic\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2032095123216220283",
+      "url": "https://x.com/mfujita2023/status/2032095123216220283",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2026-03-12T14:03:26.000Z",
+      "text": "せっかくだから #Vizトーク でリアルな喜びを聞きたいっ！（勝手にハッシュタグ）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2032095438288101844",
+      "url": "https://x.com/_Chasoso/status/2032095438288101844",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T14:04:41.000Z",
+      "text": "#Vizトーク\n#VOTD おめでとうございます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2032097064772124778",
+      "url": "https://x.com/YusukeNakanish3/status/2032097064772124778",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T14:11:09.000Z",
+      "text": "#Vizトーク \n@TIkeda93820944\n さん #VOTD おめでとうございます!!",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2032100739527688628",
+      "url": "https://x.com/_Chasoso/status/2032100739527688628",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-12T14:25:45.000Z",
+      "text": "#Vizトーク\nいつ見てもヤバいWOWの問題",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2032101987404349838",
+      "url": "https://x.com/YusukeNakanish3/status/2032101987404349838",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T14:30:43.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2032103012223910349",
+      "url": "https://x.com/YusukeNakanish3/status/2032103012223910349",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-12T14:34:47.000Z",
+      "text": "#Vizトーク 3/23の杉村さんセッション。\n\nhttps://\nnews.mynavi.jp/techplus/lp/20\n25/enterprise/datainnovation2026_mar/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 15
+      }
+    }
+  ]
+}

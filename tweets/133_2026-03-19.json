@@ -1,0 +1,282 @@
+{
+  "episode": 133,
+  "date": "2026-03-19",
+  "collected_at": "2026-08-15T06:01:10.389Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 17,
+  "tweets": [
+    {
+      "id": "2034583220872950123",
+      "url": "https://x.com/YusukeNakanish3/status/2034583220872950123",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T10:50:15.000Z",
+      "text": "#Vizトーク 今日も23:00ごろからやります！\n本日発表されたTableau Visionary中心に語る予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2034632950038638842",
+      "url": "https://x.com/YusukeNakanish3/status/2034632950038638842",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T14:07:51.000Z",
+      "text": "#Vizトーク Chasosoさん参加されてたハッカソンのレポートはこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2034633911717048489",
+      "url": "https://x.com/YusukeNakanish3/status/2034633911717048489",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T14:11:40.000Z",
+      "text": "#Vizトーク Tableau Visionaryに日本から5名選出されました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 34
+      }
+    },
+    {
+      "id": "2034635556165145077",
+      "url": "https://x.com/_Chasoso/status/2034635556165145077",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:18:12.000Z",
+      "text": "#Vizトーク\nSNSの顔写真変えるタイミング難しい問題",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2034636246082052470",
+      "url": "https://x.com/_Chasoso/status/2034636246082052470",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:20:57.000Z",
+      "text": "#Vizトーク\n今年のTCのセッションはこちらから！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2034636481743274131",
+      "url": "https://x.com/YusukeNakanish3/status/2034636481743274131",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T14:21:53.000Z",
+      "text": "#Vizトーク TC26のセッションリストがでてます。\n\nhttps://\nreg.salesforce.com/flow/plus/tc26\n/sessioncatalog/page/catalog\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2034638055420871047",
+      "url": "https://x.com/YusukeNakanish3/status/2034638055420871047",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T14:28:08.000Z",
+      "text": "#Vizトーク 今年は \n@O_Syringa_Z\n  さんがTC行けなさそうとのこと。試される英語力。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2034638545294659773",
+      "url": "https://x.com/_Chasoso/status/2034638545294659773",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:30:05.000Z",
+      "text": "#Vizトーク\nこの間のTableau Public TUGのYouTubeはこちらから",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2034638765680185559",
+      "url": "https://x.com/YusukeNakanish3/status/2034638765680185559",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T14:30:58.000Z",
+      "text": "#Vizトーク \nChasoso出演のイベント。超豪華メンバーでした。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2034640170784579916",
+      "url": "https://x.com/_Chasoso/status/2034640170784579916",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:36:33.000Z",
+      "text": "#Vizトーク\nさすが \n@YusukeNakanish3\n さん",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2034641041664696543",
+      "url": "https://x.com/mfujita2023/status/2034641041664696543",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2026-03-19T14:40:00.000Z",
+      "text": "Chiakiさんいつのまにやら英語堪能になってらしてほんと尊敬っす！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2034641046387449951",
+      "url": "https://x.com/_Chasoso/status/2034641046387449951",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:40:01.000Z",
+      "text": "#Vizトーク\nVisionaryに求められるのは、英語力",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2034643964075323419",
+      "url": "https://x.com/mfujita2023/status/2034643964075323419",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2026-03-19T14:51:37.000Z",
+      "text": "中西さん、そうそう！それ！ #Vizトーク\nインタビューの話じゃないんすよ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2034645410615361973",
+      "url": "https://x.com/_Chasoso/status/2034645410615361973",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-19T14:57:22.000Z",
+      "text": "#Vizトーク\n\n@YusukeNakanish3\n さんと \n@unbosoms\n さん、海外で間違われすぎ問題",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2034650045497426325",
+      "url": "https://x.com/ishiaki_tab/status/2034650045497426325",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2026-03-19T15:15:47.000Z",
+      "text": "ChasosoさんがIron Viz出たら応援団を結成するのだ。団長は\n@O_Syringa_Z\nさん #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2034650529486549198",
+      "url": "https://x.com/YusukeNakanish3/status/2034650529486549198",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-19T15:17:42.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2034765790222983608",
+      "url": "https://x.com/ksnjr24/status/2034765790222983608",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2026-03-19T22:55:43.000Z",
+      "text": "#Vizトーク\n#TheSDGViz侍　としては、\n#IronViz は当然、Brian Moore推しなのであります。\n#TheSDGVizProject",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    }
+  ]
+}

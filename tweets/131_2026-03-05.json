@@ -1,0 +1,634 @@
+{
+  "episode": 131,
+  "date": "2026-03-05",
+  "collected_at": "2026-08-15T06:04:16.549Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 39,
+  "tweets": [
+    {
+      "id": "2029473333285359628",
+      "url": "https://x.com/YusukeNakanish3/status/2029473333285359628",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T08:25:23.000Z",
+      "text": "#Vizトーク 今日は23時ごろからやります！\n\n@_Chasoso\n さんと本日リリースされた #Tableau  2026.1の新機能を実際に触りながら語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2029559366446367118",
+      "url": "https://x.com/_Chasoso/status/2029559366446367118",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:07:15.000Z",
+      "text": "#Vizトーク\nTableau 2026.1の新機能はこちら！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 19
+      }
+    },
+    {
+      "id": "2029560128434029026",
+      "url": "https://x.com/_Chasoso/status/2029560128434029026",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:10:16.000Z",
+      "text": "#Vizトーク\n角丸が入ったワークブックを古いバージョンで開くと怒られます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "2029560578256310657",
+      "url": "https://x.com/YusukeNakanish3/status/2029560578256310657",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:12:03.000Z",
+      "text": "#Vizトーク はじめてます！ #Tableau 2026.1の新機能を実際に触りながら語ります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2029560601618661433",
+      "url": "https://x.com/unbosoms/status/2029560601618661433",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:12:09.000Z",
+      "text": "カラーパレット生成はTableau+の契約が必要そうですよね。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2029560901238743441",
+      "url": "https://x.com/unbosoms/status/2029560901238743441",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:13:20.000Z",
+      "text": "REST API コネクタはまだリリースされてないみたいですね#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029560924772921543",
+      "url": "https://x.com/_Chasoso/status/2029560924772921543",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:13:26.000Z",
+      "text": "#Vizトーク\nAIによるカスタムパレットのスウォッチの自動生成は昨日の朝試しました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029561463191507025",
+      "url": "https://x.com/unbosoms/status/2029561463191507025",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:15:34.000Z",
+      "text": "他の生成AIでコピペ用のカラーパレット作ってもらうほうが早くて安くて安心かもですね…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2029562105515716676",
+      "url": "https://x.com/YusukeNakanish3/status/2029562105515716676",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:18:08.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2029562113623265343",
+      "url": "https://x.com/_Chasoso/status/2029562113623265343",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:18:09.000Z",
+      "text": "#Vizトーク\n意外と何でもアリなスウォッチのインポート機能",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2029562273740837012",
+      "url": "https://x.com/unbosoms/status/2029562273740837012",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:18:48.000Z",
+      "text": "透明度も入れれたら面白いですね！#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029562669037158893",
+      "url": "https://x.com/_Chasoso/status/2029562669037158893",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:20:22.000Z",
+      "text": "#Vizトーク\n表示形式が若干増えました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 21
+      }
+    },
+    {
+      "id": "2029562822712246467",
+      "url": "https://x.com/YusukeNakanish3/status/2029562822712246467",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:20:59.000Z",
+      "text": "#Vizトーク\n私の環境だとViz拡張機能にまとめられている…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2029563115160105454",
+      "url": "https://x.com/unbosoms/status/2029563115160105454",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:22:08.000Z",
+      "text": "それぞれの拡張をインストールしてるかどうかで違うんですかね？#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2029563526570967345",
+      "url": "https://x.com/unbosoms/status/2029563526570967345",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:23:46.000Z",
+      "text": "クレジット消費ないみたいですよ！(カラーパレット生成のことですかね？)#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2029563864472563966",
+      "url": "https://x.com/unbosoms/status/2029563864472563966",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:25:07.000Z",
+      "text": "パラメーターはctrl+shift+pで作れたような…計算フィールドはなかったはず。#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029564216458531190",
+      "url": "https://x.com/unbosoms/status/2029564216458531190",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:26:31.000Z",
+      "text": "それはあついですね！結局win+shift+sでスクショ撮ること多いです笑\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2029564521787056360",
+      "url": "https://x.com/unbosoms/status/2029564521787056360",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:27:44.000Z",
+      "text": "Tableau Agentのダッシュボード解説機能はちょっと期待してます。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2029564890856493275",
+      "url": "https://x.com/unbosoms/status/2029564890856493275",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:29:12.000Z",
+      "text": "データペインでパラメーターを選んだ状態でctrl shift pすると新規じゃなくて編集に入れたはず…！#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029565461650948164",
+      "url": "https://x.com/unbosoms/status/2029565461650948164",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:31:28.000Z",
+      "text": "アプリケーションキーは意外と便利ですよね。右クリックメニューを呼び出せる。\n\nhttps://\nja.wikipedia.org/wiki/%E3%82%A2\n%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%AD%E3%83%BC\n…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2029566061146939575",
+      "url": "https://x.com/unbosoms/status/2029566061146939575",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:33:51.000Z",
+      "text": "リレーションのキーも表示して欲しいですね。シート上のピルにマウスを当てると動きますよ！#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2029566086640001535",
+      "url": "https://x.com/_Chasoso/status/2029566086640001535",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:33:57.000Z",
+      "text": "#Vizトーク\nマウスホバーすると強調表示されます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029566523665453497",
+      "url": "https://x.com/unbosoms/status/2029566523665453497",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:35:41.000Z",
+      "text": "Free Edition急に来ましたよね！Publicと違ってデータソースの制限がないのと、商用利用もOKになったみたいです。ただしTableau Publicへのパブリッシュはできないみたいです。(もちろんServerやCloudにも)\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029566583295852922",
+      "url": "https://x.com/_Chasoso/status/2029566583295852922",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:35:55.000Z",
+      "text": "#Vizトーク\nこちら、Arakawaさんの #WOW2025 出題回です",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2029566712031699157",
+      "url": "https://x.com/unbosoms/status/2029566712031699157",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:36:26.000Z",
+      "text": "スペースが落ちた！笑\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2029567126651179295",
+      "url": "https://x.com/YusukeNakanish3/status/2029567126651179295",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:38:05.000Z",
+      "text": "#Vizトーク こちらで再開してます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2029567979986522168",
+      "url": "https://x.com/YusukeNakanish3/status/2029567979986522168",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:41:28.000Z",
+      "text": "#Vizトーク \nデータモデル表示しながら計算フィールド編集できるので、他の人が作ったVizをメンテするときに便利。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2029569729678250158",
+      "url": "https://x.com/_Chasoso/status/2029569729678250158",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:48:25.000Z",
+      "text": "#Vizトーク\n逆に今までOKだったんだ、という衝撃",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029570784369516613",
+      "url": "https://x.com/unbosoms/status/2029570784369516613",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2026-03-05T14:52:37.000Z",
+      "text": "TableauCloudのIPフィルタリング。これはだいじな機能ですね。ISMAPも登録されましたし、自治体さんで入れやすくなりそう。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 25
+      }
+    },
+    {
+      "id": "2029571074128740742",
+      "url": "https://x.com/YusukeNakanish3/status/2029571074128740742",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T14:53:46.000Z",
+      "text": "#Vizトーク\nPrep起動が早くなったらしい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 28
+      }
+    },
+    {
+      "id": "2029572454390419856",
+      "url": "https://x.com/_Chasoso/status/2029572454390419856",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T14:59:15.000Z",
+      "text": "#Vizトーク\nそういえば前から気になっているんですが、このチェックボックスが機能したところを見たことがない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029574209727598971",
+      "url": "https://x.com/_Chasoso/status/2029574209727598971",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T15:06:13.000Z",
+      "text": "#Vizトーク\n衝撃の一言",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029574227352056142",
+      "url": "https://x.com/YusukeNakanish3/status/2029574227352056142",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T15:06:18.000Z",
+      "text": "#Vizトーク\nβだからかパワーワードが。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2029578272523407364",
+      "url": "https://x.com/_Chasoso/status/2029578272523407364",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T15:22:22.000Z",
+      "text": "#Vizトーク\nTableau Agentによるダッシュボードの解説はこんな感じ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2029579771609506212",
+      "url": "https://x.com/_Chasoso/status/2029579771609506212",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-05T15:28:19.000Z",
+      "text": "#Vizトーク\nTableau Desktop Free Editionがリリースされました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029580312062443725",
+      "url": "https://x.com/YusukeNakanish3/status/2029580312062443725",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T15:30:28.000Z",
+      "text": "#Vizトーク 今回紹介した新機能の日本語解説PDFはTableau Comuunity Slackで公開されています！\n\nhttps://\ntableau-datafam.slack.com/archives/C08RV\nDDHLQY\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2029581411280413014",
+      "url": "https://x.com/YusukeNakanish3/status/2029581411280413014",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T15:34:50.000Z",
+      "text": "#Vizトーク Cloud の接続IP制御とともに、Cloud移行がしやすく。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2029582117206921249",
+      "url": "https://x.com/YusukeNakanish3/status/2029582117206921249",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T15:37:39.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2029583093041119397",
+      "url": "https://x.com/YusukeNakanish3/status/2029583093041119397",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-05T15:41:31.000Z",
+      "text": "#Vizトーク #DataFamRisingStars 選出のみなさまおめでとうございます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    }
+  ]
+}

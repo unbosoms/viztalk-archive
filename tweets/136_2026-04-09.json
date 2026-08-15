@@ -1,0 +1,282 @@
+{
+  "episode": 136,
+  "date": "2026-04-09",
+  "collected_at": "2026-08-14T09:16:40.626Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 17,
+  "tweets": [
+    {
+      "id": "2042223878886629560",
+      "url": "https://x.com/YusukeNakanish3/status/2042223878886629560",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T12:51:30.000Z",
+      "text": "#Vizトーク 今日は23時からやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2042242888218947962",
+      "url": "https://x.com/_Chasoso/status/2042242888218947962",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:07:02.000Z",
+      "text": "#Vizトーク\nなんと、#TC26 まで残り1か月を切っています",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2042244156337397987",
+      "url": "https://x.com/_Chasoso/status/2042244156337397987",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:12:04.000Z",
+      "text": "#Vizトーク\n生成AIで英語を読むのはとても楽になったけど、英会話は、ね…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2042244363049464199",
+      "url": "https://x.com/YusukeNakanish3/status/2042244363049464199",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T14:12:53.000Z",
+      "text": "#Vizトーク 英会話いまさらがんばっています。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2042245074084614273",
+      "url": "https://x.com/YusukeNakanish3/status/2042245074084614273",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T14:15:43.000Z",
+      "text": "#Vizトーク\n\n@yoshi_datavizjp\n さんTC26登壇されます！楽しみです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2042245536850534802",
+      "url": "https://x.com/YusukeNakanish3/status/2042245536850534802",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T14:17:33.000Z",
+      "text": "#Vizトーク このセッションの進化版が聞けそうで非常に楽しみにしてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2042246094630080580",
+      "url": "https://x.com/_Chasoso/status/2042246094630080580",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:19:46.000Z",
+      "text": "#Vizトーク\nTableauのGitHub",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2042246905854656787",
+      "url": "https://x.com/YusukeNakanish3/status/2042246905854656787",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T14:23:00.000Z",
+      "text": "#Vizトーク tabbleauの公式XMLスキーマ定義についての解説記事です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2042247593368105128",
+      "url": "https://x.com/_Chasoso/status/2042247593368105128",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:25:44.000Z",
+      "text": "#Vizトーク\ntwbファイルを直接編集するWOWはこちら。\n\nhttps://\nworkout-wednesday.com/2022w40tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2042248293519183905",
+      "url": "https://x.com/YusukeNakanish3/status/2042248293519183905",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T14:28:30.000Z",
+      "text": "#Vizトーク \n今作ってる、自然言語で0からワークブック作ってくれるやつ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2042249322591637638",
+      "url": "https://x.com/_Chasoso/status/2042249322591637638",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:32:36.000Z",
+      "text": "#Vizトーク\nデジタル庁のダッシュボードデザインの実践ガイドブックとデザインテンプレート。\nぜひ一読を。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 21
+      }
+    },
+    {
+      "id": "2042255272719355982",
+      "url": "https://x.com/_Chasoso/status/2042255272719355982",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-04-09T14:56:14.000Z",
+      "text": "#Vizトーク\nTableau Prep Builderは単品で売ってもいいよね、という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2042257366218080586",
+      "url": "https://x.com/YusukeNakanish3/status/2042257366218080586",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T15:04:34.000Z",
+      "text": "#Vizトーク #B2VB を1h縛りでやっていっています。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2042258776305418536",
+      "url": "https://x.com/YusukeNakanish3/status/2042258776305418536",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T15:10:10.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2042260026853822900",
+      "url": "https://x.com/YusukeNakanish3/status/2042260026853822900",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T15:15:08.000Z",
+      "text": "#Vizトーク Tableau Act on Dataは来週4/16,17です！\nTableau AIの簡易ハンズオン気になります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2042261894871015490",
+      "url": "https://x.com/YusukeNakanish3/status/2042261894871015490",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-09T15:22:33.000Z",
+      "text": "#Vizトーク 来週はTC26のセッション日時確定してそうなので、気になるセッションについて語ろうと思います！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2042362136824058357",
+      "url": "https://x.com/antipop1/status/2042362136824058357",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-04-09T22:00:53.000Z",
+      "text": "これを使い続けてる同僚がいますが、良いです\n\n最初は今まで違いに戸惑うかもですが、徐々に周りから見やすいという声が出てくるようになり、本人も小慣れて・迷いなく作れるようになって、よくできたテンプレなんだと実感してます\n\nTableauな皆様、私からも是非！\n\n#Vizトーク #Tableau #Salesforce",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 15
+      }
+    }
+  ]
+}

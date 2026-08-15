@@ -1,0 +1,506 @@
+{
+  "episode": 130,
+  "date": "2026-02-19",
+  "collected_at": "2026-08-15T06:10:17.760Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 31,
+  "tweets": [
+    {
+      "id": "2024470457748230249",
+      "url": "https://x.com/YusukeNakanish3/status/2024470457748230249",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T13:05:44.000Z",
+      "text": "#Vizトーク 今日は23時ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2024485557456556351",
+      "url": "https://x.com/erika_kaikai/status/2024485557456556351",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:05:44.000Z",
+      "text": "久しぶりの #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2024486191962448227",
+      "url": "https://x.com/_Chasoso/status/2024486191962448227",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-19T14:08:15.000Z",
+      "text": "#Vizトーク\nこの後、こちらのイベントで登壇します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2024486435009810704",
+      "url": "https://x.com/YusukeNakanish3/status/2024486435009810704",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:09:13.000Z",
+      "text": "#Vizトーク #Tableau こちらぜひ登録を！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2024487881356742689",
+      "url": "https://x.com/YusukeNakanish3/status/2024487881356742689",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:14:58.000Z",
+      "text": "#Vizトーク 今年はErikaさんTC参戦！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024488052933218561",
+      "url": "https://x.com/erika_kaikai/status/2024488052933218561",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:15:39.000Z",
+      "text": "#TC26 むちゃくちゃ楽しみです今年も皆さんといっぱい繋げます\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2024488528391065650",
+      "url": "https://x.com/erika_kaikai/status/2024488528391065650",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:17:33.000Z",
+      "text": "今年はKnow Before You GoもJapan NightもJapan Wrap Up Sessionも私がリード担当します…！笑（その代わりコミュニティは昨年に引き続きすんさんが強力サポートくださいます） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2024489745922085165",
+      "url": "https://x.com/YusukeNakanish3/status/2024489745922085165",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:22:23.000Z",
+      "text": "#Vizトーク \nTableau Conference2025 準備編｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2024490000793124898",
+      "url": "https://x.com/erika_kaikai/status/2024490000793124898",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:23:24.000Z",
+      "text": "渡航前に参加者同士でつながっておけるの心強いですよね…（実は渡航中もつながってられるように今年は色々と画策中） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2024490503543427574",
+      "url": "https://x.com/TIkeda93820944/status/2024490503543427574",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2026-02-19T14:25:23.000Z",
+      "text": "リアルタイムで翻訳してくれるAir Podsを買って行くかどうかを本気で迷ってます\n#TC26 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2024491250108555395",
+      "url": "https://x.com/YusukeNakanish3/status/2024491250108555395",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:28:21.000Z",
+      "text": "#Vizトーク 会議室でやるハンズオン形式のものは翻訳あると便利かもです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2024491795762262458",
+      "url": "https://x.com/erika_kaikai/status/2024491795762262458",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:30:32.000Z",
+      "text": "セッション中の突然横からどう思うは心臓ちぎれそう #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2024492417928614250",
+      "url": "https://x.com/_Chasoso/status/2024492417928614250",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-19T14:33:00.000Z",
+      "text": "#Vizトーク\nTC26に行きたい方は、今すぐ登録するか、上司を説得するか…\n\nhttps://\nsalesforce.com/tableau-confer\nence/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024492917998653495",
+      "url": "https://x.com/erika_kaikai/status/2024492917998653495",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T14:34:59.000Z",
+      "text": "#TC26 アーリーバードは2/25（水）まで延長中です #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2024493277467320808",
+      "url": "https://x.com/YusukeNakanish3/status/2024493277467320808",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:36:25.000Z",
+      "text": "#Vizトーク 先週は私の出題回でした！実務でよくある系なのでめげずに挑戦してみてください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024494689421054052",
+      "url": "https://x.com/YusukeNakanish3/status/2024494689421054052",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:42:01.000Z",
+      "text": "#Vizトーク\n注釈右肩に出すのはやめました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2024495223540416923",
+      "url": "https://x.com/YusukeNakanish3/status/2024495223540416923",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:44:09.000Z",
+      "text": "#Vizトーク \nSlackもB2VB参考に充実させてますのでぜひご参加ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2024496430975766581",
+      "url": "https://x.com/_Chasoso/status/2024496430975766581",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-19T14:48:57.000Z",
+      "text": "#Vizトーク\nTableau Publicでインスピレーションを受けたVizを表示する\n\nhttps://\nideas.salesforce.com/s/idea/a0BHp00\n0016KkkJMAS/surface-which-vizzes-were-inspired-by-an-author-in-tableau-public-stats\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2024496660269904266",
+      "url": "https://x.com/YusukeNakanish3/status/2024496660269904266",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T14:49:51.000Z",
+      "text": "#Vizトーク Tableau Public APIも充実してきたので、ポートフォリオViz作成が捗る。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024498896953897015",
+      "url": "https://x.com/_Chasoso/status/2024498896953897015",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-19T14:58:45.000Z",
+      "text": "#Vizトーク\n結局Tableau Nextが何なのか、すべてを掴み切れていない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2024499220565438585",
+      "url": "https://x.com/ksnjr24/status/2024499220565438585",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2026-02-19T15:00:02.000Z",
+      "text": "Tbone(居残り組)は私がリードしようかな　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2024501113723245044",
+      "url": "https://x.com/YusukeNakanish3/status/2024501113723245044",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T15:07:33.000Z",
+      "text": "#Vizトーク Workout Wednesday、出題者ごとに特色があるのが好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2024503557177954348",
+      "url": "https://x.com/YusukeNakanish3/status/2024503557177954348",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T15:17:16.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024504239565988197",
+      "url": "https://x.com/erika_kaikai/status/2024504239565988197",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T15:19:58.000Z",
+      "text": "金沢行きたいなぁ〜… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2024506225568993371",
+      "url": "https://x.com/powerofmusic777/status/2024506225568993371",
+      "author_name": "Aokky",
+      "author_handle": "powerofmusic777",
+      "posted_at": "2026-02-19T15:27:52.000Z",
+      "text": "#Vizトーク でご紹介いただけるイベントを企画させてもらってるなんて、一年前は予想だにしてなかったです感謝!!\n#関西Tableauうまうま会",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2024506629644079582",
+      "url": "https://x.com/ksnjr24/status/2024506629644079582",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2026-02-19T15:29:28.000Z",
+      "text": "すごい、おめでとうございます。祝杯をあげましょう。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2024506719926440443",
+      "url": "https://x.com/erika_kaikai/status/2024506719926440443",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2026-02-19T15:29:50.000Z",
+      "text": "そうだ明日は #DATASaberBridge 4th の皆さんの卒業式もあるんだった…\n私はただの会場お手伝いだけど、認定された皆さんと師匠の笑顔をたくさん見れるのが楽しみだなぁ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 28
+      }
+    },
+    {
+      "id": "2024506911501201473",
+      "url": "https://x.com/YusukeNakanish3/status/2024506911501201473",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-19T15:30:35.000Z",
+      "text": "##Vizトーク おめでとうございます！！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2024507200941805768",
+      "url": "https://x.com/ksnjr24/status/2024507200941805768",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2026-02-19T15:31:44.000Z",
+      "text": "今年の夏、北海道・釧路でイベント開催予定\n9/4金～9/5土　まずはSave the date！\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2024507514499580380",
+      "url": "https://x.com/_Chasoso/status/2024507514499580380",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-19T15:32:59.000Z",
+      "text": "#Vizトーク\nTableau Serverのパーミッションフローチャート\n\nhttps://\nhelp.tableau.com/current/server\n/ja-jp/permission_effective.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2024508157473808593",
+      "url": "https://x.com/ksnjr24/status/2024508157473808593",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2026-02-19T15:35:32.000Z",
+      "text": "TC行かれないのはさみしい。\n日本代表に選ばれなかったアスリートと同じような気持ち・・・知らんけど\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    }
+  ]
+}

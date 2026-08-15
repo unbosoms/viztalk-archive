@@ -1,0 +1,202 @@
+{
+  "episode": 135,
+  "date": "2026-04-02",
+  "collected_at": "2026-08-14T09:50:27.977Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 12,
+  "tweets": [
+    {
+      "id": "2039662108405899607",
+      "url": "https://x.com/YusukeNakanish3/status/2039662108405899607",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T11:11:56.000Z",
+      "text": "#Vizトーク 今日も22:30ごろからやります! \n@yoshi_datavizjp\n さんと #TC26 の登壇セッション・WOW出題回など語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2039701574365425939",
+      "url": "https://x.com/YusukeNakanish3/status/2039701574365425939",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T13:48:45.000Z",
+      "text": "#Vizトーク まずは \n@yoshi_datavizjp\n さん出題のWOW回について。\n\n\nhttps://\nworkout-wednesday.com/2026w12tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2039702498508992609",
+      "url": "https://x.com/yoshi_datavizjp/status/2039702498508992609",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-04-02T13:52:26.000Z",
+      "text": "AI時代だからこその人間の専門性に関して、最近好きな記事\n\nhttps://\nroundup.getdbt.com/p/agent-skills\n-disseminating-expertise\n…\n\nhttps://\nzenn.dev/baleenstudio/a\nrticles/what-is-a-code-review\n…\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2039704712220651554",
+      "url": "https://x.com/yoshi_datavizjp/status/2039704712220651554",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-04-02T14:01:13.000Z",
+      "text": "余談的に、最近2回のWOWを一緒に作っているAgentです。問題の作り方を考えさせられたり、議論の中でTableau問題どうあるべきかを言語化する機会になっています。\n\nhttps://\ngithub.com/YoshitakaAraka\nwa/wow-challenge-creator\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2039709369529724974",
+      "url": "https://x.com/YusukeNakanish3/status/2039709369529724974",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T14:19:44.000Z",
+      "text": "#Vizトーク TC26、セッション日時出てます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2039709436554731652",
+      "url": "https://x.com/yoshi_datavizjp/status/2039709436554731652",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-04-02T14:20:00.000Z",
+      "text": "TCのハンズオンがマニアックネタが多くて面白そう\n\nhttps://\nreg.salesforce.com/flow/plus/tc26\n/sessioncatalog/page/catalog?tab.maincatalogyes=1660570521528001DDQT&search.sessiontype=164882861486100250iL\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2039710923821363261",
+      "url": "https://x.com/YusukeNakanish3/status/2039710923821363261",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T14:25:54.000Z",
+      "text": "#Vizトーク \n@yoshi_datavizjp\n さんが #TC26 登壇!!",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2039713364478427413",
+      "url": "https://x.com/YusukeNakanish3/status/2039713364478427413",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T14:35:36.000Z",
+      "text": "#Vizトーク Community Slackの中にも #TC26 のチャンネルあります！\n\nhttps://\ntableau-datafam.slack.com/archives/C0AHM\nE0GYB1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2039716781657563327",
+      "url": "https://x.com/TIkeda93820944/status/2039716781657563327",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2026-04-02T14:49:11.000Z",
+      "text": "#Vizトーク\nTCのことを紹介されるセッションはこちら",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2039716798757736520",
+      "url": "https://x.com/yoshi_datavizjp/status/2039716798757736520",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-04-02T14:49:15.000Z",
+      "text": "AWTTはページ公開済\n\nhttps://\nsalesforce.com/jp/events/worl\nd-tour/tokyo/\n…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2039718202272567449",
+      "url": "https://x.com/YusukeNakanish3/status/2039718202272567449",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-02T14:54:50.000Z",
+      "text": "#Vizトーク Vizzies投票もお忘れなく！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2040303041606508885",
+      "url": "https://x.com/YusukeNakanish3/status/2040303041606508885",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-04-04T05:38:46.000Z",
+      "text": "#Vizトーク Tableauのワークブック(twb・twbx)の構造、2月に公式から出てることに気づきました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 7,
+        "likes": 20
+      }
+    }
+  ]
+}

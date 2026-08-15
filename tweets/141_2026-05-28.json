@@ -1,0 +1,170 @@
+{
+  "episode": 141,
+  "date": "2026-05-28",
+  "collected_at": "2026-08-14T08:35:38.364Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 10,
+  "tweets": [
+    {
+      "id": "2059957843693036009",
+      "url": "https://x.com/YusukeNakanish3/status/2059957843693036009",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T11:19:56.000Z",
+      "text": "#Vizトーク 今日も23時ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2060000348937634212",
+      "url": "https://x.com/YusukeNakanish3/status/2060000348937634212",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T14:08:50.000Z",
+      "text": "#Vizトーク 今日は #TableauNow 大阪でした。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2060000893668614486",
+      "url": "https://x.com/YusukeNakanish3/status/2060000893668614486",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T14:11:00.000Z",
+      "text": "#Vizトーク Decision Frameworkの話は今日のTableauNowでもありました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2060001723440349227",
+      "url": "https://x.com/antipop1/status/2060001723440349227",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-05-28T14:14:18.000Z",
+      "text": "#Vizトーク\nアナリストは、左下の領域に立ち向かうのが大事じゃないか？という話をしてました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2060006043955200437",
+      "url": "https://x.com/YusukeNakanish3/status/2060006043955200437",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T14:31:28.000Z",
+      "text": "#Vizトーク データマネジメント整備大事という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2060006325351002261",
+      "url": "https://x.com/antipop1/status/2060006325351002261",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-05-28T14:32:35.000Z",
+      "text": "#Vizトーク\nいつの時代もデータマネジメントが大事になるんだろうな、という話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2060008097918357591",
+      "url": "https://x.com/antipop1/status/2060008097918357591",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2026-05-28T14:39:38.000Z",
+      "text": "#Vizトーク\nダッシュボードでもAIでも、やらなきゃいけないことは変わらない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2060009148692218005",
+      "url": "https://x.com/YusukeNakanish3/status/2060009148692218005",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T14:43:48.000Z",
+      "text": "#Vizトーク IVR的なエージェントの是非について。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2060014237800681868",
+      "url": "https://x.com/YusukeNakanish3/status/2060014237800681868",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T15:04:02.000Z",
+      "text": "#Vizトーク 回線不調でスペース落ちてしまいました。すいません。丁度0時なのでここで終了したいと思います。ご参加いただいた方ありがとうございました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2060014813653373187",
+      "url": "https://x.com/YusukeNakanish3/status/2060014813653373187",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-05-28T15:06:19.000Z",
+      "text": "#Vizトーク \n週末〜来週のイベントだけ貼っておきます！\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    }
+  ]
+}

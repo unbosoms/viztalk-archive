@@ -1,0 +1,394 @@
+{
+  "episode": 129,
+  "date": "2026-02-05",
+  "collected_at": "2026-08-15T06:11:33.766Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 24,
+  "tweets": [
+    {
+      "id": "2019345239283323271",
+      "url": "https://x.com/YusukeNakanish3/status/2019345239283323271",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T09:39:57.000Z",
+      "text": "#Vizトーク 今日も2230ごろからやります！\n\n@_Chasoso\n さん #IronViz Top10おめでとう回です\n\n\nhttps://\nx.com/i/spaces/1lPKq\nvOnrpAGb\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 12,
+        "likes": 16
+      }
+    },
+    {
+      "id": "2019406437613703428",
+      "url": "https://x.com/YusukeNakanish3/status/2019406437613703428",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T13:43:08.000Z",
+      "text": "#IronViz Top10発表されました！ \n@_Chasoso\n さん入賞本当におめでとうございます！\n\nhttps://\ntableau.com/blog/top-10-qu\nalifiers-iron-viz-2026?utm_campaign=amer_tabaw&utm_content=Tableau+Software+(Default)_Iron+Viz_sprout-1770224448&utm_medium=organic_social&utm_source=facebook\n…\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 15
+      }
+    },
+    {
+      "id": "2019407155401748707",
+      "url": "https://x.com/_Chasoso/status/2019407155401748707",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-05T13:45:59.000Z",
+      "text": "#Vizトーク\n#IronViz 2026の私のVizはこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 24
+      }
+    },
+    {
+      "id": "2019407550148669915",
+      "url": "https://x.com/YusukeNakanish3/status/2019407550148669915",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T13:47:33.000Z",
+      "text": "#Vizトーク #Ironviz Top10入るとTableau Storeで使えるギフト券がもらえる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2019407683292680211",
+      "url": "https://x.com/_Chasoso/status/2019407683292680211",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-05T13:48:05.000Z",
+      "text": "#Vizトーク\n実はGift Cardがもらえます。\n\nhttps://\ntableau.com/community/iron\n-viz\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2019408922709496257",
+      "url": "https://x.com/_Chasoso/status/2019408922709496257",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-05T13:53:00.000Z",
+      "text": "#Vizトーク\nここは全部ボタンで、各ダッシュボードごとに編集してます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2019409698198614074",
+      "url": "https://x.com/YusukeNakanish3/status/2019409698198614074",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T13:56:05.000Z",
+      "text": "#Vizトーク\n漁場の位置が正方形の角なので真ん中になるように補正している。こまやか。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2019410370704863320",
+      "url": "https://x.com/yoshi_datavizjp/status/2019410370704863320",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-02-05T13:58:45.000Z",
+      "text": "#Vizトーク\n\nhttps://\ntableau.com/products/comin\ng-soon#item-106103\n…\nExtensionsも画像エクスポート等でも表示されるっぽい？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2019410829184233835",
+      "url": "https://x.com/yoshi_datavizjp/status/2019410829184233835",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-02-05T14:00:35.000Z",
+      "text": "https://\nusergroups.tableau.com/events/details\n/tableau-datafam-discovery-presents-inside-track-on-20261-apac-friendly/\n…\n2026.1 ピックアップ会的な\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2019413083463250052",
+      "url": "https://x.com/YusukeNakanish3/status/2019413083463250052",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:09:32.000Z",
+      "text": "#Vizトーク \n@BMooreWasTaken\n さんの作品。最後にカラーパレット変えられる機能が。こういうの大好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "2019414109935268171",
+      "url": "https://x.com/YusukeNakanish3/status/2019414109935268171",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:13:37.000Z",
+      "text": "#Vizトーク \n人文学オープンデータ共同利用センター のデータはおもしろいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2019415772821614903",
+      "url": "https://x.com/YusukeNakanish3/status/2019415772821614903",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:20:13.000Z",
+      "text": "#Vizトーク \n@KevinWee90\n さんの昨年のTCでのダッシュボードデザインについてのセッション。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2019415962743894114",
+      "url": "https://x.com/YusukeNakanish3/status/2019415962743894114",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:20:59.000Z",
+      "text": "#Vizトーク \n@KevinWee90\n さんの経歴についての記事。\nKevin Wee's Remarkable Path from PhD Scientist to Data Artist Extraordinaire",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2019416970979049752",
+      "url": "https://x.com/YusukeNakanish3/status/2019416970979049752",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:24:59.000Z",
+      "text": "#Vizトーク 色使いも好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2019418136341295605",
+      "url": "https://x.com/yoshi_datavizjp/status/2019418136341295605",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-02-05T14:29:37.000Z",
+      "text": "https://\nflerlagetwins.com/2020/11/beeswa\nrm.html\n…\n根性のBeeswarm\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2019418423919538449",
+      "url": "https://x.com/YusukeNakanish3/status/2019418423919538449",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:30:45.000Z",
+      "text": "#Vizトーク Ann Preglerさんの作品。デザインもですがBeeSwarmを計算フィールドで作ってるっぽいのがすごすぎる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2019420506815099277",
+      "url": "https://x.com/YusukeNakanish3/status/2019420506815099277",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:39:02.000Z",
+      "text": "#Vizトーク \n@datavizfairy\n さんの作品。\n基本的なチャートタイプを中心にしながら非常に洗練されてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2019421259239666003",
+      "url": "https://x.com/YusukeNakanish3/status/2019421259239666003",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:42:01.000Z",
+      "text": "#Vizトーク \n@ryandsoares\n さんの昨年のIronviz予選作品。\n縦長にする意味がちゃんとあって好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2019422525076435086",
+      "url": "https://x.com/YusukeNakanish3/status/2019422525076435086",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T14:47:03.000Z",
+      "text": "#Vizトーク Iron Viz 2026 finalistsのみなさんのPublicの他作品を見ておくと本戦がより楽しめます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2019424955717546131",
+      "url": "https://x.com/_Chasoso/status/2019424955717546131",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-02-05T14:56:43.000Z",
+      "text": "#Vizトーク\n私の推し新機能",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2019425998731898904",
+      "url": "https://x.com/YusukeNakanish3/status/2019425998731898904",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T15:00:51.000Z",
+      "text": "#Vizトーク これ。積年の悩みがついに解消されてました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2019427319874744689",
+      "url": "https://x.com/YusukeNakanish3/status/2019427319874744689",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T15:06:06.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2019428426235670875",
+      "url": "https://x.com/YusukeNakanish3/status/2019428426235670875",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T15:10:30.000Z",
+      "text": "#Vizトーク 来週の #Tableau イベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2019429483770765726",
+      "url": "https://x.com/YusukeNakanish3/status/2019429483770765726",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-02-05T15:14:42.000Z",
+      "text": "#Vizトーク カジュアルVizつくりまShowは2/16(月) 20:00～です！途中参加/退出OKですのでお気軽にご参加ください！\n #VizTs",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 9
+      }
+    }
+  ]
+}

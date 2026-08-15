@@ -1,0 +1,314 @@
+{
+  "episode": 135,
+  "date": "2026-03-26",
+  "collected_at": "2026-08-14T09:52:18.315Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 19,
+  "tweets": [
+    {
+      "id": "2037159488172810450",
+      "url": "https://x.com/YusukeNakanish3/status/2037159488172810450",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T13:27:25.000Z",
+      "text": "#Vizトーク 今日も23時からやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2037169534130676143",
+      "url": "https://x.com/_Chasoso/status/2037169534130676143",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T14:07:20.000Z",
+      "text": "#Vizトーク\n最近のWOWの話。まだ今年は簡単め？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2037170290200089048",
+      "url": "https://x.com/_Chasoso/status/2037170290200089048",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T14:10:20.000Z",
+      "text": "#Vizトーク\nVizziesのノミネートも始まっています！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2037170315747578013",
+      "url": "https://x.com/YusukeNakanish3/status/2037170315747578013",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:10:26.000Z",
+      "text": "#Vizトーク Vizzies投票が始まってます！皆さん気軽に投票しましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2037170646871138580",
+      "url": "https://x.com/YusukeNakanish3/status/2037170646871138580",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:11:45.000Z",
+      "text": "#Vizトーク \nプレゼンターに今年もAndyさんが！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2037170750365589766",
+      "url": "https://x.com/_Chasoso/status/2037170750365589766",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T14:12:10.000Z",
+      "text": "#Vizトーク\n#TC26 のセッション情報もぼちぼち公開されてきています",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2037172680039039448",
+      "url": "https://x.com/YusukeNakanish3/status/2037172680039039448",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:19:50.000Z",
+      "text": "#Vizトーク TC26のハンズオン系セッション。\nマニアックなものも多くて楽しいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2037173380332609776",
+      "url": "https://x.com/YusukeNakanish3/status/2037173380332609776",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:22:37.000Z",
+      "text": "#Vizトーク Tooltip中心のセッション。気になる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2037173407289364646",
+      "url": "https://x.com/_Chasoso/status/2037173407289364646",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T14:22:43.000Z",
+      "text": "#Vizトーク\n早口言葉",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2037174814860075137",
+      "url": "https://x.com/YusukeNakanish3/status/2037174814860075137",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:28:19.000Z",
+      "text": "#Vizトーク TC、現地参加すると後日セッション資料DLできます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2037175132226281941",
+      "url": "https://x.com/_Chasoso/status/2037175132226281941",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T14:29:35.000Z",
+      "text": "#Vizトーク\nREST APIコネクタがついにリリースされました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2037175237981393388",
+      "url": "https://x.com/YusukeNakanish3/status/2037175237981393388",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:30:00.000Z",
+      "text": "#Vizトーク 2026.1新規リリースされたREST APIコネクタについて",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2037177286458565022",
+      "url": "https://x.com/YusukeNakanish3/status/2037177286458565022",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:38:08.000Z",
+      "text": "#Vizトーク M365に統合されたTableauアプリ。気になる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2037179013819662804",
+      "url": "https://x.com/YusukeNakanish3/status/2037179013819662804",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T14:45:00.000Z",
+      "text": "#Vizトーク 今日はこのイベント行ってきました。\nSnowflake AI Data Meetup WEST #SnowVillage #Snowflake",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2037184233098404126",
+      "url": "https://x.com/YusukeNakanish3/status/2037184233098404126",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T15:05:44.000Z",
+      "text": "#Vizトーク VOTDの修正がすぐ反映されてます。コミュニティをちゃんと見てくれてるのが感じられて嬉しいですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2037184937397506226",
+      "url": "https://x.com/_Chasoso/status/2037184937397506226",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-03-26T15:08:32.000Z",
+      "text": "#Vizトーク\nこちらのブログ記事、ぜひご覧ください。\nスマートグラス、ちょっと気になる…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2037185629239599222",
+      "url": "https://x.com/YusukeNakanish3/status/2037185629239599222",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T15:11:17.000Z",
+      "text": "#Vizトーク Evenはヨドバシでも買えるようになります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2037186379285999787",
+      "url": "https://x.com/YusukeNakanish3/status/2037186379285999787",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T15:14:16.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2037188448382312529",
+      "url": "https://x.com/YusukeNakanish3/status/2037188448382312529",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-03-26T15:22:29.000Z",
+      "text": "#Vizトーク JTUG総会登壇いただいた山辺先生の作品が28日より展示されるとのこと。関東の方はぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    }
+  ]
+}
