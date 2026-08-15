@@ -1,0 +1,618 @@
+{
+  "episode": 118,
+  "date": "2025-10-23",
+  "collected_at": "2026-08-15T06:55:54.025Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 38,
+  "tweets": [
+    {
+      "id": "1981310292740231345",
+      "url": "https://x.com/YusukeNakanish3/status/1981310292740231345",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T10:42:39.000Z",
+      "text": "#Vizトーク 今日も2230ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1981355495765266616",
+      "url": "https://x.com/YusukeNakanish3/status/1981355495765266616",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T13:42:16.000Z",
+      "text": "#Vizトーク 少々開始遅れます！23時ぐらいには開始します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1981363982629032413",
+      "url": "https://x.com/unbosoms/status/1981363982629032413",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:16:00.000Z",
+      "text": "さかぴーがVizGamesに出るよという話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1981364448049975383",
+      "url": "https://x.com/YusukeNakanish3/status/1981364448049975383",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:17:51.000Z",
+      "text": "#Vizトーク #VizGames \n@Natsumi_gt_data\n \n@Seiji_Suna\n \n@unbosoms\n 出場おめでとうございます！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1981364785590759868",
+      "url": "https://x.com/mfujita2023/status/1981364785590759868",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-10-23T14:19:11.000Z",
+      "text": "さかぴーさんおめでとうございます！緊張されると思うのですが、いつも通りでやれば大丈夫です！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1981365716898230708",
+      "url": "https://x.com/YusukeNakanish3/status/1981365716898230708",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:22:53.000Z",
+      "text": "#Vizトーク WOWも豪華サポートメンバーでお送りします。\n\n@yoshi_datavizjp\n \n@antipop1\n もサポートで協力いただきます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1981366035547902240",
+      "url": "https://x.com/unbosoms/status/1981366035547902240",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:24:09.000Z",
+      "text": "Agentforce World Tour Tokyo での WoWセッションたのしみ！という話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981366938963235178",
+      "url": "https://x.com/unbosoms/status/1981366938963235178",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:27:44.000Z",
+      "text": "Dreamforceおわりましたねって話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981367334439965145",
+      "url": "https://x.com/YusukeNakanish3/status/1981367334439965145",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:29:19.000Z",
+      "text": "#Vizトーク 昨日の #たぶラジ 、Youtubeアーカイブありますので見逃した方ぜひ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981367634634690794",
+      "url": "https://x.com/unbosoms/status/1981367634634690794",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:30:30.000Z",
+      "text": "クリスチャンシャボーのプレゼンがすごくいいという話。\n\nhttps://\nx.com/fajoa/status/1\n748699795802460522\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981367843880091977",
+      "url": "https://x.com/unbosoms/status/1981367843880091977",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:31:20.000Z",
+      "text": "中西さんがDreamforceのTableauセッションをまとめてくれています！\n\nhttps://\nnote.com/konpuku/n/nae8\n6d638bf3f\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1981367881356202162",
+      "url": "https://x.com/YusukeNakanish3/status/1981367881356202162",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:31:29.000Z",
+      "text": "#Vizトーク \nDreamforce 2025 Tableau関連セッションまとめ｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981368878677840284",
+      "url": "https://x.com/unbosoms/status/1981368878677840284",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:35:27.000Z",
+      "text": "Dreamforce のTableauキーノートはTCと大きくは変わっていない印象でした。でもTableau Nextは順当に進化していそうですね。\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981369069589942722",
+      "url": "https://x.com/YusukeNakanish3/status/1981369069589942722",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:36:12.000Z",
+      "text": "#Vizトーク Tableau 2025.3もまもなく。楽しみな機能がいっぱいあります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981370260122124676",
+      "url": "https://x.com/mfujita2023/status/1981370260122124676",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-10-23T14:40:56.000Z",
+      "text": "SnowflakeはめちゃめちゃSQL祭りですよーw #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981370564607696911",
+      "url": "https://x.com/YusukeNakanish3/status/1981370564607696911",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:42:09.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1981370946549404002",
+      "url": "https://x.com/YusukeNakanish3/status/1981370946549404002",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:43:40.000Z",
+      "text": "#Vizトーク\n\nhttps://\nhashpath.com/2020/12/an-ana\nlytics-engineer-is-really-just-a-pissed-off-data-analyst/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1981371513686413834",
+      "url": "https://x.com/unbosoms/status/1981371513686413834",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:45:55.000Z",
+      "text": "2025.3でTableau MCPのOAuth対応が出たのはMCPに力を入れているということを感じました。実用考えると絶対必要ですよね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981371889051410804",
+      "url": "https://x.com/unbosoms/status/1981371889051410804",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:47:25.000Z",
+      "text": "Tableau Publicの絵文字リアクション機能。このアイコンはそれぞれどういう意味なんだろう。ちょっと楽しみ。\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981372230593630387",
+      "url": "https://x.com/unbosoms/status/1981372230593630387",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:48:46.000Z",
+      "text": "VizExtensionの進化にも期待ですね。\n\nhttps://\nx.com/unbosoms/statu\ns/1980055535262286193\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1981372475683590568",
+      "url": "https://x.com/YusukeNakanish3/status/1981372475683590568",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:49:44.000Z",
+      "text": "#Vizトーク Tableau Exchangeもいろいろ増えそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981372826520342785",
+      "url": "https://x.com/unbosoms/status/1981372826520342785",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:51:08.000Z",
+      "text": "2025.3でも角丸こなかったねという話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981373065117466987",
+      "url": "https://x.com/unbosoms/status/1981373065117466987",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:52:05.000Z",
+      "text": "Composable Datasourceも早く来てほしいという話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1981373973402440091",
+      "url": "https://x.com/unbosoms/status/1981373973402440091",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:55:42.000Z",
+      "text": "色がたくさん必要になった時どうしたらいいんだという話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1981374284460392715",
+      "url": "https://x.com/YusukeNakanish3/status/1981374284460392715",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T14:56:56.000Z",
+      "text": "#Vizトーク 色の割当を変えるのはまさに先週の私の出題回のテーマですね！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981374966814953568",
+      "url": "https://x.com/unbosoms/status/1981374966814953568",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T14:59:38.000Z",
+      "text": "Tableauのデフォルトカラーパレットを変更するTips。これはすごい！\n\nhttps://\nnote.com/konpuku/n/n887\n468969243\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981375861707460911",
+      "url": "https://x.com/unbosoms/status/1981375861707460911",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T15:03:12.000Z",
+      "text": "Tableau Serverのバージョンアップは怖いので安定してからあげたい。となると新しい機能はすぐ使えない。悲しい。という話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1981376633874633021",
+      "url": "https://x.com/YusukeNakanish3/status/1981376633874633021",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T15:06:16.000Z",
+      "text": "#Vizトーク 都知事杯オープンデータハッカソンのファイナルは今週末です！ オンラインもありますのでぜひ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981376753437401507",
+      "url": "https://x.com/unbosoms/status/1981376753437401507",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T15:06:44.000Z",
+      "text": "10/26(日)の午後にVIZZIESが都知事杯オープンデータハッカソンに出ます！ぜひ応援してください\n\nhttps://\nodh-tokyo2025-final.peatix.com\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981376960829018324",
+      "url": "https://x.com/YusukeNakanish3/status/1981376960829018324",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T15:07:34.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1981376992802197745",
+      "url": "https://x.com/tsu_chaan/status/1981376992802197745",
+      "author_name": "おつう | Tsubasa Kitahara",
+      "author_handle": "tsu_chaan",
+      "posted_at": "2025-10-23T15:07:41.000Z",
+      "text": "タイプ音が気持ちい　#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981377626884493428",
+      "url": "https://x.com/YusukeNakanish3/status/1981377626884493428",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T15:10:13.000Z",
+      "text": "#Vizトーク 来週は カジュアル #VizTS です。まだまだ参加登録お待ちしてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1981377746455675084",
+      "url": "https://x.com/unbosoms/status/1981377746455675084",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T15:10:41.000Z",
+      "text": "今年のVizつくりまShowの予選会が11/16(日)の夜21:00からあります！みなさまぜひご参加ください！\n\nhttps://\ntechplay.jp/event/987809 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1981378434778698119",
+      "url": "https://x.com/YusukeNakanish3/status/1981378434778698119",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T15:13:25.000Z",
+      "text": "#Tableauうまうま会 カナダでも開催です！すごい。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1981380056439280111",
+      "url": "https://x.com/unbosoms/status/1981380056439280111",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-23T15:19:52.000Z",
+      "text": "JTUG総会でも登壇いただく山辺先生の書籍がとてもお勧めです！網羅的にデザインの話があるのはもちろん、後半ではダッシュボードをステークホルダーとどう作っていくかなど実用的なことがたくさん書いてあってすごいです（語彙）。\n\nhttps://\namzn.asia/d/dgA9cWB\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 33
+      }
+    },
+    {
+      "id": "1981380165730181463",
+      "url": "https://x.com/YusukeNakanish3/status/1981380165730181463",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-23T15:20:18.000Z",
+      "text": "#Vizトーク データ界隈100人カイギに JTUG総会ご登壇いただく \n@masakick\n さんが登壇されるイベントも来週あります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1982040309606560124",
+      "url": "https://x.com/michi_TaToTsu/status/1982040309606560124",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-10-25T11:03:28.000Z",
+      "text": "#Vizトーク　第118回\nアーカイブ視聴ができるのが有難いです。\n\n@YusukeNakanish3\nさんのDreamforceのTableauセッションをまとめ、本当に助かります。\nSemantic Modelingのところは特に聞きたいと思います。\nそしてTableau 2025.3のお話。またまた楽しみですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1982040312131551361",
+      "url": "https://x.com/michi_TaToTsu/status/1982040312131551361",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2025-10-25T11:03:29.000Z",
+      "text": "#Vizトーク\nずっと前から\n@unbosoms\nさんがお勧めしてくださっていた「データビジュアライゼーションのためのデザイン原則」、昨日ぽちりました。これからしばらく私の朝と昼のインプットタイムのお供になります。\n\n@YusukeNakanish3\nさん、\n@unbosoms\nさん今回も素敵なお話ありがとうございました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    }
+  ]
+}

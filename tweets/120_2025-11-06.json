@@ -1,0 +1,426 @@
+{
+  "episode": 120,
+  "date": "2025-11-06",
+  "collected_at": "2026-08-15T06:50:40.974Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 26,
+  "tweets": [
+    {
+      "id": "1986435417378594835",
+      "url": "https://x.com/YusukeNakanish3/status/1986435417378594835",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:08:04.000Z",
+      "text": "#Vizトーク Ironvizの〆切は11/21です！日本時間だと11/22の夕方が〆切。AWTTと被ってる。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1986435851874951349",
+      "url": "https://x.com/_Chasoso/status/1986435851874951349",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:09:47.000Z",
+      "text": "#Vizトーク\nVizSpaceの締め切りは11/16(日)！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1986436590525464650",
+      "url": "https://x.com/YusukeNakanish3/status/1986436590525464650",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:12:44.000Z",
+      "text": "#Vizトーク 11/15土の北陸Tableauユーザ会、まだ枠あります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1986437020718407774",
+      "url": "https://x.com/_Chasoso/status/1986437020718407774",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:14:26.000Z",
+      "text": "#Vizトーク\n最近は #30DayMapChallenge に参加してます。\n結構大変。\n\nhttps://\n30daymapchallenge.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1986438456852254788",
+      "url": "https://x.com/YusukeNakanish3/status/1986438456852254788",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:20:09.000Z",
+      "text": "#Vizトーク\nMapboxだとTableau用のオプションがあります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1986438822998253570",
+      "url": "https://x.com/_Chasoso/status/1986438822998253570",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:21:36.000Z",
+      "text": "#Vizトーク\n困ったときのThe Flerlage Twinsブログ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1986438851985088552",
+      "url": "https://x.com/YusukeNakanish3/status/1986438851985088552",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:21:43.000Z",
+      "text": "#Vizトーク MapboxのラベルがTableauでうまく表示されない問題の解決方法。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1986439859565961254",
+      "url": "https://x.com/_Chasoso/status/1986439859565961254",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:25:43.000Z",
+      "text": "#Vizトーク\n改めて、AkaneさんViz of the Day選出、おめでとうございます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1986442012321849495",
+      "url": "https://x.com/_Chasoso/status/1986442012321849495",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:34:16.000Z",
+      "text": "#Vizトーク\n先週のWorkout Wednesday\n曲線講座を履修しましょう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1986442296016126309",
+      "url": "https://x.com/YusukeNakanish3/status/1986442296016126309",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:35:24.000Z",
+      "text": "#Vizトーク\n先週のWOW苦しんだ方は\n\n@unbosoms\n さんの曲線講座を読んでみてください！\nTableau曲線表現講座(2024.11.21)",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1986442429361463713",
+      "url": "https://x.com/tesshin_tableau/status/1986442429361463713",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T14:35:56.000Z",
+      "text": "曲線講座から1年！時が流れるのがはやい #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1986444447522140380",
+      "url": "https://x.com/_Chasoso/status/1986444447522140380",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:43:57.000Z",
+      "text": "#Vizトーク\nTableau Publicにパブリッシュするとこんな感じ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1986444474411860157",
+      "url": "https://x.com/YusukeNakanish3/status/1986444474411860157",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:44:03.000Z",
+      "text": "#Vizトーク Extension、Publicで使えるものがめっちゃ増えてますね。全部 \n@ladataviz\n さん製。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1986446762543026320",
+      "url": "https://x.com/YusukeNakanish3/status/1986446762543026320",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T14:53:09.000Z",
+      "text": "#Vizトーク\nExtension、KPIカード等ビジネスでもめっちゃ使うものもそろってますね！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1986446767802753300",
+      "url": "https://x.com/_Chasoso/status/1986446767802753300",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-11-06T14:53:10.000Z",
+      "text": "#Vizトーク\nKPI Card、めっちゃ簡単",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1986448488843112463",
+      "url": "https://x.com/YusukeNakanish3/status/1986448488843112463",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:00:00.000Z",
+      "text": "#Vizトーク Tableau 2025.3のリリースももう間もなく。のはず。楽しみです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1986449335572418750",
+      "url": "https://x.com/YusukeNakanish3/status/1986449335572418750",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:03:22.000Z",
+      "text": "#Vizトーク Tableau2025.3の新機能紹介回とTristanさんのExtension回は分けてやらないと時間足りなさそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1986449937127907824",
+      "url": "https://x.com/YusukeNakanish3/status/1986449937127907824",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:05:46.000Z",
+      "text": "#Vizトーク #JTUGCommunityStar の投票は11月30日 23:59までです！みなさんぜひ投票ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1986450543989203206",
+      "url": "https://x.com/YusukeNakanish3/status/1986450543989203206",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:08:10.000Z",
+      "text": "#Vizトーク JTUG総会の参加登録もオープンしてます！\nJapan Tableau User Group 2025 総会 Tableau Festival - つながる、うまれる、ひろがる - \nhttps://\ntechplay.jp/event/986053?u\ntm_source=event_986053&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #JTUG #TabFes #Tableau #LT #Meetup",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1986450747454857452",
+      "url": "https://x.com/YusukeNakanish3/status/1986450747454857452",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:08:59.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1986451046047359304",
+      "url": "https://x.com/tesshin_tableau/status/1986451046047359304",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T15:10:10.000Z",
+      "text": "弊社ウェビナー11/12是非 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1986451433638797320",
+      "url": "https://x.com/tesshin_tableau/status/1986451433638797320",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T15:11:42.000Z",
+      "text": "来週はDATA Saber - Bridge 4thのapplyもございます、また盛り上げていきますのでよろしくお願いします。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1986451478392021204",
+      "url": "https://x.com/YusukeNakanish3/status/1986451478392021204",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-11-06T15:11:53.000Z",
+      "text": "#Vizトーク #vizts 予選会は2025/11/16(日) 21:00〜22:30です！ぜひ挑戦者で申込ください！\nVizつくりまShow! 2025 予選会 \nhttps://\ntechplay.jp/event/987809?u\ntm_source=event_987809&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #VizTS2025 #JTUG #Tableau",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1986451525666021846",
+      "url": "https://x.com/tesshin_tableau/status/1986451525666021846",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T15:12:04.000Z",
+      "text": "Vizつくりまshow!くる… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1986452039556342085",
+      "url": "https://x.com/tesshin_tableau/status/1986452039556342085",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T15:14:07.000Z",
+      "text": "applyなのであんまりイベントっぽく公開はされてないですね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1986452642630136202",
+      "url": "https://x.com/tesshin_tableau/status/1986452642630136202",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-11-06T15:16:31.000Z",
+      "text": "リベンジします\nもう問題出揃ってるんですねー、、、ドキドキだ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

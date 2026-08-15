@@ -1,0 +1,538 @@
+{
+  "episode": 117,
+  "date": "2025-10-09",
+  "collected_at": "2026-08-15T06:57:23.148Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 33,
+  "tweets": [
+    {
+      "id": "1976249908316471489",
+      "url": "https://x.com/YusukeNakanish3/status/1976249908316471489",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T11:34:29.000Z",
+      "text": "#Vizトーク 今日も22:30ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976280188280537554",
+      "url": "https://x.com/YusukeNakanish3/status/1976280188280537554",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T13:34:49.000Z",
+      "text": "#Vizトーク はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1976281600381026609",
+      "url": "https://x.com/O_Syringa_Z/status/1976281600381026609",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T13:40:25.000Z",
+      "text": "#Vizトーク\n明日、このイベントで \n@YusukeNakanish3\n さんがAIに仕事を奪ってほしい話をされるそう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976282784164610369",
+      "url": "https://x.com/O_Syringa_Z/status/1976282784164610369",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T13:45:07.000Z",
+      "text": "#Vizトーク \nこれすごい",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976283157021458870",
+      "url": "https://x.com/YusukeNakanish3/status/1976283157021458870",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T13:46:36.000Z",
+      "text": "#Vizトーク \nコミュニティこそMVV（ミッション・ビジョン・バリュー）定義するのが大事です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1976283864978133375",
+      "url": "https://x.com/O_Syringa_Z/status/1976283864978133375",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T13:49:25.000Z",
+      "text": "#Vizトーク \n中西さんおめでとうございます！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976283923895497169",
+      "url": "https://x.com/YusukeNakanish3/status/1976283923895497169",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T13:49:39.000Z",
+      "text": "#Vizトーク Viz of the day 2つめいただきました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 22
+      }
+    },
+    {
+      "id": "1976284778057039888",
+      "url": "https://x.com/O_Syringa_Z/status/1976284778057039888",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T13:53:03.000Z",
+      "text": "#Vizトーク \nこだわりポイントその１",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976285531677000026",
+      "url": "https://x.com/unbosoms/status/1976285531677000026",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T13:56:03.000Z",
+      "text": "すご...AREA関数とかですか？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976285665764741429",
+      "url": "https://x.com/O_Syringa_Z/status/1976285665764741429",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T13:56:34.000Z",
+      "text": "#Vizトーク \nある一定の解像度になると、ラベルが出る仕様",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976286677175038290",
+      "url": "https://x.com/YusukeNakanish3/status/1976286677175038290",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:00:36.000Z",
+      "text": "#Vizトーク タイトル横の棒グラフは、PradeepさんのIronvizのFinalのインスパイアです。\n\nhttps://\npublic.tableau.com/app/profile/pr\nadeepkumar.g/viz/MusicDiscoveries/IVPradeep\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1976287293825851516",
+      "url": "https://x.com/O_Syringa_Z/status/1976287293825851516",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T14:03:03.000Z",
+      "text": "#Vizトーク \nからのこちら",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1976288608421380370",
+      "url": "https://x.com/YusukeNakanish3/status/1976288608421380370",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:08:16.000Z",
+      "text": "#Vizトーク Tableau Public Safeのフォントでもサムネイル崩れてる場面があったり。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1976290508415828234",
+      "url": "https://x.com/YusukeNakanish3/status/1976290508415828234",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:15:49.000Z",
+      "text": "#Vizトーク Tableauの新機能についてのウェビナー、過去回も視聴できます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1976291664315678903",
+      "url": "https://x.com/YusukeNakanish3/status/1976291664315678903",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:20:25.000Z",
+      "text": "#Vizトーク 先々週のViztsはSlackのTableau Community使ってやりました！\n\nhttps://\ntableau-datafam.slack.com/archives/C08FQ\nAKFUKZ/p1758970777710899\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1976291847942308149",
+      "url": "https://x.com/tesshin_tableau/status/1976291847942308149",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-10-09T14:21:08.000Z",
+      "text": "Twitterみたいなものが好きだったから、です #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976293747286807040",
+      "url": "https://x.com/YusukeNakanish3/status/1976293747286807040",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:28:41.000Z",
+      "text": "#Vizトーク \nサンプルスーパーストアトリビア。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1976294177362280705",
+      "url": "https://x.com/unbosoms/status/1976294177362280705",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T14:30:24.000Z",
+      "text": "しかもProduct Nameなんですね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1976294891815829939",
+      "url": "https://x.com/YusukeNakanish3/status/1976294891815829939",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:33:14.000Z",
+      "text": "#Vizトーク #AgentforceTour Tokyo、11/21金 にWorkout Wednesdayやります！ぜひご参加ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1976295111916175757",
+      "url": "https://x.com/tesshin_tableau/status/1976295111916175757",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-10-09T14:34:07.000Z",
+      "text": "AWTTでWorkout Wednesday Liveがあるだと！？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1976298519142203768",
+      "url": "https://x.com/YusukeNakanish3/status/1976298519142203768",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:47:39.000Z",
+      "text": "#Vizトーク \nWorkout Wednesdayの続け方。\nゆるく挑戦してみてください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1976299181590647177",
+      "url": "https://x.com/O_Syringa_Z/status/1976299181590647177",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-10-09T14:50:17.000Z",
+      "text": "#Vizトーク\nPower BI vs Tableau\nTableauはやっぱりコミュニティリソースがすごいという話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976299937622335588",
+      "url": "https://x.com/YusukeNakanish3/status/1976299937622335588",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:53:17.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1976300468474376384",
+      "url": "https://x.com/YusukeNakanish3/status/1976300468474376384",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:55:24.000Z",
+      "text": "#Vizトーク \n#都知事杯オープンデータハッカソン #VIZZIES もファイナル出場します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1976300483561259362",
+      "url": "https://x.com/tesshin_tableau/status/1976300483561259362",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-10-09T14:55:27.000Z",
+      "text": "DATA Saberの方限定ですが、来年春(！)開始のDATA Saber - Bridgeの師匠説明会が来週ございます(宣伝 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1976300780903858340",
+      "url": "https://x.com/YusukeNakanish3/status/1976300780903858340",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T14:56:38.000Z",
+      "text": "#Vizトーク #オープンデータスゴイ Round5やってます！ぜひViz投稿ください！\n#VIZZIES",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1976301692112249203",
+      "url": "https://x.com/YusukeNakanish3/status/1976301692112249203",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T15:00:15.000Z",
+      "text": "#Vizトーク #DATASaber Conferenceの申し込みは10/15までです！申し込みまだの方はSlackをご確認ください！\n#DC25",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1976302192304001200",
+      "url": "https://x.com/tesshin_tableau/status/1976302192304001200",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-10-09T15:02:15.000Z",
+      "text": "Bridge、11月開始のものは4th、来年春開催のものは2026.3という名称の予定です！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1976302322629382355",
+      "url": "https://x.com/YusukeNakanish3/status/1976302322629382355",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-10-09T15:02:46.000Z",
+      "text": "#Vizトーク #IronViz は10/20～11/21が応募期間とのこと。テーマはまだ発表されてないですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1976303071153226121",
+      "url": "https://x.com/unbosoms/status/1976303071153226121",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T15:05:44.000Z",
+      "text": "私は申し込み忘れて中西さんに2ヶ月遅れてスタートです #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1976303596795998541",
+      "url": "https://x.com/unbosoms/status/1976303596795998541",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T15:07:50.000Z",
+      "text": "Duolingoも今日で連続70日になりました。Duolingo楽しい。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1976304223588581676",
+      "url": "https://x.com/unbosoms/status/1976304223588581676",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T15:10:19.000Z",
+      "text": "通信教育、ずっと申し込み続けてたんですか！すごい...さすがです....!! #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1976304288956903444",
+      "url": "https://x.com/unbosoms/status/1976304288956903444",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-10-09T15:10:35.000Z",
+      "text": "福利厚生の最大活用ですね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    }
+  ]
+}

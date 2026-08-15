@@ -1,0 +1,2154 @@
+{
+  "episode": 55,
+  "date": "2024-02-29",
+  "collected_at": "2026-08-15T06:40:51.966Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 134,
+  "tweets": [
+    {
+      "id": "1763131125386633450",
+      "url": "https://x.com/YusukeNakanish3/status/1763131125386633450",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T09:16:32.000Z",
+      "text": "#vizトーク\n今日も2230ごろからやります！\nたぶラジ後ですが元気残ってる方はぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 7,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763196811697861091",
+      "url": "https://x.com/YusukeNakanish3/status/1763196811697861091",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T13:37:33.000Z",
+      "text": "#Vizトーク はたぶラジ終わってからはじめます。（最後まで聞きたいので）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763198378723410017",
+      "url": "https://x.com/ksnjr24/status/1763198378723410017",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T13:43:46.000Z",
+      "text": "今日はタブラジからの…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763198892487962792",
+      "url": "https://x.com/mfujita2023/status/1763198892487962792",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T13:45:49.000Z",
+      "text": "#Vizトーク 中西さんのいつもの優しい語り口調が癒されます KTさん参加するのかなぁードキドキ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763199238681563377",
+      "url": "https://x.com/ksnjr24/status/1763199238681563377",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T13:47:11.000Z",
+      "text": "さかぴーさんや中西さんは大阪からブートキャンプ通ったのですか？\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763199411071734004",
+      "url": "https://x.com/unbosoms/status/1763199411071734004",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T13:47:52.000Z",
+      "text": "#DATASaber もう1969名ですね！\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 20
+      }
+    },
+    {
+      "id": "1763199456013688948",
+      "url": "https://x.com/unbosoms/status/1763199456013688948",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T13:48:03.000Z",
+      "text": "JEDIプログラムを受けていたときの思い出を語る #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763200159696216096",
+      "url": "https://x.com/unbosoms/status/1763200159696216096",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T13:50:51.000Z",
+      "text": "テストを一つでも落とすとそこで脱落だったのでヒリヒリしながら日曜の夜頑張っていた思い出 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763200236552675521",
+      "url": "https://x.com/YusukeNakanish3/status/1763200236552675521",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T13:51:09.000Z",
+      "text": "#Vizトーク \n大阪開催だったんですよー",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763200369751130474",
+      "url": "https://x.com/ksnjr24/status/1763200369751130474",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T13:51:41.000Z",
+      "text": "まさかの大阪開催\n大ガスのTさんもかな\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1763200404110934278",
+      "url": "https://x.com/unbosoms/status/1763200404110934278",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T13:51:49.000Z",
+      "text": "JTUG10周年で卒業するのめっちゃ美しいという話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763201281043374305",
+      "url": "https://x.com/tab_no5/status/1763201281043374305",
+      "author_name": "Norito.Nakamura(のりぴー)",
+      "author_handle": "tab_no5",
+      "posted_at": "2024-02-29T13:55:18.000Z",
+      "text": "#Vizトーク\n引き際の美学",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763201445187535315",
+      "url": "https://x.com/erika_kaikai/status/1763201445187535315",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T13:55:57.000Z",
+      "text": "わーい始まってますよ〜ん\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763201723978674178",
+      "url": "https://x.com/unbosoms/status/1763201723978674178",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T13:57:04.000Z",
+      "text": "情熱を引き継ぐ大切さについて #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763201747634532756",
+      "url": "https://x.com/mfujita2023/status/1763201747634532756",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T13:57:09.000Z",
+      "text": "あっKTさん聞いてるー！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763201768929013926",
+      "url": "https://x.com/erika_kaikai/status/1763201768929013926",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T13:57:15.000Z",
+      "text": "めちゃわかります、この時間帯にやさしい聴き心地 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763201966531059899",
+      "url": "https://x.com/ksnjr24/status/1763201966531059899",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T13:58:02.000Z",
+      "text": "業務としてなかなか認められない社内ユーザー会　苦笑\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1763201983727714583",
+      "url": "https://x.com/tab_no5/status/1763201983727714583",
+      "author_name": "Norito.Nakamura(のりぴー)",
+      "author_handle": "tab_no5",
+      "posted_at": "2024-02-29T13:58:06.000Z",
+      "text": "KTも試聴の #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763202907762225227",
+      "url": "https://x.com/mfujita2023/status/1763202907762225227",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:01:46.000Z",
+      "text": "今日の #Vizトーク リスナーいつもの3倍ぐらいいらっしゃるのでは？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763203092806541547",
+      "url": "https://x.com/erika_kaikai/status/1763203092806541547",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:02:30.000Z",
+      "text": "テンション設定のバランスのむずかしさ、確かにあるあるだなぁ #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763203535771230346",
+      "url": "https://x.com/dx_yusei/status/1763203535771230346",
+      "author_name": "ゆうせい / Yusei Sakai",
+      "author_handle": "dx_yusei",
+      "posted_at": "2024-02-29T14:04:16.000Z",
+      "text": "#vizトーク\n神回の予感",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763203648002326579",
+      "url": "https://x.com/erika_kaikai/status/1763203648002326579",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:04:43.000Z",
+      "text": "#たぶラジ と #vizトーク の優しい世界線",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763203740109258823",
+      "url": "https://x.com/mfujita2023/status/1763203740109258823",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:05:05.000Z",
+      "text": "#Vizトーク KTさんとのりぴーさん参戦！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763203770371252576",
+      "url": "https://x.com/ksnjr24/status/1763203770371252576",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:05:12.000Z",
+      "text": "ダブラジ延長戦　夜明けまで\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1763203857449161116",
+      "url": "https://x.com/wCantPlayTennis/status/1763203857449161116",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2024-02-29T14:05:33.000Z",
+      "text": "まさかの #vizトーク 朝まで会？！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763204021161185463",
+      "url": "https://x.com/mfujita2023/status/1763204021161185463",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:06:12.000Z",
+      "text": "#Vizトーク Kトーク？KT？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763204086281969708",
+      "url": "https://x.com/erika_kaikai/status/1763204086281969708",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:06:27.000Z",
+      "text": "#ｋトーク 爆誕の瞬間 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763204168893047239",
+      "url": "https://x.com/unbosoms/status/1763204168893047239",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:06:47.000Z",
+      "text": "KTとのりぴーも参加！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763204172995043433",
+      "url": "https://x.com/ksnjr24/status/1763204172995043433",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:06:48.000Z",
+      "text": "#KTalk\n印象に残るシーン\n毎回最高\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1763204187297546316",
+      "url": "https://x.com/tsu_chaan/status/1763204187297546316",
+      "author_name": "おつう | Tsubasa Kitahara",
+      "author_handle": "tsu_chaan",
+      "posted_at": "2024-02-29T14:06:51.000Z",
+      "text": "アイコン強すぎて視聴せざるを得ない\n\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1763204210957734352",
+      "url": "https://x.com/YusukeNakanish3/status/1763204210957734352",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T14:06:57.000Z",
+      "text": "#Vizトーク　\n \n@DATA_Saber\n さんにJTUGで記憶に残るシーン・企画を話していただいてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763204611203338591",
+      "url": "https://x.com/erika_kaikai/status/1763204611203338591",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:08:32.000Z",
+      "text": "縦に回転するのは徳谷さん\n@roadstar_nb1600\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763204823238021496",
+      "url": "https://x.com/mfujita2023/status/1763204823238021496",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:09:23.000Z",
+      "text": "前佐藤豊さんが出してくださってた9年前のYoutubeのやつですか？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763204996202684726",
+      "url": "https://x.com/erika_kaikai/status/1763204996202684726",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:10:04.000Z",
+      "text": "今話題に出てたKTさんが横に回転する動画はこちらですね\n\n\nhttps://\nyoutu.be/2qL86eZkFG4?si\n=kNE86Ktt3Vz8Ulkz\n…\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763205189404901667",
+      "url": "https://x.com/DATA_Saber/status/1763205189404901667",
+      "author_name": "KT@Canva Japan",
+      "author_handle": "DATA_Saber",
+      "posted_at": "2024-02-29T14:10:50.000Z",
+      "text": "KTは何人いるでしょう？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763205308703518905",
+      "url": "https://x.com/ksnjr24/status/1763205308703518905",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:11:19.000Z",
+      "text": "社内ユーザー会、銀のさらのお寿司とピザの出前、酒屋でのビール買い出し。ひとりでやってるのは私だけだろう\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763205816335901064",
+      "url": "https://x.com/erika_kaikai/status/1763205816335901064",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:13:20.000Z",
+      "text": "ふつうじゃないと戸惑うのりぴー #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763206032329978167",
+      "url": "https://x.com/mfujita2023/status/1763206032329978167",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:14:11.000Z",
+      "text": "この動画を社内で共有したら藤さんが懐かしんでましたよ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763206312652083451",
+      "url": "https://x.com/mfujita2023/status/1763206312652083451",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:15:18.000Z",
+      "text": "ちなみにのりぴーさんも3人いる説 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763206380616634392",
+      "url": "https://x.com/fujitakuya/status/1763206380616634392",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-02-29T14:15:34.000Z",
+      "text": "ありそうで怖い\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1763206695982137568",
+      "url": "https://x.com/unbosoms/status/1763206695982137568",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:16:49.000Z",
+      "text": "KTは4人以上いるらしい #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1763206871081730105",
+      "url": "https://x.com/keitaro_aigc/status/1763206871081730105",
+      "author_name": "けいたろう@Manusフェロー",
+      "author_handle": "keitaro_aigc",
+      "posted_at": "2024-02-29T14:17:31.000Z",
+      "text": "朝まで生Vizトークに飛び込んできた。\nそれは素晴らしい世界だ！\n田原総一朗も驚くほどの情熱、ここに集うすべての魂に感謝する。\nこの場所は、ただの会話を超えた、真の闘いが繰り広げられるリングだ。\n言葉を武器に、知識を盾に、深夜まで続く熱いバトルを展開する。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763206943915774386",
+      "url": "https://x.com/tsu_chaan/status/1763206943915774386",
+      "author_name": "おつう | Tsubasa Kitahara",
+      "author_handle": "tsu_chaan",
+      "posted_at": "2024-02-29T14:17:48.000Z",
+      "text": "24時間耐久年越しvizトーク\nメインパーソナリティは交代制で、ゲストも入れ替えながら、、、\n\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763207104498950237",
+      "url": "https://x.com/fujitakuya/status/1763207104498950237",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-02-29T14:18:27.000Z",
+      "text": "DATASaber のYoutube配信で魔法かけて、試練日をリセットした時点で、1人じゃない感\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763207472553312688",
+      "url": "https://x.com/unbosoms/status/1763207472553312688",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:19:54.000Z",
+      "text": "コミュニティで頑張ってる人見ると、自分も頑張ろうって思えるという話 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763207573904535617",
+      "url": "https://x.com/erika_kaikai/status/1763207573904535617",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:20:19.000Z",
+      "text": "めちゃわかる、周りを見てると楽しそうだなってエネルギーがわいてくる\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763207896853254495",
+      "url": "https://x.com/erika_kaikai/status/1763207896853254495",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:21:36.000Z",
+      "text": "声出たｗｗｗｗワンシート教の教祖しゅくやさん \n@O_Syringa_Z\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763208074440094112",
+      "url": "https://x.com/unbosoms/status/1763208074440094112",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:22:18.000Z",
+      "text": "交代制ならたしかに現実的...!!!\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763208683515949081",
+      "url": "https://x.com/erika_kaikai/status/1763208683515949081",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:24:43.000Z",
+      "text": "Tableau事業部全社員が参加する日韓セールスキックオフにのりぴーさんに来ていただいて、コミュニティもっともっと最高にしていこうぜな貴重なお話をしていただいたのです #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 20
+      }
+    },
+    {
+      "id": "1763209018456363166",
+      "url": "https://x.com/YusukeNakanish3/status/1763209018456363166",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T14:26:03.000Z",
+      "text": "#Vizトーク\n \n@O_Syringa_Z\n さんに1シートとで出来るとお話したのはこちら。（左側の部分）\n\n\nhttps://\nworkout-wednesday.com/2024w07tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763209048844091557",
+      "url": "https://x.com/erika_kaikai/status/1763209048844091557",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:26:10.000Z",
+      "text": "うぇあいずダイバーシティなIronVizは正直わたしも遺憾 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1763209762668519610",
+      "url": "https://x.com/YusukeNakanish3/status/1763209762668519610",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T14:29:00.000Z",
+      "text": "#Vizトーク \nIronvizにかける時間についてのViz。\n\n\nhttps://\npublic.tableau.com/app/profile/na\nt4755/viz/TimeForIronViz/INTRO\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763209952011895242",
+      "url": "https://x.com/erika_kaikai/status/1763209952011895242",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T14:29:46.000Z",
+      "text": "実は今年は学生版IronVizにも\n@Reinachibe\nさんが日本からは応募していたのです！やることに意味がある！Reinaさんホントに最高！‍！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1763209963995017443",
+      "url": "https://x.com/unbosoms/status/1763209963995017443",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:29:48.000Z",
+      "text": "IronVizはストーリーテリングが難しい #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763210033540870531",
+      "url": "https://x.com/unbosoms/status/1763210033540870531",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:30:05.000Z",
+      "text": "VizつくりまShowは言語がいらないから世界的競技にした方が面白い！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763210097554284577",
+      "url": "https://x.com/unbosoms/status/1763210097554284577",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:30:20.000Z",
+      "text": "日本のマーケットはグローバルから見てもひけをとらない盛り上がりがあるという話 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763210191749923215",
+      "url": "https://x.com/unbosoms/status/1763210191749923215",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:30:43.000Z",
+      "text": "組織ぐるみでDATA Saberを育てている会社がどれだけあることか。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763210629375312079",
+      "url": "https://x.com/unbosoms/status/1763210629375312079",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:32:27.000Z",
+      "text": "\"同調圧力\"的な空気が良い方向に働けば強い。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1763210799357825411",
+      "url": "https://x.com/AkSakatoku/status/1763210799357825411",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2024-02-29T14:33:08.000Z",
+      "text": "#Vizトーク に本当にKTさん来てる！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763211196302598489",
+      "url": "https://x.com/unbosoms/status/1763211196302598489",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:34:42.000Z",
+      "text": "Excelってすごいって話 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763211275331609061",
+      "url": "https://x.com/fujitakuya/status/1763211275331609061",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-02-29T14:35:01.000Z",
+      "text": "Excelは、冴子先生しか知らないなぁ…\nあと邪魔しまんの\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763212013487247372",
+      "url": "https://x.com/AkSakatoku/status/1763212013487247372",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2024-02-29T14:37:57.000Z",
+      "text": "MOS世界学生大会みたいなのはありますね…でもExcelを使っている人がみんなその優勝者を知っている訳でもないところに裾野の広さを感じる #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763212167934091303",
+      "url": "https://x.com/ksnjr24/status/1763212167934091303",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:38:34.000Z",
+      "text": "Excelジャンキー vs TableauみたいなTCのセッションありましたね\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763212446049927428",
+      "url": "https://x.com/ksnjr24/status/1763212446049927428",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:39:40.000Z",
+      "text": "PowerBIはトレリス標準なんでしたっけ？\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763212656750768483",
+      "url": "https://x.com/mfujita2023/status/1763212656750768483",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:40:30.000Z",
+      "text": "トレリスチャート！今業務では1個1個シート作ってコンテナに入れて・・・っていうめっちゃ難しいですね。ほしい！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763212678355619952",
+      "url": "https://x.com/unbosoms/status/1763212678355619952",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:40:36.000Z",
+      "text": "Trellis/Small Mulipleは標準機能で欲しいーって話\n\nhttps://\ncommunity.tableau.com/s/idea/0874T00\n0000HALtQAO/detail\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763213025430110272",
+      "url": "https://x.com/ksnjr24/status/1763213025430110272",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:41:58.000Z",
+      "text": "サンキーダイアグラムは標準になったんでしたっけ？\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763213093600174305",
+      "url": "https://x.com/yoshi_datavizjp/status/1763213093600174305",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T14:42:15.000Z",
+      "text": "Sankey Diagramも割とExtensionsでカバーされていたので、進んだチャートはそっちでカバーするのかなと思ったらベータ版でマークタイプに実装されましたよね。\nトレリスももしかしたら将来的には...?\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763213355593216002",
+      "url": "https://x.com/fujitakuya/status/1763213355593216002",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-02-29T14:43:17.000Z",
+      "text": "よく言われる、半角カナ対応\n対応してくれないなぁ....\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763213764537835806",
+      "url": "https://x.com/yoshi_datavizjp/status/1763213764537835806",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T14:44:55.000Z",
+      "text": "確かにWeb編集に寄せそうな感じはありましたよね、たしかSalesforceファミリー加入後に特に（Salesforce触らないのですが、あちらはWeb UIが基本なんでしたっけ） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763213837124452437",
+      "url": "https://x.com/mfujita2023/status/1763213837124452437",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:45:12.000Z",
+      "text": "Web編集に寄せていく・・・だって？知らなかったけど、Desktopの方が機能は充実してるよね？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763213917667598659",
+      "url": "https://x.com/ksnjr24/status/1763213917667598659",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:45:31.000Z",
+      "text": "Web編集、手軽で便利なんですがね\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763214332534628383",
+      "url": "https://x.com/unbosoms/status/1763214332534628383",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T14:47:10.000Z",
+      "text": "私もLookerStudioで「できた！」があったので、記事書いちゃいました笑\n\nhttps://\nqiita.com/unbosoms/items\n/c3016d1b18a45fe9bab0\n… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1763214645811450278",
+      "url": "https://x.com/ksnjr24/status/1763214645811450278",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T14:48:25.000Z",
+      "text": "出てましたね。推奨1シートのWoW\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763215676431569048",
+      "url": "https://x.com/yoshi_datavizjp/status/1763215676431569048",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T14:52:30.000Z",
+      "text": "一旦いろいろやってみて、コレやらない方がいいな、と知ることも大事ですよね #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763215906648506625",
+      "url": "https://x.com/YusukeNakanish3/status/1763215906648506625",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T14:53:25.000Z",
+      "text": "#vizトーク \n1シートが推奨の今週WorkoutWednesdayはこちら。\n\nhttps://\nworkout-wednesday.com/2024w9tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763216074127139036",
+      "url": "https://x.com/mfujita2023/status/1763216074127139036",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T14:54:05.000Z",
+      "text": "#1シート教 マニアックな動画 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763216629494870507",
+      "url": "https://x.com/wCantPlayTennis/status/1763216629494870507",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2024-02-29T14:56:18.000Z",
+      "text": "#vizトーク 始まったのがKTさんの一押しだと伺ったのでその話聞きたいです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763217833998352568",
+      "url": "https://x.com/unbosoms/status/1763217833998352568",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:01:05.000Z",
+      "text": "自分では気づいてないけど、発信した方が良いことは意外とある。気づいた人は教えてあげた方が良いよねという話。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1763218193894772895",
+      "url": "https://x.com/mfujita2023/status/1763218193894772895",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:02:31.000Z",
+      "text": "Do it public!っていい表現ですねー。なんでも気軽にやってみようって思えちゃう #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763218290636464352",
+      "url": "https://x.com/wCantPlayTennis/status/1763218290636464352",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2024-02-29T15:02:54.000Z",
+      "text": "これまたKTさんの「やったらいいよ！」なんですね\nやっぱりパワーあるな\n#vizトーク #Kトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763218506185912399",
+      "url": "https://x.com/ksnjr24/status/1763218506185912399",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:03:45.000Z",
+      "text": "発信も見られて美しくなるよね\nアウトプット大事\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763218661693858076",
+      "url": "https://x.com/erika_kaikai/status/1763218661693858076",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T15:04:22.000Z",
+      "text": "くそりぷなんかに潰させない強いコミュニティでいよう！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1763218768413835336",
+      "url": "https://x.com/unbosoms/status/1763218768413835336",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:04:48.000Z",
+      "text": "発信するのは基本的にいいことしかない！情報は発信しているところに集まってくる。...でもごく稀にクソリプに凹む可能性もあるので、それに負けないように、みんなでいいねしあう、ポジティブを与え合うの、お互いを讃えあうのが大事！ 讃え合おう！#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 15,
+        "likes": 71
+      }
+    },
+    {
+      "id": "1763218775892193710",
+      "url": "https://x.com/YusukeNakanish3/status/1763218775892193710",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T15:04:49.000Z",
+      "text": "#vizトーク　\nアウトプットを讃えあう文化大事。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1763218915168268425",
+      "url": "https://x.com/yoshi_datavizjp/status/1763218915168268425",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T15:05:23.000Z",
+      "text": "良いねと思ったらハートとリポスト大事ですよね。あとリアクションが必要な人に届く可能性を広げるので（アルゴリズム的にも） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1763218962752708706",
+      "url": "https://x.com/unbosoms/status/1763218962752708706",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:05:34.000Z",
+      "text": "JTUGにはまだいいねが足りない！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763219030918529331",
+      "url": "https://x.com/YusukeNakanish3/status/1763219030918529331",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T15:05:50.000Z",
+      "text": "#vizトーク　\n「いいね」つけていきましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1763219094843822262",
+      "url": "https://x.com/mfujita2023/status/1763219094843822262",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:06:05.000Z",
+      "text": "#Vizトーク 他の人のいいメッセージで褒め合う！すばらしいー。心無いコメントで傷つけられるなんてもったいない！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763219322204549619",
+      "url": "https://x.com/ksnjr24/status/1763219322204549619",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:07:00.000Z",
+      "text": "イイネ　連打したい！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763219543521120318",
+      "url": "https://x.com/unbosoms/status/1763219543521120318",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:07:52.000Z",
+      "text": "海外用のポストにだってアクションしよう！日本語だって伝わる時代。もっと讃えあおう！#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 20
+      }
+    },
+    {
+      "id": "1763219686425264491",
+      "url": "https://x.com/unbosoms/status/1763219686425264491",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:08:26.000Z",
+      "text": "気軽にほめあおう！讃えあおう！#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763219851202670621",
+      "url": "https://x.com/goi_heron/status/1763219851202670621",
+      "author_name": "ひらと",
+      "author_handle": "goi_heron",
+      "posted_at": "2024-02-29T15:09:06.000Z",
+      "text": "気軽に褒め合おう #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1763219886338388408",
+      "url": "https://x.com/erika_kaikai/status/1763219886338388408",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T15:09:14.000Z",
+      "text": "気軽に褒め合う運動常時実施中 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763220029217316870",
+      "url": "https://x.com/mfujita2023/status/1763220029217316870",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:09:48.000Z",
+      "text": "ちなみに、ちょっと前のさかぴーさんの引用RPで本当に 泣いたことありますw #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763220098503033176",
+      "url": "https://x.com/erika_kaikai/status/1763220098503033176",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T15:10:05.000Z",
+      "text": "さかぴーさんおめでとう言えなかったら誰も言えなくなっちゃうｗｗｗｗ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763220313733742778",
+      "url": "https://x.com/yoshi_datavizjp/status/1763220313733742778",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T15:10:56.000Z",
+      "text": "良いねを軽く雑に投げつけていきましょう、よければリポストも #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1763220482386784669",
+      "url": "https://x.com/unbosoms/status/1763220482386784669",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:11:36.000Z",
+      "text": "ノブレス・オブリージュ。高い社会的地位には義務が伴う。だぞ！\n\nhttps://\nja.wikipedia.org/wiki/%E3%83%8E\n%E3%83%96%E3%83%AC%E3%82%B9%E3%83%BB%E3%82%AA%E3%83%96%E3%83%AA%E3%83%BC%E3%82%B8%E3%83%A5\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763220516138361169",
+      "url": "https://x.com/_kakunisan/status/1763220516138361169",
+      "author_name": "Takumi",
+      "author_handle": "_kakunisan",
+      "posted_at": "2024-02-29T15:11:44.000Z",
+      "text": "皆さんのコメントやいいねがBridge期間中にとても励みになってました#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763220907483607367",
+      "url": "https://x.com/yoshi_datavizjp/status/1763220907483607367",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T15:13:18.000Z",
+      "text": "あと、良いねとかリポストからフォロー／フォロワーが広がるみたいなことありましたね（WOWとかMakeoverMondayとか） #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1763220917097005062",
+      "url": "https://x.com/mfujita2023/status/1763220917097005062",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:13:20.000Z",
+      "text": "ポジティブはポジティブを生む！わかりますー #Vizトーク\n私もできる限り反応しまくってますーうれしいしポジティブ最高！って思ってるし",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763221025788227804",
+      "url": "https://x.com/AkSakatoku/status/1763221025788227804",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2024-02-29T15:13:46.000Z",
+      "text": "ノブレス・オブリージュ！今後もDATA Saberたらんことを！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763221074437959767",
+      "url": "https://x.com/0yu_111/status/1763221074437959767",
+      "author_name": "yuko.n",
+      "author_handle": "0yu_111",
+      "posted_at": "2024-02-29T15:13:57.000Z",
+      "text": "知らない人にいいねされてもイヤかなーって遠慮してた\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1763221203010122100",
+      "url": "https://x.com/erika_kaikai/status/1763221203010122100",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T15:14:28.000Z",
+      "text": "のりぴーの意気込みにつられて皆んなも元気になる #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1763221324032508314",
+      "url": "https://x.com/ksnjr24/status/1763221324032508314",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:14:57.000Z",
+      "text": "足掛け2ヶ月\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763221355636593145",
+      "url": "https://x.com/dx_yusei/status/1763221355636593145",
+      "author_name": "ゆうせい / Yusei Sakai",
+      "author_handle": "dx_yusei",
+      "posted_at": "2024-02-29T15:15:04.000Z",
+      "text": "KTさんから自分含めパワー貰ってるのがこのタグ見てるだけでもすごく感じる。\n\nすっごいギバー！！\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1763221757492912330",
+      "url": "https://x.com/Spplmeelog/status/1763221757492912330",
+      "author_name": "Meee",
+      "author_handle": "Spplmeelog",
+      "posted_at": "2024-02-29T15:16:40.000Z",
+      "text": "いいねもらったら嬉しい〜励みになる〜\nコミュニティポイントのために書いたnote(一生懸命書いたけど、反響なんてないだろと思ってた)に想定外のいいね来てビビったことがあります笑\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 18
+      }
+    },
+    {
+      "id": "1763221996408918216",
+      "url": "https://x.com/dx_yusei/status/1763221996408918216",
+      "author_name": "ゆうせい / Yusei Sakai",
+      "author_handle": "dx_yusei",
+      "posted_at": "2024-02-29T15:17:37.000Z",
+      "text": "いいね押しまくるの楽しい\n\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763222141993173091",
+      "url": "https://x.com/YusukeNakanish3/status/1763222141993173091",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T15:18:12.000Z",
+      "text": "#Vizトーク　来週のイベントは \n@rsugimura17\n さんのVizまとめをぜひ見てください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1763222170090737933",
+      "url": "https://x.com/yoshi_datavizjp/status/1763222170090737933",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-02-29T15:18:19.000Z",
+      "text": "次回のカジュアルVizTSではJKLキー押し続けますね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1763222303809392805",
+      "url": "https://x.com/_kakunisan/status/1763222303809392805",
+      "author_name": "Takumi",
+      "author_handle": "_kakunisan",
+      "posted_at": "2024-02-29T15:18:50.000Z",
+      "text": "JとLでドンドコいいねw #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763222350609391756",
+      "url": "https://x.com/mfujita2023/status/1763222350609391756",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:19:02.000Z",
+      "text": "ほんまやー j+l でTLをさかのぼって1個ずついいねできる！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763222432482295977",
+      "url": "https://x.com/ksnjr24/status/1763222432482295977",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:19:21.000Z",
+      "text": "JLJL........\n自作キーボードじゃなくても大丈夫\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763222499536576671",
+      "url": "https://x.com/fujitakuya/status/1763222499536576671",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-02-29T15:19:37.000Z",
+      "text": "X上で\nJK l でJK Like かw\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763222703711060061",
+      "url": "https://x.com/unbosoms/status/1763222703711060061",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:20:26.000Z",
+      "text": "これぜひ参加したい！\n\nhttps://\ntechplay.jp/event/935580\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763222770727690243",
+      "url": "https://x.com/dx_yusei/status/1763222770727690243",
+      "author_name": "ゆうせい / Yusei Sakai",
+      "author_handle": "dx_yusei",
+      "posted_at": "2024-02-29T15:20:42.000Z",
+      "text": "神回だった\n\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1763222776893288734",
+      "url": "https://x.com/unbosoms/status/1763222776893288734",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:20:43.000Z",
+      "text": "JTUGサポーターズ説明会もあります！\n\nhttps://\ntechplay.jp/event/933188\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 20
+      }
+    },
+    {
+      "id": "1763222874574508238",
+      "url": "https://x.com/mfujita2023/status/1763222874574508238",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-02-29T15:21:07.000Z",
+      "text": "なんか爆笑オンエアバトル感\n(次のKTはあなたです！) #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1763222996083413484",
+      "url": "https://x.com/unbosoms/status/1763222996083413484",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:21:36.000Z",
+      "text": "みんなのいいね運動でめっちゃ通知きてる #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 23
+      }
+    },
+    {
+      "id": "1763223295955243404",
+      "url": "https://x.com/unbosoms/status/1763223295955243404",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:22:47.000Z",
+      "text": "中部ユーザー会もありますよー！\n\nhttps://\ntechplay.jp/event/933036\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1763223408425492729",
+      "url": "https://x.com/ksnjr24/status/1763223408425492729",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:23:14.000Z",
+      "text": "名残惜しい\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763223475492376654",
+      "url": "https://x.com/fuji_nana30/status/1763223475492376654",
+      "author_name": "ふじなな",
+      "author_handle": "fuji_nana30",
+      "posted_at": "2024-02-29T15:23:30.000Z",
+      "text": "初めて聞いたけどめちゃくちゃ面白かったー！！！\nまた聞きにきます\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1763223531377319949",
+      "url": "https://x.com/erika_kaikai/status/1763223531377319949",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-02-29T15:23:43.000Z",
+      "text": "めちゃくちゃ楽しかった〜！！何回も吹き出して笑っちゃうところもあって最高でした #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763223799632449767",
+      "url": "https://x.com/DATA_Saber/status/1763223799632449767",
+      "author_name": "KT@Canva Japan",
+      "author_handle": "DATA_Saber",
+      "posted_at": "2024-02-29T15:24:47.000Z",
+      "text": "#SnowVillageTV #たぶラジ #Vizトーク で三連ちゃん出演してしまった（笑）最高に楽しかった！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 24
+      }
+    },
+    {
+      "id": "1763224079593787763",
+      "url": "https://x.com/ksnjr24/status/1763224079593787763",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:25:54.000Z",
+      "text": "ショートカットキーでJLJLを連打するTips\n専用キーボードをさかぴーさんが作ってくれるかも\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1763224115727798737",
+      "url": "https://x.com/rsugimura17/status/1763224115727798737",
+      "author_name": "Rintaro Sugimura",
+      "author_handle": "rsugimura17",
+      "posted_at": "2024-02-29T15:26:02.000Z",
+      "text": "#Vizトーク 参加してました。ご紹介ありがとうございます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1763224144878133686",
+      "url": "https://x.com/DATA_Saber/status/1763224144878133686",
+      "author_name": "KT@Canva Japan",
+      "author_handle": "DATA_Saber",
+      "posted_at": "2024-02-29T15:26:09.000Z",
+      "text": "ずっと前から伝えたかったもっとみんなでいいねとかコメントとか気軽にし合って、お互いに讃えあう文化を作ろうぜという話ができて本当によかった。みんなで継続してリアクションしていこうね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 15,
+        "likes": 85
+      }
+    },
+    {
+      "id": "1763224229913538572",
+      "url": "https://x.com/unbosoms/status/1763224229913538572",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-02-29T15:26:30.000Z",
+      "text": "#vizトーク 参加ありがとうございましたー！のりぴーもありがとうございました！めっちゃ楽しかったです\n\n@DATA_Saber\n \n@tab_no5",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1763225080874914028",
+      "url": "https://x.com/ksnjr24/status/1763225080874914028",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-02-29T15:29:53.000Z",
+      "text": "社内でCreatorライセンスを剥奪され、Explorerライセンスで2年ぐらい頑張ったせいかWeb編集も好き　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1763225797467447643",
+      "url": "https://x.com/goi_heron/status/1763225797467447643",
+      "author_name": "ひらと",
+      "author_handle": "goi_heron",
+      "posted_at": "2024-02-29T15:32:43.000Z",
+      "text": "お話面白くてあっという間でした〜いいねやコメントもらえると1人じゃなかった！という安心と連帯感が深まる感じで嬉しいです褒め合う讃えあう大事だ。ほぼ条件反射でいいね押すマンなので引き続きﾊﾟｼﾊﾟｼ押すぞー #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 3,
+        "reposts": 1,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1763226587368202401",
+      "url": "https://x.com/fuji_nana30/status/1763226587368202401",
+      "author_name": "ふじなな",
+      "author_handle": "fuji_nana30",
+      "posted_at": "2024-02-29T15:35:52.000Z",
+      "text": "まわりのかっこいいなーって人とか上手くいってるなーって人とか巻き込んでいけるって人は総じて行動力とか発信力がある！！とつくづく感じた！！がんばろ\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763231070957469892",
+      "url": "https://x.com/YusukeNakanish3/status/1763231070957469892",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-02-29T15:53:41.000Z",
+      "text": "出演ありがとうございました！（ \n@tab_no5\n さんも）\nめっちゃ楽しい＆モチベーションアップできた回になりました　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1763319380807725562",
+      "url": "https://x.com/antipop1/status/1763319380807725562",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-02-29T21:44:35.000Z",
+      "text": "KTさん来てたと聞いてリアタイできなかったのを後悔…orz アーカイブせねば！\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1763808957007802432",
+      "url": "https://x.com/YusukeNakanish3/status/1763808957007802432",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-03-02T06:09:59.000Z",
+      "text": "#Datafam roundupで今週作ったMakeoverMonday viz紹介いただきました！\n\n\nhttp://\ntabsoft.co/48E8SSm\n\n#Vizトーク が豪華ゲストで盛り上がりすぎてこだわりポイント話す時間が足りなかったので、こちらでこだわり等書いていきます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 8
+      }
+    }
+  ]
+}
