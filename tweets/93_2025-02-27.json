@@ -1,0 +1,378 @@
+{
+  "episode": 93,
+  "date": "2025-02-27",
+  "collected_at": "2026-08-15T07:51:37.433Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 23,
+  "tweets": [
+    {
+      "id": "1894957795767918901",
+      "url": "https://x.com/YusukeNakanish3/status/1894957795767918901",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T03:48:39.000Z",
+      "text": "#Vizトーク　今日は23時ごろからやります！\nいつもどおりmakeover monday、workout wednesdayなど話す予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1895114260784841032",
+      "url": "https://x.com/YusukeNakanish3/status/1895114260784841032",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:10:23.000Z",
+      "text": "#Vizトーク\nWOW Week8 の話。難易度低めかなと思いますが一発でサクッと、とはいかないかなと。\n\nhttps://\nworkout-wednesday.com/2025w8tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1895115177663832525",
+      "url": "https://x.com/Dandee_House/status/1895115177663832525",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-02-27T14:14:02.000Z",
+      "text": "#Vizトーク\n軸の固定（ピン）マーク、Desktopだと出るけどPublicだと出ないんだ、、、\n←Desktop  Public→",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1895115956218929457",
+      "url": "https://x.com/YusukeNakanish3/status/1895115956218929457",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:17:08.000Z",
+      "text": "#Vizトーク\nWeek8、ゲストコーチなので超難易度かと身構えてたという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1895117651397222608",
+      "url": "https://x.com/antipop1/status/1895117651397222608",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:23:52.000Z",
+      "text": "#Vizトーク\nFIXEDたん、コンテキストフィルターを知ってるかどうかで全然変わりますよね…（ずっとデータソースフィルターで捌いてました…）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1895118002905063517",
+      "url": "https://x.com/tesshin_tableau/status/1895118002905063517",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-02-27T14:25:16.000Z",
+      "text": "#Vizトーク\nありがとうございます\n今週の問題も昨日生配信でやりました！楽しかったです！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1895118843741380767",
+      "url": "https://x.com/YusukeNakanish3/status/1895118843741380767",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:28:36.000Z",
+      "text": "#Vizトーク\nWeek9はバイナリーパラメーターがテーマ。\n見た目よりは難易度低めかなと。\n\nhttps://\nworkout-wednesday.com/2025w9tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1895119741897101624",
+      "url": "https://x.com/YusukeNakanish3/status/1895119741897101624",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:32:10.000Z",
+      "text": "#Vizトーク\n頑張ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1895119845462843531",
+      "url": "https://x.com/antipop1/status/1895119845462843531",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:32:35.000Z",
+      "text": "#Vizトーク\nいやいや、結局最初はDesktopで頑張るとこから始まるっすよ！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1895121093738012933",
+      "url": "https://x.com/antipop1/status/1895121093738012933",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:37:33.000Z",
+      "text": "#Vizトーク\nTableauで頑張って作ったものが、そのまま運用に乗っちゃって引き返せなくなるの、あるある過ぎますよね。「動くんだから、いいじゃん」的な。\n\nそれくらい「すげーじゃん！」って思えるものが作れてしまうのが強みなんでしょうが、負の側面に目を背け続けると、やっぱどこかで辛くなる…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1895121206669636023",
+      "url": "https://x.com/YusukeNakanish3/status/1895121206669636023",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:37:59.000Z",
+      "text": "#Vizトーク\nPrepはデータ加工の入門ツールとしてとても優秀という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1895121661781049787",
+      "url": "https://x.com/antipop1/status/1895121661781049787",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:39:48.000Z",
+      "text": "#Vizトーク\nなので、Prepはcloudで使うのがジャスティスだと思ってます。PrepBuilderは実務であんま使わないですね…（もっぱらPreppin'Data用）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1895121820615049717",
+      "url": "https://x.com/Dandee_House/status/1895121820615049717",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-02-27T14:40:26.000Z",
+      "text": "#Vizトーク\nTableau製品の中でPrepだけが「最新リリースのみサポート」という事実が意外と浸透していないかも？な件",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1895122961449001200",
+      "url": "https://x.com/YusukeNakanish3/status/1895122961449001200",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:44:58.000Z",
+      "text": "#Vizトーク\nフローやワークブックの引継ぎの話。\nソースコード管理できないので結局大変ですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1895123035352637897",
+      "url": "https://x.com/antipop1/status/1895123035352637897",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:45:15.000Z",
+      "text": "#Vizトーク\nPrepのコメント機能、とても良いのですが、あいつ表示すると1マス食うのはなんとかならないかな…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1895124012579332476",
+      "url": "https://x.com/YusukeNakanish3/status/1895124012579332476",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:49:08.000Z",
+      "text": "#Vizトーク\n#オープンデータスゴイ 多数の応募ありがとうございます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1895124020074602543",
+      "url": "https://x.com/Dandee_House/status/1895124020074602543",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-02-27T14:49:10.000Z",
+      "text": "#Vizトーク\n3/4の #たぶラジ は #オープンデータスゴイ の振り返り！\n\nhttps://\ntechplay.jp/event/973641\n\nゲストとして目黒区の武山さんにお越しいただき、投稿いただいたVizについてわいわい話す予定です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1895124790454960147",
+      "url": "https://x.com/antipop1/status/1895124790454960147",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-02-27T14:52:14.000Z",
+      "text": "#Vizトーク\nPrepのデータソースを追加したり、結合とかユニオンとかした時に、思った場所に召喚できなくて「そこじゃない…」ってなったことがない人0人説。いつか法則を解明したい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1895124972152185018",
+      "url": "https://x.com/YusukeNakanish3/status/1895124972152185018",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:52:57.000Z",
+      "text": "#Vizトーク \n都知事杯オープンデータハッカソンのDemo Dayは3/15です！\nオンラインもあるのでぜひ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1895125267632529588",
+      "url": "https://x.com/YusukeNakanish3/status/1895125267632529588",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:54:08.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1895125846089965645",
+      "url": "https://x.com/YusukeNakanish3/status/1895125846089965645",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:56:26.000Z",
+      "text": "北陸Tableauユーザー会、オンラインもあるのでぜひ！\n\n#Vizトーク\n\nhttps://\ntechplay.jp/event/973167?u\ntm_source=event_973167&utm_medium=social&utm_campaign=feed&utm_content=tw1055855419774529536&tp=1\n… #北陸Tableauユーザー会 #HokuTUG #ほくたぐ #Tableau #データ分析",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1895126415651283325",
+      "url": "https://x.com/YusukeNakanish3/status/1895126415651283325",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T14:58:41.000Z",
+      "text": "#Vizトーク \nデータで見る映画 のページも公開されてます！ \nhttps://\nx.com/SalesforceJapa\n/SalesforceJapan/status/1894961813034541197\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1895127632674725961",
+      "url": "https://x.com/YusukeNakanish3/status/1895127632674725961",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-27T15:03:32.000Z",
+      "text": "#Vizトーク 連動キャンペーンの応募は3/18まで！\n何か出そうと思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 8
+      }
+    }
+  ]
+}

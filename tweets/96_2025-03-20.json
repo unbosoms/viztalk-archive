@@ -1,0 +1,730 @@
+{
+  "episode": 96,
+  "date": "2025-03-20",
+  "collected_at": "2026-08-15T07:47:37.055Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 45,
+  "tweets": [
+    {
+      "id": "1902566876955521103",
+      "url": "https://x.com/YusukeNakanish3/status/1902566876955521103",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T03:44:26.000Z",
+      "text": "#Vizトーク 今日も2230ごろからやります！\n#Tableau 2025.1の新機能を触りながらわいわい語るつもりです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1902716189270483296",
+      "url": "https://x.com/unbosoms/status/1902716189270483296",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T13:37:44.000Z",
+      "text": "はじまりました！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902716363011215637",
+      "url": "https://x.com/O_Syringa_Z/status/1902716363011215637",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-03-20T13:38:26.000Z",
+      "text": "#Vizトーク\nDATA Saberの話から派生して、5年後・10年後のデータ界隈はどうなっているのかの話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1902716671128699005",
+      "url": "https://x.com/Dandee_House/status/1902716671128699005",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-20T13:39:39.000Z",
+      "text": "#Vizトーク\n開幕すぐでの話の脱線はVizトークのお家芸",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902716769497936009",
+      "url": "https://x.com/O_Syringa_Z/status/1902716769497936009",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-03-20T13:40:03.000Z",
+      "text": "#Vizトーク\nAI Minesweeperなるものがあるという話\n\nhttps://\nmame.github.io/minesweeper-sp\noiled-by-ai/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902717199946776813",
+      "url": "https://x.com/unbosoms/status/1902717199946776813",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T13:41:45.000Z",
+      "text": "今日のテーマは2025.1の新機能を触ってみよう！ #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902717300119363711",
+      "url": "https://x.com/Dandee_House/status/1902717300119363711",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-20T13:42:09.000Z",
+      "text": "#Vizトーク\nVer2025.1の新機能の話(サムネが古い、、、）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1902717477894881284",
+      "url": "https://x.com/antipop1/status/1902717477894881284",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-20T13:42:52.000Z",
+      "text": "#Vizトーク\n運ゲーの責任だけを取るゲーム、こういうことですね…（絶句",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1902717601962443199",
+      "url": "https://x.com/YusukeNakanish3/status/1902717601962443199",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T13:43:21.000Z",
+      "text": "#Vizトーク Custom Theme はTristanさんのツールを使いましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1902718348288483833",
+      "url": "https://x.com/YusukeNakanish3/status/1902718348288483833",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T13:46:19.000Z",
+      "text": "#Vizトーク\n左 Tableauからエクスポートしたテーマ。\n右 Tristanさんのツールで作ったテーマ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1902719714616594924",
+      "url": "https://x.com/unbosoms/status/1902719714616594924",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T13:51:45.000Z",
+      "text": "mark-colorを#000000にしたらデフォルトの色が黒になった。なるほど。。。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902719971408613851",
+      "url": "https://x.com/unbosoms/status/1902719971408613851",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T13:52:46.000Z",
+      "text": "カスタムテーマはTableau Cloud/Serverで共有できると便利そうだねという話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902720071065366831",
+      "url": "https://x.com/O_Syringa_Z/status/1902720071065366831",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-03-20T13:53:10.000Z",
+      "text": "#Vizトーク\nCreatorが作成したカスタムテーマをCloudにパブリッシュして、他のユーザが再利用できると面白いですね\n（カスタムビューみたいに）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902720491129123024",
+      "url": "https://x.com/YusukeNakanish3/status/1902720491129123024",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T13:54:50.000Z",
+      "text": "#Vizトーク\n階層になるのは地味にありがたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902721256275038431",
+      "url": "https://x.com/unbosoms/status/1902721256275038431",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T13:57:53.000Z",
+      "text": "これは便利！ただ表示幅は今は変えないみたい。\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1902721295365915058",
+      "url": "https://x.com/antipop1/status/1902721295365915058",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-20T13:58:02.000Z",
+      "text": "#Vizトーク\nこの子、割と便利だと社内で好評だったのですが、欲を言えばコンテンツ名も並ぶようにしてほしかった…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1902722221648286186",
+      "url": "https://x.com/unbosoms/status/1902722221648286186",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:01:43.000Z",
+      "text": "●データモデルのアクセシビリティ\nデータモデル画面もTabと矢印キーで選べるようにあったみたいですね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1902722933845332187",
+      "url": "https://x.com/unbosoms/status/1902722933845332187",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:04:32.000Z",
+      "text": "データモデルの表示。どの論理テーブルが使われているかを見ることができる。\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1902723138544378121",
+      "url": "https://x.com/YusukeNakanish3/status/1902723138544378121",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:05:21.000Z",
+      "text": "#Vizトーク\n利用してないテーブルを非表示にできるのはいいかも。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902723435052286286",
+      "url": "https://x.com/unbosoms/status/1902723435052286286",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:06:32.000Z",
+      "text": "web編集でも動きますね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1902723839488147764",
+      "url": "https://x.com/mfujita2023/status/1902723839488147764",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-03-20T14:08:08.000Z",
+      "text": "Tableau Public Desktop Editionにもありました！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1902724953973428460",
+      "url": "https://x.com/unbosoms/status/1902724953973428460",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:12:34.000Z",
+      "text": "レンジフィルターにてどの範囲でフィルターされてるのか分からないのは変わっていないみたいですね。\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902727415144857784",
+      "url": "https://x.com/YusukeNakanish3/status/1902727415144857784",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:22:21.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1902728242496483413",
+      "url": "https://x.com/ishiaki_tab/status/1902728242496483413",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2025-03-20T14:25:38.000Z",
+      "text": "ぐぬぬ、、 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902728304832233901",
+      "url": "https://x.com/YusukeNakanish3/status/1902728304832233901",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:25:53.000Z",
+      "text": "#Vizトーク\n\nAgent、日本語いけます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 27
+      }
+    },
+    {
+      "id": "1902728439108657530",
+      "url": "https://x.com/_Chasoso/status/1902728439108657530",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-03-20T14:26:25.000Z",
+      "text": "マジっすか？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1902728684253143525",
+      "url": "https://x.com/unbosoms/status/1902728684253143525",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:27:23.000Z",
+      "text": "Private ConnectはEnterpriseメニューのみ対応 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1902729398102761526",
+      "url": "https://x.com/_Chasoso/status/1902729398102761526",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-03-20T14:30:14.000Z",
+      "text": "おお…知らなかった… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1902729474455769246",
+      "url": "https://x.com/unbosoms/status/1902729474455769246",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-03-20T14:30:32.000Z",
+      "text": "返答は英語だけかも？うまくお願いしないと無理なのかなぁ。\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1902729604860961240",
+      "url": "https://x.com/O_Syringa_Z/status/1902729604860961240",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-03-20T14:31:03.000Z",
+      "text": "#Vizトーク\nテキトーな日本語だと無理だけど、ちゃんと書いてあげると日本語でも対応してくれそう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1902729819957465147",
+      "url": "https://x.com/YusukeNakanish3/status/1902729819957465147",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:31:54.000Z",
+      "text": "#Vizトーク\nどこでロードが止まってるかわかるのは便利。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902730180931588580",
+      "url": "https://x.com/YusukeNakanish3/status/1902730180931588580",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:33:20.000Z",
+      "text": "#Vizトーク\nゴミ箱機能がついにつきました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1902730278571012332",
+      "url": "https://x.com/mfujita2023/status/1902730278571012332",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-03-20T14:33:44.000Z",
+      "text": "ゴミ箱が付いたぞーーー！って騒ぐコミュニティは何だ…www #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1902730816373039174",
+      "url": "https://x.com/antipop1/status/1902730816373039174",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-20T14:35:52.000Z",
+      "text": "ゴミ箱早く使いたいぞー！！！\n（弊社のcloudまだ来てなさそう）\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902731408801701955",
+      "url": "https://x.com/antipop1/status/1902731408801701955",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-20T14:38:13.000Z",
+      "text": "あ、なんか2025.1は段階的にアップデートされていくようです！（サポートに聞きました）\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1902731748368159160",
+      "url": "https://x.com/ishiaki_tab/status/1902731748368159160",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2025-03-20T14:39:34.000Z",
+      "text": "ゴミ箱嬉しいぞー！！\n（先日フローの下書きを消そうとしたのに何をとち狂ったかフローそのものを消した民の歓喜）\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1902733123152236829",
+      "url": "https://x.com/YusukeNakanish3/status/1902733123152236829",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T14:45:02.000Z",
+      "text": "#Vizトーク\nクラウド移行が楽に。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902734069232005274",
+      "url": "https://x.com/Dandee_House/status/1902734069232005274",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-20T14:48:47.000Z",
+      "text": "#Vizトーク\nTC23のCloud移行のセッションを聞いた時、スピーカーの最後の一言が印象的すぎてブログ書いたんだった。\n\nhttps://\nqiita.com/dandeehouse/it\nems/ce46c7fc807895a716cd\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1902736825187250579",
+      "url": "https://x.com/O_Syringa_Z/status/1902736825187250579",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2025-03-20T14:59:44.000Z",
+      "text": "#Vizトーク\n結構きれいにグルーピングしてくれそう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902736920188436595",
+      "url": "https://x.com/YusukeNakanish3/status/1902736920188436595",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T15:00:07.000Z",
+      "text": "#Vizトーク\nついに手動でカテゴリ分けができるように！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1902739411894202437",
+      "url": "https://x.com/YusukeNakanish3/status/1902739411894202437",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T15:10:01.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1902740257155531203",
+      "url": "https://x.com/YusukeNakanish3/status/1902740257155531203",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T15:13:23.000Z",
+      "text": "#Vizトーク\nkomatsuさんRikaさん太古さん登壇のウェビナーは3/25です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1902740913790898479",
+      "url": "https://x.com/antipop1/status/1902740913790898479",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-20T15:15:59.000Z",
+      "text": "紹介ありがとうございます！！\n私もとても楽しみです！！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1902742583069315582",
+      "url": "https://x.com/YusukeNakanish3/status/1902742583069315582",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T15:22:37.000Z",
+      "text": "#Vizトーク KeynoteにFlerlage兄弟が登壇！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1902742815135916314",
+      "url": "https://x.com/YusukeNakanish3/status/1902742815135916314",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-20T15:23:33.000Z",
+      "text": "#Vizトーク\nWorkout Wednesdayは2日目です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

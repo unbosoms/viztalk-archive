@@ -1,0 +1,362 @@
+{
+  "episode": 94,
+  "date": "2025-03-06",
+  "collected_at": "2026-08-15T07:50:22.077Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 22,
+  "tweets": [
+    {
+      "id": "1897625495384293712",
+      "url": "https://x.com/YusukeNakanish3/status/1897625495384293712",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T12:29:08.000Z",
+      "text": "#Vizトーク　今日も23時頃からやります！\nいつものWOWに加えて、今週話題のTableau Nextについても語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1897650879844794606",
+      "url": "https://x.com/Dandee_House/status/1897650879844794606",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-06T14:10:01.000Z",
+      "text": "#Vizトーク\nWOW Week9のテーマ。みたことない面白いテーマ。\n\nhttps://\nworkout-wednesday.com/2025w9tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1897651018449740270",
+      "url": "https://x.com/YusukeNakanish3/status/1897651018449740270",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:10:34.000Z",
+      "text": "#Vizトーク\n今週のWOWテーマはバイナリーパラメータです。\n\nhttps://\nworkout-wednesday.com/2025w9tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1897651460969742744",
+      "url": "https://x.com/YusukeNakanish3/status/1897651460969742744",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:12:19.000Z",
+      "text": "#Vizトーク\nサブカテゴリのランクでとBucketに入ってるかどうかでバイナリーが変わります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1897652419112177912",
+      "url": "https://x.com/YusukeNakanish3/status/1897652419112177912",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:16:08.000Z",
+      "text": "#Vizトーク\n数字でやるためにがんばりましたが、がんばったわりには。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1897653293075337538",
+      "url": "https://x.com/tesshin_tableau/status/1897653293075337538",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-03-06T14:19:36.000Z",
+      "text": "出遅れた〜 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1897653750837485787",
+      "url": "https://x.com/YusukeNakanish3/status/1897653750837485787",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:21:25.000Z",
+      "text": "#Vizトーク\n整数型で頭が0になるのが密かなこだわり。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1897654971883229328",
+      "url": "https://x.com/YusukeNakanish3/status/1897654971883229328",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:26:16.000Z",
+      "text": "#Vizトーク フォルダ分けがついにできるようになりました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1897655113994617097",
+      "url": "https://x.com/Dandee_House/status/1897655113994617097",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-06T14:26:50.000Z",
+      "text": "#Vizトーク\nPublicでVizをカテゴリ分けできるようになった！\nのは嬉しいが、タイトルの一覧を見て一つ一つ選んでいかないといけないのは辛いw",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1897655705886421194",
+      "url": "https://x.com/YusukeNakanish3/status/1897655705886421194",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:29:11.000Z",
+      "text": "#Vizトーク\nお気に入りもカテゴリ分類できるようになると嬉しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1897656473985118305",
+      "url": "https://x.com/YusukeNakanish3/status/1897656473985118305",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:32:14.000Z",
+      "text": "#Vizトーク Tableau新時代 の我如古さんスライド。\nわかりやすい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1897657118993637523",
+      "url": "https://x.com/YusukeNakanish3/status/1897657118993637523",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:34:48.000Z",
+      "text": "#Vizトーク\nTableau Nextの公式ページはこちら。\n\nhttps://\ntableau.com/products/table\nau-next\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1897660795250503839",
+      "url": "https://x.com/mfujita2023/status/1897660795250503839",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2025-03-06T14:49:25.000Z",
+      "text": "去年のKeynoteはおっしゃる通り、2日目の朝だった記憶 #Vizトーク\n確かに、初日に聞きたい！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1897661401214353451",
+      "url": "https://x.com/YusukeNakanish3/status/1897661401214353451",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:51:49.000Z",
+      "text": "#Vizトーク\nTCでNextさわりたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1897662570343109119",
+      "url": "https://x.com/Dandee_House/status/1897662570343109119",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-06T14:56:28.000Z",
+      "text": "#Vizトーク\nTableauNextの登場によってライセンス体系はまた変わるかも？しれない\n\nhttps://\ntableau.com/blog/tableau-n\next-faq\n…\nの一番下に匂わせる記載が",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1897662967757607397",
+      "url": "https://x.com/YusukeNakanish3/status/1897662967757607397",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T14:58:03.000Z",
+      "text": "#Vizトーク\n気になる価格はFAQの最後にちょっと記載が。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1897663643145363877",
+      "url": "https://x.com/Dandee_House/status/1897663643145363877",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-03-06T15:00:44.000Z",
+      "text": "#Vizトーク\nTableau Timさんが動画でかなり詳しく説明してくれてくれていて、UIUXのイメージが少しずつついてきたけど、やっぱりさわりたいぞー",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1897665735159111718",
+      "url": "https://x.com/YusukeNakanish3/status/1897665735159111718",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-06T15:09:02.000Z",
+      "text": "#Vizトーク\nデータエンジニアリングは今以上に大事という話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1897666994796896540",
+      "url": "https://x.com/tesshin_tableau/status/1897666994796896540",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-03-06T15:14:03.000Z",
+      "text": "弊社のTableau Doctor診察実習会イベント、是非よろしくお願いいたします #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1897667872115302563",
+      "url": "https://x.com/tesshin_tableau/status/1897667872115302563",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-03-06T15:17:32.000Z",
+      "text": "ふらっとお越しいただけます #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1897668857604800516",
+      "url": "https://x.com/tesshin_tableau/status/1897668857604800516",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-03-06T15:21:27.000Z",
+      "text": "難問立ち向かうか…(？　#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1897847593901989905",
+      "url": "https://x.com/YusukeNakanish3/status/1897847593901989905",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-07T03:11:41.000Z",
+      "text": "TCセッション一覧はまだ出てですねー　と昨日 #Vizトーク で言ってましたが出ました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "episode": 95,
+  "date": "2025-03-13",
+  "collected_at": "2026-08-15T07:49:02.606Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 25,
+  "tweets": [
+    {
+      "id": "1900113986223562834",
+      "url": "https://x.com/YusukeNakanish3/status/1900113986223562834",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T09:17:31.000Z",
+      "text": "#Vizトーク　今日、ゲストとして話してやってもいいよという方居ませんか？（オン/オフ問わずお話したことある方）\nWorkout Wednesday について物申したい、イベント宣伝したい、等Tableau 関連してれば話題は何でもOKです。\n\n私以外空いておらず休会にしようかと思ってますが、TC",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 8,
+        "likes": 22
+      }
+    },
+    {
+      "id": "1900149929596912090",
+      "url": "https://x.com/YusukeNakanish3/status/1900149929596912090",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T11:40:20.000Z",
+      "text": "#Vizトーク\n今日は  \n@antipop1\n さんをお招きしてサーバー管理やら前処理やら data+moviesやら語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1900156478604140597",
+      "url": "https://x.com/antipop1/status/1900156478604140597",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T12:06:22.000Z",
+      "text": "大好きな #Vizトーク の100回目をTC25のタイミングで迎えてほしい！ので、僭越ながら飛び込みゲスト参加させていただきます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1900168741033545848",
+      "url": "https://x.com/TIkeda93820944/status/1900168741033545848",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2025-03-13T12:55:05.000Z",
+      "text": "この発言が休会を許さない雰囲気を作ってしまったようで、なんだか申し訳ないです#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1900188525922013505",
+      "url": "https://x.com/YusukeNakanish3/status/1900188525922013505",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T14:13:43.000Z",
+      "text": "#Vizトーク \n@antipop1\n さんと  #オープンデータスゴイ のデータ前処理の裏話を語ってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1900189756136300619",
+      "url": "https://x.com/antipop1/status/1900189756136300619",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:18:36.000Z",
+      "text": "#Vizトーク\nオープンデータスゴイの目黒区コラボでのデータ整形で、一番こだわったポイントの指標の仕分け表です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1900190435123036601",
+      "url": "https://x.com/YusukeNakanish3/status/1900190435123036601",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T14:21:18.000Z",
+      "text": "#Vizトーク\nPrepフローを（無駄に）きれいにするのは楽しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1900190462402769131",
+      "url": "https://x.com/antipop1/status/1900190462402769131",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:21:24.000Z",
+      "text": "#Vizトーク\nオープンデータスゴイの目黒区コラボで作ったフローはこんな感じでした。メジャーを作る流れとディメンションを作る流れに分かれてる感じです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1900192600730329552",
+      "url": "https://x.com/YusukeNakanish3/status/1900192600730329552",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T14:29:54.000Z",
+      "text": "#Vizトーク\nDesktopで検証してからPrepでしっかり作る流れは業務でもよくやりますね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1900193965330268446",
+      "url": "https://x.com/antipop1/status/1900193965330268446",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:35:19.000Z",
+      "text": "#Vizトーク\nPrepフローを作る時、Desktopでカチャカチャ触ってから中身を確認してから作ることが多いというお話し。\nPrep→Desktop→Server/Cloudと繋がってるのが、Tableauのプロダクトの良さだと思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1900194885841674586",
+      "url": "https://x.com/antipop1/status/1900194885841674586",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:38:59.000Z",
+      "text": "#Vizトーク\nWoWもPreppin'Dataも、継続していくことで、「あっ、このパターンか」みたいな感覚が出てきますよねという話。継続は、力なり。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1900195953300431184",
+      "url": "https://x.com/YusukeNakanish3/status/1900195953300431184",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T14:43:13.000Z",
+      "text": "#Vizトーク\nPrepの問題はTableauの問題作るより難しそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1900196243915366818",
+      "url": "https://x.com/antipop1/status/1900196243915366818",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:44:23.000Z",
+      "text": "#Vizトーク\n出題側に回ると、その難しさがよく分かりますよねという話。色々なやり方ができるからこそ、他のやり方があるのでは…？と自分が信じられなくなってくるという…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1900198686237266420",
+      "url": "https://x.com/antipop1/status/1900198686237266420",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T14:54:05.000Z",
+      "text": "#Vizトーク\nTableauの計算関連の機能を学ぶ順番、↓みたいな感じが多いのでは？という話。みなさんはいかがでしょうか…？\n\n集計/非集計\n↓\n簡易表計算\n↓\nLOD計算（主にFIXED）\n↓\n色々な表計算",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1900200007086858371",
+      "url": "https://x.com/YusukeNakanish3/status/1900200007086858371",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T14:59:20.000Z",
+      "text": "#Vizトーク NotebookLMは無いと生きていけないですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1900201783961829422",
+      "url": "https://x.com/antipop1/status/1900201783961829422",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T15:06:23.000Z",
+      "text": "#Vizトーク\n本当に話してる間にアップしてるじゃないですか！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1900204760462221374",
+      "url": "https://x.com/antipop1/status/1900204760462221374",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T15:18:13.000Z",
+      "text": "#Vizトーク\nこちらのポストを見て、年度変更の話題です",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1900206308646916215",
+      "url": "https://x.com/YusukeNakanish3/status/1900206308646916215",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:24:22.000Z",
+      "text": "#Vizトーク 推し関数Viz、必見です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1900207241338511635",
+      "url": "https://x.com/antipop1/status/1900207241338511635",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2025-03-13T15:28:05.000Z",
+      "text": "#Vizトーク\nRUNNING_SUMじゃなくてWINDOW_SUMだよね、という話。WOW2025w1の問題を是非！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1900208768849465403",
+      "url": "https://x.com/YusukeNakanish3/status/1900208768849465403",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:34:09.000Z",
+      "text": "#Vizトーク\nコメントも見れるのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1900209051985994136",
+      "url": "https://x.com/YusukeNakanish3/status/1900209051985994136",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:35:16.000Z",
+      "text": "#Vizトーク\n都知事杯オープンデータハッカソンのDemoDayは3/15土です！オンラインもあるのでぜひ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1900209332811342135",
+      "url": "https://x.com/YusukeNakanish3/status/1900209332811342135",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:36:23.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1900210086041313306",
+      "url": "https://x.com/YusukeNakanish3/status/1900210086041313306",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:39:23.000Z",
+      "text": "#Vizトーク\n\n@antipop1\n さんRikaさんも登壇されるイベントはこちら！\n\nhttps://\nsalesforce.com/jp/form/events\n/webinars/form-rss/4857992\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1900211691562164304",
+      "url": "https://x.com/YusukeNakanish3/status/1900211691562164304",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-13T15:45:46.000Z",
+      "text": "#Vizトーク データで見る映画 Vizは3/18まで！\nルーキー賞 もあるので気軽に応募しましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1900384137006956944",
+      "url": "https://x.com/YusukeNakanish3/status/1900384137006956944",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-03-14T03:11:00.000Z",
+      "text": "画像版も貼っておきます。TableauでStream Graph初めて挑戦しました。#Vizトーク 内でも \n@antipop1\n さんと語ってましたが、色の元ネタ分かった方はどこかで呑みましょう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    }
+  ]
+}

@@ -1,0 +1,554 @@
+{
+  "episode": 91,
+  "date": "2025-02-13",
+  "collected_at": "2026-08-15T07:54:42.637Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 34,
+  "tweets": [
+    {
+      "id": "1890036426370433064",
+      "url": "https://x.com/unbosoms/status/1890036426370433064",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-02-13T13:52:53.000Z",
+      "text": "親指をけがしたのでこういうキーボードをひっぱりだしました。やはりキーボードは何個かあった方が良いですねー。\n\nhttps://\nshop.yushakobo.jp/products/6955?\nsrsltid=AfmBOorrs7xUFVw-gKs6Pl7F9e0dB4F7UYCC2SPg0MJLxvdhGrVPklfU\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1890037956427268598",
+      "url": "https://x.com/wCantPlayTennis/status/1890037956427268598",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2025-02-13T13:58:58.000Z",
+      "text": "#Vizトーク \nやまGさんと約束してました！\n雪が降って楽しかったですね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1890038738404909069",
+      "url": "https://x.com/YusukeNakanish3/status/1890038738404909069",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:02:05.000Z",
+      "text": "#Vizトーク　東北ユーザ会参加してきました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1890038763923149152",
+      "url": "https://x.com/Dandee_House/status/1890038763923149152",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-02-13T14:02:11.000Z",
+      "text": "#Vizトーク\n木村さんが投稿してくれている、2/7東北ユーザ会の様子",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1890039196741677102",
+      "url": "https://x.com/_Chasoso/status/1890039196741677102",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-02-13T14:03:54.000Z",
+      "text": "東北行きたかった… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1890041006139244848",
+      "url": "https://x.com/toko_tabo/status/1890041006139244848",
+      "author_name": "Toko_tabo",
+      "author_handle": "toko_tabo",
+      "posted_at": "2025-02-13T14:11:05.000Z",
+      "text": "#VIZトーク\n共感していただけて、嬉しいです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1890041172988662172",
+      "url": "https://x.com/YusukeNakanish3/status/1890041172988662172",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:11:45.000Z",
+      "text": "#Vizトーク 東北ユーザー会　接待疑惑の写真（ネタです）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1890041556415229982",
+      "url": "https://x.com/toko_tabo/status/1890041556415229982",
+      "author_name": "Toko_tabo",
+      "author_handle": "toko_tabo",
+      "posted_at": "2025-02-13T14:13:16.000Z",
+      "text": "#Vizトーク\n中嶌さんのコメント、よく見てくださっていてとてもうれしかったです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1890041686484791358",
+      "url": "https://x.com/unbosoms/status/1890041686484791358",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-02-13T14:13:47.000Z",
+      "text": "せり鍋 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 19
+      }
+    },
+    {
+      "id": "1890042262949884374",
+      "url": "https://x.com/_Chasoso/status/1890042262949884374",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2025-02-13T14:16:05.000Z",
+      "text": "待ってます #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1890042551253807389",
+      "url": "https://x.com/tmt0320/status/1890042551253807389",
+      "author_name": "Kosuke Tomita",
+      "author_handle": "tmt0320",
+      "posted_at": "2025-02-13T14:17:14.000Z",
+      "text": "#Vizトーク\nペルソナ大好評でうれしいです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1890042622934405292",
+      "url": "https://x.com/YusukeNakanish3/status/1890042622934405292",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:17:31.000Z",
+      "text": "#Vizトーク　さかいさんの作品。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1890042828761563410",
+      "url": "https://x.com/YusukeNakanish3/status/1890042828761563410",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:18:20.000Z",
+      "text": "#Vizトーク　yukoさんの作品。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1890042930074943573",
+      "url": "https://x.com/YusukeNakanish3/status/1890042930074943573",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:18:44.000Z",
+      "text": "#Vizトーク　ishikawaさんの作品。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1890043114984964394",
+      "url": "https://x.com/Dandee_House/status/1890043114984964394",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2025-02-13T14:19:28.000Z",
+      "text": "#Vizトーク\n#東北ユーザ会 で作成した、仙台市青葉区・太白区の人口マップ\nhttps://\npublic.tableau.com/app/profile/sh\nunta.nakajima/viz/20250207__17392702804100/Dash2\n…\n\nお題（ペルソナ）は、ネイルサロンの出店候補地を探したい、というものでしたー",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1890043144567484613",
+      "url": "https://x.com/YusukeNakanish3/status/1890043144567484613",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:19:35.000Z",
+      "text": "#Vizトーク　私のやつ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1890044833542340842",
+      "url": "https://x.com/m_yamag/status/1890044833542340842",
+      "author_name": "やまＧ",
+      "author_handle": "m_yamag",
+      "posted_at": "2025-02-13T14:26:18.000Z",
+      "text": "#Vizトーク\n突合できる地図データも一緒に提供したほうが良かったですね、、、そこまで気が回らずすみませんでした。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1890045312959701231",
+      "url": "https://x.com/YusukeNakanish3/status/1890045312959701231",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:28:12.000Z",
+      "text": "#Vizトーク　同日の四国ユーザ会も盛り上がったようです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1890046222238695928",
+      "url": "https://x.com/tesshin_tableau/status/1890046222238695928",
+      "author_name": "てっしん / Tesshin Takagi",
+      "author_handle": "tesshin_tableau",
+      "posted_at": "2025-02-13T14:31:49.000Z",
+      "text": "最近知ったイチオシのショートカット、、、　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1890047134394958053",
+      "url": "https://x.com/YusukeNakanish3/status/1890047134394958053",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:35:26.000Z",
+      "text": "#Vizトーク\nTips知りたい方は　#TinyTableauTip　のタグも調べてみてください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1890048363674112005",
+      "url": "https://x.com/YusukeNakanish3/status/1890048363674112005",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T14:40:19.000Z",
+      "text": "#Vizトーク\nパラメーター、一旦レンジで設定してからリストに戻ると、レンジで生成されたステップサイズのリストが作成できます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1890048460499607730",
+      "url": "https://x.com/unbosoms/status/1890048460499607730",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2025-02-13T14:40:43.000Z",
+      "text": "Tableauでダッシュボード作る時にオフにした方が良いかもしれない機能一覧\n\nhttps://\nqiita.com/unbosoms/items\n/3c82f0688b2fa3b85cef\n… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 37
+      }
+    },
+    {
+      "id": "1890048541168734586",
+      "url": "https://x.com/TIkeda93820944/status/1890048541168734586",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2025-02-13T14:41:02.000Z",
+      "text": "#Vizトーク\nショートカット試そうとしたらWindows用のショートカットで残念な気持ちになることが多い、、、\n（Macの場合も併記していてくれると嬉しい）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1890049801217278278",
+      "url": "https://x.com/ishiaki_tab/status/1890049801217278278",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2025-02-13T14:46:02.000Z",
+      "text": "#Vizトーク のタイムライン見てて思い出した。\n#東北ユーザー会 保育園探しViz作ったのにポストしていなかった 地域によって各年齢の空き具合が全然違う。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 31
+      }
+    },
+    {
+      "id": "1890051112134422862",
+      "url": "https://x.com/nozopipi/status/1890051112134422862",
+      "author_name": "のぞぴぴ(Nozomi Kokubo)",
+      "author_handle": "nozopipi",
+      "posted_at": "2025-02-13T14:51:15.000Z",
+      "text": "#vizトーク Excelみたいに自由に色付けたいのnoteです \nhttps://\nx.com/ginny_tbl/stat\n/ginny_tbl/status/1877953043326812168\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1890053257248256299",
+      "url": "https://x.com/wCantPlayTennis/status/1890053257248256299",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2025-02-13T14:59:46.000Z",
+      "text": "#Vizトーク \n気がついたらさかぴーさんとNakanishiさんのすごVizが出来上がってきていたので作ってるところを見ながら…やってほしいです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1890054171107442810",
+      "url": "https://x.com/m_yamag/status/1890054171107442810",
+      "author_name": "やまＧ",
+      "author_handle": "m_yamag",
+      "posted_at": "2025-02-13T15:03:24.000Z",
+      "text": "#Vizトーク\n#東北ユーザー会 で幹事をしてくれたFUNAKOSHIさんの感想noteです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1890054301009186896",
+      "url": "https://x.com/YusukeNakanish3/status/1890054301009186896",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T15:03:55.000Z",
+      "text": "#Vizトーク\n\n@yoshi_datavizjp\n さんのWOW解答動画。\n一発撮りっぽいのがすごい。\n思考の過程が追えるので超おすすめです。\n\n\nhttps://\nyoutube.com/@yoshitakaarak\nawa8844\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1890056162953117976",
+      "url": "https://x.com/YusukeNakanish3/status/1890056162953117976",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T15:11:19.000Z",
+      "text": "#Vizトーク\nTableauで絵を描くといえばこの方。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1890057036383371384",
+      "url": "https://x.com/YusukeNakanish3/status/1890057036383371384",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T15:14:47.000Z",
+      "text": "#Vizトーク\n#オープンデータスゴイ Round4　募集中です！\n一次〆2/16、最終〆2/23です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1890057302683865481",
+      "url": "https://x.com/YusukeNakanish3/status/1890057302683865481",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T15:15:51.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1890057854343893102",
+      "url": "https://x.com/YusukeNakanish3/status/1890057854343893102",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-13T15:18:02.000Z",
+      "text": "#Vizトーク\n3/4のこちらのイベント行きたい！なんとか調整したい。\n\nhttps://\ntechplay.jp/event/972510",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1890199583013437597",
+      "url": "https://x.com/YusukeNakanish3/status/1890199583013437597",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2025-02-14T00:41:13.000Z",
+      "text": "昨夜の #Vizトーク で \n@unbosoms\n さんと話題になったマークへの任意の色付け、やってみました。\n\n\nhttps://\ntabsoft.co/4kcxqJh",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1890598071198716329",
+      "url": "https://x.com/tmt0320/status/1890598071198716329",
+      "author_name": "Kosuke Tomita",
+      "author_handle": "tmt0320",
+      "posted_at": "2025-02-15T03:04:40.000Z",
+      "text": "結構な反響をいただいており恐縮\nペルソナのアイディアやこれらのスライド作成は\n@2dayzgonnaB\n さんの発案です！\n#Vizトーク #東北ユーザー会 #Tableau",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    }
+  ]
+}

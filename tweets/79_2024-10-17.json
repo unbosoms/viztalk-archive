@@ -1,0 +1,858 @@
+{
+  "episode": 79,
+  "date": "2024-10-17",
+  "collected_at": "2026-08-15T08:19:01.947Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 53,
+  "tweets": [
+    {
+      "id": "1846698512110719061",
+      "url": "https://x.com/antipop1/status/1846698512110719061",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-16T23:43:29.000Z",
+      "text": "これは #Vizトーク のパワーワードを掘り起こす時が来たようですね…（迷言率が高そう）\n#Tableau名言 #Tableau迷言",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1846706577551851597",
+      "url": "https://x.com/sora_in_blue/status/1846706577551851597",
+      "author_name": "mitamuu | Yoshie Mitamura",
+      "author_handle": "sora_in_blue",
+      "posted_at": "2024-10-17T00:15:32.000Z",
+      "text": "#Tableau迷言 \n\n#Vizトーク のパワーワード多数投稿お待ちしております！一人何個でも投稿OKです～\n\nその言葉が刺さって、今の自分がいるっていう人多いはず",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846844353425428485",
+      "url": "https://x.com/YusukeNakanish3/status/1846844353425428485",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T09:23:01.000Z",
+      "text": "#Vizトーク\n今日も少し早めの22時ごろからやります！\n\n少し趣向を変えて、\n@unbosoms\n さんと昨日リリースされたTableau desktop2024.3の新機能を触りながら語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846901302280049014",
+      "url": "https://x.com/YusukeNakanish3/status/1846901302280049014",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:09:18.000Z",
+      "text": "#Vizトーク　はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846902304366383219",
+      "url": "https://x.com/YusukeNakanish3/status/1846902304366383219",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:13:17.000Z",
+      "text": "#Vizトーク\n今週のWorkoutWednesdayはViz Extensionがテーマです。\nみなさんぜひ2024.3DLして解いてみましょう！\n\n\nhttps://\nworkout-wednesday.com/2024w42tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846902517667713210",
+      "url": "https://x.com/unbosoms/status/1846902517667713210",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:14:08.000Z",
+      "text": "今日は2024.3の新機能について話ができればなと思いますー\n\nhttps://\ntableau.com/ja-jp/products\n/new-features\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846903172687974894",
+      "url": "https://x.com/unbosoms/status/1846903172687974894",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:16:44.000Z",
+      "text": "パラメータの型に空間がでてますめー #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1846903895706206591",
+      "url": "https://x.com/unbosoms/status/1846903895706206591",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:19:37.000Z",
+      "text": "空間パラメータ、INTERSECT関数と相性が良さそう #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1846904123310199038",
+      "url": "https://x.com/YusukeNakanish3/status/1846904123310199038",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:20:31.000Z",
+      "text": "#Vizトーク\nこんな感じでパラメータに空間情報が入りますね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846904712106488225",
+      "url": "https://x.com/YusukeNakanish3/status/1846904712106488225",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:22:51.000Z",
+      "text": "#Vizトーク\n\nLineだとこんなかんじ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846905207479042295",
+      "url": "https://x.com/YusukeNakanish3/status/1846905207479042295",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:24:49.000Z",
+      "text": "#Vizトーク\n\nPolygonだとこんなかんじ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846906162081571315",
+      "url": "https://x.com/unbosoms/status/1846906162081571315",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:28:37.000Z",
+      "text": "POINT(137.5877274 36.3899835)を手書きで入力したらちゃんとPOINTとしてプロットできた！\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846906570690683380",
+      "url": "https://x.com/antipop1/status/1846906570690683380",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T13:30:14.000Z",
+      "text": "#Vizトーク\n空間パラメータ面白そう…\nTableauでGISの代わりが作れる日も近そう…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846907248871985412",
+      "url": "https://x.com/unbosoms/status/1846907248871985412",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:32:56.000Z",
+      "text": "2024.3のサンプルスーパーストアは注文シートじゃなくてオーダーになってる！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846907949211701715",
+      "url": "https://x.com/YusukeNakanish3/status/1846907949211701715",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:35:43.000Z",
+      "text": "#Vizトーク\ngoogle font対応ためしてみました。\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/GoogleTest_17291721124710/googlefonttest#1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1846908846377496698",
+      "url": "https://x.com/unbosoms/status/1846908846377496698",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:39:17.000Z",
+      "text": "英語フォントは増えましたねー。日本語も増やしてください！ぜひ！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1846909607958270357",
+      "url": "https://x.com/YusukeNakanish3/status/1846909607958270357",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:42:19.000Z",
+      "text": "#Vizトーク\nアクセシビリティも向上した模様。\n昔アクセシビリティがテーマのWorkoutWednesdayがありまいた。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1846909924632408162",
+      "url": "https://x.com/unbosoms/status/1846909924632408162",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:43:34.000Z",
+      "text": "TeaｍsとPulseの連携も嬉しい人には嬉しいですよね。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846911019777773569",
+      "url": "https://x.com/antipop1/status/1846911019777773569",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T13:47:55.000Z",
+      "text": "#Vizトーク\nDataDictionary…？\nCloudのログには無い気がする…\nどんなことがわかるのですか…？",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1846911469369332134",
+      "url": "https://x.com/YusukeNakanish3/status/1846911469369332134",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:49:42.000Z",
+      "text": "#Vizトーク\nTableau Serverのログリポジトリの辞書（Data dictonary）\n\n\nhttps://\ntableau.github.io/tableau-data-d\nictionary/2024.2/data_dictionary.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846911711179427963",
+      "url": "https://x.com/antipop1/status/1846911711179427963",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T13:50:40.000Z",
+      "text": "#Vizトーク\nこれは…試されてますね…\n\nhttps://\ntableau.github.io/tableau-data-d\nictionary/2024.2/data_dictionary.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1846912048489550098",
+      "url": "https://x.com/yoshi_datavizjp/status/1846912048489550098",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-10-17T13:52:00.000Z",
+      "text": "一方でRepositoryではなくアクティビティログの方にしか無いような情報があった気がしたので、リリースされた後に歓喜してました。なおアクティビティログは結局まだ触れていない… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846912364639408136",
+      "url": "https://x.com/antipop1/status/1846912364639408136",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T13:53:16.000Z",
+      "text": "#Vizトーク\ncloudの管理ログ関連は、このまとめがよくわかります！（最近も誰かまとめてくれてた気がする…どこかの会社さんブログだった気が…）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1846912779736981532",
+      "url": "https://x.com/unbosoms/status/1846912779736981532",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T13:54:55.000Z",
+      "text": "Excelにコピペができるの面白い。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 22
+      }
+    },
+    {
+      "id": "1846913082234491304",
+      "url": "https://x.com/antipop1/status/1846913082234491304",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T13:56:07.000Z",
+      "text": "#Vizトーク\n見つけた。Keywalkerさんが管理者インサイト調査してみたをやってくれてますね。\n\n\nhttps://\nkeywalker.co.jp/blog/tableau-c\nloud-admin-insights.html\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1846913146516394230",
+      "url": "https://x.com/YusukeNakanish3/status/1846913146516394230",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:56:22.000Z",
+      "text": "#Vizトーク\n設定が分かれててちょっとわかりにくい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846913546380366322",
+      "url": "https://x.com/YusukeNakanish3/status/1846913546380366322",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T13:57:58.000Z",
+      "text": "#Vizトーク\nWorkoutWednesday解いてみました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846914344548028463",
+      "url": "https://x.com/unbosoms/status/1846914344548028463",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:01:08.000Z",
+      "text": "新しいViz ExtensionのTableau Table。面白いですね。不連続だと検索画面、連続だとスライドバーになるんですねぇ。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846914689810551152",
+      "url": "https://x.com/unbosoms/status/1846914689810551152",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:02:30.000Z",
+      "text": "スライダーのフィルター、数値が表示されないのでどんなフィルターをしてるのか分からない #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846915507674656820",
+      "url": "https://x.com/unbosoms/status/1846915507674656820",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:05:45.000Z",
+      "text": "文字を入力するフィルターは前方一致検索みたいですね。顧客名が前株と後株かわからないと検索できないみたいな弊害はありそう。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1846916447639162929",
+      "url": "https://x.com/unbosoms/status/1846916447639162929",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:09:29.000Z",
+      "text": "Tableau TableはTableau Server/Cloudから好みのデータを出力するために意外と使われるのではないかという話 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1846917166727418198",
+      "url": "https://x.com/antipop1/status/1846917166727418198",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T14:12:21.000Z",
+      "text": "#Vizトーク\nTableauをデータ抽出ツールとして使うのは、個人的には過渡期にはしゃーないのかなと思うようになりました。少なくとも、それをやるためにTableau側に元データ持つことになるので、それだけでも前進なのかなと。\n\nそして、cloudの管理ログだと「ダウンロード」がとれないんですよね…orz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1846917534395826246",
+      "url": "https://x.com/antipop1/status/1846917534395826246",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T14:13:48.000Z",
+      "text": "#Vizトーク\nPulseのリリース、隔週ペースっぽいです",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1846919755535651233",
+      "url": "https://x.com/unbosoms/status/1846919755535651233",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:22:38.000Z",
+      "text": "Hyperforceへの移行は2024年8月〜12月の間で実施とのこと。\n\nhttps://\nhelp.salesforce.com/s/articleView?\nid=000888250&type=1\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846920704568283235",
+      "url": "https://x.com/YusukeNakanish3/status/1846920704568283235",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T14:26:24.000Z",
+      "text": "#Vizトーク　\n新機能を触ってみよう回はリリースのたびにやりたいと思います！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846920841847886206",
+      "url": "https://x.com/unbosoms/status/1846920841847886206",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:26:57.000Z",
+      "text": "明日は #オープンデータバトル の相談会！\n\nhttps://\ntechplay.jp/event/960867 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1846921003316003078",
+      "url": "https://x.com/YusukeNakanish3/status/1846921003316003078",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T14:27:35.000Z",
+      "text": "#Vizトーク \n来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1846921141145030829",
+      "url": "https://x.com/unbosoms/status/1846921141145030829",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:28:08.000Z",
+      "text": "週明けのtuneupは10/20(日)の8:00まで！興味ある方はお忘れ無く！荒川さん、中西さん、私もドクターで参加予定です\n\nhttps://\ntechplay.jp/event/960363\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1846921486625657281",
+      "url": "https://x.com/unbosoms/status/1846921486625657281",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:29:31.000Z",
+      "text": "10/21(月)はちゅらデータさんとCDataさんのスポンサー企画も！\n\nhttps://\ntechplay.jp/event/961117\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1846921619769545060",
+      "url": "https://x.com/unbosoms/status/1846921619769545060",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:30:02.000Z",
+      "text": "木曜日はたぶラジ！\n\nhttps://\ntechplay.jp/event/960135\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846921684336759256",
+      "url": "https://x.com/unbosoms/status/1846921684336759256",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:30:18.000Z",
+      "text": "金曜日は九州Tableauユーザー会！\n\nhttps://\ntechplay.jp/event/961044\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1846921993356300412",
+      "url": "https://x.com/unbosoms/status/1846921993356300412",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:31:32.000Z",
+      "text": "来週の土曜日10/26は都知事杯のFinal Stage!! ビジュアライズ部門も注目！VIZZIESも出ますし、Chiakiさんのチームも登壇されます！ぜひ応援してください！\n\nhttps://\nodh-tokyo2024-final.peatix.com\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 6,
+        "likes": 29
+      }
+    },
+    {
+      "id": "1846924315096502375",
+      "url": "https://x.com/unbosoms/status/1846924315096502375",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2024-10-17T14:40:45.000Z",
+      "text": "週明け10/21(月)のtuneupの申し込みは10/20(日)の8:00まで！興味ある方はお忘れ無く！荒川さん、中西さん、私もドクターで参加予定です \nhttps://\ntechplay.jp/event/960363 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1846938121373630594",
+      "url": "https://x.com/antipop1/status/1846938121373630594",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-17T15:35:37.000Z",
+      "text": "私の聴いた中で、1番のインパクトはコレだと思います！笑\n\n#Vizトーク #Tableau迷言",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1846938462475506041",
+      "url": "https://x.com/YusukeNakanish3/status/1846938462475506041",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T15:36:58.000Z",
+      "text": "#Tableau迷言 \n「マップレイヤーはズルい」\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1846942084789686767",
+      "url": "https://x.com/YusukeNakanish3/status/1846942084789686767",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T15:51:22.000Z",
+      "text": "#Tableau迷言 \n「ぜんぜんわからない…俺たちは雰囲気で表計算をやっている」\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1846943389918679100",
+      "url": "https://x.com/YusukeNakanish3/status/1846943389918679100",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T15:56:33.000Z",
+      "text": "#Tableau迷言 \n「曲げたいだけ」\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1846945474814923139",
+      "url": "https://x.com/YusukeNakanish3/status/1846945474814923139",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T16:04:50.000Z",
+      "text": "#Tableau迷言\nバーチャート山手線ゲーム\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1846946098809864331",
+      "url": "https://x.com/YusukeNakanish3/status/1846946098809864331",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-17T16:07:19.000Z",
+      "text": "#Tableau迷言 \n\nLOD電球\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1847297312948937194",
+      "url": "https://x.com/YusukeNakanish3/status/1847297312948937194",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-10-18T15:22:55.000Z",
+      "text": "#Tableau名言 \n\nDo it in public!\n\n師匠のこの言葉で #Vizトーク がはじまりました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1847450671911751781",
+      "url": "https://x.com/antipop1/status/1847450671911751781",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-19T01:32:18.000Z",
+      "text": "「ブログを投げつける」\n#Tableau迷言 #Vizトーク\n\n社内ユーザーへTableau特有の小難しめな概念を説明するときに、「これ見といて！」とレジェンドのブログのURLを投げつけますよね。というあるあるネタ\n\n投げつけられるブログの代表格は、\n@ritz_Tableau\n さんの「Tableau 8つのハードルを越える。」",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1847451591919780213",
+      "url": "https://x.com/antipop1/status/1847451591919780213",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-10-19T01:35:58.000Z",
+      "text": "このときの #Vizトーク はこちらにまとめがあります。話の流れはどんなだったっけな…あとで聞き直そう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1847574882407895088",
+      "url": "https://x.com/michi_TaToTsu/status/1847574882407895088",
+      "author_name": "Michi",
+      "author_handle": "michi_TaToTsu",
+      "posted_at": "2024-10-19T09:45:52.000Z",
+      "text": "うわぁ～、返信いただき恐縮です　#Vizトーク、これからも楽しみにしています",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    }
+  ]
+}
