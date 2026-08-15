@@ -102,6 +102,19 @@ a:hover { text-decoration: underline; }
 .ep-card .ep-title a { color: var(--text); }
 .ep-card .ep-meta { font-size: 13px; color: var(--text-muted); }
 .ep-card .ep-tags { margin-top: 6px; }
+.ep-card .ep-summary {
+  margin-top: 6px;
+  font-size: 13px;
+  color: var(--text);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+/* 簡易ビューでは summary 非表示 (行数節約) */
+.ep-list.view-compact .ep-card .ep-summary { display: none; }
 .ep-card .ep-play-btn {
   background: var(--accent);
   color: white;

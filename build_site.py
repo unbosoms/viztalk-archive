@@ -748,12 +748,18 @@ def render_ep_card(ep, level=0):
         meta_parts.append(speakers_names)
     if not ep['recording']:
         meta_parts.append("録音なし")
+    # この回の要約 (chapters_data から取得、簡易表示では隠す)
+    summary = ""
+    if ep.get("chapters_data"):
+        summary = ep["chapters_data"].get("episode_summary", "").strip()
+    summary_html = f'<div class="ep-summary">{html.escape(summary)}</div>' if summary else ''
     return f'''
   <div class="ep-card clickable" data-href="{ep_link}">
     <div class="ep-num">{ep_num}<small>回</small>{' (再)' if ep['has_rerun'] else ''}</div>
     <div>
       <div class="ep-title"><a href="{ep_link}">{html.escape(ep["title"] or "無題")}</a></div>
       <div class="ep-meta">{' · '.join(meta_parts)}</div>
+      {summary_html}
       <div class="ep-tags">{tags_html}</div>
     </div>
     <button class="ep-play-btn" onclick="loadAudio('{audio_src}','{js_title}','{js_date}');togglePlay();">▶</button>
