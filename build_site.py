@@ -1244,7 +1244,7 @@ def build_speakers_list(speakers):
       <div class="ep-meta">{top_role} · 出演 <strong>{len(sp["episodes"])}回</strong></div>
       {tags_html}
     </div>
-    <div class="speaker-ep-count"><span class="num">{len(sp["episodes"])}</span><span class="label">出演回</span></div>
+    <div class="speaker-ep-count"><span class="num">{len(sp["episodes"])}</span><span class="label">回出演</span></div>
   </div>'''
     body += '</div>'
     return render_layout(title="スピーカー一覧 · Vizトーク Archive", body=body, level=0, active_nav="speakers")
