@@ -798,10 +798,14 @@ def render_ep_card(ep, level=0):
     js_date = html.escape(ep["date"], quote=True)
     duration_sec = get_audio_duration_sec(ep.get("audio_filename"))
     duration_str = fmt_duration_short(duration_sec)
-    # meta 上段 = 第XX回・時間長・録音なし表示
+    # ツイート数
+    tw_count = len((ep.get("tweets_data") or {}).get("tweets", [])) if ep.get("tweets_data") else 0
+    # meta 上段 = 第XX回・時間長・ツイート数・録音なし表示
     meta_short_parts = [f"第{ep_num}回"]
     if duration_str:
         meta_short_parts.append(duration_str)
+    if tw_count:
+        meta_short_parts.append(f'🐦 {tw_count}')
     if not ep['recording']:
         meta_short_parts.append("録音なし")
     meta_short = " · ".join(meta_short_parts)
@@ -909,34 +913,12 @@ def build_episodes_list(episodes):
         ensure_ascii=False,
     )
 
-    groups = {}
-    for ep in valid:
-        year = ep["date"][:4]
-        groups.setdefault(year, []).append(ep)
-    current_year = max(groups.keys()) if groups else None
-
-    sections_html = ""
-    for year in sorted(groups.keys(), reverse=True):
-        eps_in_year = groups[year]
-        cards = "".join(render_ep_card(ep) for ep in eps_in_year)
-        is_open = (year == current_year)
-        collapsed_class = "" if is_open else " collapsed"
-        arrow = "▼" if is_open else "▶"
-        sections_html += f'''
-  <div class="year-group{collapsed_class}" data-year="{year}" id="year-{year}">
-    <h2 class="year-header" onclick="toggleYear(this)">
-      <span class="year-toggle">{arrow}</span>
-      <span class="year-label">{year}年</span>
-      <span class="year-count">({len(eps_in_year)}回)</span>
-    </h2>
-    <div class="year-body">
-      {cards}
-    </div>
-  </div>'''
-
+    # フラット化: 年グループは廃止して全カードを1リストに
+    all_cards_html = "".join(render_ep_card(ep) for ep in valid)
+    years_desc = sorted({ep["date"][:4] for ep in valid}, reverse=True)
     year_nav = " ".join(
-        f'<a href="#year-{y}" onclick="expandYear(\'{y}\')">{y}</a>'
-        for y in sorted(groups.keys(), reverse=True)
+        f'<a href="#" onclick="jumpToYear(\'{y}\');return false;">{y}</a>'
+        for y in years_desc
     )
 
     # スピーカー・タグ フィルタ選択肢UI
@@ -1006,15 +988,13 @@ def build_episodes_list(episodes):
   <div class="year-nav-row">
     <span class="text-muted" style="font-size:12px;">ジャンプ:</span>
     {year_nav}
-    <button onclick="expandAll(true)" class="mini-btn">全て展開</button>
-    <button onclick="expandAll(false)" class="mini-btn">全て折りたたむ</button>
     <span class="ep-list-summary" id="ep-list-summary"></span>
   </div>
 
   <div class="active-filters" id="active-filters" style="display:none;"></div>
 
   <div class="ep-list" id="ep-list">
-    {sections_html}
+    {all_cards_html}
   </div>
 
 <script>
@@ -1026,25 +1006,16 @@ const state = {{
   sort: "date-desc",
 }};
 
-function toggleYear(header) {{
-  header.closest(".year-group").classList.toggle("collapsed");
-  const arrow = header.querySelector(".year-toggle");
-  if (arrow) arrow.textContent = header.closest(".year-group").classList.contains("collapsed") ? "▶" : "▼";
-}}
-function expandYear(year) {{
-  const g = document.getElementById("year-" + year);
-  if (g) {{
-    g.classList.remove("collapsed");
-    const arrow = g.querySelector(".year-toggle");
-    if (arrow) arrow.textContent = "▼";
+function jumpToYear(year) {{
+  const cards = document.querySelectorAll(`.ep-card[data-year="${{year}}"]`);
+  for (const c of cards) {{
+    if (c.style.display !== "none") {{
+      c.scrollIntoView({{behavior: "smooth", block: "start"}});
+      c.classList.add("scroll-target-flash");
+      setTimeout(() => c.classList.remove("scroll-target-flash"), 2400);
+      return;
+    }}
   }}
-}}
-function expandAll(open) {{
-  document.querySelectorAll(".year-group").forEach(g => {{
-    if (open) g.classList.remove("collapsed"); else g.classList.add("collapsed");
-    const arrow = g.querySelector(".year-toggle");
-    if (arrow) arrow.textContent = open ? "▼" : "▶";
-  }});
 }}
 function setView(mode) {{
   const list = document.getElementById("ep-list");
@@ -1093,51 +1064,36 @@ function escapeHtml(s) {{
 function applyFilters() {{
   const cards = document.querySelectorAll(".ep-card[data-year]");
   let shown = 0;
-  const yearCounts = {{}};
   cards.forEach(card => {{
     const cardSpeakers = (card.dataset.speakers || "").split(",").filter(Boolean);
     const cardTags = (card.dataset.tags || "").split(",").filter(Boolean);
     const cardRec = card.dataset.recording;
-    const cardYear = card.dataset.year;
     let ok = true;
     if (state.speakers.size && !cardSpeakers.some(h => state.speakers.has(h))) ok = false;
     if (state.tags.size && !cardTags.some(t => state.tags.has(t))) ok = false;
     if (state.recording !== "all" && cardRec !== state.recording) ok = false;
     card.style.display = ok ? "" : "none";
-    if (ok) {{
-      shown++;
-      yearCounts[cardYear] = (yearCounts[cardYear] || 0) + 1;
-    }}
-  }});
-  document.querySelectorAll(".year-group").forEach(g => {{
-    const y = g.dataset.year;
-    const total = g.querySelectorAll(".ep-card").length;
-    const shownCount = yearCounts[y] || 0;
-    const countEl = g.querySelector(".year-count");
-    const anyFilter = state.speakers.size || state.tags.size || state.recording !== "all";
-    if (countEl) countEl.textContent = anyFilter ? `(${{shownCount}}/${{total}}回)` : `(${{total}}回)`;
-    g.style.display = shownCount ? "" : "none";
+    if (ok) shown++;
   }});
   const total = cards.length;
   const anyFilter = state.speakers.size || state.tags.size || state.recording !== "all";
-  document.getElementById("ep-list-summary").textContent = anyFilter ? `表示: ${{shown}} / ${{total}}回` : "";
+  document.getElementById("ep-list-summary").textContent = anyFilter ? `表示: ${{shown}} / ${{total}}回` : `全 ${{total}}回`;
 }}
 
 function applySort() {{
+  const list = document.getElementById("ep-list");
+  const cards = Array.from(list.querySelectorAll(".ep-card"));
   const [key, dir] = state.sort.split("-");
-  document.querySelectorAll(".year-group .year-body").forEach(body => {{
-    const cards = Array.from(body.querySelectorAll(".ep-card"));
-    cards.sort((a, b) => {{
-      let va = 0, vb = 0;
-      if (key === "date") {{ va = a.dataset.date; vb = b.dataset.date; }}
-      else if (key === "duration") {{ va = parseInt(a.dataset.duration) || 0; vb = parseInt(b.dataset.duration) || 0; }}
-      else if (key === "tweetCount") {{ va = parseInt(a.dataset.tweetCount) || 0; vb = parseInt(b.dataset.tweetCount) || 0; }}
-      else if (key === "chapterCount") {{ va = parseInt(a.dataset.chapterCount) || 0; vb = parseInt(b.dataset.chapterCount) || 0; }}
-      if (va === vb) return 0;
-      return dir === "asc" ? (va > vb ? 1 : -1) : (va < vb ? 1 : -1);
-    }});
-    cards.forEach(c => body.appendChild(c));
+  cards.sort((a, b) => {{
+    let va = 0, vb = 0;
+    if (key === "date") {{ va = a.dataset.date; vb = b.dataset.date; }}
+    else if (key === "duration") {{ va = parseInt(a.dataset.duration) || 0; vb = parseInt(b.dataset.duration) || 0; }}
+    else if (key === "tweetCount") {{ va = parseInt(a.dataset.tweetCount) || 0; vb = parseInt(b.dataset.tweetCount) || 0; }}
+    else if (key === "chapterCount") {{ va = parseInt(a.dataset.chapterCount) || 0; vb = parseInt(b.dataset.chapterCount) || 0; }}
+    if (va === vb) return 0;
+    return dir === "asc" ? (va > vb ? 1 : -1) : (va < vb ? 1 : -1);
   }});
+  cards.forEach(c => list.appendChild(c));
 }}
 
 function updateUrl() {{
