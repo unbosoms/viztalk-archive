@@ -804,6 +804,25 @@ a:hover { text-decoration: underline; }
   font-size: 12px;
   opacity: .8;
 }
+.search-sort-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  margin: 4px 0 12px;
+  padding: 6px 12px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+.search-sort-row select {
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--surface);
+  font-size: 12px;
+  font-family: inherit;
+}
+
 .search-section-title {
   font-size: 16px;
   color: var(--text-muted);

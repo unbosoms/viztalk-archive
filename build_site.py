@@ -1682,6 +1682,7 @@ def build_search_index(episodes):
                 })
         if ep["tweets_data"]:
             for t in ep["tweets_data"].get("tweets", []):
+                metrics = t.get("metrics") or {}
                 tweets.append({
                     "ep": ep["ep"], "date": ep["date"],
                     "id": t.get("id", ""),
@@ -1691,6 +1692,8 @@ def build_search_index(episodes):
                     "offset": int(t.get("_audio_offset_sec", 0) or 0),
                     "url": ep_url,
                     "tweet_url": t.get("url", ""),
+                    "likes": metrics.get("likes", 0) or 0,
+                    "posted_at": t.get("posted_at", ""),
                 })
     return {"chapters": chapters, "tweets": tweets, "episodes": episodes_meta}
 
@@ -1708,6 +1711,15 @@ def build_search_page():
     <button data-filter="fulltext">📝 全文書き起こし <span class="cnt" id="cnt-fulltext">-</span></button>
   </div>
 
+  <div class="search-sort-row">
+    <label class="text-muted" style="font-size:12px;">並び順:</label>
+    <select id="search-sort" onchange="onSortChange(this.value)">
+      <option value="date-desc">新しい順</option>
+      <option value="date-asc">古い順</option>
+      <option value="likes-desc">いいね順 (ツイートのみ)</option>
+    </select>
+  </div>
+
   <div id="results" class="search-results">
     <p class="text-muted">キーワードを入力すると検索します（インデックス読み込み中…）</p>
   </div>
@@ -1715,6 +1727,34 @@ def build_search_page():
 <script>
 let INDEX = null;
 let FILTER = "all";
+let SORT = "date-desc";  // date-desc | date-asc | likes-desc
+
+function sortResults(items, kind) {
+  const arr = items.slice();
+  if (SORT === "likes-desc" && kind === "tweet") {
+    arr.sort((a, b) => (b.likes || 0) - (a.likes || 0));
+  } else if (SORT === "date-desc") {
+    // ツイートは posted_at で厳密に、chapter/episode は date で
+    if (kind === "tweet") {
+      arr.sort((a, b) => (b.posted_at || "").localeCompare(a.posted_at || ""));
+    } else {
+      arr.sort((a, b) => (b.date || "").localeCompare(a.date || ""));
+    }
+  } else if (SORT === "date-asc") {
+    if (kind === "tweet") {
+      arr.sort((a, b) => (a.posted_at || "").localeCompare(b.posted_at || ""));
+    } else {
+      arr.sort((a, b) => (a.date || "").localeCompare(b.date || ""));
+    }
+  }
+  return arr;
+}
+
+function onSortChange(v) {
+  SORT = v;
+  const val = document.getElementById("search-input").value;
+  if (val) search(val);
+}
 
 async function loadIndex() {
   const res = await fetch("search-index.json");
@@ -1770,6 +1810,11 @@ function renderMetaResults(chMatches, twMatches, epMatches, q) {
   const showTw = FILTER === "all" || FILTER === "tweets";
   const showEp = FILTER === "all" || FILTER === "episodes";
 
+  // ソート適用
+  chMatches = sortResults(chMatches, "chapter");
+  twMatches = sortResults(twMatches, "tweet");
+  epMatches = sortResults(epMatches, "episode");
+
   if (showCh && chMatches.length) {
     html += '<h2 class="search-section-title">📖 チャプター (' + chMatches.length + ')</h2>';
     chMatches.slice(0, 100).forEach(ch => {
@@ -1787,9 +1832,10 @@ function renderMetaResults(chMatches, twMatches, epMatches, q) {
   if (showTw && twMatches.length) {
     html += '<h2 class="search-section-title">🐦 ツイート (' + twMatches.length + ')</h2>';
     twMatches.slice(0, 100).forEach(t => {
+      const likesHtml = t.likes ? ` · <span class="text-muted">♡ ${t.likes}</span>` : '';
       html += `
         <a class="search-result-item" href="${t.url}?t=${t.offset}#tl-tw-${t.id}">
-          <div class="sri-badge">🐦 第${t.ep}回 · ${esc(t.date)} · @${fmtSec(t.offset)}</div>
+          <div class="sri-badge">🐦 第${t.ep}回 · ${esc(t.date)} · @${fmtSec(t.offset)}${likesHtml}</div>
           <div class="sri-title">${esc(t.author)} <span class="text-muted">@${esc(t.handle)}</span></div>
           <div class="sri-body">${highlight(t.text, q)}</div>
         </a>`;
