@@ -1,0 +1,634 @@
+{
+  "episode": 65,
+  "date": "2024-06-13",
+  "collected_at": "2026-08-15T09:34:09.757Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 39,
+  "tweets": [
+    {
+      "id": "1801192592077656165",
+      "url": "https://x.com/YusukeNakanish3/status/1801192592077656165",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T09:59:13.000Z",
+      "text": "#Vizトーク 本日も2230ごろからやります！\nPrepユーザー会後ですが元気有り余ってる方はぜひ。\nMakeover Monday・北陸ユーザー会・Workout Wednesdayなど話す予定です。\n\nvizgame…はちょっと期間あけてから語りたいと思ってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1801248972918648917",
+      "url": "https://x.com/YusukeNakanish3/status/1801248972918648917",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T13:43:15.000Z",
+      "text": "#Vizトーク はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801249702383624466",
+      "url": "https://x.com/wCantPlayTennis/status/1801249702383624466",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2024-06-13T13:46:09.000Z",
+      "text": "#1シート教 の真の経典ができあがろうとしている\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1801250273941491822",
+      "url": "https://x.com/YusukeNakanish3/status/1801250273941491822",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T13:48:25.000Z",
+      "text": "#Vizトーク　\n\n@yoshi_datavizjp\n　さんの出題回はこちら。\nかなり実用的なテクニックが学べます。\nBonusは難しいですがBasicもあるのでぜひ。\n\n\nhttps://\nworkout-wednesday.com/2024w22tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1801250483576897954",
+      "url": "https://x.com/O_Syringa_Z/status/1801250483576897954",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-06-13T13:49:15.000Z",
+      "text": "#Vizトーク #1シート教",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1801251035731894573",
+      "url": "https://x.com/aki_smomo/status/1801251035731894573",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2024-06-13T13:51:27.000Z",
+      "text": "いろんな方向のダークサイド #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801251133262086306",
+      "url": "https://x.com/ishiaki_tab/status/1801251133262086306",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2024-06-13T13:51:50.000Z",
+      "text": "これもダークサイド #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1801252252533026819",
+      "url": "https://x.com/mfujita2023/status/1801252252533026819",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-06-13T13:56:17.000Z",
+      "text": "古いですね。もう動的ゾーンのほうが新しいと思いました。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801252697984929995",
+      "url": "https://x.com/YusukeNakanish3/status/1801252697984929995",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T13:58:03.000Z",
+      "text": "#Vizトーク\nWorkoutWednesday古い方がむずい説。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801253221933207733",
+      "url": "https://x.com/YusukeNakanish3/status/1801253221933207733",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:00:08.000Z",
+      "text": "#Vizトーク\n闇のTableau Server会。\n「何も持ち帰らないでください」は新しい笑",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1801255454808715428",
+      "url": "https://x.com/YusukeNakanish3/status/1801255454808715428",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:09:00.000Z",
+      "text": "#Vizトーク\nTabelau ServerのログのDB情報こちら。\n\nhttps://\ntableau.github.io/tableau-data-d\nictionary/2023.3/data_dictionary.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801256252389102042",
+      "url": "https://x.com/YusukeNakanish3/status/1801256252389102042",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:12:10.000Z",
+      "text": "#Vizトーク\nログがぜんぶUTCなのは罠。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1801256283808596464",
+      "url": "https://x.com/ishiaki_tab/status/1801256283808596464",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2024-06-13T14:12:18.000Z",
+      "text": "日付UTCの罠ww\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801257259923870172",
+      "url": "https://x.com/YusukeNakanish3/status/1801257259923870172",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:16:11.000Z",
+      "text": "#Vizトーク \n\n@yoshi_datavizjp\n さんのTableau Server/Cloud の権限Viz。\nサーバー管理者だけでなくユーザー側でも役立つので是非見てみてください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1801257806588436957",
+      "url": "https://x.com/AkSakatoku/status/1801257806588436957",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2024-06-13T14:18:21.000Z",
+      "text": "ほとんどTableauを使わないViz、逆に気になる #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801259595538808874",
+      "url": "https://x.com/YusukeNakanish3/status/1801259595538808874",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:25:28.000Z",
+      "text": "#Vizトーク\nSpotifyさんのデザインチェックリスト。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1801260043238822365",
+      "url": "https://x.com/YusukeNakanish3/status/1801260043238822365",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:27:14.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801261141378969956",
+      "url": "https://x.com/fujitakuya/status/1801261141378969956",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-06-13T14:31:36.000Z",
+      "text": "#Vizトーク\n\n\nhttps://\nnewdatalabs.com/en/tableau-aud\nit/\n…\n\nこう言うのはあるけど、、Priceや例がほとんどないんですよね。。フルカスタマイズなんですかね。。  やっぱりTCですね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1801262233403666626",
+      "url": "https://x.com/YusukeNakanish3/status/1801262233403666626",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:35:56.000Z",
+      "text": "#Vizトーク\nGarbage in, Garbage out\n\nhttps://\nnote.com/geeorgey/n/nb5\n78072b6283\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801263269044457703",
+      "url": "https://x.com/YusukeNakanish3/status/1801263269044457703",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:40:03.000Z",
+      "text": "SFUG CUP、かねこさんがTableauでファイナリストになってました。#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801263803281375526",
+      "url": "https://x.com/YusukeNakanish3/status/1801263803281375526",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:42:11.000Z",
+      "text": "#Vizトーク\nChart Chat の登録はこちら。\n次回はTC24の話です！\n\nhttps://\ntickettailor.com/events/datarev\nelations/1256615/r/cclive2\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801264928872960301",
+      "url": "https://x.com/mfujita2023/status/1801264928872960301",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-06-13T14:46:39.000Z",
+      "text": "入国審査結構ドキドキしましたよね。今年もいたんですね？ #vizトーク\n\n明日のたぶラジで少しその辺話しました！10分の短編なので聞いていただければ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1801265507452231825",
+      "url": "https://x.com/YusukeNakanish3/status/1801265507452231825",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:48:57.000Z",
+      "text": "#Vizトーク\nボストンでJAL乗った時の安心感がすごかった。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1801267248008679767",
+      "url": "https://x.com/YusukeNakanish3/status/1801267248008679767",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:55:52.000Z",
+      "text": "#Vizトーク　\n色いっぱい使おうシリーズ２。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1801267275074552029",
+      "url": "https://x.com/_Chasoso/status/1801267275074552029",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2024-06-13T14:55:58.000Z",
+      "text": "GPT & DeepL にはいつもお世話になっています。#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801267543946228148",
+      "url": "https://x.com/YusukeNakanish3/status/1801267543946228148",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:57:03.000Z",
+      "text": "#Vizトーク　\nChimidiさんのLGBTのViz。色・表現共に好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1801267865817076138",
+      "url": "https://x.com/YusukeNakanish3/status/1801267865817076138",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T14:58:19.000Z",
+      "text": "#Vizトーク　\nTableau Publicの再推し作成者の話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801267915507036629",
+      "url": "https://x.com/O_Syringa_Z/status/1801267915507036629",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-06-13T14:58:31.000Z",
+      "text": "#Vizトーク\n私の推しの方です",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1801270135925129712",
+      "url": "https://x.com/YusukeNakanish3/status/1801270135925129712",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T15:07:21.000Z",
+      "text": "#Vizトーク　\nOkamotoさんの今週のMakeoverMonday。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801270895295791315",
+      "url": "https://x.com/O_Syringa_Z/status/1801270895295791315",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-06-13T15:10:22.000Z",
+      "text": "#Vizトーク\n今週もさすが",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1801271146702389280",
+      "url": "https://x.com/O_Syringa_Z/status/1801271146702389280",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-06-13T15:11:22.000Z",
+      "text": "#Vizトーク\nBullet Chart",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1801271841912443337",
+      "url": "https://x.com/erika_kaikai/status/1801271841912443337",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-06-13T15:14:07.000Z",
+      "text": "スパムおにぎりとか #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801272020782502305",
+      "url": "https://x.com/fujitakuya/status/1801272020782502305",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-06-13T15:14:50.000Z",
+      "text": "#Vizトーク\nうまうま会で、トークもありましたね…\n貴重な機会に、宿谷さんとお話しすれば良かった",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1801272417089962298",
+      "url": "https://x.com/ishiaki_tab/status/1801272417089962298",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2024-06-13T15:16:24.000Z",
+      "text": "カニに釣られる女 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1801272810150703232",
+      "url": "https://x.com/YusukeNakanish3/status/1801272810150703232",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T15:17:58.000Z",
+      "text": "#Vizトーク\n\n来週以降のイベントはこちら。\n\n@rsugimura17\n さんいつもありがとうございます！\n\n\nhttps://\npublic.tableau.com/app/profile/rs\nugimura/viz/Tableau_16942713487820/TableauEventCalendar\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1801275083698393494",
+      "url": "https://x.com/YusukeNakanish3/status/1801275083698393494",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T15:27:00.000Z",
+      "text": "#Vizトーク \nWendyさんのスケッチをまとめたViz。素敵すぎる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1801275227743371340",
+      "url": "https://x.com/_Chasoso/status/1801275227743371340",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2024-06-13T15:27:35.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1801276242542633364",
+      "url": "https://x.com/YusukeNakanish3/status/1801276242542633364",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-13T15:31:36.000Z",
+      "text": "#Vizトーク \n WorkoutWednesdayは途中で止めるとわからなくなるので深夜でもやるしかない。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1801381844719648867",
+      "url": "https://x.com/antipop1/status/1801381844719648867",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-06-13T22:31:14.000Z",
+      "text": "寝落ちして #Vizトーク 聴き逃してしまったが、ダークサイド回だったか…。闇のTableau Server/Cloud管理者オフ会したい…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

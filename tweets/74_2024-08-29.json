@@ -1,0 +1,586 @@
+{
+  "episode": 74,
+  "date": "2024-08-29",
+  "collected_at": "2026-08-15T09:25:03.622Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 36,
+  "tweets": [
+    {
+      "id": "1829050530418831473",
+      "url": "https://x.com/YusukeNakanish3/status/1829050530418831473",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T06:56:43.000Z",
+      "text": "#Vizトーク　今日も2230ごろからやります！\n今回はまた　\n@yoshi_datavizjp\n さんをゲストにお招きして、#WOW2024 出題回について語ります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1829151912345862293",
+      "url": "https://x.com/YusukeNakanish3/status/1829151912345862293",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T13:39:34.000Z",
+      "text": "#Vizトーク　はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829152845343666508",
+      "url": "https://x.com/YusukeNakanish3/status/1829152845343666508",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T13:43:17.000Z",
+      "text": "#Vizトーク　\nViz of the dayいただきました。\n2回目いただけるよう精進します。\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/Parksforkids/kanseiban\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1829153862638551124",
+      "url": "https://x.com/_Chasoso/status/1829153862638551124",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2024-08-29T13:47:19.000Z",
+      "text": "#Vizトーク 1週間ほどTrendingにいるので、view数がめちゃくちゃ伸びてます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 22
+      }
+    },
+    {
+      "id": "1829153893919666286",
+      "url": "https://x.com/YusukeNakanish3/status/1829153893919666286",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T13:47:27.000Z",
+      "text": "#Vizトーク\n\n@_Chasoso\n さんのポートフォリオVizがトレンドに上がってます！\n\n\nhttps://\npublic.tableau.com/app/profile/hi\ndeaki.y/viz/MyTableauPublicPortfolio/dashboard\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1829154238305550841",
+      "url": "https://x.com/_Chasoso/status/1829154238305550841",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2024-08-29T13:48:49.000Z",
+      "text": "#Vizトーク Arakawaさんのブログを参考にスクリプト作成して、データ更新してます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1829155157541826811",
+      "url": "https://x.com/YusukeNakanish3/status/1829155157541826811",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T13:52:28.000Z",
+      "text": "#Vizトーク\nWorkout WedenesdayのトラッカーVizも自動更新に戻りました。ぜひ登録を。\n\nhttps://\nworkout-wednesday.com/track-submissi\non/tracker/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829155602779779376",
+      "url": "https://x.com/yoshi_datavizjp/status/1829155602779779376",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2024-08-29T13:54:14.000Z",
+      "text": "#Vizトーク\n実はこんなVizがWOWにはありまして。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1829156865529524695",
+      "url": "https://x.com/YusukeNakanish3/status/1829156865529524695",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T13:59:15.000Z",
+      "text": "#Vizトーク\n\n@yoshi_datavizjp\n　さんWOW出題回について語ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1829157579236487552",
+      "url": "https://x.com/YusukeNakanish3/status/1829157579236487552",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:02:05.000Z",
+      "text": "#Vizトーク\nComposable Data Source、待ってます。\n\nhttps://\nzenn.dev/churadata/arti\ncles/70cabec35abea6\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1829157932350746961",
+      "url": "https://x.com/YusukeNakanish3/status/1829157932350746961",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:03:29.000Z",
+      "text": "#Vizトーク\nblogはこちら。\n\nhttps://\nyarakawa.com/single-post/us\ner-filter-with-secondary-datasource\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829160084213248478",
+      "url": "https://x.com/YusukeNakanish3/status/1829160084213248478",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:12:02.000Z",
+      "text": "#Vizトーク\nブレンド忘れられてる説。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829162176244035704",
+      "url": "https://x.com/YusukeNakanish3/status/1829162176244035704",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:20:21.000Z",
+      "text": "#Vizトーク\n名前を表示する等、パーソナライズしたダッシュボード提供も大事。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1829162640108859558",
+      "url": "https://x.com/erika_kaikai/status/1829162640108859558",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-08-29T14:22:12.000Z",
+      "text": "ほほほぅ…Tableau Serverの利用状況の社内共有のお話興味深い！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1829163984785944747",
+      "url": "https://x.com/erika_kaikai/status/1829163984785944747",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-08-29T14:27:32.000Z",
+      "text": "使われてるかいないかだけじゃ無くて、ニーズの発掘にもなるServer利用状況ダッシュボード… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829164127786594751",
+      "url": "https://x.com/antipop1/status/1829164127786594751",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:28:06.000Z",
+      "text": "#Vizトーク\n「昨日見られたVizTOP5」は面白そう。\nさっそく明日からサブスクしよう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1829165055742750956",
+      "url": "https://x.com/antipop1/status/1829165055742750956",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:31:48.000Z",
+      "text": "#Vizトーク\nパーミッションとグループわからん問題、わかりすぎる。プロジェクトは見せてないけど、検索したらかいくぐれるとか…orz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1829165503304331569",
+      "url": "https://x.com/antipop1/status/1829165503304331569",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:33:34.000Z",
+      "text": "#Vizトーク\nワークブックとフローとデータソースはプロジェクトをきっちり分けたい派ですが、自由領域作ると詰むんすよね…。でも中央集権しきらないし…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829165587207250065",
+      "url": "https://x.com/fujitakuya/status/1829165587207250065",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-08-29T14:33:54.000Z",
+      "text": "#Vizトーク\n\n距離感は、ありますよね。。\nプロジェクト構成は、部門利害が絡むから情シがオオナタ振った方が早そう。。\n\nこれだって",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829165738353143887",
+      "url": "https://x.com/antipop1/status/1829165738353143887",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:34:30.000Z",
+      "text": "#Vizトーク\nプロジェクト構成のベストプラクティス、マジで全然わからん…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829165915021423096",
+      "url": "https://x.com/YusukeNakanish3/status/1829165915021423096",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:35:13.000Z",
+      "text": "#Vizトーク　\nプロジェクト構成とかワークブックとデータソースの分離とかの学習・ハンズオンやらないとという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1829166469747474583",
+      "url": "https://x.com/antipop1/status/1829166469747474583",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:37:25.000Z",
+      "text": "#Vizトーク\n「権限設定がちゃんとしてるかViz」は、ちゃんとやってる事例聞いたことありまして、「パーミッション警察」という役割の方がいるらしいですw",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829166844504355178",
+      "url": "https://x.com/antipop1/status/1829166844504355178",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:38:54.000Z",
+      "text": "#Vizトーク\nあと、パーソナルスペースと専用領域の使い分け問題とかもありますね。パーソナルスペースに早くデータソースとかフローが置けるようになってほしい…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829167499025494215",
+      "url": "https://x.com/fujitakuya/status/1829167499025494215",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-08-29T14:41:30.000Z",
+      "text": "#Vizトーク\n\nコンテンツガバナンスか、、、\n退職とセットなんですよね。  \n\n転職天国の海外とかどう運用してるんだろう。\nTableau社は専門のチームがいるですよね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829167664805392801",
+      "url": "https://x.com/antipop1/status/1829167664805392801",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:42:10.000Z",
+      "text": "#Vizトーク\n地味に、「プロジェクトやコンテンツの所有者誰にするんだ問題」とかもベストプラクティスほしい。権限ください通知がコンテンツ所有者じゃなくて権限ロックしてるプロジェクト所有者にくるとか知らないよ…orz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829168345696100391",
+      "url": "https://x.com/antipop1/status/1829168345696100391",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:44:52.000Z",
+      "text": "#Vizトーク\n「コンテンツ整理できないなら、コレクションを教えればいーじゃん！」は、最近すごく思う",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1829169499414954018",
+      "url": "https://x.com/YusukeNakanish3/status/1829169499414954018",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T14:49:27.000Z",
+      "text": "#Vizトーク\n光のサーバー管理者会\n闇のサーバー管理者会\nやりましょう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1829169630700810560",
+      "url": "https://x.com/erika_kaikai/status/1829169630700810560",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-08-29T14:49:58.000Z",
+      "text": "昔ユーモアある人がこのチームに居て、全コンテンツオーナー向けに、メグライアンがパソコンに向かってる「ユーガットメール」のワンシーンの画像をつけて削除するか否かの確認メールが飛んできてたのを思い出しました…\n今思えばメール1つにしても見てもらえる工夫だったのかな〜とも #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1829169844778066066",
+      "url": "https://x.com/fujitakuya/status/1829169844778066066",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-08-29T14:50:49.000Z",
+      "text": "Server会は、10月末ぐらい出来ないかと少しづつ進めてます。\n@erika_kaikai\n さんにもお願いしなきゃ\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1829171447748821134",
+      "url": "https://x.com/antipop1/status/1829171447748821134",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2024-08-29T14:57:12.000Z",
+      "text": "#Vizトーク\nサイト名とかアイコンとかサムネイル画像とかサイト設定どうしてるとかも聞きたい。あんま活用できてない…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1829172256876179628",
+      "url": "https://x.com/fujitakuya/status/1829172256876179628",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2024-08-29T15:00:25.000Z",
+      "text": "闇トークは、みんな動物アイコンの\nマジックボイスだろうなw\n\nイヌさん、、、\nそれかなり、闇ですw\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1829172369912729826",
+      "url": "https://x.com/erika_kaikai/status/1829172369912729826",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-08-29T15:00:52.000Z",
+      "text": "来年も行きたいなー！TCーー！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1829172559067361341",
+      "url": "https://x.com/erika_kaikai/status/1829172559067361341",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2024-08-29T15:01:37.000Z",
+      "text": "確かに、、中西さんご無事に帰られることをいのってます…！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1829172827276403191",
+      "url": "https://x.com/YusukeNakanish3/status/1829172827276403191",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T15:02:41.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\nたぶラジ・DATA KIDS・Bridgeなど来週も盛りだくさんです。\n\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1829173272334025019",
+      "url": "https://x.com/YusukeNakanish3/status/1829173272334025019",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T15:04:27.000Z",
+      "text": "#Vizトーク\n#Vizts　次回のカジュアルVizつくりまShowは9/12です！\n\n\nhttps://\ntechplay.jp/event/955410",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1829173691655352586",
+      "url": "https://x.com/YusukeNakanish3/status/1829173691655352586",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-08-29T15:06:07.000Z",
+      "text": "#Vizトーク\nLINEヤフーさんの学生限定イベントは9/26です。\nこちらもぜひ！\n\n\nhttps://\ntechplay.jp/event/954055",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    }
+  ]
+}

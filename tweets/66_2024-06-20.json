@@ -1,0 +1,522 @@
+{
+  "episode": 66,
+  "date": "2024-06-20",
+  "collected_at": "2026-08-15T09:33:15.634Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 32,
+  "tweets": [
+    {
+      "id": "1803746960891113614",
+      "url": "https://x.com/YusukeNakanish3/status/1803746960891113614",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T11:09:22.000Z",
+      "text": "#Vizトーク　今日も2230ごろからやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1803786795651674167",
+      "url": "https://x.com/YusukeNakanish3/status/1803786795651674167",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T13:47:39.000Z",
+      "text": "#Vizトーク　少し遅れて23時ごろからやります",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1803787661930557781",
+      "url": "https://x.com/aki_smomo/status/1803787661930557781",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2024-06-20T13:51:06.000Z",
+      "text": "しまった忘れてた！と思ったら23時ごろスタートですって、よかった #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1803791563753140626",
+      "url": "https://x.com/_kakunisan/status/1803791563753140626",
+      "author_name": "Takumi",
+      "author_handle": "_kakunisan",
+      "posted_at": "2024-06-20T14:06:36.000Z",
+      "text": "娘が寝たのでゆるっと #Vizトーク\nわくわく",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803791702614024644",
+      "url": "https://x.com/YusukeNakanish3/status/1803791702614024644",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:07:09.000Z",
+      "text": "#Vizトーク\nはじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803791773975892244",
+      "url": "https://x.com/ksnjr24/status/1803791773975892244",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-06-20T14:07:26.000Z",
+      "text": "審査員長　博多ずぶ濡れの夜　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803792392585400811",
+      "url": "https://x.com/_kakunisan/status/1803792392585400811",
+      "author_name": "Takumi",
+      "author_handle": "_kakunisan",
+      "posted_at": "2024-06-20T14:09:53.000Z",
+      "text": "#Vizトーク\n飛行機でビール二杯は最高ですね･･･",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803792683082850601",
+      "url": "https://x.com/ksnjr24/status/1803792683082850601",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-06-20T14:11:03.000Z",
+      "text": "インフラ会社は、3月〜4月の引っ越しシーズンには定期異動しなかった　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803792776343208010",
+      "url": "https://x.com/Dandee_House/status/1803792776343208010",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T14:11:25.000Z",
+      "text": "#Vizトーク\nWoW W22 あらかわさん回をまた振り返ります\n\nhttps://\nworkout-wednesday.com/2024w22tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803792819024494650",
+      "url": "https://x.com/YusukeNakanish3/status/1803792819024494650",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:11:35.000Z",
+      "text": "#Vizトーク　\n先々週の \n@yoshi_datavizjp\n さんのWOW出題回の話。\nこの部分の出し分けがむずい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803793170381340705",
+      "url": "https://x.com/Dandee_House/status/1803793170381340705",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T14:12:59.000Z",
+      "text": "#Vizトーク\nこんなかんじでディメンションでセレクター作りました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1803793343727669455",
+      "url": "https://x.com/YusukeNakanish3/status/1803793343727669455",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:13:40.000Z",
+      "text": "#Vizトーク \nもりたさんに怒られるやつ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803793939394339298",
+      "url": "https://x.com/YusukeNakanish3/status/1803793939394339298",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:16:02.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1803793961057984935",
+      "url": "https://x.com/Dandee_House/status/1803793961057984935",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T14:16:07.000Z",
+      "text": "#Vizトーク\n私も怒られるやつ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1803796837335523617",
+      "url": "https://x.com/YusukeNakanish3/status/1803796837335523617",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:27:33.000Z",
+      "text": "#Vizトーク　\n欠損値処理は \n@yoshi_datavizjp\n さんのblogを。\n実務で何度もお世話になりました。\n\nhttps://\nyarakawa.com/single-post/pa\nnel-chart-with-missing-value\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1803797181541048505",
+      "url": "https://x.com/YusukeNakanish3/status/1803797181541048505",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:28:55.000Z",
+      "text": "#Vizトーク\n先週はこちら。\nなんと入力ボックスが動きます。\n\nhttps://\nworkout-wednesday.com/2024w23tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803797368019861881",
+      "url": "https://x.com/YusukeNakanish3/status/1803797368019861881",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:29:40.000Z",
+      "text": "#Vizトーク\nここが左のサブカテゴリに連動して上下に動きます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803798256817959179",
+      "url": "https://x.com/Dandee_House/status/1803798256817959179",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T14:33:12.000Z",
+      "text": "#Vizトーク\nDonnaさんのこの回のテクニックがヒントに（個人的には）\n\nhttps://\nworkout-wednesday.com/2024w19tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803799412671668471",
+      "url": "https://x.com/YusukeNakanish3/status/1803799412671668471",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:37:47.000Z",
+      "text": "#Vizトーク\nシートで位置をずらしてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1803799553319240040",
+      "url": "https://x.com/aki_smomo/status/1803799553319240040",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2024-06-20T14:38:21.000Z",
+      "text": "超難しそうなことだけはわかりましたやってみよう #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803800667229974888",
+      "url": "https://x.com/YusukeNakanish3/status/1803800667229974888",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:42:46.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1803801207544349110",
+      "url": "https://x.com/YusukeNakanish3/status/1803801207544349110",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:44:55.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1803802777073922212",
+      "url": "https://x.com/Dandee_House/status/1803802777073922212",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T14:51:09.000Z",
+      "text": "#Vizトーク\n最新のWOW。難易度はそこまでもないらしい（nakanishiさん情報）\n\nhttps://\nworkout-wednesday.com/2024w25tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803804209391005918",
+      "url": "https://x.com/YusukeNakanish3/status/1803804209391005918",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:56:51.000Z",
+      "text": "#Vizトーク\nTableau Publicのgoogledrive接続の自動更新はTableau Publicからパブリッシュされてないと効かない罠があります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1803804912092119044",
+      "url": "https://x.com/YusukeNakanish3/status/1803804912092119044",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T14:59:38.000Z",
+      "text": "#Vizトーク　\n自動更新しているオープンデータカタログはこちらです。（宣伝）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1803805310777536573",
+      "url": "https://x.com/YusukeNakanish3/status/1803805310777536573",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T15:01:13.000Z",
+      "text": "#Vizトーク\nポップアップで列名が出ます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803807012368867826",
+      "url": "https://x.com/Dandee_House/status/1803807012368867826",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T15:07:59.000Z",
+      "text": "#Vizトーク\nSugimuraさんのイベントカレンダー。いつもお世話になっております。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1803807906640577005",
+      "url": "https://x.com/Dandee_House/status/1803807906640577005",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T15:11:32.000Z",
+      "text": "#Vizトーク\nTableau兄さんが幹事の飲み会に出ると、兄さんの添乗員っぷりが見れる説（傘やうちわで誘導）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1803808666375872734",
+      "url": "https://x.com/Dandee_House/status/1803808666375872734",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T15:14:33.000Z",
+      "text": "#Vizトーク\n#データで彩る生活 の展示、来週からですね〜",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1803809139350777918",
+      "url": "https://x.com/YusukeNakanish3/status/1803809139350777918",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T15:16:26.000Z",
+      "text": "#Vizトーク\nこちらのイベントと合わせてデータで彩る生活も見に行くつもりです！\n\nhttps://\nodh-tokyo2024-pre3.peatix.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1803809743351464201",
+      "url": "https://x.com/Dandee_House/status/1803809743351464201",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2024-06-20T15:18:50.000Z",
+      "text": "#Vizトーク\n東京都オープンデータコミュニティのキックオフイベントには、Chiakiさんが登壇されます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1803810049741214180",
+      "url": "https://x.com/YusukeNakanish3/status/1803810049741214180",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-06-20T15:20:03.000Z",
+      "text": "#Vizトーク\nChartchatはこちら。\n\nhttps://\nyoutube.com/live/hTDS8BqfV\nTI?si=V-OvC_Lhh4HFPPqW\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    }
+  ]
+}
