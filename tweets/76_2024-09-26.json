@@ -1,0 +1,474 @@
+{
+  "episode": 76,
+  "date": "2024-09-26",
+  "collected_at": "2026-08-15T08:27:53.675Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 29,
+  "tweets": [
+    {
+      "id": "1839232078203789628",
+      "url": "https://x.com/YusukeNakanish3/status/1839232078203789628",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T09:14:33.000Z",
+      "text": "#Vizトーク　\n\n本日は2230ごろからやります！\n\n@O_Syringa_Z\n さんのVOTDの話などやる予定です！\n\n\nhttps://\nx.com/i/spaces/1OwxW\nNvydqAJQ\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1839301613460271262",
+      "url": "https://x.com/YusukeNakanish3/status/1839301613460271262",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T13:50:51.000Z",
+      "text": "#Vizトーク　遅くなりましたがはじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1839304240428364046",
+      "url": "https://x.com/YusukeNakanish3/status/1839304240428364046",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:01:18.000Z",
+      "text": "#Vizトーク\nWendyさんのIronviz2022作品。\n\n\nhttps://\npublic.tableau.com/app/profile/we\nndy.shijia/viz/doodle-art-ironviz2022/DoodleArt?_gl=1*68f0yn*_ga*MTg4MDYzNTYyOC4xNjk4MzA0NjYy*_ga_8YLN0SNXVS*MTcyNzM1ODcwOS4xNDMzLjEuMTcyNzM1OTIzNi4wLjAuMA\n…..",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839304322850631821",
+      "url": "https://x.com/O_Syringa_Z/status/1839304322850631821",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-09-26T14:01:37.000Z",
+      "text": "#Vizトーク\nIronviz出さなきゃという話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1839304882995737083",
+      "url": "https://x.com/YusukeNakanish3/status/1839304882995737083",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:03:51.000Z",
+      "text": "#Vizトーク\nIronvizにかけた準備時間等をまとめたViz。\n\nhttps://\npublic.tableau.com/app/profile/na\nt4755/viz/TimeForIronViz/INTRO\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1839306114837655918",
+      "url": "https://x.com/ksnjr24/status/1839306114837655918",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-09-26T14:08:45.000Z",
+      "text": "しまった。出遅れた\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839307230145032607",
+      "url": "https://x.com/YusukeNakanish3/status/1839307230145032607",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:13:10.000Z",
+      "text": "#Vizトーク\n今週のMakeoverMondayは識字率のデータです。\n\nhttps://\ndata.world/makeovermonday\n/2024w39-literacy-rate\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839307343663870093",
+      "url": "https://x.com/ksnjr24/status/1839307343663870093",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-09-26T14:13:38.000Z",
+      "text": "ガネさんの素敵Viz\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1839307743691419869",
+      "url": "https://x.com/O_Syringa_Z/status/1839307743691419869",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-09-26T14:15:13.000Z",
+      "text": "#Vizトーク\n他の国・地域は除外して、Worldに絞って識字率を可視化しました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1839308989219353085",
+      "url": "https://x.com/ksnjr24/status/1839308989219353085",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-09-26T14:20:10.000Z",
+      "text": "おおっ本当だ。整数と小数点以下の文字の大きさ違う！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839309655983759604",
+      "url": "https://x.com/YusukeNakanish3/status/1839309655983759604",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:22:49.000Z",
+      "text": "#Vizトーク\n\nリファレンスラインの色を途中で変えてるViz。\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/MOM2023W30AntarcticSeaIceExtentatanAll-TimeLowin2023/Dashboard1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1839310906905473268",
+      "url": "https://x.com/YusukeNakanish3/status/1839310906905473268",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:27:47.000Z",
+      "text": "#Vizトーク #digthisviz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1839312316271333563",
+      "url": "https://x.com/YusukeNakanish3/status/1839312316271333563",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:33:23.000Z",
+      "text": "#Vizトーク　私のやつ。\n欠損してるけどフィルタしてしまうのはもったいないな、、という気持ちで作りました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1839312528675058092",
+      "url": "https://x.com/ksnjr24/status/1839312528675058092",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-09-26T14:34:14.000Z",
+      "text": "すごいってことは解る\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1839314195235614789",
+      "url": "https://x.com/YusukeNakanish3/status/1839314195235614789",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:40:51.000Z",
+      "text": "#Vizトーク\n真ん中にタイトル置くのは推しのTamasさんのVizを参考にしました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1839314693862859080",
+      "url": "https://x.com/YusukeNakanish3/status/1839314693862859080",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:42:50.000Z",
+      "text": "#Vizトーク\nぜひ開いて見てください。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1839316502404804990",
+      "url": "https://x.com/O_Syringa_Z/status/1839316502404804990",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-09-26T14:50:01.000Z",
+      "text": "#Vizトーク\n思いのほか反響が大きくてびっくりしました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1839318084315918489",
+      "url": "https://x.com/O_Syringa_Z/status/1839318084315918489",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-09-26T14:56:18.000Z",
+      "text": "#Vizトーク\nアニメーションどうなっているのかわからないシリーズ筆頭Viz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1839318826191827045",
+      "url": "https://x.com/YusukeNakanish3/status/1839318826191827045",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T14:59:15.000Z",
+      "text": "#Vizトーク　\nChasosoさんのViz見てやりたくなってアニメーション使ったやつ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1839318878549319693",
+      "url": "https://x.com/O_Syringa_Z/status/1839318878549319693",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-09-26T14:59:28.000Z",
+      "text": "#Vizトーク\nアニメーションがどうなっているのかわからないシリーズ元祖",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 15
+      }
+    },
+    {
+      "id": "1839319587017687435",
+      "url": "https://x.com/YusukeNakanish3/status/1839319587017687435",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:02:17.000Z",
+      "text": "#Vizトーク　アニメーション使いたい！となって作ったViz。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1839320336023855235",
+      "url": "https://x.com/YusukeNakanish3/status/1839320336023855235",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:05:15.000Z",
+      "text": "#Vizトーク\n左右交互にマークが出るようにしてます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839320569118064788",
+      "url": "https://x.com/mfujita2023/status/1839320569118064788",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-09-26T15:06:11.000Z",
+      "text": "@O_Syringa_Z\n さんが #vizトーク に参加をするとすごい人のvizを分解して嬉々と話す回になりがちなの好き。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1839321445232677214",
+      "url": "https://x.com/YusukeNakanish3/status/1839321445232677214",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:09:40.000Z",
+      "text": "#Vizトーク\n私の年ごとのパブリッシュ数。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1839324229667635678",
+      "url": "https://x.com/YusukeNakanish3/status/1839324229667635678",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:20:44.000Z",
+      "text": "#Vizトーク\nPublicの容量はMAX10GBです。(役に立たないTIPS)\n\n\nhttps://\ncommunity.tableau.com/s/tableau-publ\nic-faq\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1839325625095790826",
+      "url": "https://x.com/YusukeNakanish3/status/1839325625095790826",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:26:16.000Z",
+      "text": "#Vizトーク\n#JTUG 総会は12/6金です！！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1839325989094224024",
+      "url": "https://x.com/YusukeNakanish3/status/1839325989094224024",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-26T15:27:43.000Z",
+      "text": "#Vizトーク\n来週のイベントはこちら。\n\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1839326663819289085",
+      "url": "https://x.com/mfujita2023/status/1839326663819289085",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2024-09-26T15:30:24.000Z",
+      "text": "#DATAkids 11/10ですよ！ #Vizトーク \nありがとうございます。\nしゅくやさんの親子参加お待ちしています",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1839709063145500792",
+      "url": "https://x.com/YusukeNakanish3/status/1839709063145500792",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-09-27T16:49:55.000Z",
+      "text": "寝れないので昨日の #Vizトーク の件を早速Public APIで取ってみました。余裕すぎる。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    }
+  ]
+}
