@@ -185,6 +185,9 @@ def ep_slug(ep):
 
 AUDIO_BASE_URL = os.environ.get("AUDIO_BASE_URL", "").rstrip("/")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "").strip()
+SITE_BASE_URL = os.environ.get("SITE_BASE_URL", "https://viztalk-archive.pages.dev").rstrip("/")
+
+DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」の非公式アーカイブサイト。全放送を検索・チャプター単位で再生できます。"
 
 
 def audio_url(fname, level):
@@ -480,6 +483,23 @@ LAYOUT = """<!doctype html>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="theme-color" content="#3b8a99">
 <title>{title}</title>
+<meta name="description" content="{og_desc}">
+
+<link rel="icon" type="image/png" href="{logo_url}">
+<link rel="apple-touch-icon" href="{logo_url}">
+
+<meta property="og:site_name" content="Vizトーク アーカイブ">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{title}">
+<meta property="og:description" content="{og_desc}">
+<meta property="og:image" content="{og_image_abs}">
+<meta property="og:url" content="{page_url_abs}">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{title}">
+<meta name="twitter:description" content="{og_desc}">
+<meta name="twitter:image" content="{og_image_abs}">
+
 <link rel="stylesheet" href="{css}">
 {ga_snippet}</head><body>
 
@@ -535,6 +555,7 @@ LAYOUT = """<!doctype html>
     <option value="1.5">1.5x</option>
     <option value="2.0">2.0x</option>
   </select>
+  <button class="player-close" onclick="closePlayer()" title="プレーヤーを閉じる">×</button>
   <audio id="audio-player" preload="none"></audio>
 </div>
 
@@ -668,6 +689,19 @@ audio.addEventListener("loadedmetadata", () => {{
 audio.addEventListener("play", () => {{ npPlay.textContent = "⏸"; }});
 audio.addEventListener("pause", () => {{ npPlay.textContent = "▶"; }});
 
+// プレーヤーバー表示制御: 音源が読み込まれた時のみ表示
+function showPlayer() {{
+  document.getElementById("player-bar").classList.add("active");
+  document.body.classList.add("player-active");
+}}
+function closePlayer() {{
+  audio.pause();
+  document.getElementById("player-bar").classList.remove("active");
+  document.body.classList.remove("player-active");
+}}
+audio.addEventListener("loadedmetadata", showPlayer);
+audio.addEventListener("play", showPlayer);
+
 // 検索からの deep-link 対応: ?t=SEC で音源を該当位置から再生 + #tl-tw-XXX #tl-ch-XXX にスクロール
 (function() {{
   const params = new URLSearchParams(location.search);
@@ -725,10 +759,17 @@ GA_SNIPPET_TEMPLATE = """<script async src="https://www.googletagmanager.com/gta
 """
 
 
-def render_layout(*, title, body, level=0, active_nav=""):
-    """level: 0=root, 1=under sub-dir like episode/, tag/, speaker/"""
+def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image=None, page_path=""):
+    """level: 0=root, 1=under sub-dir like episode/, tag/, speaker/
+    og_desc: ページ固有の説明 (省略時はデフォルト)
+    og_image: OGP画像相対パス (省略時はlogo)
+    page_path: このページのパス (og:url用、省略時はサイトTOP)"""
     prefix = "../" if level == 1 else ""
     ga_snippet = GA_SNIPPET_TEMPLATE.format(mid=GA_MEASUREMENT_ID) if GA_MEASUREMENT_ID else ""
+    og_desc_val = og_desc or DEFAULT_OG_DESC
+    og_image_rel = og_image or "assets/logo.png"
+    og_image_abs = f"{SITE_BASE_URL}/{og_image_rel}"
+    page_url_abs = f"{SITE_BASE_URL}/{page_path}" if page_path else SITE_BASE_URL + "/"
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
@@ -744,6 +785,9 @@ def render_layout(*, title, body, level=0, active_nav=""):
         nav_sp_class=' class="active"' if active_nav == "speakers" else "",
         container_class=" narrow" if level == 1 else "",
         ga_snippet=ga_snippet,
+        og_desc=html.escape(og_desc_val, quote=True),
+        og_image_abs=html.escape(og_image_abs, quote=True),
+        page_url_abs=html.escape(page_url_abs, quote=True),
         body=body,
     )
 
@@ -1391,7 +1435,22 @@ def build_episode_detail(ep):
   {transcript_html}
   </main>
 '''
-    return render_layout(title=f"Vizトーク 第{ep['ep']}回", body=body, level=1)
+    # OGP用の説明文を生成
+    speakers_for_desc = ", ".join(sp["name"] for sp in ep["speakers"][:5])
+    tags_for_desc = ", ".join((ep.get("chapters_data") or {}).get("episode_tags", [])[:5])
+    og_parts = [f"第{ep['ep']}回 · {ep['date']}"]
+    if speakers_for_desc:
+        og_parts.append(f"スピーカー: {speakers_for_desc}")
+    if tags_for_desc:
+        og_parts.append(f"話題: {tags_for_desc}")
+    ep_slug_val = ep_slug(ep)
+    return render_layout(
+        title=f"Vizトーク 第{ep['ep']}回",
+        body=body,
+        level=1,
+        og_desc=" · ".join(og_parts),
+        page_path=f"episode/{ep_slug_val}.html",
+    )
 
 
 def build_tags_list(tag_stats):
