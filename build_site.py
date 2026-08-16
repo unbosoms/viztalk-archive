@@ -1692,7 +1692,6 @@ def build_privacy_page():
       <a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a>
     </li>
   </ul>
-  <p>原則として <strong>48時間以内に対応</strong> します。</p>
 
   <h2>免責事項</h2>
   <ul>
