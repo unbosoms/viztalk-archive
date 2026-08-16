@@ -1,0 +1,362 @@
+{
+  "episode": 48,
+  "date": "2024-01-04",
+  "collected_at": "2026-08-16T05:07:13.710Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 22,
+  "tweets": [
+    {
+      "id": "1742872514970468489",
+      "url": "https://x.com/YusukeNakanish3/status/1742872514970468489",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T11:36:03.000Z",
+      "text": "#Vizトーク\n短縮版で2230ごろからやります！\n\n\nhttps://\nx.com/i/spaces/1yoJM\nwOkjgNKQ\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742904131961192938",
+      "url": "https://x.com/O_Syringa_Z/status/1742904131961192938",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:41:41.000Z",
+      "text": "#Vizトーク\n1年間で100Viz以上投稿されている中西さん\nさすが、、、",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1742904921757016422",
+      "url": "https://x.com/O_Syringa_Z/status/1742904921757016422",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:44:49.000Z",
+      "text": "#Vizトーク\n今年は\n@YusukeNakanish3\n さんと、\n@yoshi_datavizjp\n さんが新ホストに！\n6-7週に1回、お二人が交互に登板されるようです！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742905129651839219",
+      "url": "https://x.com/aki_smomo/status/1742905129651839219",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2024-01-04T13:45:39.000Z",
+      "text": "6～7週に1回、問題を作るというのもスゴイ #WorkoutWednesday #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1742906209861275920",
+      "url": "https://x.com/O_Syringa_Z/status/1742906209861275920",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:49:56.000Z",
+      "text": "#Vizトーク\nMoM休止をきっかけにB2BVを再開しました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1742906242065195079",
+      "url": "https://x.com/YusukeNakanish3/status/1742906242065195079",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T13:50:04.000Z",
+      "text": "今年のWorkout Wedenesdayは #WOW2024 のタグで出題されます！\nWeek1は既に出題されてますので是非。\n#Vizトーク\n\nhttps://\nworkout-wednesday.com/2024w01tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1742906466452005337",
+      "url": "https://x.com/O_Syringa_Z/status/1742906466452005337",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:50:57.000Z",
+      "text": "#Vizトーク\nB2BVも新しいホストを迎えて新体制に",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1742906804479389892",
+      "url": "https://x.com/O_Syringa_Z/status/1742906804479389892",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:52:18.000Z",
+      "text": "#Vizトーク\n新年一発目はLine Chart",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742907270382698727",
+      "url": "https://x.com/O_Syringa_Z/status/1742907270382698727",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T13:54:09.000Z",
+      "text": "#Vizトーク\nWoWに新しいツールが追加に！\n\nSigma\n\nhttps://\nsigmacomputing.com/product/data-v\nisualizations\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742908037055316260",
+      "url": "https://x.com/YusukeNakanish3/status/1742908037055316260",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T13:57:12.000Z",
+      "text": "#Vizトーク \n私のTableau振り返りViz、地味にサムネイルが出ます。\n\n\nhttps://\ngithub.com/wjsutton/table\nau_public_api\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1742909161606942913",
+      "url": "https://x.com/YusukeNakanish3/status/1742909161606942913",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T14:01:40.000Z",
+      "text": "#Vizトーク\nエリアチャートと折れ線で二重軸が使えないようになっている。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1742911984704926073",
+      "url": "https://x.com/O_Syringa_Z/status/1742911984704926073",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:12:53.000Z",
+      "text": "#Vizトーク\nTC24のWoW Live Sessionに中西さんが登壇者として出れるのではないか説",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1742912342881632428",
+      "url": "https://x.com/aki_smomo/status/1742912342881632428",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2024-01-04T14:14:18.000Z",
+      "text": "激アツの予感ですね #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1742914979798651314",
+      "url": "https://x.com/O_Syringa_Z/status/1742914979798651314",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:24:47.000Z",
+      "text": "#Vizトーク\nAPIの仕様が変わっているので、Publish Dateとか取ろうとすると、ちょっと面倒という話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1742916246524551575",
+      "url": "https://x.com/O_Syringa_Z/status/1742916246524551575",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:29:49.000Z",
+      "text": "#Vizトーク\nこちら参照\n\nhttps://\ngithub.com/wjsutton/table\nau_public_api\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1742917152100041064",
+      "url": "https://x.com/YusukeNakanish3/status/1742917152100041064",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T14:33:25.000Z",
+      "text": "#Vizトーク\nTableau Public API、個人以外にもVOTDとかSerch Resultsとかも見れるので色々と使い道がありそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1742917396082602017",
+      "url": "https://x.com/O_Syringa_Z/status/1742917396082602017",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:34:23.000Z",
+      "text": "#Vizトーク\nAPIを使うと、他人の非公開Vizを簡単に抜けちゃうので、ご注意を！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1742918227162988677",
+      "url": "https://x.com/O_Syringa_Z/status/1742918227162988677",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:37:41.000Z",
+      "text": "#Vizトーク\nDynamic Formattingがお題でした（悩みました）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742919185968320842",
+      "url": "https://x.com/YusukeNakanish3/status/1742919185968320842",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T14:41:30.000Z",
+      "text": "#Vizトーク \n数字が小さくてもRounded barだとわかりやすい。\nでもミスリードに注意。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1742919660276994111",
+      "url": "https://x.com/YusukeNakanish3/status/1742919660276994111",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T14:43:23.000Z",
+      "text": "alexaを参考にしたとのこと。\nalexa凝ってる。。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1742920949471826272",
+      "url": "https://x.com/O_Syringa_Z/status/1742920949471826272",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-04T14:48:30.000Z",
+      "text": "#Vizトーク\nさかぴーさんの23年振り返り\nあらためて実績がすごい、、",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1742922140247289868",
+      "url": "https://x.com/YusukeNakanish3/status/1742922140247289868",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-04T14:53:14.000Z",
+      "text": "Visionaryへの応募は日本時間 2024 年 1 月 12 日 (金) 16:59までです。\n日本語okなので気軽に応募＆推薦を！\n\n\nhttps://\ntableau.com/ja-jp/blog/app\nly-nominate-tableau-visionary\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    }
+  ]
+}

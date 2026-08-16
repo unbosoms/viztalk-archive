@@ -1,0 +1,442 @@
+{
+  "episode": 45,
+  "date": "2023-11-23",
+  "collected_at": "2026-08-16T05:11:48.013Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 27,
+  "tweets": [
+    {
+      "id": "1727617991624503755",
+      "url": "https://x.com/O_Syringa_Z/status/1727617991624503755",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-23T09:20:01.000Z",
+      "text": "いつもViz好きおじさんたちのTotally Uselessな戯れにお付き合いいただきありがとうございます笑\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1727629047730208912",
+      "url": "https://x.com/YusukeNakanish3/status/1727629047730208912",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T10:03:57.000Z",
+      "text": "#Vizトーク　\n今日も2230ごろからやります！\n\n\nhttps://\nx.com/i/spaces/1jMJg\nmzMMneKL\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1727682273074663901",
+      "url": "https://x.com/unbosoms/status/1727682273074663901",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T13:35:27.000Z",
+      "text": "#IronViz のエントリー一覧が出ましたねー。\n\nhttps://\nx.com/tableau/status\n/1725636595221749934?s=20\n…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1727682854736556329",
+      "url": "https://x.com/unbosoms/status/1727682854736556329",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T13:37:46.000Z",
+      "text": "SampleSuperStoreにLoveは含まれているのか？という #IronViz の投稿作品。クイックにされたそうですが、発想が面白くてとても印象的でした。\n\nhttps://\nx.com/Matt_Francis/s\ntatus/1719511980673757484?s=20\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1727684318011736203",
+      "url": "https://x.com/unbosoms/status/1727684318011736203",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T13:43:34.000Z",
+      "text": "IronVizについてFeedbackをもらえる会をボランタリーにされているの凄い。\n\nhttps://\nsarahlovesdata.co.uk/2023/10/04/iro\nn-viz-feedback-initiative-2024/\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1727685460338864287",
+      "url": "https://x.com/Dandee_House/status/1727685460338864287",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-11-23T13:48:07.000Z",
+      "text": "#Vizトーク \n\n@YusukeNakanish3\n さんが親切な方に英語の校正をしてもらったというViz。地元愛にあふれていて改めて素敵なVizですよね。\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/Shikoku88TemplePilgrimage/goal\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1727687107928637706",
+      "url": "https://x.com/unbosoms/status/1727687107928637706",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T13:54:40.000Z",
+      "text": "Information is Beautiful 2023の結果も公表されていましたね。\n\nhttps://\ninformationisbeautifulawards.com/news/636-infor\nmation-is-beautiful-awards-2023-the-winners\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1727687943933108733",
+      "url": "https://x.com/YusukeNakanish3/status/1727687943933108733",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T13:57:59.000Z",
+      "text": "#Vizトーク \n１つのデータセットで100個のViz作ってるみたい。\n\n\nhttps://\ninformationisbeautifulawards.com/showcase/6223-\n1-dataset-100-visualizations\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1727688384515346925",
+      "url": "https://x.com/O_Syringa_Z/status/1727688384515346925",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-23T13:59:44.000Z",
+      "text": "#Vizトーク \nクライテリア\n\nhttps://\ninformationisbeautifulawards.com/news/598-meet-\nthe-2023-judges\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1727689129964851557",
+      "url": "https://x.com/O_Syringa_Z/status/1727689129964851557",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-23T14:02:42.000Z",
+      "text": "#Vizトーク \n錚々たるリスト\n\nhttps://\ninformationisbeautifulawards.com/showcase?actio\nn=index&controller=showcase&page=1&pcategory=winner&type=awards\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1727689536027918749",
+      "url": "https://x.com/unbosoms/status/1727689536027918749",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:04:18.000Z",
+      "text": "Information is Beautiful AwardsはCategoryが分かれている模様。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1727689720413687843",
+      "url": "https://x.com/O_Syringa_Z/status/1727689720413687843",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-23T14:05:02.000Z",
+      "text": "#Vizトーク \nエントリーできるカテゴリの説明\n\nhttps://\ndatavisualizationsociety.org/iib-award-cate\ngories\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1727690120294469891",
+      "url": "https://x.com/unbosoms/status/1727690120294469891",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:06:38.000Z",
+      "text": "こんなのもあるみたいです。Information is Beautiful Awards 2023.\n\nhttps://\ninformationisbeautifulawards.com/showcase/6607-\nthe-air-we-breathe\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1727690293221458153",
+      "url": "https://x.com/YusukeNakanish3/status/1727690293221458153",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T14:07:19.000Z",
+      "text": "#Vizトーク \nTableau Publicに最近のアクティビティが出る様に。\n\n\nhttps://\npublic.tableau.com/app/discover/f\nor-you-to-explore\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1727690336611479958",
+      "url": "https://x.com/unbosoms/status/1727690336611479958",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:07:29.000Z",
+      "text": "https://\nx.com/unbosoms/statu\ns/1726032008328171828?s=20\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1727691563294462455",
+      "url": "https://x.com/YusukeNakanish3/status/1727691563294462455",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T14:12:22.000Z",
+      "text": "#Vizトーク \nWorkoutWednesdayは2023の途中に過去を振り返る月もありました。\n\n\nhttps://\nworkout-wednesday.com/2023w27tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1727692124374913453",
+      "url": "https://x.com/erika_kaikai/status/1727692124374913453",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2023-11-23T14:14:36.000Z",
+      "text": "確かにコレクション機能Publicにほしい #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1727692387877880198",
+      "url": "https://x.com/unbosoms/status/1727692387877880198",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:15:38.000Z",
+      "text": "とてもとても気になっている。\nhttps://\nx.com/ladataviz/stat\nus/1727379125046747416?s=20\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1727693295844049305",
+      "url": "https://x.com/O_Syringa_Z/status/1727693295844049305",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-23T14:19:15.000Z",
+      "text": "#Vizトーク \nおお！あのVizだ！というものばかり\n\nhttps://\nladataviz.com/tools/advviz/g\nallery\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1727695468426383434",
+      "url": "https://x.com/unbosoms/status/1727695468426383434",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:27:53.000Z",
+      "text": "特殊なチャートタイプを作れるソフトウェア。所定の様式でデータを読み込めばtwbxファイルで出力してくれる。データはどこにもアップロードされなとのこと。すごすぎる...!!!\n\nhttps://\nladataviz.com/tools/advviz\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 9,
+        "likes": 41
+      }
+    },
+    {
+      "id": "1727695724421505212",
+      "url": "https://x.com/aki_smomo/status/1727695724421505212",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-23T14:28:54.000Z",
+      "text": "これが、、無料で、、、！？ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1727695884341965310",
+      "url": "https://x.com/YusukeNakanish3/status/1727695884341965310",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T14:29:32.000Z",
+      "text": "#Vizトーク \nSalesforce World TourにTableau Public Ambassadorのみなさんが登壇されます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1727696269290946664",
+      "url": "https://x.com/YusukeNakanish3/status/1727696269290946664",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-23T14:31:04.000Z",
+      "text": "#Vizトーク \n私と\n@unbosoms\n　さんもオープンデータ関連で登壇します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1727697339169816854",
+      "url": "https://x.com/erika_kaikai/status/1727697339169816854",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2023-11-23T14:35:19.000Z",
+      "text": "World Tour Tokyoはプリンスパークタワー東京開催です！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1727697411034996909",
+      "url": "https://x.com/unbosoms/status/1727697411034996909",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:35:36.000Z",
+      "text": "にゃんこそばさんの書籍も楽しみにしています。\n\nhttps://\nx.com/ShinagawaJP/st\natus/1718236173267873952?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1727698723659210820",
+      "url": "https://x.com/unbosoms/status/1727698723659210820",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-23T14:40:49.000Z",
+      "text": "来週の木曜日(11/30)カジュアルVizつくりまShowもありますのでみなさまぜひ！\n\nhttps://\ntechplay.jp/event/926165\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1727706708582305910",
+      "url": "https://x.com/aki_smomo/status/1727706708582305910",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-23T15:12:33.000Z",
+      "text": "楽しみですよねー！ #Vizトーク で話題になるのも楽しみにしてます",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    }
+  ]
+}

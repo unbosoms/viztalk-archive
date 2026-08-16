@@ -1,0 +1,458 @@
+{
+  "episode": 42,
+  "date": "2023-10-26",
+  "collected_at": "2026-08-16T05:15:54.007Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 28,
+  "tweets": [
+    {
+      "id": "1717462341917585783",
+      "url": "https://x.com/YusukeNakanish3/status/1717462341917585783",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T08:45:05.000Z",
+      "text": "#Vizトーク \n今日も2230ごろからやります！\nいつものtableau関連の話題に加えて、\n#都知事杯オープンデータハッカソン Final Stageに参加してきた話もする予定です！\n\n\nhttps://\nx.com/i/spaces/1zqJV\nqyPBlDGB\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 5,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1717537022825660873",
+      "url": "https://x.com/YusukeNakanish3/status/1717537022825660873",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T13:41:51.000Z",
+      "text": "#Vizトーク　はじめてます！\nMakeoverMondayとかWorkoutWednesdayとか都知事杯とか語ります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717537927352459334",
+      "url": "https://x.com/YusukeNakanish3/status/1717537927352459334",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T13:45:26.000Z",
+      "text": "Makeover Monday 、Andyがお休みして別の方がデータ提供者となるそう。\nお疲れ様でした。。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717538454635163893",
+      "url": "https://x.com/YusukeNakanish3/status/1717538454635163893",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T13:47:32.000Z",
+      "text": "MakeoverMonday、38・39と重めのネタだったのでやれておらず。。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717538577352143157",
+      "url": "https://x.com/O_Syringa_Z/status/1717538577352143157",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-10-26T13:48:01.000Z",
+      "text": "#Vizトーク \n私と中西さんがやった週の被っているW41について話します\n（最近、穴があきがち、、、）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717539061341262242",
+      "url": "https://x.com/O_Syringa_Z/status/1717539061341262242",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-10-26T13:49:57.000Z",
+      "text": "#Vizトーク \nKevinさんが元Vizを完全再現",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1717540323868790809",
+      "url": "https://x.com/YusukeNakanish3/status/1717540323868790809",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T13:54:58.000Z",
+      "text": "#Vizトーク　Tamasさんの。\n毎回毎回言ってますがシンプルかつ色使いもすてき。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717542666962190597",
+      "url": "https://x.com/O_Syringa_Z/status/1717542666962190597",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-10-26T14:04:16.000Z",
+      "text": "#Vizトーク\nワークシート1枚、データデンシフィケーションなしでグラデーション",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1717542959372218767",
+      "url": "https://x.com/YusukeNakanish3/status/1717542959372218767",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:05:26.000Z",
+      "text": "https://\npublic.tableau.com/app/profile/sa\ntoshi.ganeko/viz/Dailylifeforhealth/DailyHealth\n…\n\n@ritz_Tableau\n さんのグラデーション使ってるViz。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1717544801674072508",
+      "url": "https://x.com/antipop1/status/1717544801674072508",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2023-10-26T14:12:45.000Z",
+      "text": "#Vizトーク\nラベルの調整のこだわり、ありますね…\n「最小/最大」「始点/終点」「最新」の機能で地味に助かりまくるのがtableauの好きポイント",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1717544805461311914",
+      "url": "https://x.com/YusukeNakanish3/status/1717544805461311914",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:12:46.000Z",
+      "text": "%が大きいほど、ラベルにフォーカスがあたる。\nいいデザイン。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1717545606670147765",
+      "url": "https://x.com/YusukeNakanish3/status/1717545606670147765",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:15:57.000Z",
+      "text": "#Vizトーク\n「最小/最大」を使って位置をコントロールするのをよくやります。（個人作成Viz限定）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717545911587651841",
+      "url": "https://x.com/YusukeNakanish3/status/1717545911587651841",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:17:10.000Z",
+      "text": "#Vizトーク\nラベルを計算式で反転させてる例。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717546257127023099",
+      "url": "https://x.com/YusukeNakanish3/status/1717546257127023099",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:18:32.000Z",
+      "text": "毎回名前忘れるんですが\n「マージナルヒストグラム」\nというチャートタイプです。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1717547407729451433",
+      "url": "https://x.com/YusukeNakanish3/status/1717547407729451433",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:23:07.000Z",
+      "text": "#Vizトーク\n\n@ritz_Tableau\n の「ハードコーディングだめ」の言葉を思い出したのでちゃんと計算しています。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1717548137332814151",
+      "url": "https://x.com/antipop1/status/1717548137332814151",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2023-10-26T14:26:01.000Z",
+      "text": "#Vizトーク\nラベル関連だと「マークカラーとの一致」も意外と知られてない気がします（言葉違うかも）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717548952655134743",
+      "url": "https://x.com/O_Syringa_Z/status/1717548952655134743",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-10-26T14:29:15.000Z",
+      "text": "#Vizトーク\nマークカラーの一致で消すテクニック",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1717550026141180049",
+      "url": "https://x.com/Dandee_House/status/1717550026141180049",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-26T14:33:31.000Z",
+      "text": "#Vizトーク\n一番右の列、棒グラフにしてマークカラーの一致でテキストの色変えてます（この方法をあえてとる必要ないですが…）\n\nhttps://\npublic.tableau.com/app/profile/sh\nunta.nakajima/viz/WOW2023W39TargetAchievementReport_16960575910570/Dash\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717550589238968540",
+      "url": "https://x.com/YusukeNakanish3/status/1717550589238968540",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:35:45.000Z",
+      "text": "#Vizトーク\n\n影を出すTips。\nTableauどうでもいいテクニック集の中で一番好きです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "1717551512497647665",
+      "url": "https://x.com/YusukeNakanish3/status/1717551512497647665",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:39:25.000Z",
+      "text": "#Vizトーク\n2023でもいけました。嬉しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1717553880538755093",
+      "url": "https://x.com/YusukeNakanish3/status/1717553880538755093",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:48:50.000Z",
+      "text": "https://\npublic.tableau.com/app/profile/st\nanke/viz/CanyoumakeadrunkentreechartWOW2023/WOW2023-Week36Canyoubuildadrunkentreechart\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1717554887716970510",
+      "url": "https://x.com/YusukeNakanish3/status/1717554887716970510",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:52:50.000Z",
+      "text": "←見て→のチャート作ろうと思うのが凄いですよね。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1717556224621994028",
+      "url": "https://x.com/YusukeNakanish3/status/1717556224621994028",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T14:58:09.000Z",
+      "text": "都知事杯オープンデータハッカソンのFinal Stage行ってきました。\nたまたまTableauコミュニティからの参加が続く形に。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1717556286609657932",
+      "url": "https://x.com/Dandee_House/status/1717556286609657932",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-26T14:58:24.000Z",
+      "text": "#Vizトーク\n都知事杯オープンデータ・ハッカソン\nFinal Stageのアーカイブ動画は公式ページから見れます！\n\nhttps://\nodhackathon.metro.tokyo.lg.jp",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717557253807747145",
+      "url": "https://x.com/YusukeNakanish3/status/1717557253807747145",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T15:02:14.000Z",
+      "text": "https://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/_16937562876180/opendatadashboard\n…\n今話してるオープンデータ検索Vizはこちら。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1717558489546199165",
+      "url": "https://x.com/YusukeNakanish3/status/1717558489546199165",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T15:07:09.000Z",
+      "text": "葛藤して選んだTシャツ。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1717558784900645243",
+      "url": "https://x.com/fujitakuya/status/1717558784900645243",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-10-26T15:08:19.000Z",
+      "text": "#Vizトーク\n\nTは Tableau の Tからの Tokyo の  T   （笑）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1717559567314472964",
+      "url": "https://x.com/YusukeNakanish3/status/1717559567314472964",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-26T15:11:26.000Z",
+      "text": "akiさんnolitoさんのはここから見れます。\n他のチームもすべて面白い＆すごいのでぜひ全部見てください！\n\nhttps://\nyoutube.com/watch?v=LbPL9o\ndzQYg&t=1143s\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 5
+      }
+    }
+  ]
+}

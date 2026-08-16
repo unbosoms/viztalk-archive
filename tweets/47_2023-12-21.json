@@ -1,0 +1,234 @@
+{
+  "episode": 47,
+  "date": "2023-12-21",
+  "collected_at": "2026-08-16T05:08:21.816Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 14,
+  "tweets": [
+    {
+      "id": "1737775534363570246",
+      "url": "https://x.com/YusukeNakanish3/status/1737775534363570246",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T10:02:28.000Z",
+      "text": "#Vizトーク \n今日は2230ごろからやります！\n\n\nhttps://\nx.com/i/spaces/1BRJj\nPaEeMVKw\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1737830197318266930",
+      "url": "https://x.com/YusukeNakanish3/status/1737830197318266930",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T13:39:41.000Z",
+      "text": "#Vizトーク\nTableau Data Analyst更新してきました。\n日本語の翻訳精度に苦しみました。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1737830301639086423",
+      "url": "https://x.com/Dandee_House/status/1737830301639086423",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-21T13:40:05.000Z",
+      "text": "#Vizトーク\nDataAnalystの試験、日本語版あるけど英語で受けた方がいいよ、というお話し（理由は察して）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1737832857140408372",
+      "url": "https://x.com/YusukeNakanish3/status/1737832857140408372",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T13:50:15.000Z",
+      "text": "#Vizトーク　からJTUG総会のVizつくりまShow!本戦に\n私と\n@Dandee_House\n さんが出場します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1737834235329991064",
+      "url": "https://x.com/YusukeNakanish3/status/1737834235329991064",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T13:55:43.000Z",
+      "text": "カジュアルVizつくりまShowの取り組みが素晴らしいという話。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1737834369711280575",
+      "url": "https://x.com/Dandee_House/status/1737834369711280575",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-21T13:56:15.000Z",
+      "text": "#Vizトーク\nカジュアルVizつくりまShowは本当にためになるコンテンツという話。\nJTUGのWebサイトに過去問＆解説がまとめられています！\n\nhttps://\njtug.jp/2023/12/03/%e3\n%82%ab%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%abviz%e3%81%a4%e3%81%8f%e3%82%8a%e3%81%beshow-%e5%95%8f%e9%a1%8c%ef%bc%86%e8%a7%a3%e7%ad%94%e9%9b%86/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1737834841046122595",
+      "url": "https://x.com/YusukeNakanish3/status/1737834841046122595",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T13:58:08.000Z",
+      "text": "https://\nyoutube.com/watch?v=ILMhoc\nEyhiw\n…\nレジェンドVizつくりまShow!も面白かった。。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1737835898967118136",
+      "url": "https://x.com/YusukeNakanish3/status/1737835898967118136",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T14:02:20.000Z",
+      "text": "#Vizトーク　\n本戦に向けてTab筋トレしないと。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1737836542075576767",
+      "url": "https://x.com/YusukeNakanish3/status/1737836542075576767",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T14:04:53.000Z",
+      "text": "#Vizトーク\n#Tableau夢見る会　のアーカイブはこちら。\nTableau Server/Cloudの貴重な話が聞けて勉強になりました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1737838284452299232",
+      "url": "https://x.com/YusukeNakanish3/status/1737838284452299232",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T14:11:49.000Z",
+      "text": "#Vizトーク\nTableauの現実を見つめる会やりたいという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1737839709362229353",
+      "url": "https://x.com/erika_kaikai/status/1737839709362229353",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2023-12-21T14:17:28.000Z",
+      "text": "LODの復習やりたい、\n@WorkoutWednsday\n week49っと…メモメモ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1737840607970906328",
+      "url": "https://x.com/YusukeNakanish3/status/1737840607970906328",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T14:21:03.000Z",
+      "text": "#Vizトーク\nWOW Week50は難易度高いです。\n1シートというのがポイント。\n\n\nhttps://\nworkout-wednesday.com/2023w50tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1737842541234659650",
+      "url": "https://x.com/YusukeNakanish3/status/1737842541234659650",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-21T14:28:44.000Z",
+      "text": "#Vizトーク\nLukeさんの回は解答できた後に毎回カテゴリ見て\n「それはそうなんですけどもっとヤバいところありますよね。。」となります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1738225632990068950",
+      "url": "https://x.com/wCantPlayTennis/status/1738225632990068950",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2023-12-22T15:51:00.000Z",
+      "text": "《 #TableauChallenge Q8 》\n\n割合になると一気に難しくなります…\nもっと絶対シンプルなはずなので後で答え合わせする。\n\nリファレンスラインの文字を重ねない方法は日頃 #Vizトーク の説法を聞いているおかげで乗り越えられました\n\n#1日1Tableau",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 29
+      }
+    }
+  ]
+}

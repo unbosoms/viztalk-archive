@@ -1,0 +1,538 @@
+{
+  "episode": 39,
+  "date": "2023-09-21",
+  "collected_at": "2026-08-16T05:22:52.653Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 33,
+  "tweets": [
+    {
+      "id": "1704805290242351563",
+      "url": "https://x.com/YusukeNakanish3/status/1704805290242351563",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T10:30:29.000Z",
+      "text": "#Vizトーク\n\n今日も2230ごろからやります！\n\n@O_Syringa_Z\n さんのVOTDの話や、\n#都知事杯オープンデータハッカソン　について語る予定です！\n\n\nhttps://\nx.com/i/spaces/1YqKD\ngPjyQYxV\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 10
+      }
+    },
+    {
+      "id": "1704852443652309231",
+      "url": "https://x.com/unbosoms/status/1704852443652309231",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:37:51.000Z",
+      "text": "https://\nx.com/hiroakimo_tw/s\ntatus/1704371580321808509\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704852910360932575",
+      "url": "https://x.com/unbosoms/status/1704852910360932575",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:39:43.000Z",
+      "text": "都知事杯のFinalStageに進むチームの結果が発表されています。我々はVIZZIESというチーム名で出場します！\n\nhttps://\nodhackathon.metro.tokyo.lg.jp/judging\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704853251664077058",
+      "url": "https://x.com/YusukeNakanish3/status/1704853251664077058",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T13:41:04.000Z",
+      "text": "#vizトーク\n都知事杯オープンデータハッカソン、FinalStage進出できました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704853517205483677",
+      "url": "https://x.com/aki_smomo/status/1704853517205483677",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-09-21T13:42:07.000Z",
+      "text": "そうなんです。ひとりで出るつもりなかったのに結果的にひとりで出ることになってしまったんです #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1704853749360205984",
+      "url": "https://x.com/unbosoms/status/1704853749360205984",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:43:03.000Z",
+      "text": "@aki_smomo\n さんもFinalStage進出です！\nVIZZIESは\n@hiroakimo_tw\n \n@SimplVizBest_YK\n \n@YusukeNakanish3\n と私の4名で参加しています！\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1704853876116250799",
+      "url": "https://x.com/YusukeNakanish3/status/1704853876116250799",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T13:43:33.000Z",
+      "text": "#vizトーク\n最優秀賞目指してがんばります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    },
+    {
+      "id": "1704854231235301724",
+      "url": "https://x.com/YusukeNakanish3/status/1704854231235301724",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T13:44:58.000Z",
+      "text": "#vizトーク\n#都知事杯オープンデータハッカソン\n\nオンライン配信もありますのでぜひ。\n…\nhttps://od\nhackathon-tokyo-2023-final.peatix.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704854878017991104",
+      "url": "https://x.com/unbosoms/status/1704854878017991104",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:47:32.000Z",
+      "text": "@aki_smomo\n さんの発表はこちら\n\nhttps://\nyoutube.com/watch?v=TiiDAu\ns5tUk&t=2378s\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1704855046972981614",
+      "url": "https://x.com/aki_smomo/status/1704855046972981614",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-09-21T13:48:12.000Z",
+      "text": "わたしもがんばります！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 16
+      }
+    },
+    {
+      "id": "1704856579131236550",
+      "url": "https://x.com/unbosoms/status/1704856579131236550",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:54:17.000Z",
+      "text": "ShukuyaさんのVizOfTheDayの話！ #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704856616405971114",
+      "url": "https://x.com/YusukeNakanish3/status/1704856616405971114",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T13:54:26.000Z",
+      "text": "#Vizトーク\n\n@O_Syringa_Z\n　さんVOTDおめでとうございます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704857876043551084",
+      "url": "https://x.com/unbosoms/status/1704857876043551084",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T13:59:27.000Z",
+      "text": "ShukuyaさんのVOTDのVizは意外と作りが難しいので、作り方をきかれてもサクっとこたえずらいという話 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704857896868335873",
+      "url": "https://x.com/YusukeNakanish3/status/1704857896868335873",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T13:59:31.000Z",
+      "text": "Vizの作成手順とかをblog等にまとめるのは大変。\nやってる人すごい。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704858092780085345",
+      "url": "https://x.com/unbosoms/status/1704858092780085345",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:00:18.000Z",
+      "text": "Vizを作るとき、ベースを作るまでの時間よりも、最終的に仕上げていくのに時間がかかるという話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704858589909938211",
+      "url": "https://x.com/unbosoms/status/1704858589909938211",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:02:17.000Z",
+      "text": "Vizの作成過程を記事にするのは難しいという話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704858921729720551",
+      "url": "https://x.com/unbosoms/status/1704858921729720551",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:03:36.000Z",
+      "text": "過去にこういう記事は書いたことがありますね。\n\nhttps://\nqiita.com/unbosoms/items\n/0ce4a68241b91a7f4d2d\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1704859326450688170",
+      "url": "https://x.com/unbosoms/status/1704859326450688170",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:05:12.000Z",
+      "text": "VizExhibitionのVizを開設したスレッドも過去に描いたこともあります。\n\nhttps://\nx.com/unbosoms/statu\ns/1516051048720646152?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704861836603191783",
+      "url": "https://x.com/tableau_nisan/status/1704861836603191783",
+      "author_name": "Tableau兄さん",
+      "author_handle": "tableau_nisan",
+      "posted_at": "2023-09-21T14:15:11.000Z",
+      "text": "1シートあるある需要あります!\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704861847680381161",
+      "url": "https://x.com/unbosoms/status/1704861847680381161",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:15:13.000Z",
+      "text": "1sheetで作るためのテクニックに需要はあるのか？という話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704861936960336258",
+      "url": "https://x.com/unbosoms/status/1704861936960336258",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:15:35.000Z",
+      "text": "1sheetに詰め込むテクニックはいつか身を助けるはず、という話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704862288711442578",
+      "url": "https://x.com/YusukeNakanish3/status/1704862288711442578",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T14:16:59.000Z",
+      "text": "1シートでのやり方を知っておくのは有用という話。\n業務で1シート求められることは少ないですが、\nいろんなやり方知っておくと最適なものを選べます。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1704862840430162393",
+      "url": "https://x.com/unbosoms/status/1704862840430162393",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:19:10.000Z",
+      "text": "1回目の #DATASaberBridge のMakeover Liveで披露されたShukuya-sanの１シートテクニックの動画。\n\nhttps://\nyoutu.be/VeC7-X6zlUI?si\n=JyF-AIqIR-cnzl62&t=3909\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1704863028578341019",
+      "url": "https://x.com/unbosoms/status/1704863028578341019",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:19:55.000Z",
+      "text": "Rikaさんのストーリーテリング講座\n\nhttps://\nyoutu.be/VeC7-X6zlUI?si\n=8xaGN3e-iwaJgXBf&t=337\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704863274066706689",
+      "url": "https://x.com/fujitakuya/status/1704863274066706689",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-09-21T14:20:54.000Z",
+      "text": "#vizトーク\n1シート Vizはストアド使ったとき、実感。。\nダッシュボード化するとよいよう見えるけどソース切り替えられないデータ接続先もあるんですよね。。Serverともに古いバージョンは特に。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1704863394392949111",
+      "url": "https://x.com/unbosoms/status/1704863394392949111",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:21:22.000Z",
+      "text": "IshikawaさんのMakeover Liveは必見です！\n\nhttps://\nyoutu.be/VeC7-X6zlUI?si\n=DbhkPRF1ki-q31Z4&t=5994\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 11
+      }
+    },
+    {
+      "id": "1704864621570724228",
+      "url": "https://x.com/unbosoms/status/1704864621570724228",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:26:15.000Z",
+      "text": "Trellisチャート（パネルチャート）を知らなかった時のShukuyaさんが作ったすごいViz\n\nhttps://\npublic.tableau.com/app/profile/ta\nkafumi.shukuya/viz/MakeoverMonday2019Week51SanAntonioSpursWinningDefensiveRates/Dashboard1\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 4,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1704864766651748389",
+      "url": "https://x.com/unbosoms/status/1704864766651748389",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:26:49.000Z",
+      "text": "Trellis版はこちら\n\nhttps://\npublic.tableau.com/app/profile/ta\nkafumi.shukuya/viz/MakeoverMonday2019Week51SanAntonioSpursWinningDefensiveRatesR2/Dashboard1\n…\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1704865740426477758",
+      "url": "https://x.com/unbosoms/status/1704865740426477758",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:30:42.000Z",
+      "text": "Trellisチャートをもっと簡単に作れると良いのに...という話。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704866009159766445",
+      "url": "https://x.com/fujitakuya/status/1704866009159766445",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-09-21T14:31:46.000Z",
+      "text": "最近お客さんもこれ作っていて。。\nうっ。。。てなった。\nメンテはしたくない。。\n\nTrellisチャート（パネルチャート）は、スモールマルチプル、パネルグラフ....呼び方どんなけあるねん。。\nテキストエディタで出来ればいいですけどね。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1704866063283061071",
+      "url": "https://x.com/YusukeNakanish3/status/1704866063283061071",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-21T14:31:59.000Z",
+      "text": "#vizトーク\nトレリスで隙間あけたやつ。\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/MOM2023W24Globalcerealproduction/Dashboard1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1704867646788014306",
+      "url": "https://x.com/unbosoms/status/1704867646788014306",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-21T14:38:16.000Z",
+      "text": "@proj_aquabellus\n さんがこちらのイベントでデータアートのワークショップをされるそうなので興味がある人はぜひ！\n\nhttps://\ntechplay.jp/event/918636\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1704871463948546530",
+      "url": "https://x.com/aki_smomo/status/1704871463948546530",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-09-21T14:53:26.000Z",
+      "text": "ぜひ全編観てください\n#Vizトーク をずっと聴いていたおかげで、あのVizを作っているときに「もっとなんとかならないか？」と考え、そのタイミングでShukuyaさんが出てくださると知り、即提出しました笑\nそして、#地TUG へ…… #DATASaberBridgeありがとう",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 12
+      }
+    }
+  ]
+}

@@ -1,0 +1,314 @@
+{
+  "episode": 41,
+  "date": "2023-10-19",
+  "collected_at": "2026-08-16T05:20:52.133Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 19,
+  "tweets": [
+    {
+      "id": "1714944496327442521",
+      "url": "https://x.com/YusukeNakanish3/status/1714944496327442521",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T10:00:04.000Z",
+      "text": "#Vizトーク 今日は22時ごろからやります！\n週末の都知事杯やWorkout Wednesdayについて語ります。\n\n\nhttps://\nx.com/i/spaces/1jMKg\nmbypvAJL\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1714991653386355079",
+      "url": "https://x.com/YusukeNakanish3/status/1714991653386355079",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T13:07:27.000Z",
+      "text": "#Vizトーク\n都知事杯オープンデータハッカソンのFinalstageは10/22\nです。\nぜひご視聴ください！\n…\nhttps://od\nhackathon-tokyo-2023-final.peatix.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1714991774937366930",
+      "url": "https://x.com/Dandee_House/status/1714991774937366930",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-19T13:07:56.000Z",
+      "text": "#Vizトーク\n都知事杯オープンデータ・ハッカソンのFinalは日曜日！\nみんなでVizzesを応援しよう！視聴者投票もあるよ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1714992259631026613",
+      "url": "https://x.com/YusukeNakanish3/status/1714992259631026613",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T13:09:52.000Z",
+      "text": "#Vizトーク\n2番目に\n@aki_smomo\n さん、我々VIZZIESは3番目に登壇します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1714992305927749642",
+      "url": "https://x.com/Dandee_House/status/1714992305927749642",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-19T13:10:03.000Z",
+      "text": "#Vizトーク\nVIZZIES　でした。。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1714993302196584951",
+      "url": "https://x.com/aki_smomo/status/1714993302196584951",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-10-19T13:14:00.000Z",
+      "text": "怒らないですよー笑 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1714994486772941287",
+      "url": "https://x.com/aki_smomo/status/1714994486772941287",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-10-19T13:18:43.000Z",
+      "text": "ぜひご視聴くださいー #都知事杯オープンデータハッカソン #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1714996421689278763",
+      "url": "https://x.com/Dandee_House/status/1714996421689278763",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-19T13:26:24.000Z",
+      "text": "#Vizトーク\nWOW　Week36　\n簡単そうに見えるお題は難しい（特に右上）\n\nhttps://\nworkout-wednesday.com/2023w36tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1714997046812590339",
+      "url": "https://x.com/YusukeNakanish3/status/1714997046812590339",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T13:28:53.000Z",
+      "text": "#Vizトーク\n#WOW2023　Week36は右上のフィルタ・パラメータが肝です。\n設定されてるディメンションしかフィルタに出ない、など小技がたくさん。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1714997895899000880",
+      "url": "https://x.com/Dandee_House/status/1714997895899000880",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-19T13:32:16.000Z",
+      "text": "#Vizトーク\nこういうことですね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1714998041365930302",
+      "url": "https://x.com/YusukeNakanish3/status/1714998041365930302",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T13:32:50.000Z",
+      "text": "#Vizトーク\nパラメータをうまくつかうと、場合分け地獄から抜け出せます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1715002389147926926",
+      "url": "https://x.com/YusukeNakanish3/status/1715002389147926926",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T13:50:07.000Z",
+      "text": "Week37はdrunken tree chart。\n棒を傾けるという発想がすごい。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1715008434347942338",
+      "url": "https://x.com/Dandee_House/status/1715008434347942338",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-10-19T14:14:08.000Z",
+      "text": "#Vizトーク\n初回のWOW勉強会に選んだテーマが大当たり（地獄）だった話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1715008805640315016",
+      "url": "https://x.com/YusukeNakanish3/status/1715008805640315016",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T14:15:37.000Z",
+      "text": "https://\nworkout-wednesday.com/2020w42/\n\n\n@unbosoms\n \n\n@Dandee_House\n　さんと最初に挑戦したWOW。\n「1時間ぐらいで解けた人は発声しましょう～」\nとか言ってたら誰も解けず。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1715014007286071808",
+      "url": "https://x.com/YusukeNakanish3/status/1715014007286071808",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T14:36:17.000Z",
+      "text": "LOD電球。\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1715014105101377658",
+      "url": "https://x.com/YusukeNakanish3/status/1715014105101377658",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T14:36:40.000Z",
+      "text": "フィルターを無視する計算の作成\n\nhttps://\nkb.tableau.com/articles/howto\n/creating-a-calculation-that-ignores-filters?lang=ja-jp\n…\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1715015197365239985",
+      "url": "https://x.com/YusukeNakanish3/status/1715015197365239985",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T14:41:01.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1715017724521525478",
+      "url": "https://x.com/YusukeNakanish3/status/1715017724521525478",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-10-19T14:51:03.000Z",
+      "text": "#Vizトーク\nTableau のCommunty にももっと回答していかないと。というはなし。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1715018304396656843",
+      "url": "https://x.com/aki_smomo/status/1715018304396656843",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-10-19T14:53:21.000Z",
+      "text": "聞きたい話が尽きないというのは最高ですね！\n今夜もありがとうございましたー #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    }
+  ]
+}

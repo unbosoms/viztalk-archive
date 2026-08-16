@@ -1,0 +1,778 @@
+{
+  "episode": 44,
+  "date": "2023-11-16",
+  "collected_at": "2026-08-16T05:13:57.656Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 48,
+  "tweets": [
+    {
+      "id": "1725095203848266172",
+      "url": "https://x.com/YusukeNakanish3/status/1725095203848266172",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T10:15:21.000Z",
+      "text": "#Vizトーク　\n今日は2200-2300でやります！\n#ironviz や #データで彩る生活 について語る予定です。\n\n\nhttps://\nx.com/i/spaces/1mrGm\nyXYEYMGy\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1725140044347019531",
+      "url": "https://x.com/YusukeNakanish3/status/1725140044347019531",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:13:32.000Z",
+      "text": "#Vizトーク\nWeek44は1計算式1個までという縛り。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725140513635119271",
+      "url": "https://x.com/unbosoms/status/1725140513635119271",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:15:24.000Z",
+      "text": "下にある●がならんでるところがアップセットプロットというとのこと。組み合わせを表現しているとのこと。\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1725140512825622618",
+      "url": "https://x.com/YusukeNakanish3/status/1725140512825622618",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:15:24.000Z",
+      "text": "#Vizトーク　\nUpSetPlotsの解説はこちら。\n\nhttps://\nnote.com/tabjo/n/n144d7\n5eabd1e\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725140791621017962",
+      "url": "https://x.com/O_Syringa_Z/status/1725140791621017962",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T13:16:30.000Z",
+      "text": "#Vizトーク\nUpSet Plotsに関する\n@ishiaki_tab\n さんのブログ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1725141803912110125",
+      "url": "https://x.com/O_Syringa_Z/status/1725141803912110125",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T13:20:32.000Z",
+      "text": "#Vizトーク\n（参考）Tableauで作るベン図",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725142047135609140",
+      "url": "https://x.com/O_Syringa_Z/status/1725142047135609140",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T13:21:30.000Z",
+      "text": "#Vizトーク\nおつうさんのすごいViz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1725142213762683015",
+      "url": "https://x.com/unbosoms/status/1725142213762683015",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:22:10.000Z",
+      "text": "おつうさんの3D Viz。私のワークブックを見て作ったいただいたとのこと、感動しました！\n\nhttps://\nx.com/tsu_chaan/stat\nus/1721482565415059496?s=20\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1725142626117271998",
+      "url": "https://x.com/O_Syringa_Z/status/1725142626117271998",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T13:23:48.000Z",
+      "text": "#Vizトーク\nベン図の作り方\n\nhttps://\nyoutu.be/5EsTFM20zxM?si\n=SbsGIxSwtBBslixC\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725143082272801180",
+      "url": "https://x.com/unbosoms/status/1725143082272801180",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:25:37.000Z",
+      "text": "#データで彩る生活 に出したViz\n\nhttps://\nx.com/unbosoms/statu\ns/1721177861594493217?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725144422357315878",
+      "url": "https://x.com/YusukeNakanish3/status/1725144422357315878",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:30:56.000Z",
+      "text": "さかぴー \n@unbosoms\n さんの\nIronviz、数時間で3Dの原型できてて「？？？？」となった記憶が。\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725144552334626903",
+      "url": "https://x.com/unbosoms/status/1725144552334626903",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:31:27.000Z",
+      "text": "解説スレッドはこちら\n\nhttps://\nx.com/unbosoms/statu\ns/1719399125421293703?s=20\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725144716239577588",
+      "url": "https://x.com/unbosoms/status/1725144716239577588",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:32:06.000Z",
+      "text": "https://\nx.com/unbosoms/statu\ns/1719709257778520549?s=20\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725145030866981231",
+      "url": "https://x.com/unbosoms/status/1725145030866981231",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:33:21.000Z",
+      "text": "https://\nx.com/unbosoms/statu\ns/1719707988011729124?s=20\n… #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725145716903866434",
+      "url": "https://x.com/antipop1/status/1725145716903866434",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2023-11-16T13:36:05.000Z",
+      "text": "#vizトーク\n遠近法とかデッサンとかって出てきて、この前デザインの話もされてたとし、なんかまさしく「絵を描いてる」んですね。これぞまさにtableauだなぁと思いました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725145894365118600",
+      "url": "https://x.com/O_Syringa_Z/status/1725145894365118600",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T13:36:47.000Z",
+      "text": "#Vizトーク\n\n@unbosoms\n さんが30分でつくったViz\n嘘だと言ってほしい\n\nhttps://\npublic.tableau.com/views/MoM2019w\n27DeathinGameofThrones/Dashboard?:language=ja-JP&:display_count=n&:origin=viz_share_link\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1725146418833404038",
+      "url": "https://x.com/unbosoms/status/1725146418833404038",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:38:52.000Z",
+      "text": "思い描いていたデザインにデータがはまらないことがある。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725146483446493255",
+      "url": "https://x.com/YusukeNakanish3/status/1725146483446493255",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:39:07.000Z",
+      "text": "#Vizトーク　\nデータに見せ方が左右されるので、トライアンドエラー大事。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725148064665436483",
+      "url": "https://x.com/aki_smomo/status/1725148064665436483",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-16T13:45:24.000Z",
+      "text": "こういうYouTube、やってほしいです！笑 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725148377698984005",
+      "url": "https://x.com/izumi_0901_tab/status/1725148377698984005",
+      "author_name": "izumi",
+      "author_handle": "izumi_0901_tab",
+      "posted_at": "2023-11-16T13:46:39.000Z",
+      "text": "「新たに作られた色相環パレット」\nっていうワードが強すぎる…\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725148467595485356",
+      "url": "https://x.com/YusukeNakanish3/status/1725148467595485356",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:47:01.000Z",
+      "text": "#Vizトーク　\nPublicでぜひ見て欲しいシリーズ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725149619514945956",
+      "url": "https://x.com/unbosoms/status/1725149619514945956",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:51:35.000Z",
+      "text": "中西さんの #IronViz 提出作品。\n\nhttps://\nx.com/YusukeNakanish\n3/status/1719414143860789664\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725150327404450173",
+      "url": "https://x.com/YusukeNakanish3/status/1725150327404450173",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:54:24.000Z",
+      "text": "#Vizトーク　\n\n絵本のお気に入りチェックは別Vizでやりました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725150669470941255",
+      "url": "https://x.com/unbosoms/status/1725150669470941255",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:55:46.000Z",
+      "text": "ISBN番号には１０桁と１１桁の２種類があるらしい。深み... #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725150895350919666",
+      "url": "https://x.com/YusukeNakanish3/status/1725150895350919666",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:56:39.000Z",
+      "text": "#Vizトーク　\nISBNに詳しくなりました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1725151303393783989",
+      "url": "https://x.com/YusukeNakanish3/status/1725151303393783989",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T13:58:17.000Z",
+      "text": "#Vizトーク\nISBNの変換はこちらを参考にしました。\n\nhttps://\nmaehrm.hatenablog.com/entry/20141225\n/p1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725151500844879952",
+      "url": "https://x.com/unbosoms/status/1725151500844879952",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T13:59:04.000Z",
+      "text": "Excelで頑張ってHSB→RGB変換したあと\n\nhttps://\nx.com/unbosoms/statu\ns/1719706523297787923?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725152259141452107",
+      "url": "https://x.com/unbosoms/status/1725152259141452107",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:02:05.000Z",
+      "text": "akiさんも #Ironviz 出されてますね！\n\nhttps://\nx.com/aki_smomo/stat\nus/1718639221534261579?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1725152643339698195",
+      "url": "https://x.com/unbosoms/status/1725152643339698195",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:03:36.000Z",
+      "text": "Chiakiさんの #IronViz はこちら！今年は日本人のエントリーが多くて嬉しいですね！\n\nhttps://\nx.com/ishiaki_tab/st\natus/1719501463951757420?s=20\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1725152729574637889",
+      "url": "https://x.com/YusukeNakanish3/status/1725152729574637889",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T14:03:57.000Z",
+      "text": "#Vizトーク　\n#データで彩る生活　\n国勢調査でやりました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1725153004947427634",
+      "url": "https://x.com/YusukeNakanish3/status/1725153004947427634",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T14:05:02.000Z",
+      "text": "#Vizトーク　\n国勢調査100年の歩み。\nめっちゃいいまとめです。\n\nhttps://\nstat.go.jp/data/kokusei/2\n020/ayumi/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725153084316188824",
+      "url": "https://x.com/O_Syringa_Z/status/1725153084316188824",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T14:05:21.000Z",
+      "text": "#Vizトーク #データで彩る生活\n棒グラフ10個並べただけです",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1725155717902909492",
+      "url": "https://x.com/antipop1/status/1725155717902909492",
+      "author_name": "komatsu1",
+      "author_handle": "antipop1",
+      "posted_at": "2023-11-16T14:15:49.000Z",
+      "text": "#vizトーク\nバーチャート山手線ゲームwww",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725155722415988953",
+      "url": "https://x.com/aki_smomo/status/1725155722415988953",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-16T14:15:50.000Z",
+      "text": "バーチャート山手線ゲームｗｗｗ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725155871976526065",
+      "url": "https://x.com/unbosoms/status/1725155871976526065",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:16:26.000Z",
+      "text": "棒グラフ山手線ゲームｗ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1725156023290204374",
+      "url": "https://x.com/unbosoms/status/1725156023290204374",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:17:02.000Z",
+      "text": "棒グラフの引き出しの多さ選手権 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725156102604562537",
+      "url": "https://x.com/unbosoms/status/1725156102604562537",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:17:21.000Z",
+      "text": "棒グラフ大全 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725156129317986491",
+      "url": "https://x.com/unbosoms/status/1725156129317986491",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:17:27.000Z",
+      "text": "棒グラフ解体新書 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725156512610283827",
+      "url": "https://x.com/unbosoms/status/1725156512610283827",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:18:59.000Z",
+      "text": "#みんなで作る棒グラフ大全\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725156837530513665",
+      "url": "https://x.com/O_Syringa_Z/status/1725156837530513665",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T14:20:16.000Z",
+      "text": "#Vizトーク\n棒グラフカタログ\n\nhttps://\npublic.tableau.com/views/TableauB\narchartCatalogue_FINAL/AllAbouththeBars?:language=ja-JP&:display_count=n&:origin=viz_share_link\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1725156957957345360",
+      "url": "https://x.com/unbosoms/status/1725156957957345360",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:20:45.000Z",
+      "text": "Line Chart & Area Chart Catalogue\n\nhttps://\npublic.tableau.com/app/profile/ro\nsa.mariana.de.leon.e/viz/TableauLineAreaChartCatalogue/Catalogue\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1725157233544036456",
+      "url": "https://x.com/YusukeNakanish3/status/1725157233544036456",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-11-16T14:21:51.000Z",
+      "text": "#Vizトーク\n下にいくとどんどん不穏に。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1725157608070271466",
+      "url": "https://x.com/unbosoms/status/1725157608070271466",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:23:20.000Z",
+      "text": "Bar in Bar を３種類の方法で作るというトレーニング。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725158514283204812",
+      "url": "https://x.com/unbosoms/status/1725158514283204812",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-11-16T14:26:56.000Z",
+      "text": "サイの角を意識したViz\n\nhttps://\npublic.tableau.com/app/profile/yu\nta1985/viz/MoM2019week20RhinopoachinginSouthAfrica/Dashboard\n… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725158990923903248",
+      "url": "https://x.com/O_Syringa_Z/status/1725158990923903248",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-11-16T14:28:49.000Z",
+      "text": "#Vizトーク\n▲棒グラフシリーズ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1725159781730501055",
+      "url": "https://x.com/aki_smomo/status/1725159781730501055",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-16T14:31:58.000Z",
+      "text": "棒グラフリレー、こわっ笑 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1725161024498630932",
+      "url": "https://x.com/aki_smomo/status/1725161024498630932",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-16T14:36:54.000Z",
+      "text": "棒グラフ、奥が深かった。。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1725452424184463494",
+      "url": "https://x.com/aki_smomo/status/1725452424184463494",
+      "author_name": "aki,NaKANO ki",
+      "author_handle": "aki_smomo",
+      "posted_at": "2023-11-17T09:54:49.000Z",
+      "text": "昨夜もめちゃくちゃおもしろかった上に、途中でなぜか、Shukuyaさんのためいきみたいなやさしい「なるほど〜」にツボってしまい、最後まで爆笑でした \n #DATASaberBridge 参加者はじめ、Viz作りに楽しく沼りたい #Tableau ユーザは是非聴いてみてください #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 14
+      }
+    }
+  ]
+}

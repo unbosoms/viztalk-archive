@@ -1,0 +1,330 @@
+{
+  "episode": 50,
+  "date": "2024-01-18",
+  "collected_at": "2026-08-16T05:00:39.906Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 20,
+  "tweets": [
+    {
+      "id": "1747919456456831020",
+      "url": "https://x.com/YusukeNakanish3/status/1747919456456831020",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T09:50:47.000Z",
+      "text": "#Vizトーク 今日は2230ごろからやります！\n復活したMakeover Mondayの話等する予定です。\n\n\nhttps://\nx.com/i/spaces/1ypKd\nkjQLmnxW\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1747976877166465292",
+      "url": "https://x.com/YusukeNakanish3/status/1747976877166465292",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T13:38:58.000Z",
+      "text": "#Vizトーク　はじめてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1747978064502591873",
+      "url": "https://x.com/YusukeNakanish3/status/1747978064502591873",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T13:43:41.000Z",
+      "text": "#Vizトーク \nIron Vizの決勝進出者が発表されてます！楽しみ。\n\nhttps://\ntableau.com/blog/top-10-qu\nalifiers-iron-viz-2024?utm_campaign=amer_tabaw&utm_content=tableau_&utm_medium=organic_social&utm_source=twitter\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1747978923382800877",
+      "url": "https://x.com/YusukeNakanish3/status/1747978923382800877",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T13:47:05.000Z",
+      "text": "#Vizトーク　\n作者の名前はうろ覚えでもViz見ると思い出すことが多い。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1747979157928325452",
+      "url": "https://x.com/O_Syringa_Z/status/1747979157928325452",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-18T13:48:01.000Z",
+      "text": "#Vizトーク\nファイナリストのJessica Moonさんの有名なViz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1747980245389762871",
+      "url": "https://x.com/O_Syringa_Z/status/1747980245389762871",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-18T13:52:21.000Z",
+      "text": "#Vizトーク\nTableau Publicの検索機能、だいぶよくなったけど、もう二声くらい欲しいという話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1747982188187197450",
+      "url": "https://x.com/O_Syringa_Z/status/1747982188187197450",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-18T14:00:04.000Z",
+      "text": "#Vizトーク\nMoM復活！！\n\n\nhttps://\nmakeovermonday.co.uk",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1747982595655365009",
+      "url": "https://x.com/YusukeNakanish3/status/1747982595655365009",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:01:41.000Z",
+      "text": "#Vizトーク　\nMakeover Mondayのお題はこちら。\nイギリスの新年の抱負データです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747983972284674491",
+      "url": "https://x.com/O_Syringa_Z/status/1747983972284674491",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-18T14:07:09.000Z",
+      "text": "#Vizトーク\n円グラフから花火が出てる！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1747984585978515939",
+      "url": "https://x.com/YusukeNakanish3/status/1747984585978515939",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:09:35.000Z",
+      "text": "宿谷さんのMakeoverMonday vizはこちら。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1747985874317725960",
+      "url": "https://x.com/O_Syringa_Z/status/1747985874317725960",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2024-01-18T14:14:43.000Z",
+      "text": "#Vizトーク\n棒グラフの上にラベル出すには、下に空白を余分に入れるだけ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1747986067561803907",
+      "url": "https://x.com/YusukeNakanish3/status/1747986067561803907",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:15:29.000Z",
+      "text": "#Vizトーク\n\n@unbosoms\n さんの棒グラフの上にラベルを出してるViz。\n\n\nhttps://\npublic.tableau.com/app/profile/yu\nta1985/viz/PODB_17012669064290/sheet0\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747987166062665752",
+      "url": "https://x.com/YusukeNakanish3/status/1747987166062665752",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:19:51.000Z",
+      "text": "#Vizトーク\n横棒グラフと見せかけて縦棒グラフを使ってるViz。\n1シートです。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1747987942566670841",
+      "url": "https://x.com/YusukeNakanish3/status/1747987942566670841",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:22:56.000Z",
+      "text": "#Vizトーク\n同じ色使ってる。\n\nhttps://\npublic.tableau.com/app/profile/ia\nn.conlon/viz/MakeoverMondayinReview/MakeoverMonday\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747991173095166306",
+      "url": "https://x.com/YusukeNakanish3/status/1747991173095166306",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:35:46.000Z",
+      "text": "#Vizトーク\nTableau PublicのWeb safe fontはこちら。\n\nhttps://\npublic.tableau.com/app/profile/je\nnnifer.vonhagel/viz/TableauBrowser-SafeFonts/FontMenu\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747991682027794656",
+      "url": "https://x.com/YusukeNakanish3/status/1747991682027794656",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:37:47.000Z",
+      "text": "#Vizトーク \nWeb safeフォントの検証ブログはこちら。\n\nhttps://\njuditbekker.com/2020/05/13/how\n-to-use-fonts/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747995511003742320",
+      "url": "https://x.com/YusukeNakanish3/status/1747995511003742320",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:53:00.000Z",
+      "text": "#Vizトーク　\n今回のWorkoutWednesdayは動的な軸範囲がテーマです。\nDesktopのみでやりたくてブレンドに苦労しました。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1747997116948210037",
+      "url": "https://x.com/YusukeNakanish3/status/1747997116948210037",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T14:59:23.000Z",
+      "text": "#Vizトーク\n私が見つけた影をつけるテクニック。\n好きなので何回でも貼ります。\n\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/MOM2021W19_Thecostof1GBofMobileDatainEveryCountry/Dashboard1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1747998851263558065",
+      "url": "https://x.com/YusukeNakanish3/status/1747998851263558065",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2024-01-18T15:06:17.000Z",
+      "text": "#Vizトーク\nがんばって桁揃えたViz。\n去年WOWでゲスト出題者になるときに要件に入れようかと思ってやめたテクです。\n\n\nhttps://\npublic.tableau.com/app/profile/yu\nsukenakanishi/viz/MOM2022W47_RailroadInfrastructureQualityRankings/goal\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1748146552357720260",
+      "url": "https://x.com/ksnjr24/status/1748146552357720260",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2024-01-19T00:53:11.000Z",
+      "text": "ShukuyaさんのViz　お約束の1シートだった件\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 15
+      }
+    }
+  ]
+}

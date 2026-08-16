@@ -1,0 +1,538 @@
+{
+  "episode": 46,
+  "date": "2023-12-07",
+  "collected_at": "2026-08-16T05:09:08.077Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 33,
+  "tweets": [
+    {
+      "id": "1732716051597795690",
+      "url": "https://x.com/YusukeNakanish3/status/1732716051597795690",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-07T10:57:53.000Z",
+      "text": "#Vizトーク\n今日は2230ごろからやります！\n\n\nhttps://\nx.com/i/spaces/1lPKq\nbPAzyeGb\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1732758783645175847",
+      "url": "https://x.com/Dandee_House/status/1732758783645175847",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T13:47:41.000Z",
+      "text": "#Vizトーク\nTableauPublicの仕様追加の話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732759517803221033",
+      "url": "https://x.com/YusukeNakanish3/status/1732759517803221033",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-07T13:50:36.000Z",
+      "text": "#Vizトーク\nしばらく文字オンリーでの参加になります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732760302393995368",
+      "url": "https://x.com/Dandee_House/status/1732760302393995368",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T13:53:43.000Z",
+      "text": "#Vizトーク\n推移から、さらにVizごとにドリルダウンしたいな～という欲が、、、（なんでこの時期に？とか思ってしまったので）",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1732760524847473064",
+      "url": "https://x.com/O_Syringa_Z/status/1732760524847473064",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T13:54:36.000Z",
+      "text": "#Vizトーク\n自分のTableau Public Statsを晒してみる",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732761673529008493",
+      "url": "https://x.com/O_Syringa_Z/status/1732761673529008493",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T13:59:10.000Z",
+      "text": "#Vizトーク\nStatsのお陰で瞬間的にものすごいView数を稼いだことがわかった我如古さんのViz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 3,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732762236379119922",
+      "url": "https://x.com/O_Syringa_Z/status/1732762236379119922",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T14:01:24.000Z",
+      "text": "#Vizトーク\n参考",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732763558390198755",
+      "url": "https://x.com/O_Syringa_Z/status/1732763558390198755",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T14:06:40.000Z",
+      "text": "#Vizトーク\n有名すぎる我如古さんのナイチンゲールViz",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1732764156686684342",
+      "url": "https://x.com/unbosoms/status/1732764156686684342",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:09:02.000Z",
+      "text": "半径で量を示すと面積はその2乗になるから、必要以上に大きく見えてしまうって話ですよね。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1732765113659097236",
+      "url": "https://x.com/Dandee_House/status/1732765113659097236",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T14:12:50.000Z",
+      "text": "#vizトーク\n企業ブログで「クソグラフ」という単語が出る時代\n\nhttps://\ndata.wingarc.com/scam-graph-204\n72\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732765465775165671",
+      "url": "https://x.com/Dandee_House/status/1732765465775165671",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T14:14:14.000Z",
+      "text": "#Vizトーク\n最新のネタにも追い付いている・・・すごい・・",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1732765555206111240",
+      "url": "https://x.com/AkSakatoku/status/1732765555206111240",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2023-12-07T14:14:36.000Z",
+      "text": "今晩もVizトークに出遅れた！わいわい #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732765708461686999",
+      "url": "https://x.com/unbosoms/status/1732765708461686999",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:15:12.000Z",
+      "text": "そうそう、アンチパターンを学ぶのは大事ですよね。無意識にはまっちゃうと思うので。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1732765915266023443",
+      "url": "https://x.com/O_Syringa_Z/status/1732765915266023443",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T14:16:02.000Z",
+      "text": "#Vizトーク\n荒木さんの #クソグラフ パトロール\nいつも楽しく拝見してます \nhttps://\nx.com/kazuya_araki_j\n/kazuya_araki_jp/status/1720430147629879662\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732766203137953838",
+      "url": "https://x.com/AkSakatoku/status/1732766203137953838",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2023-12-07T14:17:10.000Z",
+      "text": "\"wrong figure\"の概念、これで勉強したな… \nhttps://\nclauswilke.com/dataviz/ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732766740562530532",
+      "url": "https://x.com/unbosoms/status/1732766740562530532",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:19:18.000Z",
+      "text": "良いグラフと悪いグラフの違いをちゃんと言語化できることも大事ですよね。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1732767017118101864",
+      "url": "https://x.com/fujitakuya/status/1732767017118101864",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-12-07T14:20:24.000Z",
+      "text": "#vizトーク\n\n走り書きで作ってと言われたVizが業務にそのまま使われる…  案外  #クソグラフ を生産してたりしてしまう…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1732767310836814159",
+      "url": "https://x.com/unbosoms/status/1732767310836814159",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:21:34.000Z",
+      "text": "12/9(土)参加してきます！\n\nhttps://\ncontest.resas-portal.go.jp/2023/message.h\ntml\n… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1732767355451621545",
+      "url": "https://x.com/Dandee_House/status/1732767355451621545",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T14:21:45.000Z",
+      "text": "#Vizトーク\n土曜日は地方創生☆政策アイデアコンテストの最終審査会！配信あり！\n\nhttps://\ncontest.resas-portal.go.jp/2023/message.h\ntml\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1732767557269004686",
+      "url": "https://x.com/unbosoms/status/1732767557269004686",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:22:33.000Z",
+      "text": "来週はvizつくりまshowの予選もありますので是非！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1732767886056292743",
+      "url": "https://x.com/unbosoms/status/1732767886056292743",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:23:51.000Z",
+      "text": "#vizトーク #vizts\nvizつくりまshowの予選はこちら！\n\nhttps://\ntechplay.jp/event/927686",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1732768034543067343",
+      "url": "https://x.com/unbosoms/status/1732768034543067343",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:24:27.000Z",
+      "text": "#vizトーク #vizts\nwin or learnですのでぜひご参加ください！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732768354543227150",
+      "url": "https://x.com/O_Syringa_Z/status/1732768354543227150",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T14:25:43.000Z",
+      "text": "#Vizトーク\n気になる！\n\nhttps://\ntechplay.jp/event/927364?u\ntm_source=event_join_save&utm_medium=social&utm_campaign=feed&utm_content=tw82746184&tp=1\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732768602153964018",
+      "url": "https://x.com/fujitakuya/status/1732768602153964018",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-12-07T14:26:42.000Z",
+      "text": "#Vizトーク   夢を語りましょうw",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1732768838045909197",
+      "url": "https://x.com/unbosoms/status/1732768838045909197",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:27:38.000Z",
+      "text": "まだだいぶ先ですが、2024/1/30にJTUG総会もありますので皆様ぜひ！場所はなんと能楽堂です！\n\nhttps://\ntechplay.jp/event/925822\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1732768958879572311",
+      "url": "https://x.com/unbosoms/status/1732768958879572311",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:28:07.000Z",
+      "text": "#vizトーク\nvizつくりまshowの決勝戦もあります。熱い戦いを見届けましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732769218813383077",
+      "url": "https://x.com/fujitakuya/status/1732769218813383077",
+      "author_name": "ふじたく",
+      "author_handle": "fujitakuya",
+      "posted_at": "2023-12-07T14:29:09.000Z",
+      "text": "#vizトーク 闇トークするなら出ましょうかw",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1732769396676817260",
+      "url": "https://x.com/mfujita2023/status/1732769396676817260",
+      "author_name": "m.fujita",
+      "author_handle": "mfujita2023",
+      "posted_at": "2023-12-07T14:29:52.000Z",
+      "text": "#vizトーク bright side of Tableau Server いわゆるTableau夢見る会",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1732769646598627441",
+      "url": "https://x.com/unbosoms/status/1732769646598627441",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-12-07T14:30:51.000Z",
+      "text": "会場では通信繋がらないそうですが、会場出てすぐのロビーなら繋がるみたいです。 #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1732770649393799344",
+      "url": "https://x.com/AkSakatoku/status/1732770649393799344",
+      "author_name": "Sakatoku/子持ちデータエンジニア",
+      "author_handle": "AkSakatoku",
+      "posted_at": "2023-12-07T14:34:50.000Z",
+      "text": "ルノワール大好きな人たちの集まり… #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1732771044900135135",
+      "url": "https://x.com/O_Syringa_Z/status/1732771044900135135",
+      "author_name": "Takafumi Shukuya",
+      "author_handle": "O_Syringa_Z",
+      "posted_at": "2023-12-07T14:36:25.000Z",
+      "text": "#Vizトーク\nVisionaryの自薦他薦はじまってます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1732771319924900167",
+      "url": "https://x.com/YusukeNakanish3/status/1732771319924900167",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-12-07T14:37:30.000Z",
+      "text": "#vizトーク\nVisionaryの応募は日本語でもできるようになったのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1732771482835775911",
+      "url": "https://x.com/Dandee_House/status/1732771482835775911",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-12-07T14:38:09.000Z",
+      "text": "#Vizトーク\nTableauNext2024の推薦も行われてますね。12/29まで！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 5
+      }
+    }
+  ]
+}

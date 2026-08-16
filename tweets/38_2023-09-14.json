@@ -1,0 +1,522 @@
+{
+  "episode": 38,
+  "date": "2023-09-14",
+  "collected_at": "2026-08-16T05:25:03.328Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "tweet_count": 32,
+  "tweets": [
+    {
+      "id": "1702228034571665857",
+      "url": "https://x.com/YusukeNakanish3/status/1702228034571665857",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T07:49:23.000Z",
+      "text": "#Vizトーク \n今日も2230ごろからやります\n\n\nhttps://\nx.com/i/spaces/1lPJq\nBvOjXwxb\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1702316122492846503",
+      "url": "https://x.com/unbosoms/status/1702316122492846503",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T13:39:25.000Z",
+      "text": "こちらのイベントに中西さんが行かれていたのでその話をしています。\n\nhttps://\nyahoo-osaka.connpass.com/event/291502/\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702316476672454779",
+      "url": "https://x.com/ishiaki_tab/status/1702316476672454779",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2023-09-14T13:40:50.000Z",
+      "text": "あれ、何のイベントですか？？\n大阪行きたい！ #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1702317005339279634",
+      "url": "https://x.com/YusukeNakanish3/status/1702317005339279634",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T13:42:56.000Z",
+      "text": "どのテーマもめちゃくちゃ面白かったです！\n#mixleap \n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702319696031433179",
+      "url": "https://x.com/YusukeNakanish3/status/1702319696031433179",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T13:53:37.000Z",
+      "text": "https://\nyahoo-osaka.connpass.com/event/144518/\n\n２０１９年に酒井さんとともにVisual Analytics勉強会でお話させていただきました。懐かしい。\n\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702320313953026515",
+      "url": "https://x.com/YusukeNakanish3/status/1702320313953026515",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T13:56:05.000Z",
+      "text": "https://\nyahoo-osaka.connpass.com/event/120599/\n2019年3月のほうはこちら。楽天さんとyahooさんがコラボするというすごいイベントでした。\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1702320374166520284",
+      "url": "https://x.com/ishiaki_tab/status/1702320374166520284",
+      "author_name": "Chiaki",
+      "author_handle": "ishiaki_tab",
+      "posted_at": "2023-09-14T13:56:19.000Z",
+      "text": "やりましょう！ちょっとコンタクトとってみます！\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1702322190857986429",
+      "url": "https://x.com/ksnjr24/status/1702322190857986429",
+      "author_name": "カメさん Hiroyoshi Kamegaki",
+      "author_handle": "ksnjr24",
+      "posted_at": "2023-09-14T14:03:32.000Z",
+      "text": "我らが宿谷さん　#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 17
+      }
+    },
+    {
+      "id": "1702322565908419065",
+      "url": "https://x.com/unbosoms/status/1702322565908419065",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:05:01.000Z",
+      "text": "TamasさんのVizはこちら。\n\nhttps://\nx.com/imperativusz/s\ntatus/1701201537899315211?s=20\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702322744359342556",
+      "url": "https://x.com/YusukeNakanish3/status/1702322744359342556",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:05:44.000Z",
+      "text": "#Vizトーク \nTableau Public Ambassadorsになりました！\nめっちゃ嬉しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 21
+      }
+    },
+    {
+      "id": "1702324180333768808",
+      "url": "https://x.com/unbosoms/status/1702324180333768808",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:11:26.000Z",
+      "text": "二重軸の軸の文字色とチャートの色を合わせるとどちらがどちらの軸なのかわかるのでとてもいいですね！\n#vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1702325373139394956",
+      "url": "https://x.com/YusukeNakanish3/status/1702325373139394956",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:16:11.000Z",
+      "text": "#Vizトーク \ndonnaさんの回。\n難しいですが、めちゃくちゃ有用なテクニックが学べます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702325383985852686",
+      "url": "https://x.com/unbosoms/status/1702325383985852686",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:16:13.000Z",
+      "text": "WoWのweek35\n\nhttps://\nworkout-wednesday.com/2023w35tab/\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702326476102865053",
+      "url": "https://x.com/Dandee_House/status/1702326476102865053",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-09-14T14:20:34.000Z",
+      "text": "#Vizトーク\n実務で一回も使ったことないぞ…<カテゴリごとの選択を許可",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702326624451273105",
+      "url": "https://x.com/YusukeNakanish3/status/1702326624451273105",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:21:09.000Z",
+      "text": "「カテゴリごとの選択を許可」とは何かが分かります。\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1702327915386740827",
+      "url": "https://x.com/YusukeNakanish3/status/1702327915386740827",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:26:17.000Z",
+      "text": "#Vizトーク \n#WOW2023　\nWeek35の元ネタ作成されたのは\n\n@SParsonsDataViz\n　さん。\nブログ・Publicもすごいのでぜひ。\n\nhttps://\nreflectionsindesign.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1702328418350809180",
+      "url": "https://x.com/YusukeNakanish3/status/1702328418350809180",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:28:17.000Z",
+      "text": "#Vizトーク\nWeek36はこちら。\nこちらも難しい＆面白い。\n\nhttps://\nworkout-wednesday.com/2023w36tab/",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1702328798723838022",
+      "url": "https://x.com/YusukeNakanish3/status/1702328798723838022",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:29:48.000Z",
+      "text": "#Vizトーク \n選んでるディメンションだけがフィルターで出る。\n難しい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1702329048326963259",
+      "url": "https://x.com/unbosoms/status/1702329048326963259",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:30:47.000Z",
+      "text": "WoWはRequirementsを読んで理解するだけでも大変なので、そこを解説してもらえると俄然やる気がでるという話。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1702329240384123292",
+      "url": "https://x.com/Dandee_House/status/1702329240384123292",
+      "author_name": "Shunta / だんでー",
+      "author_handle": "Dandee_House",
+      "posted_at": "2023-09-14T14:31:33.000Z",
+      "text": "#Vizトーク\nWeek36はフィルターがキモで、工夫しないと場合分け地獄になるので、いろんな方の計算式覗いてみんなの工夫を見比べると楽しい＆勉強になるかも。。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1702329999301492773",
+      "url": "https://x.com/YusukeNakanish3/status/1702329999301492773",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:34:34.000Z",
+      "text": "#Vizトーク \nWorkoutWednesdayの各回の要件とつまづきポイント\nを日本語にするだけでも役立ちそうという話。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "1702330471802348027",
+      "url": "https://x.com/YusukeNakanish3/status/1702330471802348027",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:36:26.000Z",
+      "text": "#都知事杯オープンデータハッカソン\n\nhttps://\nodhackathon.metro.tokyo.lg.jp\n参加してます。\n来週予選結果らしいのでドキドキ。\n\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "1702331367168905707",
+      "url": "https://x.com/unbosoms/status/1702331367168905707",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:40:00.000Z",
+      "text": "Donnaさんのブログはこちら。WoWの解放について詳しく解説してくださっています。\n\nhttps://\ndonnacoles.home.blog\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702331667959226411",
+      "url": "https://x.com/YusukeNakanish3/status/1702331667959226411",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T14:41:12.000Z",
+      "text": "#Vizトーク \nWorkoutWednesday詰まった方は \n@donnacoles30\n さんのblogをどうぞ。\nスクリーンショット多めかつ、なぜそうしたのかも書いてくれてるので勉強になります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "1702332518048149916",
+      "url": "https://x.com/unbosoms/status/1702332518048149916",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:44:34.000Z",
+      "text": "BIダッシュボードでのリファクタリング。やった方が良いとは思いつつ、優先度が下がりがちという話。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "1702333157939536319",
+      "url": "https://x.com/erika_kaikai/status/1702333157939536319",
+      "author_name": "Erika",
+      "author_handle": "erika_kaikai",
+      "posted_at": "2023-09-14T14:47:07.000Z",
+      "text": "私もうれしいです！！選出の背景にはこの #Vizトーク の存在についても皆さんからの推薦文に言及があったみたいですよ〜",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "1702333436521070982",
+      "url": "https://x.com/unbosoms/status/1702333436521070982",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T14:48:13.000Z",
+      "text": "ダッシュボードアクション。ダッシュボードにシートを追加すると既存のダッシュボードアクションのターゲットシートとしてチェックが入る仕様はやめた方が良い。 #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 2,
+        "reposts": 3,
+        "likes": 14
+      }
+    },
+    {
+      "id": "1702336463826985278",
+      "url": "https://x.com/unbosoms/status/1702336463826985278",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T15:00:15.000Z",
+      "text": "LoDやっぱりわからんという話。Ganekoさんのブログを読み直そう！\n\nhttps://\nnote.com/ritz_tableau/n\n/n28a99cd0e9ec\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "1702337316260581870",
+      "url": "https://x.com/unbosoms/status/1702337316260581870",
+      "author_name": "Yuta Sakai(さかぴー)",
+      "author_handle": "unbosoms",
+      "posted_at": "2023-09-14T15:03:38.000Z",
+      "text": "直近のTableauイベント\n\nhttps://\ntechplay.jp/community_grou\np/tug\n…\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702337378936119661",
+      "url": "https://x.com/YusukeNakanish3/status/1702337378936119661",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T15:03:53.000Z",
+      "text": "9/19はTabjoのイベントがあります！\n\n\nhttps://\ntechplay.jp/event/918027\n#JTUG\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "1702338039723458827",
+      "url": "https://x.com/YusukeNakanish3/status/1702338039723458827",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T15:06:31.000Z",
+      "text": "9/25は中部Tableauユーザ会とSnowVillageのコラボイベントもあります！\n\n\nhttps://\ntechplay.jp/event/916727\n\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 5
+      }
+    },
+    {
+      "id": "1702338631028056428",
+      "url": "https://x.com/YusukeNakanish3/status/1702338631028056428",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2023-09-14T15:08:52.000Z",
+      "text": "明日9/15は #DATASaberBridge のイベントもあります！\n\n\nhttps://\ntechplay.jp/event/918419\n #vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 3,
+        "likes": 7
+      }
+    }
+  ]
+}
