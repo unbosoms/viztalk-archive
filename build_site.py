@@ -187,7 +187,7 @@ AUDIO_BASE_URL = os.environ.get("AUDIO_BASE_URL", "").rstrip("/")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "").strip()
 SITE_BASE_URL = os.environ.get("SITE_BASE_URL", "https://viztalk-archive.pages.dev").rstrip("/")
 
-DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」の非公式アーカイブサイト。全放送を検索・チャプター単位で再生できます。"
+DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」の主催者公認アーカイブサイト。全放送を検索・チャプター単位で再生できます。"
 
 
 def audio_url(fname, level):
@@ -522,7 +522,7 @@ LAYOUT = """<!doctype html>
 {body}
 
 <footer class="site-footer">
-  <p><strong>Vizトーク アーカイブ</strong> — 非公式ファンサイト</p>
+  <p><strong>Vizトーク アーカイブ</strong> — 主催者公認アーカイブサイト</p>
   <p class="foot-note">音源・発言の著作権は各出演者に帰属します。文字起こしは AI (Whisper) 自動処理のため誤りを含みます。</p>
   <p>
     <a href="{privacy_link}">プライバシーポリシー</a>
@@ -909,7 +909,7 @@ def build_index(episodes, tag_stats, speaker_stats):
       <div>
         <h1>Vizトーク アーカイブ</h1>
         <p>X (旧Twitter) のスペースで毎週木曜 22:30 頃から開催されている、
-          Tableauやデータ可視化について語り合うトーク番組の非公式アーカイブ。</p>
+          Tableauやデータ可視化について語り合うトーク番組の主催者公認アーカイブ。</p>
         <p class="text-muted" style="font-size:13px;">全放送を検索・チャプター単位で再生できます。</p>
       </div>
     </div>
@@ -1661,8 +1661,8 @@ def build_privacy_page():
   <h2>本サイトについて</h2>
   <p>本サイト「Vizトーク アーカイブ」は、X (旧 Twitter) のスペースで開催されている
      <strong>Vizトーク</strong>（ホスト:
-     <a href="https://x.com/YusukeNakanish3" target="_blank" rel="noopener">@YusukeNakanish3</a>）
-     の非公式ファンサイトです。個人により非営利で運営されています。</p>
+     <a href="https://x.com/YusukeNakanish3" target="_blank" rel="noopener">@YusukeNakanish3</a>）の
+     <strong>主催者公認アーカイブサイト</strong> です。非営利で運営されています。</p>
 
   {ga_section}
 
