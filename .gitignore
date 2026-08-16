@@ -42,10 +42,12 @@ mockup/speakers.html
 mockup/search.html
 mockup/search-index.json
 mockup/collect-tweets.html
+mockup/privacy.html
 mockup/episode/
 mockup/tag/
 mockup/speaker/
 mockup/pagefind/
+mockup/audio
 
 # ダウンロード関連の一時ファイル
 tweets_old/
