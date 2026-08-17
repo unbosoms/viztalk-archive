@@ -1808,13 +1808,6 @@ def build_privacy_page():
             "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
             "Cookie の受け入れを拒否する設定にすることも可能です。"
         )
-        copyright_items = (
-            "<li>各回の発言内容の著作権は、それぞれの出演者に帰属します。</li>"
-            "<li>本サイトが掲載しているのは、放送内容から AI で抽出した"
-            "チャプター概要、タグ、および文字起こしテキストです。</li>"
-            "<li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>"
-            "<li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>"
-        )
         delete_items = (
             '<li>X ダイレクトメッセージ: '
             '<a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a></li>'
@@ -1824,12 +1817,6 @@ def build_privacy_page():
             "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
             "Cookie の受け入れを拒否する設定にすることも可能ですが、その場合本サイトの一部機能が"
             "ご利用いただけなくなることがあります（音源再生時の位置記憶など）。"
-        )
-        copyright_items = (
-            "<li>各回の音源、発言内容の著作権は、それぞれの出演者に帰属します。</li>"
-            "<li>本アーカイブは、番組の記録・共有を目的として、出演者陣の理解のもとに運営しています。</li>"
-            "<li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>"
-            "<li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>"
         )
         delete_items = (
             '<li><a href="https://github.com/unbosoms/viztalk-archive/issues" '
@@ -1853,11 +1840,6 @@ def build_privacy_page():
 
   <h2>Cookie の使用</h2>
   <p>{cookie_note}</p>
-
-  <h2>著作権について</h2>
-  <ul>
-    {copyright_items}
-  </ul>
 
   <h2>削除・訂正のご依頼</h2>
   <p>掲載内容について削除・訂正のご要望がある場合は、以下の方法でご連絡ください:</p>
