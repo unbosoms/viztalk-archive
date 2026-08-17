@@ -532,13 +532,11 @@ LAYOUT = """<!doctype html>
 
 <footer class="site-footer">
   <p><strong>Vizトーク アーカイブ</strong> — アーカイブサイト</p>
-  <p class="foot-note">音源・発言の著作権は各出演者に帰属します。文字起こしは AI (Whisper) 自動処理のため誤りを含みます。</p>
+  <p class="foot-note">発言の著作権は各出演者に帰属します。文字起こしは AI (Whisper) 自動処理のため誤りを含みます。</p>
   <p>
     <a href="{privacy_link}">プライバシーポリシー</a>
     ·
-    <a href="https://github.com/unbosoms/viztalk-archive/issues" target="_blank" rel="noopener">問題報告・削除依頼</a>
-    ·
-    <a href="https://github.com/unbosoms/viztalk-archive" target="_blank" rel="noopener">ソースコード</a>
+    {footer_report_link}
   </p>
 </footer>
 </div>
@@ -799,11 +797,21 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         layout_scripts = COMMON_SCRIPTS
         public_notice = PUBLIC_NOTICE_HTML
         body_class = "public-mode"
+        footer_report_link = (
+            '<a href="https://x.com/messages/compose?recipient_id=unbosoms" '
+            'target="_blank" rel="noopener">問題報告・削除依頼 (X DM)</a>'
+        )
     else:
         player_bar_html = PLAYER_BAR_HTML
         layout_scripts = COMMON_SCRIPTS + AUDIO_SCRIPTS
         public_notice = ""
         body_class = ""
+        footer_report_link = (
+            '<a href="https://github.com/unbosoms/viztalk-archive/issues" '
+            'target="_blank" rel="noopener">問題報告・削除依頼</a>'
+            ' · <a href="https://github.com/unbosoms/viztalk-archive" '
+            'target="_blank" rel="noopener">ソースコード</a>'
+        )
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
@@ -827,6 +835,7 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         layout_scripts=layout_scripts,
         public_notice=public_notice,
         body_class=body_class,
+        footer_report_link=footer_report_link,
     )
 
 
@@ -1790,6 +1799,41 @@ def build_privacy_page():
      </a> をご確認ください。</p>
 '''
 
+    if PUBLIC_MODE:
+        cookie_note = (
+            "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
+            "Cookie の受け入れを拒否する設定にすることも可能です。"
+        )
+        copyright_items = (
+            "<li>各回の発言内容の著作権は、それぞれの出演者に帰属します。</li>"
+            "<li>本サイトが掲載しているのは、放送内容から AI で抽出した"
+            "チャプター概要、タグ、および文字起こしテキストです。</li>"
+            "<li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>"
+            "<li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>"
+        )
+        delete_items = (
+            '<li>X ダイレクトメッセージ: '
+            '<a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a></li>'
+        )
+    else:
+        cookie_note = (
+            "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
+            "Cookie の受け入れを拒否する設定にすることも可能ですが、その場合本サイトの一部機能が"
+            "ご利用いただけなくなることがあります（音源再生時の位置記憶など）。"
+        )
+        copyright_items = (
+            "<li>各回の音源、発言内容の著作権は、それぞれの出演者に帰属します。</li>"
+            "<li>本アーカイブは、番組の記録・共有を目的として、出演者陣の理解のもとに運営しています。</li>"
+            "<li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>"
+            "<li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>"
+        )
+        delete_items = (
+            '<li><a href="https://github.com/unbosoms/viztalk-archive/issues" '
+            'target="_blank" rel="noopener">GitHub Issues に投稿</a></li>'
+            '<li>X ダイレクトメッセージ: '
+            '<a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a></li>'
+        )
+
     body = f'''
   <h1>プライバシーポリシー・外部送信ポリシー</h1>
 
@@ -1804,30 +1848,17 @@ def build_privacy_page():
   {ga_section}
 
   <h2>Cookie の使用</h2>
-  <p>本サイトは、上記アクセス解析の目的で Cookie を使用します。
-     Cookie の受け入れを拒否する設定にすることも可能ですが、その場合本サイトの一部機能が
-     ご利用いただけなくなることがあります（音源再生時の位置記憶など）。</p>
+  <p>{cookie_note}</p>
 
-  <h2>著作権・音源について</h2>
+  <h2>著作権について</h2>
   <ul>
-    <li>各回の音源、発言内容の著作権は、それぞれの出演者に帰属します。</li>
-    <li>本アーカイブは、番組の記録・共有を目的として、出演者陣の理解のもとに運営しています。</li>
-    <li>文字起こしは AI (OpenAI Whisper) による自動処理のため、誤認識を含みます。</li>
-    <li>チャプター分割・タグ抽出は AI (Ollama Qwen) による自動処理です。</li>
+    {copyright_items}
   </ul>
 
   <h2>削除・訂正のご依頼</h2>
-  <p>掲載内容について削除・訂正のご要望がある場合は、以下のいずれかの方法でご連絡ください:</p>
+  <p>掲載内容について削除・訂正のご要望がある場合は、以下の方法でご連絡ください:</p>
   <ul>
-    <li>
-      <a href="https://github.com/unbosoms/viztalk-archive/issues" target="_blank" rel="noopener">
-        GitHub Issues に投稿
-      </a>
-    </li>
-    <li>
-      X ダイレクトメッセージ:
-      <a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a>
-    </li>
+    {delete_items}
   </ul>
 
   <h2>免責事項</h2>
