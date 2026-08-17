@@ -142,9 +142,10 @@ def load_episodes():
                     transcript_segments = None
 
             audio_path = AUDIO_DIR / f"{fname_stem}.m4a" if fname_stem else None
-            # AUDIO_BASE_URL 設定時 (本番) は R2にアップロード済みと信頼し、ローカル存在確認スキップ
+            # AUDIO_BASE_URL 設定時 (private本番) は R2にアップロード済みと信頼し、ローカル存在確認スキップ
+            # PUBLIC_MODE 時 (公開版) は音源URL不要だがメタ情報(duration等)は使うので filename だけ設定
             # 未設定時 (ローカル開発) は実ファイルの有無をチェック
-            if fname_stem and (AUDIO_BASE_URL or (audio_path and audio_path.exists())):
+            if fname_stem and (AUDIO_BASE_URL or PUBLIC_MODE or (audio_path and audio_path.exists())):
                 audio_filename = f"{fname_stem}.m4a"
             else:
                 audio_filename = None
@@ -795,7 +796,7 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
     if PUBLIC_MODE:
         player_bar_html = ""
         layout_scripts = COMMON_SCRIPTS
-        public_notice = PUBLIC_NOTICE_HTML
+        public_notice = ""
         body_class = "public-mode"
         footer_report_link = (
             '<a href="https://x.com/messages/compose?recipient_id=unbosoms" '
