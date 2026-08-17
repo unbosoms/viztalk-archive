@@ -538,9 +538,7 @@ LAYOUT = """<!doctype html>
   <p><strong>Vizトーク アーカイブ</strong> — アーカイブサイト</p>
   <p class="foot-note">発言の著作権は各出演者に帰属します。文字起こしは AI (Whisper) 自動処理のため誤りを含みます。</p>
   <p>
-    <a href="{privacy_link}">プライバシーポリシー</a>
-    ·
-    {footer_report_link}
+    <a href="{privacy_link}">プライバシーポリシー</a>{footer_report_sep}{footer_report_link}
   </p>
 </footer>
 </div>
@@ -801,10 +799,8 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         layout_scripts = COMMON_SCRIPTS
         public_notice = ""
         body_class = "public-mode"
-        footer_report_link = (
-            '<a href="https://x.com/messages/compose?recipient_id=unbosoms" '
-            'target="_blank" rel="noopener">問題報告・削除依頼 (X DM)</a>'
-        )
+        footer_report_link = ""
+        footer_report_sep = ""
     else:
         player_bar_html = PLAYER_BAR_HTML
         layout_scripts = COMMON_SCRIPTS + AUDIO_SCRIPTS
@@ -816,6 +812,7 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
             ' · <a href="https://github.com/unbosoms/viztalk-archive" '
             'target="_blank" rel="noopener">ソースコード</a>'
         )
+        footer_report_sep = " · "
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
@@ -840,6 +837,7 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         public_notice=public_notice,
         body_class=body_class,
         footer_report_link=footer_report_link,
+        footer_report_sep=footer_report_sep,
     )
 
 
@@ -1808,21 +1806,11 @@ def build_privacy_page():
             "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
             "Cookie の受け入れを拒否する設定にすることも可能です。"
         )
-        delete_items = (
-            '<li>X ダイレクトメッセージ: '
-            '<a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a></li>'
-        )
     else:
         cookie_note = (
             "本サイトは、上記アクセス解析の目的で Cookie を使用します。"
             "Cookie の受け入れを拒否する設定にすることも可能ですが、その場合本サイトの一部機能が"
             "ご利用いただけなくなることがあります（音源再生時の位置記憶など）。"
-        )
-        delete_items = (
-            '<li><a href="https://github.com/unbosoms/viztalk-archive/issues" '
-            'target="_blank" rel="noopener">GitHub Issues に投稿</a></li>'
-            '<li>X ダイレクトメッセージ: '
-            '<a href="https://x.com/unbosoms" target="_blank" rel="noopener">@unbosoms</a></li>'
         )
 
     body = f'''
@@ -1840,12 +1828,6 @@ def build_privacy_page():
 
   <h2>Cookie の使用</h2>
   <p>{cookie_note}</p>
-
-  <h2>削除・訂正のご依頼</h2>
-  <p>掲載内容について削除・訂正のご要望がある場合は、以下の方法でご連絡ください:</p>
-  <ul>
-    {delete_items}
-  </ul>
 
   <h2>免責事項</h2>
   <ul>
