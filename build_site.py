@@ -195,7 +195,10 @@ PUBLIC_MODE = os.environ.get("PUBLIC_MODE", "").strip() == "1"
 _default_site_base = "https://viz-archive.pages.dev" if PUBLIC_MODE else "https://viz-archive-private.pages.dev"
 SITE_BASE_URL = os.environ.get("SITE_BASE_URL", _default_site_base).rstrip("/")
 
-DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」のアーカイブサイト。全放送を検索・チャプター単位で再生できます。"
+if PUBLIC_MODE:
+    DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」のアーカイブサイト。全放送のチャプター概要・タグ・全文書き起こしから振り返れます。"
+else:
+    DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」のアーカイブサイト。全放送を検索・チャプター単位で再生できます。"
 
 
 def audio_url(fname, level):
@@ -961,7 +964,7 @@ def build_index(episodes, tag_stats, speaker_stats):
         <h1>Vizトーク アーカイブ</h1>
         <p>X (旧Twitter) のスペースで毎週木曜 22:30 頃から開催されている、
           Tableauやデータ可視化について語り合うトーク番組のアーカイブ。</p>
-        <p class="text-muted" style="font-size:13px;">全放送を検索・チャプター単位で再生できます。</p>
+        <p class="text-muted" style="font-size:13px;">{"全放送のチャプター概要・タグ・全文書き起こしから振り返れます。" if PUBLIC_MODE else "全放送を検索・チャプター単位で再生できます。"}</p>
       </div>
     </div>
     <div class="stats">
@@ -1611,7 +1614,7 @@ def build_tag_detail(tag, chapters_list, tag_episodes):
   </div>
 
   <h2 class="section-title">このトピックが登場したチャプター ({len(chapters_list)})</h2>
-  <p class="text-muted" style="font-size:13px;">クリックでその場所から再生します</p>
+  <p class="text-muted" style="font-size:13px;">{"クリックで該当回の詳細ページへ" if PUBLIC_MODE else "クリックでその場所から再生します"}</p>
   <div class="chapters">
 '''
     # 新しい順にソート
