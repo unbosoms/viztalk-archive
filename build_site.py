@@ -1771,9 +1771,6 @@ def build_privacy_page():
     <li>人気の回・話題の分析</li>
   </ul>
 
-  <h3>Google Analytics のトラッキング ID</h3>
-  <p><code>{html.escape(GA_MEASUREMENT_ID)}</code></p>
-
   <h3>個人の特定について</h3>
   <p>本サイトでは、収集した情報から特定の個人を識別することはできない設定
      （IP アドレスの匿名化、Google シグナル無効）で運用しています。</p>
