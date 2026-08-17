@@ -29,6 +29,88 @@ body.player-active { padding-bottom: 90px; }
 a { color: var(--accent); text-decoration: none; }
 a:hover { text-decoration: underline; }
 
+/* ===== Episode header prominent X links ===== */
+.ep-x-links {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+  margin: 18px 0 20px;
+}
+.ep-x-link {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 14px 16px;
+  border-radius: 10px;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  text-decoration: none !important;
+  transition: transform .1s, box-shadow .15s, border-color .15s;
+}
+.ep-x-link:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 4px 12px rgba(0,0,0,.08);
+  border-color: var(--accent);
+}
+.ep-x-link-icon {
+  font-size: 26px;
+  width: 44px; height: 44px;
+  border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  background: #f0f4f7;
+  flex-shrink: 0;
+}
+.ep-x-link-space .ep-x-link-icon { background: #111; color: #fff; }
+.ep-x-link-tweets .ep-x-link-icon { background: #e8f4fa; }
+.ep-x-link-body {
+  display: flex; flex-direction: column;
+  gap: 2px; flex: 1; min-width: 0;
+}
+.ep-x-link-title {
+  font-weight: 700; font-size: 14px; color: var(--text);
+}
+.ep-x-link-sub {
+  font-size: 12px; color: var(--text-muted);
+}
+.ep-x-link-sub strong {
+  color: var(--accent); font-weight: 700;
+}
+.ep-x-link-arrow {
+  font-size: 20px; color: var(--text-muted); flex-shrink: 0;
+}
+@media (max-width: 640px) {
+  .ep-x-links { grid-template-columns: 1fr; gap: 8px; }
+  .ep-x-link { padding: 12px 14px; }
+  .ep-x-link-icon { width: 38px; height: 38px; font-size: 22px; }
+  .ep-x-link-title { font-size: 13px; }
+}
+
+/* ===== Public mode notice banner ===== */
+.public-notice {
+  background: linear-gradient(90deg, #fff7e6 0%, #fff2d9 100%);
+  border-bottom: 1px solid #f0d6a3;
+  color: #7a5300;
+  padding: 10px 24px;
+  font-size: 13px;
+  line-height: 1.55;
+  text-align: center;
+}
+.public-notice a { color: #7a5300; text-decoration: underline; }
+body.public-mode .ep-play-btn,
+body.public-mode .play-btn { display: none !important; }
+/* Public mode ではチャプターに再生ボタンがないので grid 列を詰める */
+body.public-mode .chapters .chapter {
+  grid-template-columns: 78px 1fr;
+  cursor: default;
+}
+body.public-mode .chapters .chapter:hover { background: var(--surface); }
+body.public-mode .chapters .chapter.chapter-in-tag {
+  grid-template-columns: 1fr;
+  cursor: pointer;
+}
+body.public-mode .chapters .chapter.chapter-in-tag:hover { background: #f5f7fa; }
+
 /* ===== Header ===== */
 .header {
   background: var(--surface);

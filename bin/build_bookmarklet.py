@@ -6,7 +6,9 @@
   mockup/collect-tweets.html    ... 収集ガイド + ブックマークレット install リンク
 """
 import csv
+import os
 import re
+import sys
 from datetime import date, timedelta
 from urllib.parse import quote
 from pathlib import Path
@@ -176,6 +178,9 @@ Vizトーク実況ツイート収集ガイド · <a href="index.html">ホーム�
 
 
 def main():
+    if os.environ.get("PUBLIC_MODE", "").strip() == "1":
+        print("[skip] PUBLIC_MODE=1 — collect-tweets guide (maintainer only) は生成しません")
+        return
     js_src = JS_PATH.read_text()
     bm = build_bookmarklet(js_src)
     BM_TXT.write_text(bm)

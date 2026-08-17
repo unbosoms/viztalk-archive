@@ -185,7 +185,14 @@ def ep_slug(ep):
 
 AUDIO_BASE_URL = os.environ.get("AUDIO_BASE_URL", "").rstrip("/")
 GA_MEASUREMENT_ID = os.environ.get("GA_MEASUREMENT_ID", "").strip()
-SITE_BASE_URL = os.environ.get("SITE_BASE_URL", "https://viztalk-archive.pages.dev").rstrip("/")
+# PUBLIC_MODE=1 のときは公開版ビルド:
+#   - 音源プレーヤー・再生ボタンを非表示
+#   - 実況ツイート本文を非表示 (件数と Xで見る リンクのみ)
+#   - 検索インデックスからツイート除外
+#   - 上部に「公開版」お知らせバナー
+PUBLIC_MODE = os.environ.get("PUBLIC_MODE", "").strip() == "1"
+_default_site_base = "https://viz-archive.pages.dev" if PUBLIC_MODE else "https://viz-archive-private.pages.dev"
+SITE_BASE_URL = os.environ.get("SITE_BASE_URL", _default_site_base).rstrip("/")
 
 DEFAULT_OG_DESC = "X (旧Twitter) のスペースで毎週開催されている、Tableauやデータ可視化について語り合う「Vizトーク」のアーカイブサイト。全放送を検索・チャプター単位で再生できます。"
 
@@ -319,14 +326,16 @@ def ts_to_sec(ts):
 
 
 def render_tweet_card(t, src, ep):
-    """1件のtweetカードHTML（timeline / tweets タブ共通）"""
+    """1件のtweetカードHTML（timeline / tweets タブ共通）
+    PUBLIC_MODE では本関数は呼ばれない (集計サマリで置換)。"""
     offset = t.get("_audio_offset_sec", 0)
     author = html.escape(t.get("author_name", ""))
     handle = html.escape(t.get("author_handle", ""))
-    initial = html.escape((t.get("author_name") or " ")[0])
     abs_time = t.get("_posted_jst") or ""
-    text_html = linkify_tweet_text(t.get("text", ""))
     url = html.escape(t.get("url", ""), quote=True)
+
+    initial = html.escape((t.get("author_name") or " ")[0])
+    text_html = linkify_tweet_text(t.get("text", ""))
     has_media = t.get("has_media", False)
     metrics = t.get("metrics") or {}
     likes = metrics.get("likes", 0) or 0
@@ -501,8 +510,8 @@ LAYOUT = """<!doctype html>
 <meta name="twitter:image" content="{og_image_abs}">
 
 <link rel="stylesheet" href="{css}">
-{ga_snippet}</head><body>
-
+{ga_snippet}</head><body class="{body_class}">
+{public_notice}
 <header class="header">
   <a href="{home}" class="brand">
     <img src="{logo_url}" alt="Vizトーク">
@@ -534,7 +543,202 @@ LAYOUT = """<!doctype html>
 </footer>
 </div>
 
-<div class="player" id="player-bar">
+{player_bar_html}
+{layout_scripts}
+</body></html>"""
+
+
+COMMON_SCRIPTS = """<script>
+// タブ切替
+document.addEventListener("click", (e) => {
+  const btn = e.target.closest(".tab-btn");
+  if (!btn) return;
+  const container = btn.closest(".tab-container");
+  if (!container) return;
+  container.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+  container.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
+  btn.classList.add("active");
+  const panel = container.querySelector("#" + btn.dataset.target);
+  if (panel) panel.classList.add("active");
+});
+
+// data-href 付き要素をクリック可能に (内部の a/button は素通し)
+document.addEventListener("click", (e) => {
+  const card = e.target.closest("[data-href]");
+  if (!card) return;
+  if (e.target.closest("a, button, [onclick]")) return;
+  location.href = card.dataset.href;
+});
+
+// 一覧の並び順切替
+function sortItems(containerId, mode, opts) {
+  const container = document.getElementById(containerId);
+  if (!container) return;
+  const items = Array.from(container.children).filter(el => el.dataset && (el.dataset.name || el.dataset.count));
+  items.sort((a, b) => {
+    if (mode === "count") {
+      const diff = parseInt(b.dataset.count || 0) - parseInt(a.dataset.count || 0);
+      if (diff !== 0) return diff;
+      return (a.dataset.name || "").localeCompare(b.dataset.name || "", "ja");
+    } else {
+      return (a.dataset.name || "").localeCompare(b.dataset.name || "", "ja");
+    }
+  });
+  items.forEach(el => container.appendChild(el));
+}
+
+// ハッシュがあれば該当要素にスクロール (タブ切替も伴う)
+(function() {
+  const hash = location.hash;
+  if (!hash) return;
+  setTimeout(() => {
+    const el = document.querySelector(hash);
+    if (!el) return;
+    const tabContainer = el.closest(".tab-container");
+    if (tabContainer) {
+      const targetPanel = el.closest(".tab-panel");
+      if (targetPanel) {
+        tabContainer.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
+        tabContainer.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
+        targetPanel.classList.add("active");
+        const targetBtn = tabContainer.querySelector('[data-target="' + targetPanel.id + '"]');
+        if (targetBtn) targetBtn.classList.add("active");
+      }
+    }
+    el.scrollIntoView({behavior: "smooth", block: "center"});
+    el.classList.add("scroll-target-flash");
+    setTimeout(() => el.classList.remove("scroll-target-flash"), 3000);
+  }, 100);
+})();
+</script>
+"""
+
+
+AUDIO_SCRIPTS = """<script>
+const audio = document.getElementById("audio-player");
+const npTitle = document.getElementById("np-title");
+const npSub = document.getElementById("np-sub");
+const npCur = document.getElementById("np-cur");
+const npDur = document.getElementById("np-dur");
+const npFill = document.getElementById("np-fill");
+const npPlay = document.getElementById("np-play");
+
+function fmt(sec) {
+  if (!isFinite(sec)) return "0:00";
+  const h = Math.floor(sec/3600);
+  const m = Math.floor((sec%3600)/60);
+  const s = Math.floor(sec%60);
+  if (h) return h+":"+String(m).padStart(2,"0")+":"+String(s).padStart(2,"0");
+  return m+":"+String(s).padStart(2,"0");
+}
+
+function parseTs(ts) {
+  const p = ts.split(":").map(Number);
+  if (p.length===3) return p[0]*3600+p[1]*60+p[2];
+  if (p.length===2) return p[0]*60+p[1];
+  return p[0]||0;
+}
+
+let curSrc = null;
+function loadAudio(src, title, sub) {
+  if (src !== curSrc) {
+    audio.src = src;
+    curSrc = src;
+    audio.load();
+  }
+  npTitle.textContent = title;
+  npSub.textContent = sub;
+}
+
+function playChapter(src, tsStr, title, sub) {
+  loadAudio(src, title, sub);
+  const sec = parseTs(tsStr);
+  const play = () => { audio.currentTime = sec; audio.play(); };
+  if (audio.readyState >= 1) { play(); }
+  else { audio.addEventListener("loadedmetadata", play, {once: true}); }
+  document.querySelectorAll(".chapter").forEach(c => c.classList.remove("active"));
+  if (event && event.currentTarget && event.currentTarget.classList) {
+    event.currentTarget.classList.add("active");
+  }
+}
+
+function togglePlay() {
+  if (!audio.src) return;
+  if (audio.paused) audio.play(); else audio.pause();
+}
+function skip(sec) {
+  if (audio.src) audio.currentTime = Math.max(0, audio.currentTime + sec);
+}
+function seekBar(e) {
+  const bar = document.getElementById("np-bar");
+  const rect = bar.getBoundingClientRect();
+  const p = (e.clientX - rect.left) / rect.width;
+  if (audio.duration) audio.currentTime = audio.duration * p;
+}
+function setSpeed(v) { audio.playbackRate = parseFloat(v); }
+
+audio.addEventListener("timeupdate", () => {
+  npCur.textContent = fmt(audio.currentTime);
+  if (audio.duration) {
+    npFill.style.width = (audio.currentTime/audio.duration*100) + "%";
+  }
+  const t = audio.currentTime;
+  document.querySelectorAll(".tweet-item").forEach(el => {
+    const twt = parseFloat(el.dataset.audioTime);
+    if (isNaN(twt)) return;
+    el.classList.toggle("current", Math.abs(t - twt) < 30);
+  });
+  const chapters = document.querySelectorAll(".chapter[data-audio-time]");
+  const chapterTimes = Array.from(chapters).map(el => ({el, t: parseFloat(el.dataset.audioTime)})).filter(x => !isNaN(x.t));
+  chapterTimes.sort((a,b) => a.t - b.t);
+  let currentIdx = -1;
+  for (let i = 0; i < chapterTimes.length; i++) {
+    if (chapterTimes[i].t <= t) currentIdx = i; else break;
+  }
+  chapters.forEach(el => el.classList.remove("current"));
+  if (currentIdx >= 0) chapterTimes[currentIdx].el.classList.add("current");
+});
+
+audio.addEventListener("loadedmetadata", () => {
+  npDur.textContent = fmt(audio.duration);
+});
+audio.addEventListener("play", () => { npPlay.textContent = "⏸"; });
+audio.addEventListener("pause", () => { npPlay.textContent = "▶"; });
+
+function showPlayer() {
+  document.getElementById("player-bar").classList.add("active");
+  document.body.classList.add("player-active");
+}
+function closePlayer() {
+  audio.pause();
+  document.getElementById("player-bar").classList.remove("active");
+  document.body.classList.remove("player-active");
+}
+audio.addEventListener("loadedmetadata", showPlayer);
+audio.addEventListener("play", showPlayer);
+
+// 検索からの deep-link 対応: ?t=SEC で音源を該当位置から再生
+(function() {
+  const params = new URLSearchParams(location.search);
+  const t = params.get("t");
+  if (!t) return;
+  const startSec = parseInt(t, 10);
+  if (isNaN(startSec)) return;
+  const someClick = document.querySelector("[onclick*=\\"playChapter(\\"]");
+  if (!someClick) return;
+  const m = someClick.getAttribute("onclick").match(/playChapter\\('([^']+)'/);
+  if (!m) return;
+  const src = m[1];
+  loadAudio(src, "検索から再生", "@ " + fmt(startSec));
+  const doPlay = () => { audio.currentTime = startSec; audio.play(); };
+  if (audio.readyState >= 1) doPlay();
+  else audio.addEventListener("loadedmetadata", doPlay, {once: true});
+})();
+</script>
+"""
+
+
+PLAYER_BAR_HTML = """<div class="player" id="player-bar">
   <div class="now-playing">
     <div class="title" id="np-title">未再生</div>
     <div class="sub" id="np-sub">回を選んでね</div>
@@ -558,195 +762,15 @@ LAYOUT = """<!doctype html>
   <button class="player-close" onclick="closePlayer()" title="プレーヤーを閉じる">×</button>
   <audio id="audio-player" preload="none"></audio>
 </div>
+"""
 
-<script>
-const audio = document.getElementById("audio-player");
-const npTitle = document.getElementById("np-title");
-const npSub = document.getElementById("np-sub");
-const npCur = document.getElementById("np-cur");
-const npDur = document.getElementById("np-dur");
-const npFill = document.getElementById("np-fill");
-const npPlay = document.getElementById("np-play");
 
-function fmt(sec) {{
-  if (!isFinite(sec)) return "0:00";
-  const h = Math.floor(sec/3600);
-  const m = Math.floor((sec%3600)/60);
-  const s = Math.floor(sec%60);
-  if (h) return h+":"+String(m).padStart(2,"0")+":"+String(s).padStart(2,"0");
-  return m+":"+String(s).padStart(2,"0");
-}}
-
-function parseTs(ts) {{
-  const p = ts.split(":").map(Number);
-  if (p.length===3) return p[0]*3600+p[1]*60+p[2];
-  if (p.length===2) return p[0]*60+p[1];
-  return p[0]||0;
-}}
-
-let curSrc = null;
-function loadAudio(src, title, sub) {{
-  if (src !== curSrc) {{
-    audio.src = src;
-    curSrc = src;
-    audio.load();
-  }}
-  npTitle.textContent = title;
-  npSub.textContent = sub;
-}}
-
-function playChapter(src, tsStr, title, sub) {{
-  loadAudio(src, title, sub);
-  const sec = parseTs(tsStr);
-  const play = () => {{ audio.currentTime = sec; audio.play(); }};
-  if (audio.readyState >= 1) {{ play(); }}
-  else {{ audio.addEventListener("loadedmetadata", play, {{once: true}}); }}
-  document.querySelectorAll(".chapter").forEach(c => c.classList.remove("active"));
-  if (event && event.currentTarget && event.currentTarget.classList) {{
-    event.currentTarget.classList.add("active");
-  }}
-}}
-
-function togglePlay() {{
-  if (!audio.src) return;
-  if (audio.paused) audio.play(); else audio.pause();
-}}
-function skip(sec) {{
-  if (audio.src) audio.currentTime = Math.max(0, audio.currentTime + sec);
-}}
-function seekBar(e) {{
-  const bar = document.getElementById("np-bar");
-  const rect = bar.getBoundingClientRect();
-  const p = (e.clientX - rect.left) / rect.width;
-  if (audio.duration) audio.currentTime = audio.duration * p;
-}}
-function setSpeed(v) {{ audio.playbackRate = parseFloat(v); }}
-
-audio.addEventListener("timeupdate", () => {{
-  npCur.textContent = fmt(audio.currentTime);
-  if (audio.duration) {{
-    npFill.style.width = (audio.currentTime/audio.duration*100) + "%";
-  }}
-  // 時刻同期: tweet と chapter の両方をハイライト
-  const t = audio.currentTime;
-  document.querySelectorAll(".tweet-item").forEach(el => {{
-    const twt = parseFloat(el.dataset.audioTime);
-    if (isNaN(twt)) return;
-    el.classList.toggle("current", Math.abs(t - twt) < 30);
-  }});
-  // chapter は「startからendの範囲内」ならcurrent
-  const chapters = document.querySelectorAll(".chapter[data-audio-time]");
-  const chapterTimes = Array.from(chapters).map(el => ({{el, t: parseFloat(el.dataset.audioTime)}})).filter(x => !isNaN(x.t));
-  chapterTimes.sort((a,b) => a.t - b.t);
-  let currentIdx = -1;
-  for (let i = 0; i < chapterTimes.length; i++) {{
-    if (chapterTimes[i].t <= t) currentIdx = i; else break;
-  }}
-  chapters.forEach(el => el.classList.remove("current"));
-  if (currentIdx >= 0) chapterTimes[currentIdx].el.classList.add("current");
-}});
-
-// タブ切替
-document.addEventListener("click", (e) => {{
-  const btn = e.target.closest(".tab-btn");
-  if (!btn) return;
-  const container = btn.closest(".tab-container");
-  if (!container) return;
-  container.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
-  container.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
-  btn.classList.add("active");
-  const panel = container.querySelector("#" + btn.dataset.target);
-  if (panel) panel.classList.add("active");
-}});
-
-// data-href 付き要素をクリック可能に (内部の a/button は素通し)
-document.addEventListener("click", (e) => {{
-  const card = e.target.closest("[data-href]");
-  if (!card) return;
-  if (e.target.closest("a, button, [onclick]")) return;
-  location.href = card.dataset.href;
-}});
-
-// 一覧の並び順切替 (data-name / data-count を持つ子要素をソート)
-function sortItems(containerId, mode, opts) {{
-  const container = document.getElementById(containerId);
-  if (!container) return;
-  const items = Array.from(container.children).filter(el => el.dataset && (el.dataset.name || el.dataset.count));
-  items.sort((a, b) => {{
-    if (mode === "count") {{
-      const diff = parseInt(b.dataset.count || 0) - parseInt(a.dataset.count || 0);
-      if (diff !== 0) return diff;
-      return (a.dataset.name || "").localeCompare(b.dataset.name || "", "ja");
-    }} else {{
-      return (a.dataset.name || "").localeCompare(b.dataset.name || "", "ja");
-    }}
-  }});
-  items.forEach(el => container.appendChild(el));
-}}
-audio.addEventListener("loadedmetadata", () => {{
-  npDur.textContent = fmt(audio.duration);
-}});
-audio.addEventListener("play", () => {{ npPlay.textContent = "⏸"; }});
-audio.addEventListener("pause", () => {{ npPlay.textContent = "▶"; }});
-
-// プレーヤーバー表示制御: 音源が読み込まれた時のみ表示
-function showPlayer() {{
-  document.getElementById("player-bar").classList.add("active");
-  document.body.classList.add("player-active");
-}}
-function closePlayer() {{
-  audio.pause();
-  document.getElementById("player-bar").classList.remove("active");
-  document.body.classList.remove("player-active");
-}}
-audio.addEventListener("loadedmetadata", showPlayer);
-audio.addEventListener("play", showPlayer);
-
-// 検索からの deep-link 対応: ?t=SEC で音源を該当位置から再生 + #tl-tw-XXX #tl-ch-XXX にスクロール
-(function() {{
-  const params = new URLSearchParams(location.search);
-  const t = params.get("t");
-  const hash = location.hash;
-
-  // ハッシュがあれば該当要素にスクロール
-  if (hash) {{
-    setTimeout(() => {{
-      const el = document.querySelector(hash);
-      if (!el) return;
-      // タイムラインタブがアクティブでない場合は切り替え
-      const tabContainer = el.closest(".tab-container");
-      if (tabContainer) {{
-        const targetPanel = el.closest(".tab-panel");
-        if (targetPanel) {{
-          tabContainer.querySelectorAll(".tab-btn").forEach(b => b.classList.remove("active"));
-          tabContainer.querySelectorAll(".tab-panel").forEach(p => p.classList.remove("active"));
-          targetPanel.classList.add("active");
-          const targetBtn = tabContainer.querySelector('[data-target="' + targetPanel.id + '"]');
-          if (targetBtn) targetBtn.classList.add("active");
-        }}
-      }}
-      el.scrollIntoView({{behavior: "smooth", block: "center"}});
-      el.classList.add("scroll-target-flash");
-      setTimeout(() => el.classList.remove("scroll-target-flash"), 3000);
-    }}, 100);
-  }}
-
-  if (!t) return;
-  const startSec = parseInt(t, 10);
-  if (isNaN(startSec)) return;
-  const someClick = document.querySelector("[onclick*=\\"playChapter(\\"]");
-  if (!someClick) return;
-  const m = someClick.getAttribute("onclick").match(/playChapter\\('([^']+)'/);
-  if (!m) return;
-  const src = m[1];
-  loadAudio(src, "検索から再生", "@ " + fmt(startSec));
-  const doPlay = () => {{ audio.currentTime = startSec; audio.play(); }};
-  if (audio.readyState >= 1) doPlay();
-  else audio.addEventListener("loadedmetadata", doPlay, {{once: true}});
-}})();
-</script>
-
-</body></html>"""
+PUBLIC_NOTICE_HTML = """<div class="public-notice">
+  🌐 これは公開版アーカイブです。音源再生・実況ツイート本文は
+  出演者との調整完了までクローズドで運用しています。
+  出演者・関係者の方はフル機能版URLを主催者へお問い合わせください。
+</div>
+"""
 
 
 GA_SNIPPET_TEMPLATE = """<script async src="https://www.googletagmanager.com/gtag/js?id={mid}"></script>
@@ -770,6 +794,16 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
     og_image_rel = og_image or "assets/logo.png"
     og_image_abs = f"{SITE_BASE_URL}/{og_image_rel}"
     page_url_abs = f"{SITE_BASE_URL}/{page_path}" if page_path else SITE_BASE_URL + "/"
+    if PUBLIC_MODE:
+        player_bar_html = ""
+        layout_scripts = COMMON_SCRIPTS
+        public_notice = PUBLIC_NOTICE_HTML
+        body_class = "public-mode"
+    else:
+        player_bar_html = PLAYER_BAR_HTML
+        layout_scripts = COMMON_SCRIPTS + AUDIO_SCRIPTS
+        public_notice = ""
+        body_class = ""
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
@@ -789,6 +823,10 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         og_image_abs=html.escape(og_image_abs, quote=True),
         page_url_abs=html.escape(page_url_abs, quote=True),
         body=body,
+        player_bar_html=player_bar_html,
+        layout_scripts=layout_scripts,
+        public_notice=public_notice,
+        body_class=body_class,
     )
 
 
@@ -850,7 +888,7 @@ def render_ep_card(ep, level=0):
         meta_short_parts.append(duration_str)
     if tw_count:
         meta_short_parts.append(f'🐦 {tw_count}')
-    if not ep['recording']:
+    if not ep['recording'] and not PUBLIC_MODE:
         meta_short_parts.append("録音なし")
     meta_short = " · ".join(meta_short_parts)
     # この回の要約 (chapters_data から取得、簡易表示では隠す)
@@ -869,6 +907,9 @@ def render_ep_card(ep, level=0):
     chapter_count = 0
     if ep.get("chapters_data"):
         chapter_count = len(ep["chapters_data"].get("chapters", []))
+    play_btn_html = "" if PUBLIC_MODE else (
+        f'''<button class="ep-play-btn" onclick="loadAudio('{audio_src}','{js_title}','{js_date}');togglePlay();">▶</button>'''
+    )
     return f'''
   <div class="ep-card clickable" data-href="{ep_link}"
        data-year="{ep["date"][:4]}"
@@ -892,7 +933,7 @@ def render_ep_card(ep, level=0):
       {summary_html}
       <div class="ep-tags">{tags_html}</div>
     </div>
-    <button class="ep-play-btn" onclick="loadAudio('{audio_src}','{js_title}','{js_date}');togglePlay();">▶</button>
+    {play_btn_html}
   </div>'''
 
 
@@ -1267,7 +1308,18 @@ def build_episode_detail(ep):
                 for t in ch.get("tags", []) or [])
             js_title = html.escape(f"第{ep['ep']}回: {ch.get('title','')}", quote=True)
             js_sub = html.escape(f"{ep['date']} ({start})", quote=True)
-            chapters_body += f'''
+            if PUBLIC_MODE:
+                chapters_body += f'''
+    <div class="chapter" data-audio-time="{ts_to_sec(start)}">
+      <div class="ts">{start}</div>
+      <div class="body">
+        <h3>{title}</h3>
+        <p>{summary}</p>
+        <div>{tags_line}</div>
+      </div>
+    </div>'''
+            else:
+                chapters_body += f'''
     <div class="chapter" data-audio-time="{ts_to_sec(start)}" onclick="playChapter('{src}','{start}','{js_title}','{js_sub}')">
       <button class="play-btn">▶</button>
       <div class="ts">{start}</div>
@@ -1292,23 +1344,28 @@ def build_episode_detail(ep):
         tweets_count = len(tweets_list)
         audio_start_display = tw_data.get("_audio_start_jst_display", "")
         audio_start_source = tw_data.get("_audio_start_source", "")
-        tweets_body = '<div class="tweets">'
-        for t in tweets_list:
-            tweets_body += render_tweet_card(t, src, ep)
-        tweets_body += '</div>'
-    elif audio_ready:
+        if PUBLIC_MODE:
+            # 公開版ではツイートタブを出さない (件数は上部の X リンクに集約)
+            tweets_body = ""
+        else:
+            tweets_body = '<div class="tweets">'
+            for t in tweets_list:
+                tweets_body += render_tweet_card(t, src, ep)
+            tweets_body += '</div>'
+    elif audio_ready and not PUBLIC_MODE:
         tweets_body = f'''<p class="text-muted"><em>まだ収集されていません。
   <a href="{x_live_search_url(ep["date"]) or "#"}" target="_blank" rel="noopener">#Vizトーク の実況ツイートをXで見る ↗</a></em></p>'''
 
     # 統合タイムライン (chapters + tweets を時系列に混ぜる)
+    # PUBLIC_MODE ではtweet本文は載せないので timeline は chapter のみ
     timeline_body = ""
-    timeline_count = chapters_count + tweets_count
-    if ch_data or (tw_data and tw_data.get("tweets")):
+    timeline_count = chapters_count + (0 if PUBLIC_MODE else tweets_count)
+    if ch_data or (tw_data and tw_data.get("tweets") and not PUBLIC_MODE):
         events = []
         if ch_data:
             for ch in ch_data.get("chapters", []):
                 events.append(("chapter", ts_to_sec(ch.get("start", "0:00:00")), ch))
-        if tw_data and tw_data.get("tweets"):
+        if tw_data and tw_data.get("tweets") and not PUBLIC_MODE:
             for t in tw_data["tweets"]:
                 events.append(("tweet", int(t.get("_audio_offset_sec", 0)), t))
         events.sort(key=lambda e: e[1])
@@ -1323,7 +1380,21 @@ def build_episode_detail(ep):
                     for t in obj.get("tags", []) or [])
                 js_title = html.escape(f"第{ep['ep']}回: {obj.get('title','')}", quote=True)
                 js_sub = html.escape(f"{ep['date']} ({start})", quote=True)
-                timeline_body += f'''
+                if PUBLIC_MODE:
+                    timeline_body += f'''
+    <div class="timeline-chapter chapter" id="tl-ch-{sec}" data-audio-time="{sec}">
+      <div class="timeline-marker">📖</div>
+      <div class="chapter-content">
+        <div class="chapter-header">
+          <div class="ts">{start}</div>
+          <div class="chapter-title-line">CHAPTER · {title}</div>
+        </div>
+        <p>{summary}</p>
+        <div>{tags_line}</div>
+      </div>
+    </div>'''
+                else:
+                    timeline_body += f'''
     <div class="timeline-chapter chapter" id="tl-ch-{sec}" data-audio-time="{sec}" onclick="playChapter('{src}','{start}','{js_title}','{js_sub}')">
       <div class="timeline-marker">📖</div>
       <div class="chapter-content">
@@ -1345,7 +1416,11 @@ def build_episode_detail(ep):
     show_tabs = bool(chapters_body or tweets_body)
     listen_html = ""
     if show_tabs:
-        listen_html = f'''
+        if PUBLIC_MODE:
+            # 公開版: タブなしでチャプターをそのまま出す
+            listen_html = chapters_body
+        else:
+            listen_html = f'''
   <div class="tab-container">
     <div class="tabs" role="tablist">
       <button class="tab-btn active" data-target="tab-timeline">🎬 タイムライン ({timeline_count})</button>
@@ -1359,8 +1434,25 @@ def build_episode_detail(ep):
   </div>'''
 
     audio_status = ""
-    if not audio_ready:
+    if not audio_ready and not PUBLIC_MODE:
         audio_status = '<div class="summary" style="border-left-color:#e00;background:#fff5f5;">⚠ 音源ファイルが見つかりません</div>'
+
+    # 「最初から再生」ボタン (public mode ではXで元スペースを開くリンクに置換)
+    if PUBLIC_MODE:
+        play_from_start_html = ""
+    else:
+        play_from_start_html = f'''<div style="margin:14px 0;" data-pagefind-ignore>
+    <button class="ep-play-btn" style="width:auto;padding:8px 20px;font-size:14px;border-radius:6px;"
+      onclick="playChapter('{src}','0:00:00','{html.escape('第'+str(ep['ep'])+'回 冒頭から', quote=True)}','{html.escape(ep['date'], quote=True)}')">
+      ▶ 最初から再生
+    </button>
+  </div>'''
+
+    # 「録音あり/なし」表示: public版では「録音あり」は誤解を招くので隠す
+    recording_badge = "" if PUBLIC_MODE else f'<span>{"🎧 録音あり" if ep["recording"] else "🚫 録音なし"}</span>'
+
+    # 「聴きながら追う」セクション見出し: public版では音源なしなので変える
+    listen_section_title = "この回の見どころ (チャプター)" if PUBLIC_MODE else "聴きながら追う (再生位置と連動)"
 
     # 全文文字起こし (Pagefindで検索対象になる)
     transcript_html = ""
@@ -1370,6 +1462,20 @@ def build_episode_detail(ep):
         chunks_html = []
         buf = []
         buf_start = None
+
+        def _para_html(_buf_start, _buf_text):
+            para_start = fmt_ts_hms(_buf_start or 0)
+            if PUBLIC_MODE:
+                return (
+                    f'<p class="tr-para"><span class="tr-ts">'
+                    f'{para_start}</span> {html.escape(_buf_text)}</p>'
+                )
+            return (
+                f'<p class="tr-para"><span class="tr-ts" '
+                f'onclick="playChapter(\'{src}\',\'{int(_buf_start or 0)}\',\'第{ep["ep"]}回 全文\',\'{ep["date"]}\');event.stopPropagation();">'
+                f'{para_start}</span> {html.escape(_buf_text)}</p>'
+            )
+
         for seg in segs:
             text = (seg.get("text") or "").strip()
             if not text:
@@ -1378,21 +1484,11 @@ def build_episode_detail(ep):
                 buf_start = seg["start"]
             buf.append(text)
             if len(buf) >= 10:
-                para_start = fmt_ts_hms(buf_start)
-                chunks_html.append(
-                    f'<p class="tr-para"><span class="tr-ts" '
-                    f'onclick="playChapter(\'{src}\',\'{int(buf_start)}\',\'第{ep["ep"]}回 全文\',\'{ep["date"]}\');event.stopPropagation();">'
-                    f'{para_start}</span> {html.escape(" ".join(buf))}</p>'
-                )
+                chunks_html.append(_para_html(buf_start, " ".join(buf)))
                 buf = []
                 buf_start = None
         if buf:
-            para_start = fmt_ts_hms(buf_start or 0)
-            chunks_html.append(
-                f'<p class="tr-para"><span class="tr-ts" '
-                f'onclick="playChapter(\'{src}\',\'{int(buf_start or 0)}\',\'第{ep["ep"]}回 全文\',\'{ep["date"]}\');event.stopPropagation();">'
-                f'{para_start}</span> {html.escape(" ".join(buf))}</p>'
-            )
+            chunks_html.append(_para_html(buf_start, " ".join(buf)))
         transcript_html = f'''
   <details class="transcript-full">
     <summary>📝 全文書き起こし ({len(segs)}セグメント · {sum(len((s.get("text") or "").strip()) for s in segs):,}文字) — クリックで展開</summary>
@@ -1401,15 +1497,39 @@ def build_episode_detail(ep):
     </div>
   </details>'''
 
+    # 上部 Xリンクカード (private/public 両対応)
+    duration_sec_hdr = get_audio_duration_sec(ep.get("audio_filename"))
+    duration_hdr = fmt_duration_short(duration_sec_hdr) or "—"
+    tw_count_hdr = tweets_count if tweets_count else 0
+    ep_url_esc = html.escape(ep["url"] or "#", quote=True)
+    x_search_hdr = x_live_search_url(ep["date"]) or "#"
+    x_links_html = f'''
+  <div class="ep-x-links" data-pagefind-ignore>
+    <a class="ep-x-link ep-x-link-space" href="{ep_url_esc}" target="_blank" rel="noopener">
+      <span class="ep-x-link-icon">𝕏</span>
+      <span class="ep-x-link-body">
+        <span class="ep-x-link-title">元スペースをXで開く</span>
+        <span class="ep-x-link-sub">再生時間 <strong>{html.escape(duration_hdr)}</strong></span>
+      </span>
+      <span class="ep-x-link-arrow">↗</span>
+    </a>
+    <a class="ep-x-link ep-x-link-tweets" href="{x_search_hdr}" target="_blank" rel="noopener">
+      <span class="ep-x-link-icon">🐦</span>
+      <span class="ep-x-link-body">
+        <span class="ep-x-link-title">#Vizトーク の実況ツイートを見る</span>
+        <span class="ep-x-link-sub">この回のポスト <strong>{tw_count_hdr}件</strong></span>
+      </span>
+      <span class="ep-x-link-arrow">↗</span>
+    </a>
+  </div>'''
+
     body = f'''
   <p class="text-muted"><a href="../index.html">Home</a> › <a href="../episodes.html">トーク一覧</a> › 第{ep["ep"]}回</p>
   <main data-pagefind-body>
   <div class="ep-header" data-pagefind-meta="title:第{ep['ep']}回 {html.escape(ep['title'])}, date:{ep['date']}, ep:{ep['ep']}">
     <div class="ep-meta-row" data-pagefind-ignore>
       <span>📅 {ep["date"]}</span>
-      <span>{'🎧 録音あり' if ep["recording"] else '🚫 録音なし'}</span>
-      <span><a href="{html.escape(ep["url"])}" target="_blank" rel="noopener">元スペースをXで開く ↗</a></span>
-      <span><a href="{x_live_search_url(ep["date"]) or "#"}" target="_blank" rel="noopener">#Vizトーク の実況ツイートを見る ↗</a></span>
+      {recording_badge}
     </div>
     <h1>{html.escape(ep["title"])}</h1>
 
@@ -1421,15 +1541,12 @@ def build_episode_detail(ep):
     {summary_html}
   </div>
 
-  <div style="margin:14px 0;" data-pagefind-ignore>
-    <button class="ep-play-btn" style="width:auto;padding:8px 20px;font-size:14px;border-radius:6px;"
-      onclick="playChapter('{src}','0:00:00','{html.escape('第'+str(ep['ep'])+'回 冒頭から', quote=True)}','{html.escape(ep['date'], quote=True)}')">
-      ▶ 最初から再生
-    </button>
-  </div>
+  {x_links_html}
+
+  {play_from_start_html}
 
   {tags_html}
-  <h2 class="section-title">聴きながら追う (再生位置と連動)</h2>
+  <h2 class="section-title">{listen_section_title}</h2>
   {listen_html}
 
   {transcript_html}
@@ -1502,7 +1619,23 @@ def build_tag_detail(tag, chapters_list, tag_episodes):
             f'<a class="tag" href="{slug_tag(t)}.html">{html.escape(t)}</a>'
             for t in ch.get("tags", []) or [] if t != tag
         )
-        body += f'''
+        if PUBLIC_MODE:
+            body += f'''
+    <div class="chapter chapter-in-tag clickable" data-href="{ep_url_at_chapter}">
+      <div class="body">
+        <div class="ep-info-row">
+          <span class="ep-badge"><a href="{ep_url}" onclick="event.stopPropagation();">第{ep["ep"]}回</a></span>
+          <span class="date-badge">{ep["date"]}</span>
+          <span class="ts-badge">@ {start}</span>
+          <a href="{ep_url_at_chapter}" class="to-ep-link" onclick="event.stopPropagation();">回詳細 →</a>
+        </div>
+        <h3>{title}</h3>
+        <p>{summary}</p>
+        <div>{other_tags}</div>
+      </div>
+    </div>'''
+        else:
+            body += f'''
     <div class="chapter chapter-in-tag" onclick="playChapter('{src}','{start}','{js_title}','{js_sub}')">
       <button class="play-btn">▶</button>
       <div class="body">
@@ -1544,9 +1677,10 @@ def build_speakers_list(speakers):
                     f'onclick="event.stopPropagation();">'
                     f'{html.escape(tag)}<span class="count">·{cnt}</span></a>')
             tags_html += '</div>'
+        sp_url = f'speaker/{slug_handle(sp["handle"])}.html'
         body += f'''
-  <div class="ep-card speaker-card" data-name="{html.escape(sp["name"], quote=True)}" data-count="{len(sp["episodes"])}">
-    <a href="speaker/{slug_handle(sp["handle"])}.html" class="avatar-link" title="{html.escape(sp["name"])} の詳細">
+  <div class="ep-card speaker-card clickable" data-href="{sp_url}" data-name="{html.escape(sp["name"], quote=True)}" data-count="{len(sp["episodes"])}">
+    <a href="{sp_url}" class="avatar-link" title="{html.escape(sp["name"])} の詳細">
       {avatar_img(sp["handle"], size=52, css_class="avatar avatar-lg")}
     </a>
     <div>
@@ -1586,6 +1720,9 @@ def build_speaker_detail(sp):
     for ep in sorted(sp["episodes"], key=lambda e: e["date"], reverse=True):
         speakers_names = ", ".join(s["name"] for s in ep["speakers"][:4])
         ep_link = f'../episode/{ep_slug(ep)}.html'
+        play_btn = "" if PUBLIC_MODE else (
+            f'''<button class="ep-play-btn" onclick="loadAudio('{audio_url(ep.get("audio_filename"), level=1)}','{html.escape(ep['title'], quote=True)}','{html.escape(ep['date'], quote=True)}');togglePlay();">▶</button>'''
+        )
         body += f'''
   <div class="ep-card clickable" data-href="{ep_link}">
     <div class="ep-num">{ep["ep"]}<small>回</small></div>
@@ -1593,7 +1730,7 @@ def build_speaker_detail(sp):
       <div class="ep-title"><a href="{ep_link}">{html.escape(ep["title"])}</a></div>
       <div class="ep-meta">{ep["date"]} · {html.escape(speakers_names)}</div>
     </div>
-    <button class="ep-play-btn" onclick="loadAudio('{audio_url(ep.get("audio_filename"), level=1)}','{html.escape(ep['title'], quote=True)}','{html.escape(ep['date'], quote=True)}');togglePlay();">▶</button>
+    {play_btn}
   </div>'''
     return render_layout(title=f'{sp["name"]} · スピーカー · Vizトーク Archive', body=body, level=1)
 
@@ -1738,7 +1875,7 @@ def build_search_index(episodes):
                     "tags": ch.get("tags", []) or [],
                     "url": ep_url,
                 })
-        if ep["tweets_data"]:
+        if ep["tweets_data"] and not PUBLIC_MODE:
             for t in ep["tweets_data"].get("tweets", []):
                 metrics = t.get("metrics") or {}
                 tweets.append({
@@ -1757,6 +1894,7 @@ def build_search_index(episodes):
 
 
 def build_search_page():
+    tweets_tab_btn = "" if PUBLIC_MODE else '<button data-filter="tweets">🐦 ツイート <span class="cnt" id="cnt-tweets">-</span></button>'
     body = '''
   <h1>検索</h1>
   <input id="search-input" type="text" placeholder="キーワードを入力 (例: Dynamic Zone Visibility, 英会話, さかぴー)" autofocus autocomplete="off">
@@ -1764,7 +1902,7 @@ def build_search_page():
   <div class="search-tabs" id="search-tabs">
     <button data-filter="all" class="active">すべて <span class="cnt" id="cnt-all">-</span></button>
     <button data-filter="chapters">📖 チャプター <span class="cnt" id="cnt-chapters">-</span></button>
-    <button data-filter="tweets">🐦 ツイート <span class="cnt" id="cnt-tweets">-</span></button>
+    ''' + tweets_tab_btn + '''
     <button data-filter="episodes">🎙 エピソード <span class="cnt" id="cnt-episodes">-</span></button>
     <button data-filter="fulltext">📝 全文書き起こし <span class="cnt" id="cnt-fulltext">-</span></button>
   </div>
@@ -1941,7 +2079,7 @@ async function search(query) {
   const q = query.trim().toLowerCase();
   if (!q) {
     document.getElementById("results").innerHTML = '<p class="text-muted">キーワードを入力してください</p>';
-    ["all","chapters","tweets","episodes","fulltext"].forEach(k => document.getElementById("cnt-"+k).textContent = "-");
+    ["all","chapters","tweets","episodes","fulltext"].forEach(k => { const el = document.getElementById("cnt-"+k); if (el) el.textContent = "-"; });
     return;
   }
   // メタ検索 (chapters/tweets/episodes)
@@ -1960,11 +2098,12 @@ async function search(query) {
     (ep.speakers||"").toLowerCase().includes(q)
   );
   // 全メタ件数を即時反映
-  document.getElementById("cnt-all").textContent = chMatches.length + twMatches.length + epMatches.length;
-  document.getElementById("cnt-chapters").textContent = chMatches.length;
-  document.getElementById("cnt-tweets").textContent = twMatches.length;
-  document.getElementById("cnt-episodes").textContent = epMatches.length;
-  document.getElementById("cnt-fulltext").textContent = "…";  // 非同期処理中
+  const setCnt = (id, v) => { const el = document.getElementById(id); if (el) el.textContent = v; };
+  setCnt("cnt-all", chMatches.length + twMatches.length + epMatches.length);
+  setCnt("cnt-chapters", chMatches.length);
+  setCnt("cnt-tweets", twMatches.length);
+  setCnt("cnt-episodes", epMatches.length);
+  setCnt("cnt-fulltext", "…");  // 非同期処理中
 
   // メタ表示側は同期で先にrender (アクティブタブがメタなら)
   if (FILTER !== "fulltext") {
@@ -1975,7 +2114,7 @@ async function search(query) {
   // 全文検索は非同期で件数を確定 + アクティブタブが fulltext ならrenderも
   runFullTextSearch(q).then(async (pfResults) => {
     const cnt = pfResults ? pfResults.results.length : 0;
-    document.getElementById("cnt-fulltext").textContent = pfResults ? cnt : "?";
+    setCnt("cnt-fulltext", pfResults ? cnt : "?");
     if (FILTER === "fulltext") {
       const html = await renderFullTextResults(pfResults);
       document.getElementById("results").innerHTML = html;
@@ -2046,11 +2185,13 @@ def main():
 
     # Individual episodes (only those with ep number)
     n_ep = 0
+    written_ep = set()
     for ep in episodes:
         if not ep["ep"]:
             continue
-        path = SITE_DIR / "episode" / f"{ep_slug(ep)}.html"
-        path.write_text(build_episode_detail(ep))
+        fname = f"{ep_slug(ep)}.html"
+        (SITE_DIR / "episode" / fname).write_text(build_episode_detail(ep))
+        written_ep.add(fname)
         n_ep += 1
 
     # Tags list
@@ -2058,9 +2199,11 @@ def main():
 
     # Individual tags
     n_tag = 0
+    written_tag = set()
     for tag, chapters_list in tag_chapters.items():
-        path = SITE_DIR / "tag" / f"{slug_tag(tag)}.html"
-        path.write_text(build_tag_detail(tag, chapters_list, tag_episodes[tag]))
+        fname = f"{slug_tag(tag)}.html"
+        (SITE_DIR / "tag" / fname).write_text(build_tag_detail(tag, chapters_list, tag_episodes[tag]))
+        written_tag.add(fname)
         n_tag += 1
 
     # Speakers list
@@ -2068,16 +2211,29 @@ def main():
 
     # Individual speakers
     n_sp = 0
+    written_sp = set()
     for sp in speaker_stats.values():
-        path = SITE_DIR / "speaker" / f"{slug_handle(sp['handle'])}.html"
-        path.write_text(build_speaker_detail(sp))
+        fname = f"{slug_handle(sp['handle'])}.html"
+        (SITE_DIR / "speaker" / fname).write_text(build_speaker_detail(sp))
+        written_sp.add(fname)
         n_sp += 1
+
+    # 前回ビルドで生成されたが今回は不要になった HTML を削除 (stale削除)
+    n_stale = 0
+    for subdir, keep in [("episode", written_ep), ("tag", written_tag), ("speaker", written_sp)]:
+        d = SITE_DIR / subdir
+        for f in d.glob("*.html"):
+            if f.name not in keep:
+                f.unlink()
+                n_stale += 1
 
     _save_durations_cache()
     print(f"[done] index.html + episodes.html + tags.html + speakers.html")
     print(f"[done] episode pages: {n_ep}")
     print(f"[done] tag pages: {n_tag}")
     print(f"[done] speaker pages: {n_sp}")
+    if n_stale:
+        print(f"[done] stale files removed: {n_stale}")
 
 
 if __name__ == "__main__":
