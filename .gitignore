@@ -52,6 +52,9 @@ mockup/audio
 # ダウンロード関連の一時ファイル
 tweets_old/
 
+# 分析用エクスポート (現在は主催者に個別配布のみ、公開は未定)
+analytics/
+
 # macOS
 .DS_Store
 
