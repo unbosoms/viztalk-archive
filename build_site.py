@@ -806,13 +806,8 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         layout_scripts = COMMON_SCRIPTS + AUDIO_SCRIPTS
         public_notice = ""
         body_class = ""
-        footer_report_link = (
-            '<a href="https://github.com/unbosoms/viztalk-archive/issues" '
-            'target="_blank" rel="noopener">問題報告・削除依頼</a>'
-            ' · <a href="https://github.com/unbosoms/viztalk-archive" '
-            'target="_blank" rel="noopener">ソースコード</a>'
-        )
-        footer_report_sep = " · "
+        footer_report_link = ""
+        footer_report_sep = ""
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
