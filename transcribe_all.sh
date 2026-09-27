@@ -7,7 +7,7 @@ LOG=transcripts/_transcribe.log
 : > "$LOG"
 
 INIT_PROMPT="これはVizトークというXスペースの録音です。TableauやDATA Saber、データ可視化について複数人で日本語で会話します。"
-DL_PID=${DL_PID:-59482}  # 音声DLプロセスのPID (デフォルトは既知PID)
+DL_PID=${DL_PID:-}  # 音声DLプロセスのPID。未指定なら待たずに1パスで終了
 
 transcribe_one() {
     local f="$1"
@@ -52,7 +52,7 @@ while true; do
         transcribe_one "$f" || true
     done
 
-    if kill -0 "$DL_PID" 2>/dev/null; then
+    if [ -n "$DL_PID" ] && kill -0 "$DL_PID" 2>/dev/null; then
         echo "[$(date '+%H:%M:%S')] wait 60s (DL still running, PID=$DL_PID)" | tee -a "$LOG"
         sleep 60
     else

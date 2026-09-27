@@ -68,6 +68,20 @@ transcripts/xxx.clean.chapters.json
 mockup/ (デプロイ物)
 ```
 
+## 新しい回の追加 (週次)
+
+1. `space_list.csv` に行を追加 (Date, スペースURL, 回数, `#Vizトーク 第N回`, `あり`, スピーカー)
+2. `./bin/weekly_pipeline.sh audio` — 音源DL → faststart → 文字起こし → チャプター抽出
+3. 実況ツイートを収集し `python3 bin/merge_tweets.py <収集したJSON>` で `tweets/` に取り込む
+   (ブックマークレット `bin/x-tweet-collector.js` か、Claude in Chrome 用の `bin/x-tweet-collector-claude.js`)
+   - X はタブが表示されていないと検索結果の続きを読み込まないので、表示中のタブで実行する
+4. `./bin/weekly_pipeline.sh finish` — 音源開始時刻の設定 (`bin/set_audio_start.py`) → R2 アップロード → 再ビルド → `bin/check_status.py`
+5. commit / push
+
+実況ツイートと音源の同期には `tweets/*.json` の `audio_start_time_jst` を使う。
+`bin/set_audio_start.py` が yt-dlp のメタデータ `release_timestamp` (スペースの実際の開始時刻) を入れる。
+未設定の回はツイートの集中開始 -10分 で推定する。
+
 ## ライセンス
 
 音源著作権は各出演者に帰属。本アーカイブは主催者陣の許諾を得て運営しています。
