@@ -2,8 +2,8 @@
   "episode": 137,
   "date": "2026-04-16",
   "collected_at": "2026-08-14T09:15:38.459Z",
-  "audio_start_time_jst": null,
-  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
+  "audio_start_time_jst": "2026-04-16T23:05:30+09:00",
+  "audio_start_note": "X スペース 1oKMvRLpRqRGQ の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
   "tweet_count": 21,
   "tweets": [
     {

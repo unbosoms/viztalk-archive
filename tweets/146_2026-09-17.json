@@ -1,0 +1,426 @@
+{
+  "episode": 146,
+  "date": "2026-09-17",
+  "collected_at": "2026-09-27T11:49:54.977Z",
+  "audio_start_time_jst": "2026-09-17T22:37:23+09:00",
+  "audio_start_note": "X スペース 1vJpPNjnwYVJE の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 26,
+  "tweets": [
+    {
+      "id": "2100359015595413738",
+      "url": "https://x.com/yoshi_datavizjp/status/2100359015595413738",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-16T22:59:46.000Z",
+      "text": "きっと今夜開催の #vizトーク では、Dreamforce Tableau Keynoteの話や、それを踏まえて11月のAWTTのVizトーク組のAI x Tableau登壇セッションで何を話そうか公開会議とかをします。きっと。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2100580451610169434",
+      "url": "https://x.com/YusukeNakanish3/status/2100580451610169434",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T13:39:41.000Z",
+      "text": "#Vizトーク 今日も告知できてませんでしたがこの後やります！\n\n\nhttps://\nx.com/i/spaces/1vJpP\nNjnwYVJE?s=20\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2100581230521782748",
+      "url": "https://x.com/YusukeNakanish3/status/2100581230521782748",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T13:42:46.000Z",
+      "text": "#vizトーク \nTableau Keynote: Beyond BI — Welcome to Agentic Analytics",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2100582082741518720",
+      "url": "https://x.com/yoshi_datavizjp/status/2100582082741518720",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T13:46:10.000Z",
+      "text": "#vizトーク Tableau Studioの話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2100583083124957547",
+      "url": "https://x.com/yoshi_datavizjp/status/2100583083124957547",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T13:50:08.000Z",
+      "text": "検索したら何か出てきた（ただし遷移できない）\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2100583840926560526",
+      "url": "https://x.com/TIkeda93820944/status/2100583840926560526",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2026-09-17T13:53:09.000Z",
+      "text": "#Vizトーク\nWillさんがTableau Studioはデスクトップのリデザインですとおっしゃってますね",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2100585071694725186",
+      "url": "https://x.com/YusukeNakanish3/status/2100585071694725186",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T13:58:02.000Z",
+      "text": "#vizトーク\nTableau Studioは、Tableauの習熟度に依らず有用だと思ってます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2100585331821334728",
+      "url": "https://x.com/sfdx_reborn_man/status/2100585331821334728",
+      "author_name": "マインドフルスライム",
+      "author_handle": "sfdx_reborn_man",
+      "posted_at": "2026-09-17T13:59:04.000Z",
+      "text": "#Vizトーク を聞きながら、土曜部屋会のお土産を作成中。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2100588295743029752",
+      "url": "https://x.com/YusukeNakanish3/status/2100588295743029752",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:10:51.000Z",
+      "text": "#vizトーク Tableau StudioのAgentはPublicでも使えるといいなと思います。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2100588856684998774",
+      "url": "https://x.com/hskfwy/status/2100588856684998774",
+      "author_name": "葉っぱの葉(Yoh)",
+      "author_handle": "hskfwy",
+      "posted_at": "2026-09-17T14:13:05.000Z",
+      "text": "Salesforceと違って、Tableauはdev環境の機能制限が多くて、アドオン機能ばっかりだから、もっとdev環境の機能解放してほしい。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2100589155583721975",
+      "url": "https://x.com/yoshi_datavizjp/status/2100589155583721975",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T14:14:16.000Z",
+      "text": "#vizトーク Tableau Studioで個人的に好きなのは、VizもTableauに閉じていないことでした。裾野が広い。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2100589699551436847",
+      "url": "https://x.com/YusukeNakanish3/status/2100589699551436847",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:16:26.000Z",
+      "text": "#vizトーク Tableau Knowledgeについては、シアトルでは製品自体ではなくデータマネジメントどうあるべきか、の議論が多かった記憶。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2100589828815614044",
+      "url": "https://x.com/yoshi_datavizjp/status/2100589828815614044",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T14:16:56.000Z",
+      "text": "#vizトーク Tableau Knowledgeの話。昨日よりも運用方針に関する注目が熱い...",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2100590510390055145",
+      "url": "https://x.com/YusukeNakanish3/status/2100590510390055145",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:19:39.000Z",
+      "text": "#vizトーク\n\nhttps://\nnote.com/konpuku/n/n773\nd171ddf57?sub_rt=share_pw\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2100594179919487248",
+      "url": "https://x.com/YusukeNakanish3/status/2100594179919487248",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:34:14.000Z",
+      "text": "#vizトーク 『納得』は全てに優先するぜッ！！\nの世界。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2100594748155404741",
+      "url": "https://x.com/yoshi_datavizjp/status/2100594748155404741",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T14:36:29.000Z",
+      "text": "セルフサービスに付随して絶対発生するカオスを見せてくれる、そして直してくれる機能が結構好きです\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2100595941653049574",
+      "url": "https://x.com/yoshi_datavizjp/status/2100595941653049574",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T14:41:14.000Z",
+      "text": "https://\ntableau.com/ja-jp/pricing\nTableau Server+ ライセンスとは\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2100598684849496247",
+      "url": "https://x.com/yoshi_datavizjp/status/2100598684849496247",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-09-17T14:52:08.000Z",
+      "text": "#vizトーク \n今動かせて、会社に持って帰れる話をしたいですよねという話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2100598740587606437",
+      "url": "https://x.com/YusukeNakanish3/status/2100598740587606437",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:52:21.000Z",
+      "text": "#Vizトーク\nDreamforce 2026 Tableau関連セッションまとめ｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2100598970510881182",
+      "url": "https://x.com/YusukeNakanish3/status/2100598970510881182",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T14:53:16.000Z",
+      "text": "#Vizトーク \nI'm attending Tableau Tableau Public User Group w/ September Tableau Public TUG: Iron Viz 26 Super TUG on 9 17. #DataFam #TableauUserGroups",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2100600148309295178",
+      "url": "https://x.com/wCantPlayTennis/status/2100600148309295178",
+      "author_name": "杉山 愛（テニスはできない）Ai Sugiyama",
+      "author_handle": "wCantPlayTennis",
+      "posted_at": "2026-09-17T14:57:57.000Z",
+      "text": "めちゃめちゃ久しぶりの #Vizトーク 嬉しい🥹\n最近通知出ないのなんでかな…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2100601197258559682",
+      "url": "https://x.com/YusukeNakanish3/status/2100601197258559682",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T15:02:07.000Z",
+      "text": "#vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2100603448609927220",
+      "url": "https://x.com/YusukeNakanish3/status/2100603448609927220",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-17T15:11:04.000Z",
+      "text": "#vizトーク\nAgentforce World Tour Tokyoの登録はこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2100787024467042678",
+      "url": "https://x.com/YusukeNakanish3/status/2100787024467042678",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-18T03:20:32.000Z",
+      "text": "昨日の #Vizトーク 中に思い浮かんでた本。シルバーウィークに再読しよう。\n\n事実はなぜ人の意見を変えられないのか-説得力と影響力の科学 \nhttps://\namzn.asia/d/00t3if8s #Amazon \n@Amazon\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2100789151008534913",
+      "url": "https://x.com/YusukeNakanish3/status/2100789151008534913",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-18T03:28:59.000Z",
+      "text": "#Vizトーク Salesforce+でTableauとCRM Analyticsのロードマップのセッション見れるようになってますね。\nロードマップといいつつStudioとかのデモも見れます。\n\n\nhttps://\nsalesforce.com/plus/experienc\ne/dreamforce_2026/series/tableau_-_agentic_analytics_at_dreamforce_2026/episode/episode-s1e6\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 5,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2100959364194652478",
+      "url": "https://x.com/YusukeNakanish3/status/2100959364194652478",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-18T14:45:21.000Z",
+      "text": "#Vizトーク この辺もM365利用者としては期待。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 7
+      }
+    }
+  ]
+}

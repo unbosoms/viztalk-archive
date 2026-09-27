@@ -1,10 +1,10 @@
 {
   "episode": 144,
   "date": "2026-08-06",
-  "collected_at": "2026-08-14T02:05:40.352Z",
-  "audio_start_time_jst": null,
-  "audio_start_note": "null の場合は最初のツイート -5分 を仮の音源開始時刻として扱う。",
-  "tweet_count": 22,
+  "collected_at": "2026-09-27T12:36:33.000Z",
+  "audio_start_time_jst": "2026-08-06T23:06:11+09:00",
+  "audio_start_note": "X スペース 1RJZzzaznMgJB の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 23,
   "tweets": [
     {
       "id": "2085357338375143672",
@@ -135,6 +135,22 @@
       }
     },
     {
+      "id": "2085374842686337053",
+      "url": "https://x.com/yoshi_datavizjp/status/2085374842686337053",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-08-06T14:38:01.000Z",
+      "text": "業務ワークフローが起点からアクションまで断絶させたくなく、またそういうAIの使い方って良さそうですよねという話（Agentforceはその点で強そう）\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
       "id": "2085375244123164739",
       "url": "https://x.com/yoshi_datavizjp/status/2085375244123164739",
       "author_name": "Yoshitaka Arakawa",
@@ -243,7 +259,7 @@
       "metrics": {
         "replies": 0,
         "reposts": 1,
-        "likes": 3
+        "likes": 4
       }
     },
     {
@@ -275,7 +291,7 @@
       "metrics": {
         "replies": 0,
         "reposts": 2,
-        "likes": 7
+        "likes": 9
       }
     },
     {
@@ -323,7 +339,7 @@
       "metrics": {
         "replies": 0,
         "reposts": 0,
-        "likes": 4
+        "likes": 5
       }
     },
     {
@@ -339,7 +355,7 @@
       "metrics": {
         "replies": 0,
         "reposts": 3,
-        "likes": 9
+        "likes": 10
       }
     },
     {

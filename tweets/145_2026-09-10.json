@@ -1,0 +1,250 @@
+{
+  "episode": 145,
+  "date": "2026-09-10",
+  "collected_at": "2026-09-27T11:49:54.977Z",
+  "audio_start_time_jst": "2026-09-10T23:06:17+09:00",
+  "audio_start_note": "X スペース 1nxnRBrmqVwxO の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 15,
+  "tweets": [
+    {
+      "id": "2098051402161680688",
+      "url": "https://x.com/_Chasoso/status/2098051402161680688",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-10T14:10:08.000Z",
+      "text": "#Vizトーク\nTableau Ambassadorsが発表されました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 12
+      }
+    },
+    {
+      "id": "2098052290691453437",
+      "url": "https://x.com/YusukeNakanish3/status/2098052290691453437",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:13:40.000Z",
+      "text": "#Vizトーク #TableauAmbassador 認定されたみなさまおめでとうございます！今年も楽しみましょう！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 18
+      }
+    },
+    {
+      "id": "2098053598215291183",
+      "url": "https://x.com/YusukeNakanish3/status/2098053598215291183",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:18:52.000Z",
+      "text": "#Vizトーク 2025-2026の比較。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2098056193206055088",
+      "url": "https://x.com/YusukeNakanish3/status/2098056193206055088",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:29:11.000Z",
+      "text": "#Vizトーク 聖地巡礼してきました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 39
+      }
+    },
+    {
+      "id": "2098058355294212345",
+      "url": "https://x.com/YusukeNakanish3/status/2098058355294212345",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:37:46.000Z",
+      "text": "#Vizトーク 昨日はSigmaのイベント行ってきました。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2098060180210827677",
+      "url": "https://x.com/_Chasoso/status/2098060180210827677",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-10T14:45:01.000Z",
+      "text": "#Vizトーク\nSigma Publicは無料で使える。面白そう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2098062254528930223",
+      "url": "https://x.com/YusukeNakanish3/status/2098062254528930223",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:53:16.000Z",
+      "text": "#Vizトーク 11月のAgentforce World Tour Tokyoの事前登録ページはこちら。\n\nhttps://\nsalesforce.com/jp/events/worl\nd-tour/save-the-date-awtt2026/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 9
+      }
+    },
+    {
+      "id": "2098063111668588935",
+      "url": "https://x.com/YusukeNakanish3/status/2098063111668588935",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:56:40.000Z",
+      "text": "#Vizトーク 去年も書いたので今年もまとめようと思います。\n\nDreamforce 2025 Tableau関連セッションまとめ｜Yusuke Nakanishi \n@YusukeNakanish3",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2098063591987707953",
+      "url": "https://x.com/YusukeNakanish3/status/2098063591987707953",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T14:58:35.000Z",
+      "text": "#Vizトーク DreamforceのTableau関連セッション。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2098065105066053708",
+      "url": "https://x.com/YusukeNakanish3/status/2098065105066053708",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T15:04:35.000Z",
+      "text": "#Vizトーク 私の出題回。重すぎるという声をいただいたので修正します🙇‍♀️",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2098065113345614064",
+      "url": "https://x.com/_Chasoso/status/2098065113345614064",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-10T15:04:37.000Z",
+      "text": "#Vizトーク\nTableau Publicの限界に挑戦",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2098065871562547576",
+      "url": "https://x.com/YusukeNakanish3/status/2098065871562547576",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-10T15:07:38.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2098066189318820033",
+      "url": "https://x.com/_Chasoso/status/2098066189318820033",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-10T15:08:54.000Z",
+      "text": "#Vizトーク\nこちら、ゲスト審査員として参加します！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2098069097233924235",
+      "url": "https://x.com/_Chasoso/status/2098069097233924235",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-10T15:20:27.000Z",
+      "text": "#Vizトーク\n地方ユーザー会巡業はしていきたい所存",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2098376069485384007",
+      "url": "https://x.com/TIkeda93820944/status/2098376069485384007",
+      "author_name": "Tsutomu Ikeda",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2026-09-11T11:40:15.000Z",
+      "text": "#Vizトーク の公開収録風セッション！\nこれは見逃せない\n#AWTT",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    }
+  ]
+}

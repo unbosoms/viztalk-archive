@@ -1,0 +1,554 @@
+{
+  "episode": 147,
+  "date": "2026-09-24",
+  "collected_at": "2026-09-27T11:49:54.977Z",
+  "audio_start_time_jst": "2026-09-24T22:35:40+09:00",
+  "audio_start_note": "X スペース 1RKZzBgyeZQKB の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 34,
+  "tweets": [
+    {
+      "id": "2103114564737102036",
+      "url": "https://x.com/YusukeNakanish3/status/2103114564737102036",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T13:29:20.000Z",
+      "text": "#Vizトーク 今日もやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103117282478297105",
+      "url": "https://x.com/_Chasoso/status/2103117282478297105",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T13:40:08.000Z",
+      "text": "#Vizトーク\nさっきまでこの動画を見てました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2103117664818446495",
+      "url": "https://x.com/YusukeNakanish3/status/2103117664818446495",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T13:41:39.000Z",
+      "text": "#Vizトーク Vibe Code Trusted, Governed AnalyticsでもTableau Studio紹介されてますね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2103118249361818083",
+      "url": "https://x.com/YusukeNakanish3/status/2103118249361818083",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T13:43:59.000Z",
+      "text": "#Vizトーク 先月のシアトルでのイベントの詳細？です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 5,
+        "likes": 11
+      }
+    },
+    {
+      "id": "2103118625230229788",
+      "url": "https://x.com/_Chasoso/status/2103118625230229788",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T13:45:28.000Z",
+      "text": "#Vizトーク\nTableauのTopページも新サービス仕様に\n\nhttps://\ntableau.com",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2103119378455892412",
+      "url": "https://x.com/YusukeNakanish3/status/2103119378455892412",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T13:48:28.000Z",
+      "text": "#Vizトーク Tableau Studio Beta Interestも参加できそう。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103120368898908644",
+      "url": "https://x.com/_Chasoso/status/2103120368898908644",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T13:52:24.000Z",
+      "text": "#Vizトーク\nいつ見てもおかしいTableau Serverの最小要件\n\nhttps://\nhelp.tableau.com/current/server\n/ja-jp/server_hardware_min.htm\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2103120685153612102",
+      "url": "https://x.com/YusukeNakanish3/status/2103120685153612102",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T13:53:40.000Z",
+      "text": "#Vizトーク 対象バージョンがやけに古い。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103121250851889354",
+      "url": "https://x.com/_Chasoso/status/2103121250851889354",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T13:55:54.000Z",
+      "text": "#Vizトーク\nTableauのバージョン間差異はこのVizでチェックできます。便利。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2103122379501359592",
+      "url": "https://x.com/hskfwy/status/2103122379501359592",
+      "author_name": "葉っぱの葉(Yoh)",
+      "author_handle": "hskfwy",
+      "posted_at": "2026-09-24T14:00:24.000Z",
+      "text": "Tableau Cloudコンサル試験もアドオン機能のBridgeやData Managementが出るので、難しかったです。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2103122525727375524",
+      "url": "https://x.com/_Chasoso/status/2103122525727375524",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:00:58.000Z",
+      "text": "#Vizトーク\n今の認定制度はこんな感じ\n\nhttps://\ntableau.com/ja-jp/learn/ce\nrtification\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2103122819068703163",
+      "url": "https://x.com/_Chasoso/status/2103122819068703163",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:02:08.000Z",
+      "text": "#Vizトーク\ntsm maintenanceコマンド",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2103123530930078080",
+      "url": "https://x.com/_Chasoso/status/2103123530930078080",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:04:58.000Z",
+      "text": "#Vizトーク\n下の資格は一度も更新したことがない",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2103124237334843398",
+      "url": "https://x.com/hskfwy/status/2103124237334843398",
+      "author_name": "葉っぱの葉(Yoh)",
+      "author_handle": "hskfwy",
+      "posted_at": "2026-09-24T14:07:46.000Z",
+      "text": "Tableau Cloudコンサル、Tableauアーキテクト、Tableau Nextコンサル試験は英語のみですー\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2103124519665979582",
+      "url": "https://x.com/YusukeNakanish3/status/2103124519665979582",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:08:54.000Z",
+      "text": "#Vizトーク \nせっかくなら全部取りたい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 3,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2103127714358329599",
+      "url": "https://x.com/_Chasoso/status/2103127714358329599",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:21:35.000Z",
+      "text": "#Vizトーク\nツールとして何ができるか、というよりは、データ基盤としてのガバナンス的な側面をどうしていくべきかが気になる",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2103127983787811315",
+      "url": "https://x.com/_Chasoso/status/2103127983787811315",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:22:40.000Z",
+      "text": "#Vizトーク\n日本語でのキャッチアップセミナーが10/7に。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2103128113286885499",
+      "url": "https://x.com/YusukeNakanish3/status/2103128113286885499",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:23:11.000Z",
+      "text": "#Vizトーク \n【Dreamforce速報】「BI is dead」は本当か？AIかBIか、二者択一を越えた先の答えとは〜Tableau最新AIアップデートご紹介",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2103128632948584779",
+      "url": "https://x.com/_Chasoso/status/2103128632948584779",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:25:14.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeの位置づけ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2103129036260282376",
+      "url": "https://x.com/YusukeNakanish3/status/2103129036260282376",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:26:51.000Z",
+      "text": "#Vizトーク この後9/25 1:00～です。 Studioの話も聞けそう。\nI'm attending Tableau Analytics Tableau User Group w/ Beyond the Dashboard: Smarter Design, Faster Performance & Agentic AI on 9월 24. #DataFam #TableauUserGroups",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2103129366318428441",
+      "url": "https://x.com/YusukeNakanish3/status/2103129366318428441",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:28:09.000Z",
+      "text": "#Vizトーク Conversational Analytics のメニューが。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103130223822950618",
+      "url": "https://x.com/_Chasoso/status/2103130223822950618",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:31:34.000Z",
+      "text": "#Vizトーク\n海外TUGのアーカイブ動画は結構この辺にあったりする",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103131291919204467",
+      "url": "https://x.com/_Chasoso/status/2103131291919204467",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:35:48.000Z",
+      "text": "#Vizトーク\nTableau Heart多過ぎ問題",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 10
+      }
+    },
+    {
+      "id": "2103132911239393504",
+      "url": "https://x.com/_Chasoso/status/2103132911239393504",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:42:15.000Z",
+      "text": "#Vizトーク\n最近はMapが多めのWOW",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2103133596072673434",
+      "url": "https://x.com/YusukeNakanish3/status/2103133596072673434",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:44:58.000Z",
+      "text": "#Vizトーク 11/18・19開催のAgentforce World Tour Tokyo の登録はこちら。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2103134229278372211",
+      "url": "https://x.com/YusukeNakanish3/status/2103134229278372211",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:47:29.000Z",
+      "text": "#Vizトーク 2026/09/27(日) 20:00〜21:00開催のDATA Saber - Bridgeもまだ参加者募集中です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2103135760954392681",
+      "url": "https://x.com/_Chasoso/status/2103135760954392681",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:53:34.000Z",
+      "text": "#Vizトーク\nそういえば、AWTTのTopページにボーっとしている私の写真が載せられてました",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 20
+      }
+    },
+    {
+      "id": "2103135929942868148",
+      "url": "https://x.com/YusukeNakanish3/status/2103135929942868148",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:54:14.000Z",
+      "text": "#Vizトーク 週末～来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2103136764743540846",
+      "url": "https://x.com/_Chasoso/status/2103136764743540846",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T14:57:33.000Z",
+      "text": "#Vizトーク\nこちら、来週です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 13
+      }
+    },
+    {
+      "id": "2103137155916915108",
+      "url": "https://x.com/YusukeNakanish3/status/2103137155916915108",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T14:59:07.000Z",
+      "text": "#Vizトーク #JTUG総会 のイベント申込ページもOpenしてます！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 6
+      }
+    },
+    {
+      "id": "2103138152277999906",
+      "url": "https://x.com/_Chasoso/status/2103138152277999906",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T15:03:04.000Z",
+      "text": "#Vizトーク\n来月のTab-CoCoは #VizTS とのコラボ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 4,
+        "likes": 7
+      }
+    },
+    {
+      "id": "2103138896435700106",
+      "url": "https://x.com/YusukeNakanish3/status/2103138896435700106",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T15:06:01.000Z",
+      "text": "#Vizトーク Ironviz、去年はサボってしまいましたが今年は出します。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    },
+    {
+      "id": "2103139863063331322",
+      "url": "https://x.com/_Chasoso/status/2103139863063331322",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-09-24T15:09:52.000Z",
+      "text": "#Vizトーク\nAWTT、しゃべりますよ！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 4,
+        "likes": 17
+      }
+    },
+    {
+      "id": "2103140380405596224",
+      "url": "https://x.com/YusukeNakanish3/status/2103140380405596224",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-09-24T15:11:55.000Z",
+      "text": "#Vizトーク 11/19 17時～でAIテーマでAWTT登壇します。まだ空きありますのでぜひ。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 8
+      }
+    }
+  ]
+}
