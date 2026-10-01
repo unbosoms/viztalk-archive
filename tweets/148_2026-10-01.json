@@ -1,0 +1,442 @@
+{
+  "episode": 148,
+  "date": "2026-10-01",
+  "collected_at": "2026-10-01T21:22:25.276Z",
+  "audio_start_time_jst": "2026-10-01T23:08:28+09:00",
+  "audio_start_note": "X スペース 1PKqrNoRmWlGb の開始時刻 (yt-dlp release_timestamp)。null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 27,
+  "tweets": [
+    {
+      "id": "2105654217826619818",
+      "url": "https://x.com/YusukeNakanish3/status/2105654217826619818",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T13:41:01.000Z",
+      "text": "#Vizトーク 今日は23時からやります！\n今日リリースされたTableau knowledgeを触りながら語る予定です。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2105657638558277833",
+      "url": "https://x.com/_Chasoso/status/2105657638558277833",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T13:54:36.000Z",
+      "text": "この後の #Vizトーク に備えて、Tableau Knowledge環境を準備したぞ😤",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2105661893860040818",
+      "url": "https://x.com/_Chasoso/status/2105661893860040818",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:11:31.000Z",
+      "text": "#Vizトーク\n今年の目標は積読を0にすること。残り53冊。\n\nhttps://\npublic.tableau.com/app/profile/hi\ndeaki.y/viz/Knowledge_is_Power/dashboard\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105662557587653115",
+      "url": "https://x.com/_Chasoso/status/2105662557587653115",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:14:09.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeがリリースされました！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105662811175256337",
+      "url": "https://x.com/YusukeNakanish3/status/2105662811175256337",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:15:10.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeを触ります。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 5
+      }
+    },
+    {
+      "id": "2105663264034345077",
+      "url": "https://x.com/YusukeNakanish3/status/2105663264034345077",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:16:58.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105663300524798431",
+      "url": "https://x.com/_Chasoso/status/2105663300524798431",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:17:06.000Z",
+      "text": "#Vizトーク\n現在、Tableau Knowledgeを使うには、Tableau PlusのライセンスとSalesforce接続が必要。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2105663659842457750",
+      "url": "https://x.com/YusukeNakanish3/status/2105663659842457750",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:18:32.000Z",
+      "text": "#Vizトーク Description編集はまだっぽい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2105664056216649989",
+      "url": "https://x.com/YusukeNakanish3/status/2105664056216649989",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:20:07.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105664324211818674",
+      "url": "https://x.com/_Chasoso/status/2105664324211818674",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:21:10.000Z",
+      "text": "#Vizトーク\n今はAll entitiesしか選べない。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105664384278372658",
+      "url": "https://x.com/YusukeNakanish3/status/2105664384278372658",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:21:25.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105664765133771200",
+      "url": "https://x.com/YusukeNakanish3/status/2105664765133771200",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:22:56.000Z",
+      "text": "#Vizトーク\nBusiness PreferenceはPDFそのまんまはまだダメっぽい。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105666017842327590",
+      "url": "https://x.com/YusukeNakanish3/status/2105666017842327590",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T14:27:54.000Z",
+      "text": "#Vizトーク\n作った計算フィールドはデータソース側に出る。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105666980799979613",
+      "url": "https://x.com/_Chasoso/status/2105666980799979613",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:31:44.000Z",
+      "text": "#Vizトーク\n動画でどうぞ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2105667794994073740",
+      "url": "https://x.com/_Chasoso/status/2105667794994073740",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:34:58.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeのパーミッションの考え方が分からない話",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105668676037075282",
+      "url": "https://x.com/_Chasoso/status/2105668676037075282",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:38:28.000Z",
+      "text": "#Vizトーク\n日本語でも回答してくれます。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2105669777935192072",
+      "url": "https://x.com/_Chasoso/status/2105669777935192072",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:42:51.000Z",
+      "text": "#Vizトーク\nぬるぬる動く。Tableauらしくない動き。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105671103515644410",
+      "url": "https://x.com/_Chasoso/status/2105671103515644410",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:48:07.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeのヘルプ",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105671750294098054",
+      "url": "https://x.com/_Chasoso/status/2105671750294098054",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T14:50:41.000Z",
+      "text": "#Vizトーク\nTableau Knowledgeのライセンスの考え方について",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105676320940417076",
+      "url": "https://x.com/_Chasoso/status/2105676320940417076",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T15:08:51.000Z",
+      "text": "#Vizトーク\nTableau Studioのリリースが楽しみですね。",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105676408995672484",
+      "url": "https://x.com/YusukeNakanish3/status/2105676408995672484",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T15:09:12.000Z",
+      "text": "#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2105678614406811730",
+      "url": "https://x.com/YusukeNakanish3/status/2105678614406811730",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T15:17:57.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105678960097206528",
+      "url": "https://x.com/_Chasoso/status/2105678960097206528",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T15:19:20.000Z",
+      "text": "#Vizトーク\nJTUG総会、受付中です！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2105680451641933936",
+      "url": "https://x.com/_Chasoso/status/2105680451641933936",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T15:25:15.000Z",
+      "text": "#Vizトーク\n今月のドバイもタイトルが変わってる…\n会場の準備が大変そう…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2105680724728992077",
+      "url": "https://x.com/_Chasoso/status/2105680724728992077",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-10-01T15:26:21.000Z",
+      "text": "#Vizトーク\n【定期】AWTT、お待ちしています！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2105680779619758111",
+      "url": "https://x.com/YusukeNakanish3/status/2105680779619758111",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-10-01T15:26:34.000Z",
+      "text": "#Vizトーク AWTTの登壇セッションはこちら。今自分の分キャンセルしたので空きがあります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2105719598427550085",
+      "url": "https://x.com/yoshi_datavizjp/status/2105719598427550085",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-10-01T18:00:49.000Z",
+      "text": "昨日の #Vizトーク でリリース直後のTableau Knowledgeをがっつりさわっている…早い…さすが…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    }
+  ]
+}
