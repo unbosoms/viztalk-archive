@@ -73,8 +73,10 @@ mockup/ (デプロイ物)
 1. `space_list.csv` に行を追加 (Date, スペースURL, 回数, `#Vizトーク 第N回`, `あり`, スピーカー)
 2. `./bin/weekly_pipeline.sh audio` — 音源DL → faststart → 文字起こし → チャプター抽出
 3. 実況ツイートを収集し `python3 bin/merge_tweets.py <収集したJSON>` で `tweets/` に取り込む
-   (ブックマークレット `bin/x-tweet-collector.js` か、Claude in Chrome 用の `bin/x-tweet-collector-claude.js`)
-   - X はタブが表示されていないと検索結果の続きを読み込まないので、表示中のタブで実行する
+   (ブックマークレット `bin/x-tweet-collector.js` か、Claude in Chrome 用のスクリプト)
+   - Claude in Chrome では `bin/x-tweet-page-claude.js` (遡る方式) を使う。検索の 1 ページ目だけを読み、
+     一番古い投稿の時刻を次の `until_time` にして開き直す。タブが非表示 (Chrome を最小化) でも動く
+   - `bin/x-tweet-collector-claude.js` (スクロール方式) は、X が続きを読み込む表示中のタブでのみ使える
 4. `./bin/weekly_pipeline.sh finish` — 音源開始時刻の設定 (`bin/set_audio_start.py`) → R2 アップロード → 再ビルド → `bin/check_status.py`
 5. commit / push
 
