@@ -773,12 +773,29 @@ PUBLIC_NOTICE_HTML = """<div class="public-notice">
 """
 
 
+# 自分のアクセスの除外: ?internal=1 で開いたブラウザに目印を残し、
+# 以後の計測に traffic_type=internal を付ける (GA4 の内部トラフィック フィルタで除外)。
+# ?internal=0 で目印を外す。パラメータは URL から消す (共有しても他人に付かないように)。
 GA_SNIPPET_TEMPLATE = """<script async src="https://www.googletagmanager.com/gtag/js?id={mid}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){{dataLayer.push(arguments);}}
+  var vtInternal = false;
+  try {{
+    var vtUrl = new URL(location.href);
+    var vtQ = vtUrl.searchParams.get('internal');
+    if (vtQ === '1') localStorage.setItem('vt_internal', '1');
+    if (vtQ === '0') localStorage.removeItem('vt_internal');
+    if (vtQ !== null) {{
+      vtUrl.searchParams.delete('internal');
+      history.replaceState(null, '', vtUrl.pathname + vtUrl.search + vtUrl.hash);
+    }}
+    vtInternal = localStorage.getItem('vt_internal') === '1';
+  }} catch (e) {{}}
   gtag('js', new Date());
-  gtag('config', '{mid}', {{ anonymize_ip: true }});
+  gtag('config', '{mid}', vtInternal
+    ? {{ anonymize_ip: true, traffic_type: 'internal' }}
+    : {{ anonymize_ip: true }});
 </script>
 """
 
