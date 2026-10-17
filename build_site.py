@@ -738,6 +738,147 @@ audio.addEventListener("play", showPlayer);
 """
 
 
+# GA4 の独自イベント (GA_MEASUREMENT_ID があるときだけ、他のスクリプトの後ろに入れる)。
+# BigQuery に書き出してダッシュボードで集計する前提なので、パラメータは GA4 側の登録なしで使える。
+#   tag_click / speaker_click : タグ・スピーカーへのリンクのクリック (どのページから来たかは page_location)
+#   search                    : サイト内検索の語 (入力が 1.5 秒止まったら。同じ語は送らない)
+#   search_result_click       : 検索結果のクリック
+#   audio_start               : 再生の開始 (play_source = chapter / start / tweet / deep_link / resume)  ※フル機能版のみ
+#   audio_progress            : 再生位置が 25/50/75/90% を通過 (シークで飛んだ分は数えない)
+#   audio_listen              : 実際に聴いた時間が 1/5/15/30/60 分に到達
+# 外部リンク (X のスペース・ツイート) は GA4 の拡張計測の click イベント (link_url / link_classes) で取れる。
+TRACKING_SCRIPT = """<script>
+(function() {
+  if (typeof gtag !== "function") return;
+
+  function epFromPath() {
+    const m = location.pathname.match(/episode\\/(\\d+)/);
+    return m ? Number(m[1]) : undefined;
+  }
+  function epFromSrc(src) {
+    try {
+      const m = decodeURIComponent(src || "").match(/第(\\d+)回/);
+      return m ? Number(m[1]) : undefined;
+    } catch (e) { return undefined; }
+  }
+  function slugFromHref(href) {
+    const m = href.match(/\\/([^\\/]+)\\.html/);
+    try { return m ? decodeURIComponent(m[1]) : ""; } catch (e) { return m ? m[1] : ""; }
+  }
+
+  // タグ・スピーカー・検索結果のクリック
+  document.addEventListener("click", (e) => {
+    const a = e.target.closest("a[href]");
+    if (!a) return;
+    const href = a.getAttribute("href");
+    if (/(^|\\/)tag\\/[^\\/]+\\.html/.test(href)) {
+      gtag("event", "tag_click", {
+        tag_name: a.textContent.replace(/\\s*\\(\\d+\\)\\s*$/, "").trim(),
+        episode: epFromPath(),
+      });
+    } else if (/(^|\\/)speaker\\/[^\\/]+\\.html/.test(href)) {
+      gtag("event", "speaker_click", {
+        speaker_handle: slugFromHref(href),
+        speaker_name: a.textContent.replace(/\\s*\\(@[^)]*\\)\\s*$/, "").trim(),
+        episode: epFromPath(),
+      });
+    }
+    if (a.closest("#results")) {
+      const input = document.getElementById("search-input");
+      const m = href.match(/episode\\/(\\d+)/);
+      gtag("event", "search_result_click", {
+        search_term: input ? input.value.trim() : "",
+        episode: m ? Number(m[1]) : undefined,
+        link_url: a.href,
+      });
+    }
+  }, true);
+
+  // サイト内検索の語
+  const searchInput = document.getElementById("search-input");
+  if (searchInput) {
+    let timer, lastTerm = "";
+    const send = () => {
+      const term = searchInput.value.trim();
+      if (term.length < 2 || term === lastTerm) return;
+      lastTerm = term;
+      gtag("event", "search", { search_term: term });
+    };
+    searchInput.addEventListener("input", () => { clearTimeout(timer); timer = setTimeout(send, 1500); });
+    setTimeout(send, 1500);  // ?q= 付きで開いた場合
+  }
+
+  // 音源の再生 (フル機能版のみ。プレーヤーがなければ何もしない)
+  const audio = document.getElementById("audio-player");
+  if (!audio) return;
+  let ep, progressSent, listenSent, listened, lastT, pendingSource = "deep_link", pendingChapter = "";
+  function resetFor(src) {
+    ep = epFromSrc(src);
+    progressSent = {}; listenSent = {}; listened = 0; lastT = null;
+  }
+  if (typeof window.playChapter === "function") {
+    const orig = window.playChapter;
+    window.playChapter = function(src, tsStr, title, sub) {
+      title = title || "";
+      pendingSource = /冒頭から/.test(title) ? "start" : /実況tweet/.test(title) ? "tweet" : "chapter";
+      pendingChapter = pendingSource === "chapter" ? title.replace(/^第\\d+回:\\s*/, "") : "";
+      const wasPlaying = !audio.paused && audio.currentSrc && audio.currentSrc === curSrc;
+      const ret = orig.apply(this, arguments);
+      // 同じ回を再生中に別のチャプターを押した場合は play イベントが出ないので、ここで送る
+      if (wasPlaying && audio.src === curSrc) sendStart(parseTsSec(tsStr));
+      return ret;
+    };
+  }
+  function parseTsSec(ts) {
+    const p = String(ts || "0").split(":").map(Number);
+    return p.reduce((acc, v) => acc * 60 + (v || 0), 0);
+  }
+  // play_source: chapter / start / tweet / deep_link (?t= で開いた) / resume (一時停止からの再開)
+  function sendStart(sec) {
+    gtag("event", "audio_start", {
+      episode: ep,
+      play_source: pendingSource,
+      chapter_title: pendingChapter || undefined,
+      start_sec: Math.floor(sec),
+    });
+    pendingSource = "resume"; pendingChapter = "";
+  }
+  let curSrc = null;
+  audio.addEventListener("play", () => {
+    if (audio.currentSrc !== curSrc) { curSrc = audio.currentSrc; resetFor(curSrc); }
+    sendStart(audio.currentTime);
+  });
+  audio.addEventListener("timeupdate", () => {
+    const t = audio.currentTime;
+    if (audio.paused) { lastT = t; return; }
+    if (lastT !== null) {
+      const d = t - lastT;
+      if (d > 0 && d < 3) {  // 3 秒以上の飛びはシークとみなして数えない
+        listened += d;
+        if (audio.duration) {
+          const pct = t / audio.duration * 100;
+          [25, 50, 75, 90].forEach(p => {
+            if (pct >= p && !progressSent[p]) {
+              progressSent[p] = true;
+              gtag("event", "audio_progress", { episode: ep, percent: p });
+            }
+          });
+        }
+        [1, 5, 15, 30, 60].forEach(m => {
+          if (listened >= m * 60 && !listenSent[m]) {
+            listenSent[m] = true;
+            gtag("event", "audio_listen", { episode: ep, minutes: m });
+          }
+        });
+      }
+    }
+    lastT = t;
+  });
+})();
+</script>
+"""
+
+
 PLAYER_BAR_HTML = """<div class="player" id="player-bar">
   <div class="now-playing">
     <div class="title" id="np-title">未再生</div>
@@ -825,6 +966,8 @@ def render_layout(*, title, body, level=0, active_nav="", og_desc=None, og_image
         body_class = ""
         footer_report_link = ""
         footer_report_sep = ""
+    if GA_MEASUREMENT_ID:
+        layout_scripts += TRACKING_SCRIPT
     return LAYOUT.format(
         title=html.escape(title),
         css=prefix + "style.css",
