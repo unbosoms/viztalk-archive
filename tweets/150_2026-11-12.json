@@ -1,0 +1,298 @@
+{
+  "episode": 150,
+  "date": "2026-11-12",
+  "collected_at": "2026-11-12T21:18:58.586Z",
+  "audio_start_time_jst": null,
+  "audio_start_note": "null の場合はツイート集中の開始 -10分 で自動推定。",
+  "tweet_count": 18,
+  "tweets": [
+    {
+      "id": "2120874719310451065",
+      "url": "https://x.com/YusukeNakanish3/status/2120874719310451065",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T13:41:51.000Z",
+      "text": "#Vizトーク 今日は23時からやります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 2,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2120881335787299021",
+      "url": "https://x.com/yoshi_datavizjp/status/2120881335787299021",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:08:09.000Z",
+      "text": "SWTTのVizトークメンバーによるAI x Tableauセッションは満員御礼になりました。\nそして3名全員がフリップ芸のボリュームで臨む感じになりました。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2120881645205213455",
+      "url": "https://x.com/yoshi_datavizjp/status/2120881645205213455",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:09:22.000Z",
+      "text": "Computer UseとかMCPとかで、機能検証はとんでもなく楽になりましたよね\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120884264069890165",
+      "url": "https://x.com/yoshi_datavizjp/status/2120884264069890165",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:19:47.000Z",
+      "text": "https://\nx.com/tableaujapan/s\ntatus/2120298048207151170?a=-9YkamLoekwuSrUKj3g&s=20\n…\n最近Tableau日本公式アカウントからもTableau Knowledgeの動画が出ていました\n\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 4
+      }
+    },
+    {
+      "id": "2120884590114181425",
+      "url": "https://x.com/yoshi_datavizjp/status/2120884590114181425",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:21:05.000Z",
+      "text": "なるほどこの辺りの有効化設定がTableau Knowledgeに必要...\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2120885836325830882",
+      "url": "https://x.com/TIkeda93820944/status/2120885836325830882",
+      "author_name": "Tsutomu Ikeda いけだ",
+      "author_handle": "TIkeda93820944",
+      "posted_at": "2026-11-12T14:26:02.000Z",
+      "text": "#Vizトーク\nSnowflakeはクレジット消費を気にしないといけないのがストレス😫",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2120885897025740945",
+      "url": "https://x.com/YusukeNakanish3/status/2120885897025740945",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:26:16.000Z",
+      "text": "#Vizトーク \n事業活動を AI Ready にする攻めと守りのデータエンジニアリング /  data-engineering-for-ai-ready-business \nhttps://\nspeakerdeck.com/pei0804/data-e\nngineering-for-ai-ready-business\n…\n\n#speakerdeck",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2120887932471112131",
+      "url": "https://x.com/YusukeNakanish3/status/2120887932471112131",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:34:21.000Z",
+      "text": "#Vizトーク Level of detail (LOD) expressions in semantic views (Preview)\n\nhttps://\ndocs.snowflake.com/en/release-not\nes/2026/other/2026-11-02-semantic-views-lod-metrics-preview\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120888352270631370",
+      "url": "https://x.com/YusukeNakanish3/status/2120888352270631370",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:36:02.000Z",
+      "text": "#Vizトーク \n[New Feature] Building and Deploying SQL + Python Pipelines with GUI Using Snowflake's Pipeline Builder \nhttps://\ndev.classmethod.jp/en/articles/sn\nowflake-pipeline-builder-sql-python-task-graph-deploy/\n… #DevelopersIO",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120890180295164412",
+      "url": "https://x.com/YusukeNakanish3/status/2120890180295164412",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:43:17.000Z",
+      "text": "#Vizトーク おすすめの本。\n組織デザイン (日経文庫 F 40) \nhttps://\namzn.asia/d/00Zqv5OY #Amazon \n@Amazon\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2120890644097016217",
+      "url": "https://x.com/yoshi_datavizjp/status/2120890644097016217",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:45:08.000Z",
+      "text": "クローズドなTableau MCP Meetupに参加してきたのですが、そこでも同様に、TableauやTableau MCPだけの話だけでなく、AIや組織のトピック含めた総合力が大事ですよね、みたいな議論をしてました。\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120891142573301819",
+      "url": "https://x.com/YusukeNakanish3/status/2120891142573301819",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:47:07.000Z",
+      "text": "#Vizトーク \n「空気」の研究 (文春文庫 や 9-14) \nhttps://\namzn.asia/d/0cKpWmuC #Amazon \n@Amazon\nより",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120892242395304197",
+      "url": "https://x.com/yoshi_datavizjp/status/2120892242395304197",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T14:51:29.000Z",
+      "text": "Viz作りもClaudeと協業する感じになってきた話（WOW出題者トーク）\n\n自分はこのRepoで協業の仕方を溜めてます\n\nhttps://\ngithub.com/YoshitakaAraka\nwa/wow-challenge-creator\n…\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 3
+      }
+    },
+    {
+      "id": "2120893254300569809",
+      "url": "https://x.com/YusukeNakanish3/status/2120893254300569809",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T14:55:30.000Z",
+      "text": "#Vizトーク ダッシュボードのデザインも楽になりましたね～",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2120894570162733393",
+      "url": "https://x.com/yoshi_datavizjp/status/2120894570162733393",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T15:00:44.000Z",
+      "text": "Tableau Studioの話がリリースノートに乗りました\n\nhttps://\ntableau.com/products/new-f\neatures\n…\n #Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 2
+      }
+    },
+    {
+      "id": "2120894968567120192",
+      "url": "https://x.com/yoshi_datavizjp/status/2120894968567120192",
+      "author_name": "Yoshitaka Arakawa",
+      "author_handle": "yoshi_datavizjp",
+      "posted_at": "2026-11-12T15:02:19.000Z",
+      "text": "手元でワークブックを作ってもらいながら、なぜその計算フィールドが必要で、どう動作しているかを視覚的に説明してもらうこともできます\n#Vizトーク",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 1,
+        "reposts": 0,
+        "likes": 1
+      }
+    },
+    {
+      "id": "2120896830217322735",
+      "url": "https://x.com/YusukeNakanish3/status/2120896830217322735",
+      "author_name": "Yusuke Nakanishi",
+      "author_handle": "YusukeNakanish3",
+      "posted_at": "2026-11-12T15:09:43.000Z",
+      "text": "#Vizトーク 来週のイベントはこちら。\n\nhttps://\njtug.jp/tableau-event-\ninformation/\n…",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": true,
+      "metrics": {
+        "replies": 0,
+        "reposts": 0,
+        "likes": 0
+      }
+    },
+    {
+      "id": "2120897749663334759",
+      "url": "https://x.com/_Chasoso/status/2120897749663334759",
+      "author_name": "Hideaki Yamamoto / Chasoso",
+      "author_handle": "_Chasoso",
+      "posted_at": "2026-11-12T15:13:22.000Z",
+      "text": "#Vizトーク\n#Tableautuneup もよろしくお願いします！しゃべります！",
+      "is_reply": false,
+      "reply_to_handle": null,
+      "has_media": false,
+      "metrics": {
+        "replies": 0,
+        "reposts": 1,
+        "likes": 1
+      }
+    }
+  ]
+}
