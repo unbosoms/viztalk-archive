@@ -8,6 +8,8 @@
 # どの工程も「作成済みはスキップ」なので、途中で止まっても再実行すればよい。
 set -eu
 cd "$(dirname "$0")/.."
+# X スペースの 14 文字 ID に対応した yt-dlp ラッパー (bin/shim/yt-dlp) を優先する
+export PATH="$PWD/bin/shim:$PATH"
 
 step() { echo; echo "===== $* ====="; }
 

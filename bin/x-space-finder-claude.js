@@ -15,7 +15,7 @@ await (async () => {
                     if (key.startsWith("_")) return;
                     return v;
                 });
-                (s || "").replace(/spaces\/(1[A-Za-z0-9]{12})/g, (m, g) => res.add(g));
+                (s || "").replace(/spaces\/(1[A-Za-z0-9]{12,13})(?![A-Za-z0-9])/g, (m, g) => res.add(g));
             } catch (e) {}
             f = f.return; d++;
         }
